@@ -1,46 +1,46 @@
 
 # Table of Contents
 
--   [What're you going to learn today?](#orge71da7c)
--   [Who am I?](#org7df2717)
-    -   [Science](#org4e9304d)
-    -   [Industry](#org640d2e0)
-    -   [Teaching](#org3993553)
-    -   [Pleasure](#org32d83d6)
--   [What are your expectations?](#org5de05f4)
--   [Which topics will we cover?](#org753d7e8)
-    -   [Many-model thinking](#org7829c7d)
-    -   [Decision intelligence](#org2d26973)
-    -   [Process Modeling](#org899e9a3)
-    -   [Linear models](#orgb9e112e)
-        -   [Linear regression in R](#org63dc6bb)
-    -   [Agile management](#orgfca9263)
-    -   [Robotic Process Automation](#org64e564e)
-    -   [Unified Modeling Language](#org83b4d7d)
-    -   [Process mining](#orgef0dbbf)
-    -   [Schedule (see Syllabus)](#org00a8370)
--   [How will we do it?](#org0d0850c)
-    -   [Classroom sessions](#org53b784d)
-    -   [Lecture scripts with exercises (GitHub)](#orgd00e7fd)
-    -   [Reading assignments](#org69230b4)
-    -   [Lab sessions](#orgb2d5d23)
-    -   [Stuff you bring to class](#orgb7dc1a6)
--   [What do you have to do to pass?](#orga6cd09b)
-    -   [Weekly lab practice (> 50%)](#org6cd3a65)
-    -   [Weekly participation (> 50%)](#org236d56b)
-    -   [Final essay (> 50%)](#orgc4bb86b)
-        -   [What constitutes an essay?](#orgf99fe80)
-        -   [Do you have essay examples?](#org064530a)
-        -   [Can I write a scientific essay?](#org05e13d6)
-    -   [Final exam (> 50%)](#org43fb985)
--   [What's next?](#orgffb2a18)
-    -   [In the course](#orgeb0af1c)
-    -   [Your challenges](#orgabe6f0c)
--   [Any questions?](#org0f67568)
+-   [What're you going to learn today?](#org9a3116b)
+-   [Who am I?](#orge7ffb69)
+    -   [Science](#orgb88b87c)
+    -   [Industry](#org041c9e0)
+    -   [Teaching](#org36e848f)
+    -   [Pleasure](#org3b8034f)
+-   [What are your expectations?](#org9e47891)
+-   [Which topics will we cover?](#orgd619c95)
+    -   [Many-model thinking](#orgfe08a72)
+    -   [Decision intelligence](#orgd708ba7)
+    -   [Process Modeling](#orgd7135a0)
+    -   [Linear models](#orgb01df05)
+        -   [Linear regression in R](#org584d337)
+    -   [Agile management](#org47401dd)
+    -   [Robotic Process Automation](#org6a97258)
+    -   [Unified Modeling Language](#orga3d2b98)
+    -   [Process mining](#orgde7e802)
+    -   [Schedule (see Syllabus)](#orgaf9ef6c)
+-   [How will we do it?](#org12823f0)
+    -   [Classroom sessions](#org1db779a)
+    -   [Lecture scripts with exercises (GitHub)](#org64f359b)
+    -   [Reading assignments](#org8efade0)
+    -   [Lab sessions](#org659dd9f)
+    -   [Stuff you bring to class](#orgd321b5a)
+-   [What do you have to do to pass?](#org781b759)
+    -   [Weekly lab practice (> 50%)](#org03f8463)
+    -   [Weekly participation (> 50%)](#orga8a80ad)
+    -   [Final essay (> 50%)](#org65bdd91)
+        -   [What constitutes an essay?](#org6fd02d4)
+        -   [Do you have essay examples?](#orgfedb63b)
+        -   [Can I write a scientific essay?](#org198f152)
+    -   [Final exam (> 50%)](#org20706b1)
+-   [What's next?](#org966225c)
+    -   [In the course](#orgdaa3f63)
+    -   [Your challenges](#orga55080b)
+-   [Any questions?](#org434fbef)
 
 
 
-<a id="orge71da7c"></a>
+<a id="org9a3116b"></a>
 
 # What're you going to learn today?
 
@@ -52,14 +52,14 @@
 -   What's next?
 
 
-<a id="org7df2717"></a>
+<a id="orge7ffb69"></a>
 
 # Who am I?
 
 ![img](./img/marcus.jpg)
 
 
-<a id="org4e9304d"></a>
+<a id="orgb88b87c"></a>
 
 ## Science
 
@@ -73,7 +73,7 @@
 -   Scientific member [d-cube@Berlin](https://www.hwr-berlin.de/en/research/research-centres-and-institutes/)
 
 
-<a id="org640d2e0"></a>
+<a id="org041c9e0"></a>
 
 ## Industry
 
@@ -85,7 +85,7 @@
 -   Startup mentor
 
 
-<a id="org3993553"></a>
+<a id="org36e848f"></a>
 
 ## Teaching
 
@@ -97,7 +97,7 @@
 -   Internship supervision
 
 
-<a id="org32d83d6"></a>
+<a id="org3b8034f"></a>
 
 ## Pleasure
 
@@ -108,7 +108,7 @@
 -   Watching: [The Middle](https://en.wikipedia.org/wiki/The_Middle_(TV_series)) (2009-2018)
 
 
-<a id="org5de05f4"></a>
+<a id="org9e47891"></a>
 
 # [What are your expectations?](https://ideaboardz.com/for/Data%20modeling%20expectations/4047934)
 
@@ -118,14 +118,14 @@
 -   What did you really not like in another course?
 
 
-<a id="org753d7e8"></a>
+<a id="orgd619c95"></a>
 
 # Which topics will we cover?
 
 ![img](./img/lavaflow.gif)
 
 
-<a id="org7829c7d"></a>
+<a id="orgfe08a72"></a>
 
 ## Many-model thinking
 
@@ -134,14 +134,14 @@
 [Expanded edition, Basic Books 2021](https://www.amazon.com/Model-Thinker-What-Need-Know-ebook-dp-B07B8D3V9V/dp/B07B8D3V9V/)
 
 
-<a id="org2d26973"></a>
+<a id="orgd708ba7"></a>
 
 ## Decision intelligence
 
 ![img](./img/decision_intelligence.png)
 
 
-<a id="org899e9a3"></a>
+<a id="orgd7135a0"></a>
 
 ## Process Modeling
 
@@ -150,7 +150,7 @@
 Source: Signavio / 19 May test lecture
 
 
-<a id="orgb9e112e"></a>
+<a id="orgb01df05"></a>
 
 ## Linear models
 
@@ -159,7 +159,7 @@ Source: Signavio / 19 May test lecture
 Source: R plot
 
 
-<a id="org63dc6bb"></a>
+<a id="org584d337"></a>
 
 ### Linear regression in R
 
@@ -170,7 +170,7 @@ Source: R plot
     abline(lm_model)
 
 
-<a id="orgfca9263"></a>
+<a id="org47401dd"></a>
 
 ## Agile management
 
@@ -179,7 +179,7 @@ Source: R plot
 Image: [Scrum](https://www.scrum.org/) burndown chart
 
 
-<a id="org64e564e"></a>
+<a id="org6a97258"></a>
 
 ## Robotic Process Automation
 
@@ -188,7 +188,7 @@ Image: [Scrum](https://www.scrum.org/) burndown chart
 Image: [Signavio Workflow Accelerator](https://www.signavio.com/products/workflow-accelerator/)
 
 
-<a id="org83b4d7d"></a>
+<a id="orga3d2b98"></a>
 
 ## Unified Modeling Language
 
@@ -197,7 +197,7 @@ Image: [Signavio Workflow Accelerator](https://www.signavio.com/products/workflo
 Image: [Learning UML 2.0](https://www.amazon.com/Learning-UML-2-0-Pragmatic-Introduction-ebook-dp-B0028N4WII/dp/B0028N4WII/) (2006)
 
 
-<a id="orgef0dbbf"></a>
+<a id="orgde7e802"></a>
 
 ## Process mining
 
@@ -206,7 +206,7 @@ Image: [Learning UML 2.0](https://www.amazon.com/Learning-UML-2-0-Pragmatic-Intr
 Image: [Celonis](https://www.celonis.com/) dashboard
 
 
-<a id="org00a8370"></a>
+<a id="orgaf9ef6c"></a>
 
 ## Schedule (see [Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md))
 
@@ -215,28 +215,28 @@ Image: [Celonis](https://www.celonis.com/) dashboard
 Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-freshman-seminar-explores-search-meaningful-life)
 
 
-<a id="org0d0850c"></a>
+<a id="org12823f0"></a>
 
 # How will we do it?
 
 ![img](./img/deer.gif)
 
 
-<a id="org53b784d"></a>
+<a id="org1db779a"></a>
 
 ## Classroom sessions
 
 ![img](./img/classroom.png)
 
 
-<a id="orgd00e7fd"></a>
+<a id="org64f359b"></a>
 
 ## Lecture scripts with exercises ([GitHub](https://github.com/birkenkrahe/mod482))
 
 ![img](./img/github.png)
 
 
-<a id="org69230b4"></a>
+<a id="org8efade0"></a>
 
 ## Reading assignments
 
@@ -245,7 +245,7 @@ Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-fr
 -   Image: Unsplash ([@tomhermans](https://unsplash.com/photos/9BoqXzEeQqM))
 
 
-<a id="orgb2d5d23"></a>
+<a id="org659dd9f"></a>
 
 ## Lab sessions
 
@@ -254,7 +254,7 @@ Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-fr
 -   Image: Unsplash ([@Emin Baycan](https://unsplash.com/photos/MD2_srN-02o))
 
 
-<a id="orgb7dc1a6"></a>
+<a id="orgd321b5a"></a>
 
 ## Stuff you bring to class
 
@@ -263,28 +263,28 @@ Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-fr
 -   Image: Unsplash ([@Evan Demicoli](https://unsplash.com/photos/HGCqL-tRcac))
 
 
-<a id="orga6cd09b"></a>
+<a id="org781b759"></a>
 
 # What do you have to do to pass?
 
 ![img](./img/oceanrock.gif)
 
 
-<a id="org6cd3a65"></a>
+<a id="org03f8463"></a>
 
 ## Weekly lab practice (> 50%)
 
 ![img](./img/lab.jpeg)
 
 
-<a id="org236d56b"></a>
+<a id="orga8a80ad"></a>
 
 ## Weekly participation (> 50%)
 
 ![img](./img/seminar.jpg)
 
 
-<a id="orgc4bb86b"></a>
+<a id="org65bdd91"></a>
 
 ## Final essay (> 50%)
 
@@ -293,7 +293,7 @@ Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-fr
 Source: Unsplash ([@Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0))
 
 
-<a id="orgf99fe80"></a>
+<a id="org6fd02d4"></a>
 
 ### What constitutes an essay?
 
@@ -306,7 +306,7 @@ Source: Unsplash ([@Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0))
 -   References
 
 
-<a id="org064530a"></a>
+<a id="orgfedb63b"></a>
 
 ### Do you have essay examples?
 
@@ -315,7 +315,7 @@ Source: Unsplash ([@Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0))
 -   Scientific or industry blogs
 
 
-<a id="org05e13d6"></a>
+<a id="org198f152"></a>
 
 ### Can I write a scientific essay?
 
@@ -324,7 +324,7 @@ Source: Unsplash ([@Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0))
 -   Researchers are beginners
 
 
-<a id="org43fb985"></a>
+<a id="org20706b1"></a>
 
 ## Final exam (> 50%)
 
@@ -333,14 +333,14 @@ Source: Unsplash ([@Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0))
 Final exam: date TBD
 
 
-<a id="orgffb2a18"></a>
+<a id="org966225c"></a>
 
 # What's next?
 
 ![img](./img/river.gif)
 
 
-<a id="orgeb0af1c"></a>
+<a id="orgdaa3f63"></a>
 
 ## In the course
 
@@ -350,7 +350,7 @@ Final exam: date TBD
 -   What is a model anyway?
 
 
-<a id="orgabe6f0c"></a>
+<a id="orga55080b"></a>
 
 ## Your challenges
 
@@ -404,11 +404,11 @@ Final exam: date TBD
 *\*) do this every week until December*
 
 
-<a id="org0f67568"></a>
+<a id="org434fbef"></a>
 
 # Any questions?
 
-![img](./img/stonehenge.gif)
+![img](./img/sip.gif)
 
-[This presentation is available online.](https://github.com/birkenkrahe/dsc101/tree/main/1_overview)
+[This presentation is available online.](https://github.com/birkenkrahe/mod482/tree/main/1_overview)
 
