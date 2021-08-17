@@ -1,0 +1,421 @@
+
+# Table of Contents
+
+-   [What're you going to learn today?](#org7142438)
+-   [Who am I?](#org9072e22)
+    -   [Science](#orgd3c9734)
+    -   [Industry](#org391b109)
+    -   [Teaching](#org7ae49da)
+    -   [Pleasure](#orga44223e)
+-   [What are your expectations?](#org43f2cb5)
+-   [Which topics will we cover?](#org097ec1b)
+    -   [Many-model thinking](#org4984408)
+    -   [Decision intelligence](#org839a2aa)
+    -   [Process Modeling](#org371bcd7)
+    -   [Linear models](#orga9f8a99)
+        -   [Linear regression in R](#orgb7413ef)
+    -   [Agile management](#org7787fa3)
+    -   [Robotic Process Automation](#orga9bb4b8)
+    -   [Unified Modeling Language](#orgc2fd53e)
+    -   [Process mining](#orgaacdf0c)
+    -   [Schedule (see Syllabus)](#org10a6d5e)
+-   [How will we do it?](#org3d6c2ee)
+    -   [Classroom sessions](#orgcfbc3f4)
+    -   [Lecture scripts with exercises (GitHub)](#org82ee368)
+    -   [Reading assignments](#orgd13127e)
+    -   [Lab sessions](#orgb3aae58)
+    -   [Stuff you bring to class](#org98e3ce2)
+-   [What do you have to do to pass?](#org9ab89a7)
+    -   [Weekly lab practice (> 50%)](#orgc87fa60)
+    -   [Weekly participation (> 50%)](#orgf840b90)
+    -   [Final essay (> 50%)](#orge5bb27c)
+        -   [What constitutes an essay?](#org0c57766)
+        -   [Do you have essay examples?](#org4d2de3b)
+        -   [Can I do a project as an absolute beginner?](#orga531f4e)
+    -   [Final exam (> 50%)](#orgd9bad47)
+-   [What's next?](#orgcb30a35)
+    -   [In the course](#orge85d353)
+    -   [Your challenges](#orgc0ade91)
+-   [Any questions?](#orgcd5780a)
+
+
+
+<a id="org7142438"></a>
+
+# What're you going to learn today?
+
+-   Who is your lecturer?
+-   Who are you and what do you want?
+-   Which topics will we cover?
+-   How will we do it?
+-   What do you have to do to pass?
+-   What's next?
+
+
+<a id="org9072e22"></a>
+
+# Who am I?
+
+![img](./img/marcus.jpg)
+
+
+<a id="orgd3c9734"></a>
+
+## Science
+
+![img](./img/feynman.jpg)
+
+-   Development of WWW
+-   PhD theoretical particle physics
+-   60 research publications
+-   Assoc. Ed. Int. J. of Data Science
+-   Ed. Board Int. J. of Big Data Mgmt.
+-   Scientific member [d-cube@Berlin](https://www.hwr-berlin.de/en/research/research-centres-and-institutes/)
+
+
+<a id="org391b109"></a>
+
+## Industry
+
+![img](./img/freud.jpg)
+
+-   Executive at Accenture & Shell
+-   Coach and consultant
+-   Certified psychotherapist
+-   Startup mentor
+
+
+<a id="org7ae49da"></a>
+
+## Teaching
+
+![img](./img/teaching.jpeg)
+
+-   Business informatics [@HWR Berlin](https://www.hwr-berlin.de/en/)
+-   Visiting professor of data science @Lyon
+-   Adviser for [CPU @LA](https://catholicpolytechnic.org/)
+-   Internship supervision
+
+
+<a id="orga44223e"></a>
+
+## Pleasure
+
+![img](./img/valhalla.jpg)
+
+-   Playing: [Assassin's Creed Valhalla](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla) (2020)
+-   Reading: [Waugh, Sword of Honour](https://en.wikipedia.org/wiki/Sword_of_Honour) (1952-1961)
+-   Watching: [The Middle](https://en.wikipedia.org/wiki/The_Middle_(TV_series)) (2009-2018)
+
+
+<a id="org43f2cb5"></a>
+
+# [What are your expectations?](https://ideaboardz.com/for/Data%20modeling%20expectations/4047934)
+
+-   What do you want to learn here?
+-   What would you like to avoid?
+-   What did you take away from another course?
+-   What did you really not like in another course?
+
+
+<a id="org097ec1b"></a>
+
+# Which topics will we cover?
+
+![img](./img/lavaflow.gif)
+
+
+<a id="org4984408"></a>
+
+## Many-model thinking
+
+![img](./img/pagebook.jpg)
+
+[Expanded edition, Basic Books 2021](https://www.amazon.com/Model-Thinker-What-Need-Know-ebook-dp-B07B8D3V9V/dp/B07B8D3V9V/)
+
+
+<a id="org839a2aa"></a>
+
+## Decision intelligence
+
+![img](./img/decision_intelligence.png)
+
+
+<a id="org371bcd7"></a>
+
+## Process Modeling
+
+![img](./img/bpmn.png)
+
+Source: Signavio / 19 May test lecture
+
+
+<a id="orga9f8a99"></a>
+
+## Linear models
+
+![img](./img/linear.png)
+
+Source: R plot
+
+
+<a id="orgb7413ef"></a>
+
+### Linear regression in R
+
+    x <- mtcars$wt
+    y <- mtcars$mpg
+    plot(x,y,xlab="Weight",ylab="Miles per gallon")
+    lm_model <- lm(y~x,data=mtcars)
+    abline(lm_model)
+
+
+<a id="org7787fa3"></a>
+
+## Agile management
+
+![img](./img/burndown.jpg)
+
+Image: [Scrum](https://www.scrum.org/) burndown chart
+
+
+<a id="orga9bb4b8"></a>
+
+## Robotic Process Automation
+
+![img](./img/rpa.png)
+
+Image: [Signavio Workflow Accelerator](https://www.signavio.com/products/workflow-accelerator/)
+
+
+<a id="orgc2fd53e"></a>
+
+## Unified Modeling Language
+
+![img](./img/uml.png)
+
+Image: [Learning UML 2.0](https://www.amazon.com/Learning-UML-2-0-Pragmatic-Introduction-ebook-dp-B0028N4WII/dp/B0028N4WII/) (2006)
+
+
+<a id="orgaacdf0c"></a>
+
+## Process mining
+
+![img](./img/processmining.png)
+
+Image: [Celonis](https://www.celonis.com/) dashboard
+
+
+<a id="org10a6d5e"></a>
+
+## Schedule (see [Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md))
+
+![img](./img/seminar.jpg)
+
+Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-freshman-seminar-explores-search-meaningful-life)
+
+
+<a id="org3d6c2ee"></a>
+
+# How will we do it?
+
+![img](./img/deer.gif)
+
+
+<a id="orgcfbc3f4"></a>
+
+## Classroom sessions
+
+![img](./img/classroom.png)
+
+
+<a id="org82ee368"></a>
+
+## Lecture scripts with exercises ([GitHub](https://github.com/birkenkrahe/mod482))
+
+![img](./img/github.png)
+
+
+<a id="orgd13127e"></a>
+
+## Reading assignments
+
+![img](./img/books.jpeg)
+
+-   Image: Unsplash ([@tomhermans](https://unsplash.com/photos/9BoqXzEeQqM))
+
+
+<a id="orgb3aae58"></a>
+
+## Lab sessions
+
+![img](./img/lab.jpeg)
+
+-   Image: Unsplash ([@Emin Baycan](https://unsplash.com/photos/MD2_srN-02o))
+
+
+<a id="org98e3ce2"></a>
+
+## Stuff you bring to class
+
+![img](./img/scrapyard.jpg)
+
+-   Image: Unsplash ([@Evan Demicoli](https://unsplash.com/photos/HGCqL-tRcac))
+
+
+<a id="org9ab89a7"></a>
+
+# What do you have to do to pass?
+
+![img](./img/oceanrock.gif)
+
+
+<a id="orgc87fa60"></a>
+
+## Weekly lab practice (> 50%)
+
+![img](./img/lab.jpeg)
+
+
+<a id="orgf840b90"></a>
+
+## Weekly participation (> 50%)
+
+![img](./img/seminar.jpg)
+
+
+<a id="orge5bb27c"></a>
+
+## Final essay (> 50%)
+
+![img](./img/essay.jpg)
+
+Source: Unsplash ([@Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0))
+
+
+<a id="org0c57766"></a>
+
+### What constitutes an essay?
+
+-   IMRaD structure ([video](https://youtu.be/dip7UwZ3wUM))
+-   Research question
+-   Literature review
+-   Methodology
+-   Results (e.g. glossary)
+-   Discussion with limitations
+-   References
+
+
+<a id="org4d2de3b"></a>
+
+### Do you have essay examples?
+
+-   Chapters in "Model thinking"
+-   (Parts of) Research papers
+-   Scientific or industry blogs
+
+
+<a id="orga531f4e"></a>
+
+### Can I do a project as an absolute beginner?
+
+-   Keep It Simply Scientific (IMRaD)
+-   Read and take notes (see [FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md))
+-   Researchers are beginners
+
+
+<a id="orgd9bad47"></a>
+
+## Final exam (> 50%)
+
+![img](./img/exam.jpg)
+
+Final exam: date TBD
+
+
+<a id="orgcb30a35"></a>
+
+# What's next?
+
+![img](./img/river.gif)
+
+
+<a id="orge85d353"></a>
+
+## In the course
+
+-   Lecture "Decision support methods"
+-   Lab discussion "many-model thinking"
+-   Data vs. models (2 articles)
+-   What is a model anyway?
+
+Read "The Many-Model Thinker"
+
+-   Write down unknown concepts
+-   
+
+-   Intro to R (Language)
+
+
+<a id="orgc0ade91"></a>
+
+## Your challenges
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">What?</th>
+<th scope="col" class="org-left">When?</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Read "Many-model thinking"</td>
+<td class="org-left">Aug 19</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Complete test challenge</td>
+<td class="org-left">Aug 24</td>
+</tr>
+
+
+<tr>
+<td class="org-left">List possible research questions</td>
+<td class="org-left">Sep 2</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Check FAQs x 2 in GitHub</td>
+<td class="org-left">n.d.</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Ask questions (class/GitHub)</td>
+<td class="org-left">n.d.</td>
+</tr>
+</tbody>
+</table>
+
+*\*) do this every week until December*
+
+
+<a id="orgcd5780a"></a>
+
+# Any questions?
+
+![img](./img/stonehenge.gif)
+
+[This presentation is available online.](https://github.com/birkenkrahe/dsc101/tree/main/1_overview)
+

@@ -1,0 +1,377 @@
+% Created 2021-08-17 Di 11:41
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Marcus Birkenkrahe}
+\date{\today}
+\title{Course overview\\\medskip
+\large Data modeling}
+\hypersetup{
+ pdfauthor={Marcus Birkenkrahe},
+ pdftitle={Course overview},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.2 (Org mode 9.3.7)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\section*{What're you going to learn today?}
+\label{sec:orgf5e8604}
+
+\begin{itemize}
+\item Who is your lecturer?
+\item Who are you and what do you want?
+\item Which topics will we cover?
+\item How will we do it?
+\item What do you have to do to pass?
+\item What's next?
+\end{itemize}
+
+\section*{Who am I?}
+\label{sec:org27b3b23}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/marcus.jpg}
+\end{center}
+
+\subsection*{Science}
+\label{sec:orge604a7c}
+
+\begin{center}
+\includegraphics[width=300px]{./img/feynman.jpg}
+\end{center}
+
+\begin{itemize}
+\item Development of WWW
+\item PhD theoretical particle physics
+\item 60 research publications
+\item Assoc. Ed. Int. J. of Data Science
+\item Ed. Board Int. J. of Big Data Mgmt.
+\item Scientific member \href{https://www.hwr-berlin.de/en/research/research-centres-and-institutes/}{d-cube@Berlin}
+\end{itemize}
+
+\subsection*{Industry}
+\label{sec:orge385081}
+
+\begin{center}
+\includegraphics[width=300px]{./img/freud.jpg}
+\end{center}
+
+\begin{itemize}
+\item Executive at Accenture \& Shell
+\item Coach and consultant
+\item Certified psychotherapist
+\item Startup mentor
+\end{itemize}
+
+\subsection*{Teaching}
+\label{sec:org8301c3e}
+
+\begin{center}
+\includegraphics[width=300px]{./img/teaching.jpeg}
+\end{center}
+
+\begin{itemize}
+\item Business informatics \href{https://www.hwr-berlin.de/en/}{@HWR Berlin}
+\item Visiting professor of data science @Lyon
+\item Adviser for \href{https://catholicpolytechnic.org/}{CPU @LA}
+\item Internship supervision
+\end{itemize}
+
+\subsection*{Pleasure}
+\label{sec:org0946d7a}
+
+\begin{center}
+\includegraphics[width=300px]{./img/valhalla.jpg}
+\end{center}
+
+\begin{itemize}
+\item Playing: \href{https://en.wikipedia.org/wiki/Assassin\%27s\_Creed\_Valhalla}{Assassin's Creed Valhalla} (2020)
+\item Reading: \href{https://en.wikipedia.org/wiki/Sword\_of\_Honour}{Waugh, Sword of Honour} (1952-1961)
+\item Watching: \href{https://en.wikipedia.org/wiki/The\_Middle\_(TV\_series)}{The Middle} (2009-2018)
+\end{itemize}
+
+\section*{\href{https://ideaboardz.com/for/Data\%20modeling\%20expectations/4047934}{What are your expectations?}}
+\label{sec:orge9781b1}
+
+\begin{itemize}
+\item What do you want to learn here?
+\item What would you like to avoid?
+\item What did you take away from another course?
+\item What did you really not like in another course?
+\end{itemize}
+
+\section*{Which topics will we cover?}
+\label{sec:orgb40dd14}
+
+\url{./img/lavaflow.gif}
+
+\subsection*{Many-model thinking}
+\label{sec:org6c6e233}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/pagebook.jpg}
+\end{center}
+
+\href{https://www.amazon.com/Model-Thinker-What-Need-Know-ebook-dp-B07B8D3V9V/dp/B07B8D3V9V/}{Expanded edition, Basic Books 2021}
+
+\subsection*{Decision intelligence}
+\label{sec:orgf302cf2}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/decision_intelligence.png}
+\end{center}
+
+\subsection*{Process Modeling}
+\label{sec:orga0ec101}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/bpmn.png}
+\end{center}
+
+Source: Signavio / 19 May test lecture
+
+\subsection*{Linear models}
+\label{sec:org9fdf31f}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/linear.png}
+\end{center}
+
+Source: R plot
+\subsubsection*{Linear regression in R}
+\label{sec:orgc495b46}
+
+\begin{verbatim}
+x <- mtcars$wt
+y <- mtcars$mpg
+plot(x,y,xlab="Weight",ylab="Miles per gallon")
+lm_model <- lm(y~x,data=mtcars)
+abline(lm_model)
+\end{verbatim}
+
+\subsection*{Agile management}
+\label{sec:orgb4fb2f6}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/burndown.jpg}
+\end{center}
+
+Image: \href{https://www.scrum.org/}{Scrum} burndown chart
+
+\subsection*{Robotic Process Automation}
+\label{sec:orgdbdd204}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/rpa.png}
+\end{center}
+
+Image: \href{https://www.signavio.com/products/workflow-accelerator/}{Signavio Workflow Accelerator}
+
+\subsection*{Unified Modeling Language}
+\label{sec:orgf134d68}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/uml.png}
+\end{center}
+
+Image: \href{https://www.amazon.com/Learning-UML-2-0-Pragmatic-Introduction-ebook-dp-B0028N4WII/dp/B0028N4WII/}{Learning UML 2.0} (2006)
+
+\subsection*{Process mining}
+\label{sec:org86e90e2}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/processmining.png}
+\end{center}
+
+Image: \href{https://www.celonis.com/}{Celonis} dashboard
+
+\subsection*{Schedule (see \href{https://github.com/birkenkrahe/mod482/blob/main/syllabus.md}{Syllabus})}
+\label{sec:orgc31dc42}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/seminar.jpg}
+\end{center}
+
+Image: \href{https://www.princeton.edu/news/2018/12/03/life-unpacked-freshman-seminar-explores-search-meaningful-life}{Princeton U.}
+
+\section*{How will we do it?}
+\label{sec:org468d628}
+
+\url{./img/deer.gif}
+
+\subsection*{Classroom sessions}
+\label{sec:orgdc8c304}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/classroom.png}
+\end{center}
+
+\subsection*{Lecture scripts with exercises (\href{https://github.com/birkenkrahe/mod482}{GitHub})}
+\label{sec:orgcee8de7}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/github.png}
+\end{center}
+
+\subsection*{Reading assignments}
+\label{sec:org264c6c8}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/books.jpeg}
+\end{center}
+
+\begin{itemize}
+\item Image: Unsplash (\href{https://unsplash.com/photos/9BoqXzEeQqM}{@tomhermans})
+\end{itemize}
+
+\subsection*{Lab sessions}
+\label{sec:orgc17d249}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/lab.jpeg}
+\end{center}
+
+\begin{itemize}
+\item Image: Unsplash (\href{https://unsplash.com/photos/MD2\_srN-02o}{@Emin Baycan})
+\end{itemize}
+
+\subsection*{Stuff you bring to class}
+\label{sec:orgc86d79c}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/scrapyard.jpg}
+\end{center}
+
+\begin{itemize}
+\item Image: Unsplash (\href{https://unsplash.com/photos/HGCqL-tRcac}{@Evan Demicoli})
+\end{itemize}
+
+\section*{What do you have to do to pass?}
+\label{sec:orgb976629}
+
+\url{./img/oceanrock.gif}
+
+\subsection*{Weekly lab practice (> 50\%)}
+\label{sec:org641a013}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/lab.jpeg}
+\end{center}
+
+\subsection*{Weekly participation (> 50\%)}
+\label{sec:orgdf8be8c}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/seminar.jpg}
+\end{center}
+
+\subsection*{Final essay (> 50\%)}
+\label{sec:orgdd8b765}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/essay.jpg}
+\end{center}
+
+Source: Unsplash (\href{https://unsplash.com/photos/y02jEX\_B0O0}{@Aaron Burden})
+
+\subsubsection*{What constitutes an essay?}
+\label{sec:org977b7d5}
+
+\begin{itemize}
+\item IMRaD structure (\href{https://youtu.be/dip7UwZ3wUM}{video})
+\item Research question
+\item Literature review
+\item Methodology
+\item Results (e.g. glossary)
+\item Discussion with limitations
+\item References
+\end{itemize}
+
+\subsubsection*{Do you have essay examples?}
+\label{sec:org4514c9b}
+
+\begin{itemize}
+\item Chapters in "Model thinking"
+\item (Parts of) Research papers
+\item Scientific or industry blogs
+\end{itemize}
+
+\subsubsection*{Can I do a project as an absolute beginner?}
+\label{sec:org5ffc659}
+
+\begin{itemize}
+\item Keep It Simply Scientific (IMRaD)
+\item Read and take notes (see \href{https://github.com/birkenkrahe/org/blob/master/FAQ.md}{FAQ})
+\item Researchers are beginners
+\end{itemize}
+
+\subsection*{Final exam (> 50\%)}
+\label{sec:org9ffb899}
+
+\begin{center}
+\includegraphics[width=.9\linewidth]{./img/exam.jpg}
+\end{center}
+
+Final exam: date TBD
+
+\section*{What's next?}
+\label{sec:org70134ba}
+
+\url{./img/river.gif}
+
+\subsection*{In the course}
+\label{sec:orge4586c3}
+
+\begin{itemize}
+\item Lecture "Decision support methods"
+\item Lab discussion "many-model thinking"
+\item Data vs. models (2 articles)
+\item What is a model anyway?
+\end{itemize}
+
+Read "The Many-Model Thinker"
+\begin{itemize}
+\item Write down unknown concepts
+\item 
+
+\item Intro to R (Language)
+\end{itemize}
+
+\subsection*{Your challenges}
+\label{sec:org39907ad}
+
+\begin{center}
+\begin{tabular}{ll}
+What? & When?\\
+\hline
+Read "Many-model thinking" & Aug 19\\
+Complete test challenge & Aug 24\\
+List possible research questions & Sep 2\\
+Check FAQs x 2 in GitHub & n.d.\\
+Ask questions (class/GitHub) & n.d.\\
+\end{tabular}
+\end{center}
+
+\emph{*) do this every week until December}
+
+\section*{Any questions?}
+\label{sec:orgccd7ab2}
+
+\url{./img/stonehenge.gif}
+
+\href{https://github.com/birkenkrahe/dsc101/tree/main/1\_overview}{This presentation is available online.}
+\end{document}
