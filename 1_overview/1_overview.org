@@ -263,7 +263,7 @@
 
 * Any questions?
 
-  #+attr_html: :height 400px
-  [[./img/stonehenge.gif]]
+  #+attr_html: :width 500px
+  [[./img/sip.gif]]
 
-  [[https://github.com/birkenkrahe/dsc101/tree/main/1_overview][This presentation is available online.]]
+  [[https://github.com/birkenkrahe/mod482/tree/main/1_overview][This presentation is available online.]]
