@@ -6,7 +6,7 @@
 -   Meeting place: Derby 239
 -   Professor: Marcus Birkenkrahe
 -   Office: Derby 210
--   Phone: (501) 422-4725
+-   Phone: (870) 307-7254
 -   Office hours: Mon/Wed/Fri 10:00-10:30 AM; Tue/Thu 4-4:30 PM
 -   Text: *Model Thinking: What You Need To Make Data Work For You*,
     by Scott E. Page, Reprint edition, Basic Books (March 16,
