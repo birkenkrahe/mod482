@@ -1,2 +1,19 @@
-# mod482
-Special seminar on data modeling, Lyon College, fall 2021
+
+
+# What's in this repo?
+
+-   Repository for DSC 482.02 - Data modeling.
+-   Emacs Org-mode files are rendered as Markdown.
+
+
+## [Course diary](https://github.com/birkenkrahe/dsc101/blob/main/diary.md)
+
+
+## [Discussion forums](https://github.com/birkenkrahe/mod482/discussions)
+
+
+## [Frequently Asked Questions (FAQ)](https://github.com/birkenkrahe/mod482/blob/main/FAQ.md)
+
+
+## [Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md)
+
