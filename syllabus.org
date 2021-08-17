@@ -49,7 +49,7 @@
 
 ** Grading system
 
-   | When       | Description   | Impact | Graded |
+   | WHEN       | DESCRIPTION   | IMPACT | GRADED |
    |------------+---------------+--------+--------|
    | TBD        | Final exam    |    40% | Yes    |
    | Last week  | Final essay   |    30% | Yes    |
@@ -64,7 +64,7 @@
     rounding up).
 
     |--------+-----------------+---------------|
-    |    *%* | *Midterm Grade* | *Final Grade* |
+    |    %   | MIDTERM GRADE   | FINAL GRADE   |
     |--------+-----------------+---------------|
     | 100-98 | A+              |               |
     |  97-96 | A               | A             |
@@ -116,7 +116,7 @@
 
     At midterms, student X has achieved the following results:
 
-    | *Grade part*         | *Weight* | *Result* |
+    | GRADE PART           | WEIGHT   | RESULT   |
     |----------------------+----------+----------|
     | Weekly practice      |      15% |      80% |
     | Weekly participation |      15% |      90% |
@@ -147,7 +147,7 @@
 
     After the finals, student X has achieved the following results:
 
-    | *Grade part*         | *Weight* | *Result* |
+    | GRADE PART           | WEIGHT   | RESULT   |
     |----------------------+----------+----------|
     | Final exam           |      30% |      95% |
     | Final essay          |      40% |      95% |
@@ -182,6 +182,7 @@
 
     Student X's midterm result is an "A" (~92%~).
 
+    
 * Standard Policies
 ** Honor Code
 
@@ -302,7 +303,7 @@
 
 ** Important Dates:
 
-   | *Date*         | *Description*                              |
+   | DATE           | DESCRIPTION                                |
    |----------------+--------------------------------------------|
    | August 30      | Last day to drop w/o record of a course    |
    | September 6    | Labor day (no classes)                     |
@@ -323,7 +324,7 @@
    * There's not one text book for all class topics
    * Bring articles, models, applications to class for discussion
 
-   | Date   | Lectures/Glossary/Labs              |
+   | DATE   | LECTURES/GLOSSARY/LABS              |
    |--------+-------------------------------------|
    | 17-Aug | Course overview & purpose           |
    | 19-Aug | Many-model thinking (lab)           |
