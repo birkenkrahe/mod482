@@ -17,5 +17,14 @@
 
 ## [Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md)
 
+
+## History
+
+First offered @Lyon: Fall 2021 (Undergrad). Previous versions for
+Master programs (business) at Berlin School of Economics and Law.
+
+
+## Books
+
 ![img](https://github.com/birkenkrahe/ai482/blob/main/1_overview/img/books.jpg)
 
