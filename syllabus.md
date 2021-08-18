@@ -3,7 +3,7 @@
 # General Course Information
 
 -   Meeting Times: Tuesday & Thursday, 14:30-15:45 hrs
--   Meeting place: Derby 239
+-   Meeting place: Derby 209
 -   Professor: Marcus Birkenkrahe
 -   Office: Derby 210
 -   Phone: (870) 307-7254
