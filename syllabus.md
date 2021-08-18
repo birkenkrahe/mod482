@@ -246,103 +246,101 @@ rounding up).
 -   Present a personal model application
 
 
-## Grading examples
+### Grading examples
 
+1.  Example - Midterm grade
 
-### Example - Midterm grade
+    At midterms, student X has achieved the following results:
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-right" />
+    
+    <col  class="org-right" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">GRADE PART</th>
+    <th scope="col" class="org-right">WEIGHT</th>
+    <th scope="col" class="org-right">RESULT</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Weekly practice</td>
+    <td class="org-right">15%</td>
+    <td class="org-right">80%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Weekly participation</td>
+    <td class="org-right">15%</td>
+    <td class="org-right">90%</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    Student X's midterm result is a "B" (`85%`).
 
-At midterms, student X has achieved the following results:
+2.  Example - Final grade
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-right" />
-
-<col  class="org-right" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">GRADE PART</th>
-<th scope="col" class="org-right">WEIGHT</th>
-<th scope="col" class="org-right">RESULT</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Weekly practice</td>
-<td class="org-right">15%</td>
-<td class="org-right">80%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Weekly participation</td>
-<td class="org-right">15%</td>
-<td class="org-right">90%</td>
-</tr>
-</tbody>
-</table>
-
-Student X's midterm result is a "B" (`85%`).
-
-
-### Example - Final grade
-
-After the finals, student X has achieved the following results:
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-right" />
-
-<col  class="org-right" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">GRADE PART</th>
-<th scope="col" class="org-right">WEIGHT</th>
-<th scope="col" class="org-right">RESULT</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Final exam</td>
-<td class="org-right">30%</td>
-<td class="org-right">95%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Final essay</td>
-<td class="org-right">40%</td>
-<td class="org-right">95%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Weekly practice</td>
-<td class="org-right">15%</td>
-<td class="org-right">80%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Weekly participation</td>
-<td class="org-right">15%</td>
-<td class="org-right">90%</td>
-</tr>
-</tbody>
-</table>
-
-Student X's midterm result is an "A" (`92%`).
+    After the finals, student X has achieved the following results:
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-right" />
+    
+    <col  class="org-right" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">GRADE PART</th>
+    <th scope="col" class="org-right">WEIGHT</th>
+    <th scope="col" class="org-right">RESULT</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Final exam</td>
+    <td class="org-right">30%</td>
+    <td class="org-right">95%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Final essay</td>
+    <td class="org-right">40%</td>
+    <td class="org-right">95%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Weekly practice</td>
+    <td class="org-right">15%</td>
+    <td class="org-right">80%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Weekly participation</td>
+    <td class="org-right">15%</td>
+    <td class="org-right">90%</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    Student X's midterm result is an "A" (`92%`).
 
 
 # Standard Policies
