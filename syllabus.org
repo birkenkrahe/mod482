@@ -110,77 +110,77 @@
     * Present a glossary term, OR
     * Present a personal model application
 
-** Grading examples
+*** Grading examples
 
-*** Example - Midterm grade
+**** Example - Midterm grade
 
-    At midterms, student X has achieved the following results:
+     At midterms, student X has achieved the following results:
 
-    | GRADE PART           | WEIGHT   | RESULT   |
-    |----------------------+----------+----------|
-    | Weekly practice      |      15% |      80% |
-    | Weekly participation |      15% |      90% |
+     | GRADE PART           | WEIGHT   | RESULT   |
+     |----------------------+----------+----------|
+     | Weekly practice      |      15% |      80% |
+     | Weekly participation |      15% |      90% |
 
-    # Student X's midterm result is computed as follows:
+     # Student X's midterm result is computed as follows:
 
-    # #+begin_src R :session :results output
-    #   ## midterm weights (only practice and participation)
-    #   weight_m <- c("practice"=0.5,
-    #                 "participation"=0.5)
-    #   ## results vector
-    #   result_m <- c("practice"=80,
-    #                 "participation"=90)
-    #   ## midterm grade
-    #   grade_m <-
-    #     weight_m["practice"] * result_m["practice"] +
-    #     weight_m["participation"] * result_m["participation"]
-    #   names(grade_m) <- NULL
-    #   grade_m
-    # #+end_src
+     # #+begin_src R :session :results output
+     #   ## midterm weights (only practice and participation)
+     #   weight_m <- c("practice"=0.5,
+     #                 "participation"=0.5)
+     #   ## results vector
+     #   result_m <- c("practice"=80,
+     #                 "participation"=90)
+     #   ## midterm grade
+     #   grade_m <-
+     #     weight_m["practice"] * result_m["practice"] +
+     #     weight_m["participation"] * result_m["participation"]
+     #   names(grade_m) <- NULL
+     #   grade_m
+     # #+end_src
 
-    # #+RESULTS:
-    # : [1] 85
+     # #+RESULTS:
+     # : [1] 85
 
-    Student X's midterm result is a "B" (~85%~).
+     Student X's midterm result is a "B" (~85%~).
 
-*** Example - Final grade
+**** Example - Final grade
 
-    After the finals, student X has achieved the following results:
+     After the finals, student X has achieved the following results:
 
-    | GRADE PART           | WEIGHT   | RESULT   |
-    |----------------------+----------+----------|
-    | Final exam           |      30% |      95% |
-    | Final essay          |      40% |      95% |
-    | Weekly practice      |      15% |      80% |
-    | Weekly participation |      15% |      90% |
+     | GRADE PART           | WEIGHT   | RESULT   |
+     |----------------------+----------+----------|
+     | Final exam           |      30% |      95% |
+     | Final essay          |      40% |      95% |
+     | Weekly practice      |      15% |      80% |
+     | Weekly participation |      15% |      90% |
 
-    # Student X's midterm result is computed as follows:
+     # Student X's midterm result is computed as follows:
 
-    # #+begin_src R :session :results output
-    #   ## full term weight vector according to grading table
-    #   weight <- c("exam"= 0.3,
-    #               "essay"=0.4,
-    #               "practice"=0.15,
-    #               "participation"=0.15)
-    #   ## results vector
-    #   result <- c("exam"=95,
-    #               "essay"=95,
-    #               "practice"=80,
-    #               "participation"=90)
-    #   ## midterm grade
-    #   grade <-
-    #     weight["exam"] * result["exam"] +
-    #     weight["essay"] * result["essay"] +
-    #     weight["practice"] * result["practice"] +
-    #     weight["participation"] * result["participation"]
-    #   names(grade) <- NULL
-    #   grade
-    # #+end_src
+     # #+begin_src R :session :results output
+     #   ## full term weight vector according to grading table
+     #   weight <- c("exam"= 0.3,
+     #               "essay"=0.4,
+     #               "practice"=0.15,
+     #               "participation"=0.15)
+     #   ## results vector
+     #   result <- c("exam"=95,
+     #               "essay"=95,
+     #               "practice"=80,
+     #               "participation"=90)
+     #   ## midterm grade
+     #   grade <-
+     #     weight["exam"] * result["exam"] +
+     #     weight["essay"] * result["essay"] +
+     #     weight["practice"] * result["practice"] +
+     #     weight["participation"] * result["participation"]
+     #   names(grade) <- NULL
+     #   grade
+     # #+end_src
 
-    # #+RESULTS:
-    # : [1] 92
+     # #+RESULTS:
+     # : [1] 92
 
-    Student X's midterm result is an "A" (~92%~).
+     Student X's midterm result is an "A" (~92%~).
 
   
 * Standard Policies
