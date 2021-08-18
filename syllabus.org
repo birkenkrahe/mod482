@@ -49,12 +49,12 @@
 
 ** Grading system
 
-   | WHEN       | DESCRIPTION   | IMPACT | GRADED |
-   |------------+---------------+--------+--------|
-   | TBD        | Final exam    |    40% | Yes    |
-   | Last week  | Final essay   |    30% | Yes    |
-   | Weekly lab | Practice      |    15% | No     |
-   | Weekly lab | Participation |    15% | No     |
+   | WHEN       | DESCRIPTION   | IMPACT |
+   |------------+---------------+--------+
+   | TBD        | Final exam    |    40% |
+   | Last week  | Final essay   |    30% |
+   | Weekly lab | Practice      |    15% |
+   | Weekly lab | Participation |    15% |
 
 *** Grading table
 
