@@ -182,7 +182,7 @@
 
      Student X's midterm result is an "A" (~92%~).
 
-  
+     
 * Standard Policies
 ** Honor Code
 
