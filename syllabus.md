@@ -228,7 +228,8 @@ rounding up).
 -   Review a book based on a model or method, OR
 -   Review an research article based on a model or method, OR
 -   Apply model(s) or method(s) to an area of your knowledge
--   Essay length: 15-20 pages (5,000-8,000 words)
+-   Essay length: 5-10 pages (2,500 - 5,000 words) not counting
+    references.
 
 
 ### Weekly practice (15%)
@@ -566,11 +567,14 @@ scheduled time, and we can make arrangements when you return.
 <col  class="org-left" />
 
 <col  class="org-left" />
+
+<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
 <th scope="col" class="org-left">DATE</th>
 <th scope="col" class="org-left">LECTURES/GLOSSARY/LABS</th>
+<th scope="col" class="org-left">PROJECT</th>
 </tr>
 </thead>
 
@@ -578,180 +582,210 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">17-Aug</td>
 <td class="org-left">Course overview & purpose</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">19-Aug</td>
 <td class="org-left">Many-model thinking (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">24-Aug</td>
 <td class="org-left">Why model?</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">26-Aug</td>
 <td class="org-left">Why model? (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">31-Aug</td>
 <td class="org-left">Many-model science</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">2-Sep</td>
 <td class="org-left">Many-model science (lab)</td>
+<td class="org-left">1st sprint review</td>
 </tr>
 
 
 <tr>
 <td class="org-left">7-Sep</td>
 <td class="org-left">Modeling human actors</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">9-Sep</td>
 <td class="org-left">Modeling human actors (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">14-Sep</td>
 <td class="org-left">Process management & EPCs</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">16-Sep</td>
 <td class="org-left">Process management & EPCs (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">21-Sep</td>
 <td class="org-left">Business Process Model and Notation</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">23-Sep</td>
 <td class="org-left">BPMN (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">28-Sep</td>
 <td class="org-left">Performance management & Analytics</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">30-Sep</td>
 <td class="org-left">PM & Analytics (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">7-Oct</td>
 <td class="org-left">Distribution models (lab)</td>
+<td class="org-left">2nd sprint review</td>
 </tr>
 
 
 <tr>
 <td class="org-left">12-Oct</td>
 <td class="org-left">Linear models</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">14-Oct</td>
 <td class="org-left">Linear models (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">19-Oct</td>
 <td class="org-left">Agile management</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">21-Oct</td>
 <td class="org-left">Agile management (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">26-Oct</td>
 <td class="org-left">Models of value and power</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">28-Oct</td>
 <td class="org-left">Models of value and power (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">2-Nov</td>
 <td class="org-left">Unified Modeling Language (UML)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">4-Nov</td>
 <td class="org-left">UML (lab)</td>
+<td class="org-left">3rd sprint review</td>
 </tr>
 
 
 <tr>
 <td class="org-left">9-Nov</td>
 <td class="org-left">Robotic process automation (RPA)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">11-Nov</td>
 <td class="org-left">RPA (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">16-Nov</td>
 <td class="org-left">Non-linear models</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">18-Nov</td>
 <td class="org-left">Non-linear models (lab)</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">23-Nov</td>
 <td class="org-left">Process mining</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">30-Nov</td>
 <td class="org-left">COVID-19 models</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">2-Dec</td>
 <td class="org-left">Summary and outlook</td>
+<td class="org-left">4th sprint review</td>
 </tr>
 </tbody>
 </table>
