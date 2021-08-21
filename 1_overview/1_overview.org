@@ -254,7 +254,7 @@
    | What?                            | When?  |
    |----------------------------------+--------|
    | Read "Many-model thinking"       | Aug 24 |
-   | Complete test challenge*         | Aug 24 |
+   | Complete test challenge          | Aug 24 |
    | List possible research questions | Sep 2  |
    | Check FAQs x 2 in GitHub         | n.d.   |
    | Ask questions (class/GitHub)     | n.d.   |
