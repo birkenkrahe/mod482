@@ -77,17 +77,17 @@
   #+attr_html: :height 500px
   [[./img/lavaflow.gif]]
 
+** Decision intelligence
+
+   #+attr_html: :width 600px
+   [[./img/decision_intelligence.png]]
+
 ** Many-model thinking
 
    #+attr_html: :height 400px
    [[./img/pagebook.jpg]]
 
    [[https://www.amazon.com/Model-Thinker-What-Need-Know-ebook-dp-B07B8D3V9V/dp/B07B8D3V9V/][Expanded edition, Basic Books 2021]]
-
-** Decision intelligence
-
-   #+attr_html: :width 600px
-   [[./img/decision_intelligence.png]]
 
 ** Process Modeling
 
@@ -246,21 +246,22 @@
 
    * Lecture "Decision intelligence"
    * Lab discussion "many-model thinking"
-   * Data vs. models (2 articles)
+   * Data vs. models (2 optional articles)
    * What is a model anyway?
 
 ** Your challenges
 
    | What?                            | When?  |
    |----------------------------------+--------|
-   | Read "Many-model thinking"       | Aug 19 |
-   | Complete test challenge          | Aug 24 |
+   | Read "Many-model thinking"       | Aug 24 |
+   | Complete test challenge*         | Aug 24 |
    | List possible research questions | Sep 2  |
    | Check FAQs x 2 in GitHub         | n.d.   |
    | Ask questions (class/GitHub)     | n.d.   |
 
    /*) do this every week until December/
 
+   
 * Any questions?
 
   #+attr_html: :width 500px
