@@ -1,6 +1,12 @@
+#+TITLE:Agenda
+#+AUTHOR:Marcus Birkenkrahe
+#+SUBTITLE: Data modeling seminar 482.02
+#+reveal_theme: black
+#+reveal_init_options: transition:'cube'
+#+OPTIONS: toc:1 num:nil fig:nil
 * Week 2 - 24 August
 
-  #+attr_html: :height 400px
+  #+attr_html: :height 300px
   [[./img/keaton.gif]]
 
   * Housekeeping
@@ -16,3 +22,23 @@
    * FAQ: ask questions! ([[https://github.com/birkenkrahe/mod482/blob/main/FAQ.md][GitHub]])
    * Term Diary ([[https://github.com/birkenkrahe/org/blob/master/diary.md#org3b0dc9e][GitHub]])
    * Questions?
+* Week 2 - 26 August
+
+  #+attr_html: :height 300px
+  [[./img/keaton.gif]]
+
+  * Housekeeping
+  * Recap: complex systems
+  * Next: "Many-model thinking"
+  * Decision intelligence tools
+
+** Housekeeping
+
+   * Video recording ([[https://meet.google.com/ccb-ihqm-akb][Google meet]])
+   * Essay ideas ([[https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#essay-ideas][GitHub]])
+   * Questions?
+
+** Recap
+
+   * What do you remember?
+   * "Strategic flexibility" ([[https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure][GitHub]])
