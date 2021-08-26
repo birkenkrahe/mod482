@@ -1,30 +1,30 @@
 
 # Table of Contents
 
-1.  [Week 2 - 24 August](#org3d42678)
-    1.  [Housekeeping](#org9d743e4)
+1.  [Week 2 - 24 August](#org009882a)
+    1.  [Housekeeping](#org5709f51)
 
 
-<a id="org3d42678"></a>
+<a id="org009882a"></a>
 
 # Week 2 - 24 August
 
-![img](./img/keaton.gif)
+![img](./img/bean.gif)
 
 -   Housekeeping
--   "Many-model thinking"
--   Why Model? - "REDCAPE"
--   Next week: essay topics!
+-   Data science overview
+-   Getting started with R
+-   Next week: projects!
 
 
-<a id="org9d743e4"></a>
+<a id="org5709f51"></a>
 
 ## Housekeeping
 
--   First weekly test ([Schoology](https://lyon.schoology.com/assignment/5227019586/assessment_questions))
--   Reading assignment (["The Model Thinker"](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/B08WHN4M7S))
--   Delayed Schedule ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#schedule-and-session-content))
--   FAQ: ask questions! ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/FAQ.md))
+-   First weekly test ([Schoology](https://lyon.schoology.com/assignment/5226632989/assessment_questions))
+-   Weekly assignment ([DataCamp](https://learn.datacamp.com/courses/free-introduction-to-r))
+-   Delayed Schedule ([GitHub](https://github.com/birkenkrahe/dsc101/blob/main/syllabus.md#schedule-and-session-content))
+-   FAQ: text books ([GitHub](https://github.com/birkenkrahe/dsc101/blob/main/FAQ.md#org052193d))
 -   Term Diary ([GitHub](https://github.com/birkenkrahe/org/blob/master/diary.md#org3b0dc9e))
 -   Questions?
 
