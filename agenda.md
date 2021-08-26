@@ -1,13 +1,13 @@
 
 # Table of Contents
 
-1.  [Agenda - Week 2 - 24 August](#org662f571)
-    1.  [Housekeeping](#orge75980b)
+1.  [Week 2 - 24 August](#org3d42678)
+    1.  [Housekeeping](#org9d743e4)
 
 
-<a id="org662f571"></a>
+<a id="org3d42678"></a>
 
-# Agenda - Week 2 - 24 August
+# Week 2 - 24 August
 
 ![img](./img/keaton.gif)
 
@@ -17,7 +17,7 @@
 -   Next week: essay topics!
 
 
-<a id="orge75980b"></a>
+<a id="org9d743e4"></a>
 
 ## Housekeeping
 
