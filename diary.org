@@ -1,0 +1,12 @@
+#+TITLE:DSC 482.2 Data Modeling Diary
+#+AUTHOR: Marcus Birkenkrahe
+#+SUBTITLE: MOD482 Diary
+#+STARTUP: hideblocks
+#+options: ^:nil toc:1
+* What is this?
+
+  A place for irregular articles of possible interest to students of
+  the DSC 482.02 "Data modeling" course, mostly to avoid lengthy
+  emails and to park content that I may want to develop later on time
+  permitting.
+
