@@ -1,25 +1,25 @@
 
 # Table of Contents
 
--   [What're you going to learn today?](#org315034c)
--   [Definition](#orgbf1d5e9)
--   [Motivation](#org1136506)
--   [Dörner's definition](#orgc576223)
--   [Types of models](#org9bc5ec1)
--   [Exercise 1](#org777b54f)
--   [Many-model thinking](#org6097b29)
--   [Criteria for many-model thinking](#orgc4d3d68)
--   [Exercise 2](#orgb170b99)
--   [What's next?](#orgc54a962)
-    -   [In the course](#orgcf9fde1)
-    -   [Your challenges](#orgab2f834)
--   [Any questions?](#orgcf58f88)
+-   [What're you going to learn?](#orgb08292c)
+-   [Definition](#org76eda71)
+-   [Motivation](#org7629b78)
+    -   [Dörner's definition](#orgfd73062)
+    -   [Exercise](#orgeec85fa)
+-   [Types of models](#org1c1b404)
+-   [Many-model thinking](#org70085c2)
+    -   [Criteria for many-model thinking](#org4a8d871)
+    -   [Exercise: decision-making](#orgecbf27b)
+-   [What's next?](#orgd7f1c87)
+    -   [In the course](#orgdd50eef)
+    -   [Your challenges](#org193762d)
+-   [Any questions?](#org58e7ae8)
 
 
 
-<a id="org315034c"></a>
+<a id="orgb08292c"></a>
 
-# What're you going to learn today?
+# What're you going to learn?
 
 -   What are models?
 -   When should we model?
@@ -28,7 +28,7 @@
 -   What's next?
 
 
-<a id="orgbf1d5e9"></a>
+<a id="org76eda71"></a>
 
 # Definition
 
@@ -36,7 +36,7 @@
 > that help us understand the world."
 
 
-<a id="org1136506"></a>
+<a id="org7629b78"></a>
 
 # Motivation
 
@@ -46,9 +46,9 @@
 What are "complex phenomena?"
 
 
-<a id="orgc576223"></a>
+<a id="orgfd73062"></a>
 
-# Dörner's definition
+## Dörner's definition
 
 ![img](./img/dorner.jpeg)
 
@@ -59,20 +59,9 @@ What are "complex phenomena?"
 5.  There is no single cause and effect
 
 
-<a id="org9bc5ec1"></a>
+<a id="orgeec85fa"></a>
 
-# Types of models
-
-> -   Simplifications of the world (=abstractions)
-> -   Mathematical analogies (=functions)
-> -   Exploratory artificial constructs (=simulations)
-
-Models must be "tractable" (apply logic). What about metaphors?
-
-
-<a id="org777b54f"></a>
-
-# Exercise 1
+## Exercise
 
 Test Dörner's list:
 
@@ -85,23 +74,34 @@ Test Dörner's list:
 -   Zombies
 
 
-<a id="org6097b29"></a>
+<a id="org1c1b404"></a>
+
+# Types of models
+
+> -   Simplifications of the world (=abstractions)
+> -   Mathematical analogies (=functions)
+> -   Exploratory artificial constructs (=simulations)
+
+Models must be "tractable" (apply logic). What about metaphors?
+
+
+<a id="org70085c2"></a>
 
 # Many-model thinking
 
 > "We achieve wisdom through a multiplicity of lenses."
 
 
-<a id="orgc4d3d68"></a>
+<a id="org4a8d871"></a>
 
-# Criteria for many-model thinking
+## Criteria for many-model thinking
 
 > "The success of many-model thinking depends on a degree of separability."
 
 
-<a id="orgb170b99"></a>
+<a id="orgecbf27b"></a>
 
-# Exercise 2
+## Exercise: decision-making
 
 Analyse a recent decision you've made: 
 
@@ -109,14 +109,14 @@ Analyse a recent decision you've made:
 -   If you used only one model, why?
 
 
-<a id="orgc54a962"></a>
+<a id="orgd7f1c87"></a>
 
 # What's next?
 
 ![img](./img/river.gif)
 
 
-<a id="orgcf9fde1"></a>
+<a id="orgdd50eef"></a>
 
 ## In the course
 
@@ -125,7 +125,7 @@ Analyse a recent decision you've made:
 -   When you should model (REDCAPE)
 
 
-<a id="orgab2f834"></a>
+<a id="org193762d"></a>
 
 ## Your challenges
 
@@ -179,7 +179,7 @@ Analyse a recent decision you've made:
 *\*) do this every week until December*
 
 
-<a id="orgcf58f88"></a>
+<a id="org58e7ae8"></a>
 
 # Any questions?
 
