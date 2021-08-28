@@ -1,0 +1,5 @@
+* What is this?
+
+  This is a Frequently Asked Questions (FAQ) file for the special
+  seminar on "Data modeling" (CSC 482.02). For the FAQs across
+  courses, see the [[https://github.com/birkenkrahe/org][org repo]].
