@@ -89,15 +89,15 @@
 ** In the course
 
    * Lecture "Decision intelligence"
-   * Data vs. models (2 optional articles)
+   * Project setup (agile / Scrum)
    * When you should model (REDCAPE)
 
 ** Your challenges
 
    | What?                            | When?  |
    |----------------------------------+--------|
-   | Read ch. 2 "Why model?"          | Aug 31 |
    | Complete 2nd test challenge      | Aug 31 |
+   | Read ch. 2 "Why model?"          | Sep 2  |
    | List possible research questions | Sep 2  |
    | Check FAQs x 2 in GitHub         | n.d.   |
    | Ask questions (class/GitHub)     | n.d.   |
