@@ -42,3 +42,17 @@
 
    * What do you remember?
    * "Strategic flexibility" ([[https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure][GitHub]])
+* Week 3 - 31 August
+  
+  [[./img/rugby.gif]]
+
+  * [[https://lyon.schoology.com/assignment/5257398641/assessment_questions][Test 2 is live - 10 questions]]
+  * [[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#schedule-and-session-content][New project deadline: 9-Sep-2021]]
+  * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/3_decision_intelligence][Decision intelligence]]
+  * Essay: topic identification how?
+  * Lecture: Agile management
+  * New [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2][Scrum FAQs]]
+
+
+
+
