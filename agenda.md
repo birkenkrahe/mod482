@@ -1,12 +1,13 @@
 
 # Table of Contents
 
--   [Week 2 - 24 August](#orga8c7378)
--   [Week 2 - 26 August](#org92f830c)
+-   [Week 2 - 24 August](#org88f8419)
+-   [Week 2 - 26 August](#org6ec332c)
+-   [Week 3 - 31 August](#org50f6e01)
 
 
 
-<a id="orga8c7378"></a>
+<a id="org88f8419"></a>
 
 # Week 2 - 24 August
 
@@ -28,7 +29,7 @@
 -   Questions?
 
 
-<a id="org92f830c"></a>
+<a id="org6ec332c"></a>
 
 # Week 2 - 26 August
 
@@ -51,4 +52,18 @@
 
 -   What do you remember?
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
+
+
+<a id="org50f6e01"></a>
+
+# Week 3 - 31 August
+
+![img](./img/rugby.gif)
+
+-   [Test 2 is live - 10 questions](https://lyon.schoology.com/assignment/5257398641/assessment_questions)
+-   [New project deadline: 9-Sep-2021](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#schedule-and-session-content)
+-   Lecture: [Decision intelligence](https://github.com/birkenkrahe/mod482/tree/main/3_decision_intelligence)
+-   Essay: topic identification how?
+-   Lecture: Agile management
+-   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
