@@ -50,7 +50,7 @@
   * [[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#schedule-and-session-content][New project deadline: 9-Sep-2021]]
   * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/3_decision_intelligence][Decision intelligence]]
   * Essay: topic identification how?
-  * Lecture: Agile management
+  * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm][Agile project management]]
   * New [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2][Scrum FAQs]]
 
 
