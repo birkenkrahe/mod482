@@ -53,6 +53,41 @@
   * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm][Agile project management]]
   * New [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2][Scrum FAQs]]
 
+* Week 3 - 2 September
+  
+  [[./img/rugby.gif]]
+
+** Essay project
+
+   #+attr_html: :width 600
+   [[./img/redcape.gif]]
+
+   * [[https://github.com/birkenkrahe/mod482/discussions/2][Submit your essay topics by Sep-9]]
+   * Add [[https://github.com/birkenkrahe/org/blob/master/Systematic_Literature_Review_Example_Table.docx][systematic literature review]]!
+   * Formal issue: (inline) referencing
+   * [[https://github.com/birkenkrahe/mod482/blob/main/3_decision_intelligence/followup_08_31_2021.md][Wide choice of topics]]
+   * [[https://github.com/birkenkrahe/mod482/blob/main/3_decision_intelligence/followup_08_31_2021.md#research-a-topic-based-on-a-scientific-article][Example: Big Data Graph Databases]]
+   * How to read a scientific article?
+
+** Agile management
+
+   #+attr_html: :width 600
+   [[./img/agile.gif]]
+
+   * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm][Agile [project] management]]
+   * Exercise: set up an agile project!
+   * Come up with any research question
+   * Tool: [[https://github.com/birkenkrahe/org/blob/master/ProjectCanvas.pdf][Project Canvas]]
+
+** Next week
+
+   #+attr_html: :width 600
+   [[./img/next_week.gif]]
+
+   * Tuesday: Why Model? (Page ch. 2)
+   * REDCAPE model criteria (essay?)
+   * Thursday: 1st sprint review ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint][FAQ]])
+
 
 
 

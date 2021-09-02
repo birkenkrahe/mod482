@@ -1,13 +1,14 @@
 
 # Table of Contents
 
--   [Week 2 - 24 August](#org08abf97)
--   [Week 2 - 26 August](#org80e116d)
--   [Week 3 - 31 August](#org559f7b7)
+-   [Week 2 - 24 August](#org503c3e7)
+-   [Week 2 - 26 August](#org702e1d2)
+-   [Week 3 - 31 August](#org8eda0c4)
+-   [Week 3 - 2 September](#org3e4812c)
 
 
 
-<a id="org08abf97"></a>
+<a id="org503c3e7"></a>
 
 # Week 2 - 24 August
 
@@ -29,7 +30,7 @@
 -   Questions?
 
 
-<a id="org80e116d"></a>
+<a id="org702e1d2"></a>
 
 # Week 2 - 26 August
 
@@ -54,7 +55,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="org559f7b7"></a>
+<a id="org8eda0c4"></a>
 
 # Week 3 - 31 August
 
@@ -66,4 +67,42 @@
 -   Essay: topic identification how?
 -   Lecture: [Agile project management](https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm)
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
+
+
+<a id="org3e4812c"></a>
+
+# Week 3 - 2 September
+
+![img](./img/rugby.gif)
+
+
+## Essay project
+
+![img](./img/redcape.gif)
+
+-   [Submit your essay topics by Sep-9](https://github.com/birkenkrahe/mod482/discussions/2)
+-   Add [systematic literature review](https://github.com/birkenkrahe/org/blob/master/Systematic_Literature_Review_Example_Table.docx)!
+-   Formal issue: (inline) referencing
+-   [Wide choice of topics](https://github.com/birkenkrahe/mod482/blob/main/3_decision_intelligence/followup_08_31_2021.md)
+-   [Example: Big Data Graph Databases](https://github.com/birkenkrahe/mod482/blob/main/3_decision_intelligence/followup_08_31_2021.md#research-a-topic-based-on-a-scientific-article)
+-   How to read a scientific article?
+
+
+## Agile management
+
+![img](./img/agile.gif)
+
+-   Lecture: [Agile [project] management](https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm)
+-   Exercise: set up an agile project!
+-   Come up with any research question
+-   Tool: [Project Canvas](https://github.com/birkenkrahe/org/blob/master/ProjectCanvas.pdf)
+
+
+## Next week
+
+![img](./img/next_week.gif)
+
+-   Tuesday: Why Model? (Page ch. 2)
+-   REDCAPE model criteria (essay?)
+-   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
