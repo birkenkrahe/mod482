@@ -54,13 +54,13 @@
   * New [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2][Scrum FAQs]]
 
 * Week 3 - 2 September
-  
-  [[./img/rugby.gif]]
 
+   #+attr_html: :width 400
+  [[./img/autumn.gif]]
+  
 ** Essay project
 
-   #+attr_html: :width 600
-   [[./img/redcape.gif]]
+  [[./img/rugby.gif]]
 
    * [[https://github.com/birkenkrahe/mod482/discussions/2][Submit your essay topics by Sep-9]]
    * Add [[https://github.com/birkenkrahe/org/blob/master/Systematic_Literature_Review_Example_Table.docx][systematic literature review]]!
@@ -71,7 +71,7 @@
 
 ** Agile management
 
-   #+attr_html: :width 600
+   #+attr_html: :width 400
    [[./img/agile.gif]]
 
    * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm][Agile [project] management]]
@@ -81,8 +81,8 @@
 
 ** Next week
 
-   #+attr_html: :width 600
-   [[./img/next_week.gif]]
+   #+attr_html: :height 300
+   [[./img/redcape.gif]]
 
    * Tuesday: Why Model? (Page ch. 2)
    * REDCAPE model criteria (essay?)

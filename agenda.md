@@ -1,14 +1,14 @@
 
 # Table of Contents
 
--   [Week 2 - 24 August](#org503c3e7)
--   [Week 2 - 26 August](#org702e1d2)
--   [Week 3 - 31 August](#org8eda0c4)
--   [Week 3 - 2 September](#org3e4812c)
+-   [Week 2 - 24 August](#org4a884f4)
+-   [Week 2 - 26 August](#orgc1c4420)
+-   [Week 3 - 31 August](#org8b8ac7c)
+-   [Week 3 - 2 September](#orga01f992)
 
 
 
-<a id="org503c3e7"></a>
+<a id="org4a884f4"></a>
 
 # Week 2 - 24 August
 
@@ -30,7 +30,7 @@
 -   Questions?
 
 
-<a id="org702e1d2"></a>
+<a id="orgc1c4420"></a>
 
 # Week 2 - 26 August
 
@@ -55,7 +55,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="org8eda0c4"></a>
+<a id="org8b8ac7c"></a>
 
 # Week 3 - 31 August
 
@@ -69,16 +69,16 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="org3e4812c"></a>
+<a id="orga01f992"></a>
 
 # Week 3 - 2 September
 
-![img](./img/rugby.gif)
+![img](./img/autumn.gif)
 
 
 ## Essay project
 
-![img](./img/redcape.gif)
+![img](./img/rugby.gif)
 
 -   [Submit your essay topics by Sep-9](https://github.com/birkenkrahe/mod482/discussions/2)
 -   Add [systematic literature review](https://github.com/birkenkrahe/org/blob/master/Systematic_Literature_Review_Example_Table.docx)!
@@ -100,7 +100,7 @@
 
 ## Next week
 
-![img](./img/next_week.gif)
+![img](./img/redcape.gif)
 
 -   Tuesday: Why Model? (Page ch. 2)
 -   REDCAPE model criteria (essay?)
