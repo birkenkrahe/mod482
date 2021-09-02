@@ -84,7 +84,8 @@
    #+attr_html: :height 300
    [[./img/redcape.gif]]
 
-   * Tuesday: Why Model? (Page ch. 2)
+   * Bring research question ([[https://github.com/birkenkrahe/org/blob/master/ProjectCanvas.pdf][project canvas]])
+   * Lecture: Why Model? (Page ch. 2)
    * REDCAPE model criteria (essay?)
    * Thursday: 1st sprint review ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint][FAQ]])
 
