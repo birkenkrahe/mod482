@@ -617,7 +617,7 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">2-Sep</td>
 <td class="org-left">Many-model science (lab)</td>
-<td class="org-left">1st sprint review</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -631,7 +631,7 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">9-Sep</td>
 <td class="org-left">Modeling human actors (lab)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">1st sprint review</td>
 </tr>
 
 

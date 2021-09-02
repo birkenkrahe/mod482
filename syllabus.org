@@ -183,7 +183,6 @@
 
      Student X's midterm result is an "A" (~92%~).
 
-     
 * Standard Policies
 ** Honor Code
 
@@ -332,9 +331,9 @@
    | 24-Aug | Why model?                          |                   |
    | 26-Aug | Why model? (lab)                    |                   |
    | 31-Aug | Many-model science                  |                   |
-   | 2-Sep  | Many-model science (lab)            | 1st sprint review |
+   | 2-Sep  | Many-model science (lab)            |                   |
    | 7-Sep  | Modeling human actors               |                   |
-   | 9-Sep  | Modeling human actors (lab)         |                   |
+   | 9-Sep  | Modeling human actors (lab)         | 1st sprint review |
    | 14-Sep | Process management & EPCs           |                   |
    | 16-Sep | Process management & EPCs (lab)     |                   |
    | 21-Sep | Business Process Model and Notation |                   |
