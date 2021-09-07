@@ -1,12 +1,12 @@
 
 # Table of Contents
 
-1.  [What is this?](#orge11d6c1)
-2.  [Getting started (for real) - September 7, 2021](#orga9e2942)
+1.  [What is this?](#org950676d)
+2.  [Getting started (for real) - September 7, 2021](#orgc72ee6f)
 
 
 
-<a id="orge11d6c1"></a>
+<a id="org950676d"></a>
 
 # What is this?
 
@@ -16,7 +16,7 @@ emails and to park content that I may want to develop later on time
 permitting.
 
 
-<a id="orga9e2942"></a>
+<a id="orgc72ee6f"></a>
 
 # Getting started (for real) - September 7, 2021
 
@@ -55,6 +55,11 @@ I'll get this started by bringing a question to class, but
 ultimately I hope that the students will bring questions for
 discussion. We'll see how it goes - fall is upon us, and life is
 good!
+
+![img](./img/valhalla.jpg)
+
+*Image: Valhalla by Ubisoft. Stonehenge, Wiltshire, England (Source:
+dsogaming.com)*
 
 
 # Footnotes
