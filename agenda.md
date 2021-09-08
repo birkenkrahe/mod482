@@ -1,15 +1,15 @@
 
 # Table of Contents
 
--   [Week 2 - 24 August](#orge9653cb)
--   [Week 2 - 26 August](#org935b1ac)
--   [Week 3 - 31 August](#org3a23f87)
--   [Week 3 - 2 September](#org4b9305b)
--   [Week 4 - 9 September](#org019f4f1)
+-   [Week 2 - 24 August](#orgcd58760)
+-   [Week 2 - 26 August](#orgffa8757)
+-   [Week 3 - 31 August](#org1cb82e5)
+-   [Week 3 - 2 September](#org9d5c445)
+-   [Week 4 - 9 September](#org60b6782)
 
 
 
-<a id="orge9653cb"></a>
+<a id="orgcd58760"></a>
 
 # Week 2 - 24 August
 
@@ -31,7 +31,7 @@
 -   Questions?
 
 
-<a id="org935b1ac"></a>
+<a id="orgffa8757"></a>
 
 # Week 2 - 26 August
 
@@ -56,7 +56,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="org3a23f87"></a>
+<a id="org1cb82e5"></a>
 
 # Week 3 - 31 August
 
@@ -70,7 +70,7 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="org4b9305b"></a>
+<a id="org9d5c445"></a>
 
 # Week 3 - 2 September
 
@@ -109,13 +109,14 @@
 -   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
 
-<a id="org019f4f1"></a>
+<a id="org60b6782"></a>
 
 # Week 4 - 9 September
 
 ![img](./img/rugby.gif)
 
--   [Learning & Agile Methods](https://github.com/birkenkrahe/org/blob/master/diary.md)
+-   [Learning & Agile Methods](https://github.com/birkenkrahe/org/blob/master/diary.md) (diary)
+-   [3P / efficiency vs resilience](https://github.com/birkenkrahe/mod482/blob/main/4_agile_pm/followup_09_07_2021.md) (followup)
 -   [First sprint reviews](https://github.com/birkenkrahe/mod482/discussions/2)
 -   Lecture: Why Model?
 

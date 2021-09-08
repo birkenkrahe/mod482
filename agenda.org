@@ -93,7 +93,8 @@
 
   [[./img/rugby.gif]]
 
-  * [[https://github.com/birkenkrahe/org/blob/master/diary.md][Learning & Agile Methods]]
+  * [[https://github.com/birkenkrahe/org/blob/master/diary.md][Learning & Agile Methods]] (diary)
+  * [[https://github.com/birkenkrahe/mod482/blob/main/4_agile_pm/followup_09_07_2021.md][3P / efficiency vs resilience]] (followup)
   * [[https://github.com/birkenkrahe/mod482/discussions/2][First sprint reviews]]
   * Lecture: Why Model?
     
