@@ -89,6 +89,11 @@
    * REDCAPE model criteria (essay?)
    * Thursday: 1st sprint review ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint][FAQ]])
 
+* Week 4 - 9 September
 
+  [[./img/rugby.gif]]
 
-
+  * [[https://github.com/birkenkrahe/org/blob/master/diary.md][Learning & Agile Methods]]
+  * [[https://github.com/birkenkrahe/mod482/discussions/2][First sprint reviews]]
+  * Lecture: Why Model?
+    
