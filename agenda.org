@@ -43,7 +43,7 @@
    * What do you remember?
    * "Strategic flexibility" ([[https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure][GitHub]])
 * Week 3 - 31 August
-  
+
   [[./img/rugby.gif]]
 
   * [[https://lyon.schoology.com/assignment/5257398641/assessment_questions][Test 2 is live - 10 questions]]
@@ -55,12 +55,12 @@
 
 * Week 3 - 2 September
 
-   #+attr_html: :width 400
+  #+attr_html: :width 400
   [[./img/autumn.gif]]
-  
+
 ** Essay project
 
-  [[./img/rugby.gif]]
+   [[./img/rugby.gif]]
 
    * [[https://github.com/birkenkrahe/mod482/discussions/2][Submit your essay topics by Sep-9]]
    * Add [[https://github.com/birkenkrahe/org/blob/master/Systematic_Literature_Review_Example_Table.docx][systematic literature review]]!
@@ -97,4 +97,37 @@
   * [[https://github.com/birkenkrahe/mod482/blob/main/4_agile_pm/followup_09_07_2021.md][3P / efficiency vs resilience]] (followup)
   * [[https://github.com/birkenkrahe/mod482/discussions/2][First sprint reviews]]
   * Next: Why Model? (Read for Tue Sep 14)
-    
+
+** Sprint reviews
+
+   [[./img/sprint.gif]]
+
+   * Everyone: present yr research question
+   * Everyone else: prepare 1 question
+   * Ask 2 of your questions
+   * MB: critique questions
+
+** Two examples
+
+   [[./img/examples.gif]]
+
+*** Molly: [[https://psycnet.apa.org/record/2002-08436-005][Grounded Theory analysis of creativity]]
+
+    | PRO                 | CON               |
+    | Important framework | Difficult method  |
+    | Important issue     | Complex topic     |
+    | Lots of examples    | Lots of confusion |
+    | Peer reviewed       | Date (2002)       |
+    | Lots of literature  | Not open source   |
+    | Focus on art making | Small samples     |
+
+*** Owen: [[https://reader.elsevier.com/reader/sd/pii/S2590061720300569?token=CB8A5AB8B610593FD4CB342F3BD7658FFA2053C3D96188C2187DC62C4BECB08B47432F38EB25A429B94B7B391EB77DBE&originRegion=us-east-1&originCreation=20210909135607][The spread of misinformation]]
+
+    | PRO                 | CON              |
+    | Recent & relevant   | Divisive case    |
+    | Reputable publisher | Conclusions weak |
+    | Many models         | Many models      |
+    | Quantitative study  | Potential bias   |
+    | Literature review   | Many theories    |
+    | Linear regression   | Causal inference |
+
