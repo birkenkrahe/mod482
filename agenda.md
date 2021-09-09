@@ -1,15 +1,15 @@
 
 # Table of Contents
 
--   [Week 2 - 24 August](#org6699a90)
--   [Week 2 - 26 August](#orgd83318b)
--   [Week 3 - 31 August](#org67f4f5b)
--   [Week 3 - 2 September](#org9bf7315)
--   [Week 4 - 9 September](#org2beed97)
+-   [Week 2 - 24 August](#orgd06d7a3)
+-   [Week 2 - 26 August](#org9443a3e)
+-   [Week 3 - 31 August](#orge45ee96)
+-   [Week 3 - 2 September](#org4089187)
+-   [Week 4 - 9 September](#org5097473)
 
 
 
-<a id="org6699a90"></a>
+<a id="orgd06d7a3"></a>
 
 # Week 2 - 24 August
 
@@ -31,7 +31,7 @@
 -   Questions?
 
 
-<a id="orgd83318b"></a>
+<a id="org9443a3e"></a>
 
 # Week 2 - 26 August
 
@@ -56,7 +56,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="org67f4f5b"></a>
+<a id="orge45ee96"></a>
 
 # Week 3 - 31 August
 
@@ -70,7 +70,7 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="org9bf7315"></a>
+<a id="org4089187"></a>
 
 # Week 3 - 2 September
 
@@ -109,7 +109,7 @@
 -   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
 
-<a id="org2beed97"></a>
+<a id="org5097473"></a>
 
 # Week 4 - 9 September
 
@@ -146,13 +146,14 @@
 
 <col  class="org-left" />
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td class="org-left">PRO</td>
-<td class="org-left">CON</td>
+<th scope="col" class="org-left">PRO</th>
+<th scope="col" class="org-left">CON</th>
 </tr>
+</thead>
 
-
+<tbody>
 <tr>
 <td class="org-left">Important framework</td>
 <td class="org-left">Difficult method</td>
@@ -201,13 +202,14 @@
 
 <col  class="org-left" />
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td class="org-left">PRO</td>
-<td class="org-left">CON</td>
+<th scope="col" class="org-left">PRO</th>
+<th scope="col" class="org-left">CON</th>
 </tr>
+</thead>
 
-
+<tbody>
 <tr>
 <td class="org-left">Recent & relevant</td>
 <td class="org-left">Divisive case</td>
@@ -244,4 +246,10 @@
 </tr>
 </tbody>
 </table>
+
+
+### Suggestions
+
+-   Molly: additional literature (e.g. [Koestler](https://www.brainpickings.org/2013/05/20/arthur-koestler-creativity-bisociation/))
+-   Owen: test frameworks (e.g. [this article](https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670))
 
