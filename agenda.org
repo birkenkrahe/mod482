@@ -114,6 +114,7 @@
 *** Molly: [[https://psycnet.apa.org/record/2002-08436-005][Grounded Theory analysis of creativity]]
 
     | PRO                 | CON               |
+    |---------------------+-------------------|
     | Important framework | Difficult method  |
     | Important issue     | Complex topic     |
     | Lots of examples    | Lots of confusion |
@@ -124,6 +125,7 @@
 *** Owen: [[https://reader.elsevier.com/reader/sd/pii/S2590061720300569?token=CB8A5AB8B610593FD4CB342F3BD7658FFA2053C3D96188C2187DC62C4BECB08B47432F38EB25A429B94B7B391EB77DBE&originRegion=us-east-1&originCreation=20210909135607][The spread of misinformation]]
 
     | PRO                 | CON              |
+    |---------------------+------------------|
     | Recent & relevant   | Divisive case    |
     | Reputable publisher | Conclusions weak |
     | Many models         | Many models      |
@@ -131,3 +133,7 @@
     | Literature review   | Many theories    |
     | Linear regression   | Causal inference |
 
+*** Suggestions
+    
+    * Molly: additional literature (e.g. [[https://www.brainpickings.org/2013/05/20/arthur-koestler-creativity-bisociation/][Koestler]])
+    * Owen: test frameworks (e.g. [[https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670][this article]])
