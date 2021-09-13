@@ -1,0 +1,35 @@
+* Schedule
+
+   | DATE   | LECTURES/GLOSSARY/LABS              | PROJECT           |
+   |--------+-------------------------------------+-------------------|
+   | 17-Aug | Course overview & purpose           |                   |
+   | 19-Aug | Many-model thinking (lab)           |                   |
+   | 24-Aug | Why model?                          |                   |
+   | 26-Aug | Why model? (lab)                    |                   |
+   | 31-Aug | Many-model science                  |                   |
+   | 2-Sep  | Many-model science (lab)            |                   |
+   | 7-Sep  | Modeling human actors               |                   |
+   | 9-Sep  |                                     | 1st sprint review |
+   | 14-Sep | Process management & EPCs           |                   |
+   | 16-Sep | Process management & EPCs (lab)     |                   |
+   | 21-Sep | Business Process Model and Notation |                   |
+   | 23-Sep | BPMN (lab)                          |                   |
+   | 28-Sep | Performance management & Analytics  |                   |
+   | 30-Sep | PM & Analytics (lab)                |                   |
+   | 7-Oct  | Distribution models (lab)           | 2nd sprint review |
+   | 12-Oct | Linear models                       |                   |
+   | 14-Oct | Linear models (lab)                 |                   |
+   | 19-Oct | Agile management                    |                   |
+   | 21-Oct | Agile management (lab)              |                   |
+   | 26-Oct | Models of value and power           |                   |
+   | 28-Oct | Models of value and power (lab)     |                   |
+   | 2-Nov  | Unified Modeling Language (UML)     |                   |
+   | 4-Nov  | UML (lab)                           | 3rd sprint review |
+   | 9-Nov  | Robotic process automation (RPA)    |                   |
+   | 11-Nov | RPA (lab)                           |                   |
+   | 16-Nov | Non-linear models                   |                   |
+   | 18-Nov | Non-linear models (lab)             |                   |
+   | 23-Nov | Process mining                      |                   |
+   | 30-Nov | COVID-19 models                     |                   |
+   | 2-Dec  | Summary and outlook                 | 4th sprint review |
+
