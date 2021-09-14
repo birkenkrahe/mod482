@@ -9,18 +9,18 @@
    | 31-Aug | Decision intelligence                     |                   |
    | 2-Sep  | Literature reviews                        |                   |
    | 7-Sep  | Agile management methods                  |                   |
-   | 9-Sep  | Presentations                             | 1st sprint review |
+   | 9-Sep  | PRESENTATIONS                             | 1st sprint review |
    | 14-Sep | Project work                              |                   |
    | 16-Sep | REDCAPE Model categories                  |                   |
-   | 21-Sep | Event-controlled process chains           |                   |
-   | 23-Sep | Event-controlled process chains (lab)     |                   |
-   | 28-Sep | Business Process Model and Notation       |                   |
-   | 30-Sep | Business Process Model and Notation (lab) |                   |
-   | 7-Oct  | Presentations                             | 2nd sprint review |
-   | 12-Oct | Linear models                             |                   |
-   | 14-Oct | Linear models (lab)                       |                   |
-   | 19-Oct | Agile management                          |                   |
-   | 21-Oct | Agile management (lab)                    |                   |
+   | 21-Sep | Storytelling (Modeling human actors)      |                   |
+   | 23-Sep | User stories (Modeling human actors)      |                   |
+   | 28-Sep | Event-controlled process chains           |                   |
+   | 30-Sep | Event-controlled process chains (lab)     |                   |
+   | 7-Oct  | PRESENTATIONS                             | 2nd sprint review |
+   | 12-Oct | Business Process Model and Notation       |                   |
+   | 14-Oct | Business Process Model and Notation (lab) |                   |
+   | 19-Oct | Linear models                             |                   |
+   | 21-Oct | Linear models (lab)                       |                   |
    | 26-Oct | Models of value and power                 |                   |
    | 28-Oct | Models of value and power (lab)           |                   |
    | 2-Nov  | Unified Modeling Language (UML)           |                   |
