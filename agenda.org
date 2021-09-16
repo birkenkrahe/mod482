@@ -145,9 +145,7 @@
   * [[https://lyon.schoology.com/assignment/5314232116/assessment_questions][Test 4: agility, bias, canvas]]
   * [[scott][Fireside chat with Scott Page]] (2020)
   * The Model Thinker, chapter 2 "Why Model":
-    - Approaches to modeling
-    - Uses of models
-  * Models of systemic belonging (lecture)
+  * Models of systemic belonging ([[https://github.com/birkenkrahe/mod482/tree/main/5_why_model][lecture]])
   * System constellations ([[birk][Birkenkrahe, 2008]])
     
 * References
