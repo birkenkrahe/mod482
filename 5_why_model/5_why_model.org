@@ -3,8 +3,6 @@
 #+Subtitle: Data modeling
 #+STARTUP: hideblocks
 #+OPTIONS: toc:nil num:nil ^:nil
-#+reveal_theme: black
-#+reveal_init_options: transition:'cube'
 #+INFOJS_OPT: :view:info
 * What're you going to learn?
 
@@ -64,7 +62,7 @@
 
    [[./img/occam.gif]]
 
-* Uses of models: [[page][REDCAPE]]
+* Uses of models: REDCAPE
 
   #+attr_html: :width 500px
   [[./img/redcape.png]]
@@ -186,7 +184,7 @@
 
 * References
 
-  <<page>> Page SE (2021). The Model Thinker. New York: Basic Books.
+  Page SE (2021). The Model Thinker. New York: Basic Books.
 
   N.a. (n.d.). Psychological Constructivism> Piaget's Theories
   [Course]. [[https://courses.lumenlearning.com/edpsy/chapter/psychological-constructivism-piagets-theories/][Online: lumenlearning.com]].
