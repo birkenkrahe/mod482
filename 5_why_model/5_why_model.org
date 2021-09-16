@@ -1,0 +1,223 @@
+#+TITLE: Why model?
+#+AUTHOR: Marcus Birkenkrahe
+#+Subtitle: Data modeling
+#+STARTUP: hideblocks
+#+OPTIONS: toc:nil num:nil ^:nil
+#+reveal_theme: black
+#+reveal_init_options: transition:'cube'
+#+INFOJS_OPT: :view:info
+* What're you going to learn?
+
+  * Models and reality
+  * Three approaches to modeling
+  * Uses of models (REDCAPE)
+  * Extended example: system constellations[fn:6]
+  * Exercise OR assignment
+  * Next topics
+
+* Models and reality
+
+  #+attr_html: :width 200px
+  [[./img/piaget.jpeg]]
+
+  #+begin_quote
+  Knowing reality means constructing systems of transformations that
+  correspond, more or less adequately, to reality. (Jean Piaget)
+  #+end_quote
+
+** Some implications
+
+   * Reality cannot be known directly
+   * Reality is not experienced but constructed
+   * Knowledge is an approximation
+   * Strong dependence on models
+
+** Implications of Piaget's work
+
+   * Importance of formal operational thought
+   * Children develop like mini-scientists
+   * Hypothetical thinking over critical thinking
+   * Constructivist school curricula (yours!)
+
+   ([[https://courses.lumenlearning.com/edpsy/chapter/psychological-constructivism-piagets-theories/][More on Piaget's theories]] - essay topic!)
+
+* Three approaches to modeling
+
+  | STRUCTURAL   | FUNCTIONAL          | PURPOSE     |
+  |--------------+---------------------+-------------|
+  | Abstractions | Embodiment          | Realism     |
+  | Functions    | Analogy             | Essence     |
+  | Simulations  | Alternative reality | Speculation |
+
+** Examples
+
+  #+attr_html: :width 200px
+   [[./img/gof.gif]]
+
+   | FUNCTION            | MODEL              |
+   |---------------------+--------------------|
+   | Embodiment          | Traffic network    |
+   | Analogy             | Crime as a disease |
+   | Alternative reality | Game of Life       |
+
+** Occam's Razor
+
+   [[./img/occam.gif]]
+
+* What did you think of this?
+
+  #+attr_html: :width 500px
+  [[./img/redcape.png]]
+
+** REDCAPE as a process model
+
+   1) Phenomena (observations) - EXPLAIN
+   2) Review findings - EXPLORE
+   3) Critique and test findings - REASON
+   4) Extract meaning - DESIGN
+   5) Communicate findings - COMMUNICATE
+   6) Act on findings - ACT
+   7) Extend findings to future - PREDICT
+
+** Weaknesses of REDCAPE
+
+   * Not testable (no observables)
+   * Not mutually exclusive
+   * Not collectively exhaustive
+   * Not validated (except examples)
+
+* Example: system constellations
+
+  #+attr_html: :width 600px
+  [[./img/constellation.jpg]]
+
+  Image: organizational system
+
+** Model history
+
+   #+attr_html: :width 600px
+   [[./img/holocaust.jpg]]
+
+   Image: Holocaust survivors
+
+** Related techniques
+
+   * Transactional analysis (Berne)
+   * Psychodrama (Moreno)
+   * Family sculptures (Satir)
+   * Gestalt therapy (Perls)
+   * Primal scream therapy (Janov)
+   * Neuro-linguistic programming (Bandler/Grindler)
+
+** Model uses: see what is
+
+   #+attr_html: :width 350px
+   [[./img/order.png]]
+
+   * Overcome defensiveness
+   * Establish/strengthen relationships
+   * Reveal hidden truths or facts
+
+** Model assumptions
+
+   #+attr_html: :width 400px
+   [[./img/pyramids.png]]
+
+   * System boundaries count[fn:1]
+   * System belonging time counts[fn:2]
+   * Older systems have precedence[fn:3]
+   * Acknowledging what is counts[fn:4]
+
+** Model process
+
+   #+attr_html: :width 600px
+   [[./img/process.png]]
+
+** Personal uses[fn:5]
+
+   #+attr_html: :width 600px
+   [[./img/family.jpeg]]
+
+   * Career advice (choices)
+   * Clarify relationships (love)
+   * (Re-) Establish order (work)
+
+** Summary on constellations
+
+   #+attr_html: :width 400px
+   [[./img/adam.png]]
+
+   * Functional: Analogy approach
+   * Structural: Simulation technique
+   * Empirically well established
+   * Highly effective where applicable
+   * One-to-many model (many systems)
+
+* Summary
+
+  * Modeling is based on assumptions about the nature of reality and
+    the nature of knowledge
+  * There are structural and functional approaches to modeling
+  * There are many-to-one and one-to-many uses of models
+  * Models need to be validated in multiple ways
+  * Models, even very successful ones, can be invalidated
+
+* Exercise / Assignment
+
+  * CHANGE your topic at any time!
+  * [[HTTPS://GITHUB.COM/BIRKENKRAHE/MOD482/DISCUSSIONS/2][ADD your topic for feedback!]]
+  * Come and TALK to me about it!
+  * Which APPROACH are you taking?
+  * One-to-many or many-to-one?
+
+* Next topics
+
+   #+attr_html: :width 400px
+  [[./img/storytelling.jpg]]
+
+  * Storytelling
+  * User Stories
+
+* Any questions?
+
+  [[./img/hogs.gif]]
+
+  [[https://github.com/birkenkrahe/mod482/tree/main/5_why_model][This presentation is available online.]]
+
+* Footnotes
+
+[fn:6]The extended example is based on my 2008 paper on this topic:
+Birkenkrahe, M. (2008). System constellations as tool supporting
+organisational learning and change processes. In: International
+Journal of Learning and Change 3(3), pp. 125-144. [[https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes][Online:
+researchgate.net]]. ([[https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing][GDrive copy]]).
+
+[fn:5] Career choices: you can set up career options (or companies) as
+representatives and check in where you feel drawn. Love: same thing if
+you cannot decide between potential partners, or if you have a
+worrying friendship. Order: to righten a hierarchical relationship -
+e.g. bowing to a representative of your boss (even you though may hate
+him and that's the last thing you want to do).
+
+[fn:4]When systems are in disarray, in the public or in private realm,
+there is a tendency to make critical issues undiscussable, to bury
+unpleasant facts, or to forget about undesirables. Take any unresolved
+conflict or debate in living memory, and you can see the effects of
+this process. Constellations teach us that it is important to not do
+this, and that it is much easier to do it symbolically (by way of the
+mechanism of "representative perception") than directly.
+
+[fn:3]When a company spins off another company, or when someone
+remarries, the old system has precedence over the new system. In
+practice, this can be honored by making it explicit.
+
+[fn:2]The time which members already spent in a system has to be
+honored: e.g. older team members are honored by being asked to speak
+first. In families, grandparents have precedence over parents, who
+have precedence over their children.
+
+[fn:1]The system suffers e.g. when a member is excluded for whatever
+reason - e.g. because the company changed owner. This also applies
+when a family tries to exclude members - e.g. in Germany because
+someone was Jewish (in Nazi Germany), or because someone was a Nazi
+(in Germany after the Nazis).x
