@@ -1,4 +1,4 @@
-#+TITLE: Why model?
+#+TITLE: Model Thinking
 #+AUTHOR: Marcus Birkenkrahe
 #+Subtitle: Data modeling
 #+STARTUP: hideblocks
