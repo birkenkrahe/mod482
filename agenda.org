@@ -4,7 +4,7 @@
 #+reveal_theme: black
 #+reveal_init_options: transition:'cube'
 #+OPTIONS: toc:1 num:nil fig:nil
-* Week 2 - 24 August
+* Week 2 - August 24
 
   #+attr_html: :height 300px
   [[./img/keaton.gif]]
@@ -22,7 +22,7 @@
    * FAQ: ask questions! ([[https://github.com/birkenkrahe/mod482/blob/main/FAQ.md][GitHub]])
    * Term Diary ([[https://github.com/birkenkrahe/org/blob/master/diary.md#org3b0dc9e][GitHub]])
    * Questions?
-* Week 2 - 26 August
+* Week 2 - August 26
 
   #+attr_html: :height 300px
   [[./img/keaton.gif]]
@@ -42,7 +42,7 @@
 
    * What do you remember?
    * "Strategic flexibility" ([[https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure][GitHub]])
-* Week 3 - 31 August
+* Week 3 - August 31
 
   [[./img/rugby.gif]]
 
@@ -53,7 +53,7 @@
   * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm][Agile project management]]
   * New [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2][Scrum FAQs]]
 
-* Week 3 - 2 September
+* Week 3 - September 2
 
   #+attr_html: :width 400
   [[./img/autumn.gif]]
@@ -89,7 +89,7 @@
    * REDCAPE model criteria (essay?)
    * Thursday: 1st sprint review ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint][FAQ]])
 
-* Week 4 - 9 September
+* Week 4 - September 9
 
   [[./img/rugby.gif]]
 
@@ -137,3 +137,26 @@
     
     * Molly: additional literature (e.g. [[https://www.brainpickings.org/2013/05/20/arthur-koestler-creativity-bisociation/][Koestler]])
     * Owen: test frameworks (e.g. [[https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670][this article]])
+
+* Week 5 - September 16
+
+  [[./img/lecture.gif]]
+
+  * [[https://lyon.schoology.com/assignment/5314232116/assessment_questions][Test 4: agility, bias, canvas]]
+  * [[scott][Fireside chat with Scott Page]] (2020)
+  * The Model Thinker, chapter 2 "Why Model":
+    - Approaches to modeling
+    - Uses of models
+  * Models of systemic belonging (lecture)
+  * System constellations ([[birk][Birkenkrahe, 2008]])
+    
+* References
+
+  <<birk>> Birkenkrahe, M. (2008). System constellations as tool
+  supporting organisational learning and change processes. In:
+  International Journal of Learning and Change 3(3),
+  pp. 125-144. [[https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes][Online: researchgate.net]]. ([[https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing][GDrive copy]])
+
+  <<scott>> The Artists of Data Science with Harpreet Sahota (31 Aug
+  2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
+  [[https://theartistsofdatascience.fireside.fm/scott-e-page][theartistsofdatascience.fireside.fm]].
