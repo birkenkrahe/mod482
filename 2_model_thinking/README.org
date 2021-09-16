@@ -1,17 +1,8 @@
-* Decision intelligence
+* Model thinking
 
-I don't really like the term but it has stuck as an umbrella term for
-important data science applications. I could also have called it
-"performance management" (since performance measurement and
-optimization is the purpose of most business related decisions), or
-"data science tools", since data science covers data and process
-related disciplines.
-
-In any case, the breakdown delivers a framework of modeling languages,
-applications and platforms that are currently relevant for industrial
-data science, and that can also (via the languages) be used to
-structure the material of this course (which otherwise may look like a
-bit of a potpourri).
-
-To view the ~.xmind~ presentation, you need to download the (free)
-mindmapping software from ~xmind.net~.
+Model thinking is a special way of looking at the world - through
+models. We cover the first chapter of Page's book "The Model Thinker"
+(Basic Books, 2021), and when I write 'cover', I mean use, expand and
+critique. We look at complex problems (the interesting, brain-breaking
+ones) and how an approach of many models may be more useful than a one
+model approach (though this approach also has its validity). 
