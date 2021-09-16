@@ -1,3 +1,5 @@
+* Why model? 
+
 The purpose of this section is to introduce you to some model criteria
 and uses. The uses vary (across problems), but the general benefits of
 models can still be named (REDCAPE is Page's attempt at doing that).
