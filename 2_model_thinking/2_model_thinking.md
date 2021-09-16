@@ -1,23 +1,23 @@
 
 # Table of Contents
 
--   [What're you going to learn?](#org7cfbe14)
--   [Definition](#orgc75f7cb)
--   [Motivation](#orgc231fa7)
-    -   [Dörner's definition](#orga409041)
-    -   [Exercise](#org7ea685b)
--   [Types of models](#org4e6fb10)
--   [Many-model thinking](#org96f0bcd)
-    -   [Criteria for many-model thinking](#orgd4745d4)
-    -   [Exercise: decision-making](#orgc676af2)
--   [What's next?](#org944ed5d)
-    -   [In the course](#orgc399a40)
-    -   [Your challenges](#org70dd4bf)
--   [Any questions?](#orgc8bead7)
+-   [What're you going to learn?](#orgccd283f)
+-   [Definition](#org7e999b8)
+-   [Motivation](#org438cff2)
+    -   [Dörner's definition](#orgf764516)
+    -   [Exercise](#orge3b0ea1)
+-   [Types of models](#orgb4acf4a)
+-   [Many-model thinking](#org89e3168)
+    -   [Criteria for many-model thinking](#orgec376aa)
+    -   [Exercise: decision-making](#orgfa4c405)
+-   [What's next?](#orgb161464)
+    -   [In the course](#orgb6272c8)
+    -   [Your challenges](#org916c9d3)
+-   [Any questions?](#org06150bc)
 
 
 
-<a id="org7cfbe14"></a>
+<a id="orgccd283f"></a>
 
 # What're you going to learn?
 
@@ -28,7 +28,7 @@
 -   What's next?
 
 
-<a id="orgc75f7cb"></a>
+<a id="org7e999b8"></a>
 
 # Definition
 
@@ -36,7 +36,7 @@
 > that help us understand the world."
 
 
-<a id="orgc231fa7"></a>
+<a id="org438cff2"></a>
 
 # Motivation
 
@@ -46,7 +46,7 @@
 What are "complex phenomena?"
 
 
-<a id="orga409041"></a>
+<a id="orgf764516"></a>
 
 ## Dörner's definition
 
@@ -59,7 +59,7 @@ What are "complex phenomena?"
 5.  There is no single cause and effect
 
 
-<a id="org7ea685b"></a>
+<a id="orge3b0ea1"></a>
 
 ## Exercise
 
@@ -74,7 +74,7 @@ Test Dörner's list:
 -   Zombies
 
 
-<a id="org4e6fb10"></a>
+<a id="orgb4acf4a"></a>
 
 # Types of models
 
@@ -85,21 +85,21 @@ Test Dörner's list:
 Models must be "tractable" (apply logic). What about metaphors?
 
 
-<a id="org96f0bcd"></a>
+<a id="org89e3168"></a>
 
 # Many-model thinking
 
 > "We achieve wisdom through a multiplicity of lenses."
 
 
-<a id="orgd4745d4"></a>
+<a id="orgec376aa"></a>
 
 ## Criteria for many-model thinking
 
 > "The success of many-model thinking depends on a degree of separability."
 
 
-<a id="orgc676af2"></a>
+<a id="orgfa4c405"></a>
 
 ## Exercise: decision-making
 
@@ -109,14 +109,14 @@ Analyse a recent decision you've made:
 -   If you used only one model, why?
 
 
-<a id="org944ed5d"></a>
+<a id="orgb161464"></a>
 
 # What's next?
 
 ![img](./img/river.gif)
 
 
-<a id="orgc399a40"></a>
+<a id="orgb6272c8"></a>
 
 ## In the course
 
@@ -125,7 +125,7 @@ Analyse a recent decision you've made:
 -   When you should model (REDCAPE)
 
 
-<a id="org70dd4bf"></a>
+<a id="org916c9d3"></a>
 
 ## Your challenges
 
@@ -179,7 +179,7 @@ Analyse a recent decision you've made:
 *\*) do this every week until December*
 
 
-<a id="orgc8bead7"></a>
+<a id="org06150bc"></a>
 
 # Any questions?
 
