@@ -109,4 +109,4 @@
   #+attr_html: :width 500px
   [[./img/sip.gif]]
 
-  [[https://github.com/birkenkrahe/mod482/tree/main/2_why_model][This presentation is available online.]]
+  [[https://github.com/birkenkrahe/mod482/tree/main/2_model_thinking][This presentation is available online.]]
