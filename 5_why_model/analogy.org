@@ -153,7 +153,7 @@ world is making right now.”
 
    #+begin_quote
    The Rebel Alliance is the human body and the construction crews are
-   the protein-making machinery within cells. (Cp.[[starwars][xkcd cartoon]])
+   the protein-making machinery within cells. (Cp.[[https://xkcd.com/2425][ xkcd cartoon]])
    #+end_quote
 
 * [[gauld][Man vs Machine]]
