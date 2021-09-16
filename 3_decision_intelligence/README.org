@@ -12,3 +12,6 @@ applications and platforms that are currently relevant for industrial
 data science, and that can also (via the languages) be used to
 structure the material of this course (which otherwise may look like a
 bit of a potpourri).
+
+To view the ~.xmind~ presentation, you need to download the (free)
+mindmapping software from ~xmind.net~.
