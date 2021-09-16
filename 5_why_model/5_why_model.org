@@ -39,7 +39,7 @@
    * Hypothetical thinking over critical thinking
    * Constructivist school curricula (yours!)
 
-   ([[https://courses.lumenlearning.com/edpsy/chapter/psychological-constructivism-piagets-theories/][More on Piaget's theories]] - essay topic!)
+   ([[https://courses.lumenlearning.com/edpsy/chapter/psychological-constructivism-piagets-theories/][More on Piaget's theories]])
 
 * Three approaches to modeling
 
@@ -64,7 +64,7 @@
 
    [[./img/occam.gif]]
 
-* What did you think of this?
+* Uses of models: [[page][REDCAPE]]
 
   #+attr_html: :width 500px
   [[./img/redcape.png]]
@@ -184,6 +184,13 @@
 
   [[https://github.com/birkenkrahe/mod482/tree/main/5_why_model][This presentation is available online.]]
 
+* References
+
+  <<page>> Page SE (2021). The Model Thinker. New York: Basic Books.
+
+  N.a. (n.d.). Psychological Constructivism> Piaget's Theories
+  [Course]. [[https://courses.lumenlearning.com/edpsy/chapter/psychological-constructivism-piagets-theories/][Online: lumenlearning.com]].
+
 * Footnotes
 
 [fn:6]The extended example is based on my 2008 paper on this topic:
@@ -220,4 +227,4 @@ have precedence over their children.
 reason - e.g. because the company changed owner. This also applies
 when a family tries to exclude members - e.g. in Germany because
 someone was Jewish (in Nazi Germany), or because someone was a Nazi
-(in Germany after the Nazis).x
+(in Germany after the Nazis).
