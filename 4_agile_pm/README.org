@@ -1,3 +1,4 @@
+#+options: toc:nil
 * Agile methods
 
 This section covers agile methods, originally developed for software

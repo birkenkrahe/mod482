@@ -1,10 +1,4 @@
 
-# Table of Contents
-
-1.  [Agile methods](#org1ce504b)
-
-
-<a id="org1ce504b"></a>
 
 # Agile methods
 
