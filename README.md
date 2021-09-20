@@ -8,19 +8,19 @@
 -   For a TOC, open the bullet point list menu
 
 
-## [Agenda](https://github.com/birkenkrahe/mod482/blob/main/agenda.org)
+## [Agenda](https://github.com/birkenkrahe/mod482/blob/main/agenda.md)
 
 
-## [Course diary](https://github.com/birkenkrahe/mod482/blob/main/diary.org)
+## [Course diary](https://github.com/birkenkrahe/mod482/blob/main/diary.md)
 
 
 ## [Discussion forums](https://github.com/birkenkrahe/mod482/discussions)
 
 
-## [Frequently Asked Questions (FAQ)](https://github.com/birkenkrahe/mod482/blob/main/FAQ.org)
+## [Frequently Asked Questions (FAQ)](https://github.com/birkenkrahe/mod482/blob/main/FAQ.md)
 
 
-## [Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.org)
+## [Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md)
 
 
 ## History
