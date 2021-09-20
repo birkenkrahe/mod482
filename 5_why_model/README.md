@@ -1,5 +1,6 @@
-#+options: toc:nil
-* Why model? 
+
+
+# Why model?
 
 The purpose of this section is to introduce you to some model criteria
 and uses. The uses vary (across problems), but the general benefits of
@@ -16,3 +17,4 @@ the lecture, and given a few simple and a few complicated
 examples. Basically, you need to be thinking through the model
 limitations more carefully when the model is based on an analogy, like
 "crime is a disease", or "organizations are like families".
+
