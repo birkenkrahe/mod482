@@ -148,6 +148,16 @@
   * Models of systemic belonging ([[https://github.com/birkenkrahe/mod482/tree/main/5_why_model][lecture]])
   * System constellations ([[birk][Birkenkrahe, 2008]])
     
+* Week 6 - September 21
+
+  #+attr_html: :width 400px
+  [[./img/storytelling.jpg]]
+
+  * This week: *Storytelling* techniques:
+  * Short midterm exam on Thu September 30!
+  * Keep up with your essay research!
+  * Classes on Thu September 23 are cancelled
+  
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
