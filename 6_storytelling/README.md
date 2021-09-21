@@ -47,7 +47,7 @@
 
 # Storytelling mindmap
 
-([Mindmap version .xmind](https://github.com/birkenkrahe/mod482/blob/main/6_storytelling/6_storytelling.xmind))
+([Full mindmap XMind file](https://github.com/birkenkrahe/mod482/blob/main/6_storytelling/6_storytelling.xmind))
 
 ![img](./img/mindmap.png)
 
