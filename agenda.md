@@ -1,18 +1,18 @@
 
 # Table of Contents
 
--   [Week 2 - August 24](#orgebf4752)
--   [Week 2 - August 26](#org95b8bcc)
--   [Week 3 - August 31](#org7260d60)
--   [Week 3 - September 2](#org6110763)
--   [Week 4 - September 9](#org3a9f7ef)
--   [Week 5 - September 16](#orgc8dc4cf)
--   [Week 6 - September 21](#orge4fe4d3)
--   [References](#orgc997b91)
+-   [Week 2 - August 24](#org13cd9d8)
+-   [Week 2 - August 26](#org03ff8bd)
+-   [Week 3 - August 31](#orgdab272b)
+-   [Week 3 - September 2](#org52c33ea)
+-   [Week 4 - September 9](#org5d831e6)
+-   [Week 5 - September 16](#org888b414)
+-   [Week 6 - September 21](#orgf56e352)
+-   [References](#org6bf457c)
 
 
 
-<a id="orgebf4752"></a>
+<a id="org13cd9d8"></a>
 
 # Week 2 - August 24
 
@@ -34,7 +34,7 @@
 -   Questions?
 
 
-<a id="org95b8bcc"></a>
+<a id="org03ff8bd"></a>
 
 # Week 2 - August 26
 
@@ -59,7 +59,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="org7260d60"></a>
+<a id="orgdab272b"></a>
 
 # Week 3 - August 31
 
@@ -73,7 +73,7 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="org6110763"></a>
+<a id="org52c33ea"></a>
 
 # Week 3 - September 2
 
@@ -112,7 +112,7 @@
 -   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
 
-<a id="org3a9f7ef"></a>
+<a id="org5d831e6"></a>
 
 # Week 4 - September 9
 
@@ -257,20 +257,20 @@
 -   Owen: test frameworks (e.g. [this article](https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670))
 
 
-<a id="orgc8dc4cf"></a>
+<a id="org888b414"></a>
 
 # Week 5 - September 16
 
 ![img](./img/lecture.gif)
 
 -   [Test 4: agility, bias, canvas](https://lyon.schoology.com/assignment/5314232116/assessment_questions)
--   [Fireside chat with Scott Page](#orgb89efc1) (2020)
+-   [Fireside chat with Scott Page](#org7813043) (2020)
 -   The Model Thinker, chapter 2 "Why Model":
 -   Models of systemic belonging ([lecture](https://github.com/birkenkrahe/mod482/tree/main/5_why_model))
--   System constellations ([Birkenkrahe, 2008](#org55df535))
+-   System constellations ([Birkenkrahe, 2008](#org0c6370b))
 
 
-<a id="orge4fe4d3"></a>
+<a id="orgf56e352"></a>
 
 # Week 6 - September 21
 
@@ -279,19 +279,20 @@
 -   This week: **Storytelling** techniques:
 -   Short midterm exam on Thu September 30!
 -   Keep up with your essay research!
--   Classes on Thu September 23 are cancelled
+-   Homework: [Complete online lesson](https://h5p.org/node/800416) (30 min)
+-   **Classes on Thu September 23 are cancelled**
 
 
-<a id="orgc997b91"></a>
+<a id="org6bf457c"></a>
 
 # References
 
-<a id="org55df535"></a> Birkenkrahe, M. (2008). System constellations as tool
+<a id="org0c6370b"></a> Birkenkrahe, M. (2008). System constellations as tool
 supporting organisational learning and change processes. In:
 International Journal of Learning and Change 3(3),
 pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes). ([GDrive copy](https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing))
 
-<a id="orgb89efc1"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
+<a id="org7813043"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
 2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
 [theartistsofdatascience.fireside.fm](https://theartistsofdatascience.fireside.fm/scott-e-page).
 

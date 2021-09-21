@@ -150,13 +150,14 @@
     
 * Week 6 - September 21
 
-  #+attr_html: :width 400px
+  #+attr_html: :width 300px
   [[./img/storytelling.jpg]]
 
   * This week: *Storytelling* techniques:
   * Short midterm exam on Thu September 30!
   * Keep up with your essay research!
-  * Classes on Thu September 23 are cancelled
+  * Homework: [[https://h5p.org/node/800416][Complete online lesson]] (30 min)
+  * *Classes on Thu September 23 are cancelled*
   
 * References
 
