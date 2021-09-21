@@ -3,14 +3,50 @@
 * Storytelling videos
 
   1) [[https://youtu.be/ru84HBS7B_4][Introduction to storytelling | Pixar in a box (2017)]] (3')
+
+     Focus on crafting stories that contain personal reflections, uses
+     Pixar's production of "Monster Inc" as an example.
+     
   2) [[https://youtu.be/G8GR9hJ7lEY][A simple story by Richard Buckland (2016)]] (3')
+
+     Contains the most important elements of story. Explained by
+     telling a simple story.
+
+
   3) [[https://youtu.be/GY3u6QuZXEs][Nancy Duarte - the power of story (2010)]] (4')
+
+     Argues for mixing story (narrative) and report (facts) when
+     speaking to or communicating to business audiences.
+
   4) [[https://youtu.be/RipHYzhKCuI][Steve Denning - Leadership Storytelling (2011)]] (17')
+
+     Explains Denning's four criteria for effective storytelling in an
+     organizational (i.e. professional) setting: authenticity,
+     positive tone, minimal detail, and before/after plot.
+  
   5) [[https://youtu.be/4MNPjWxy5Bg][Videoprototyping example proofster.com (2016)]] (1')
+
+     Student team video prototype produced in less than one hour after
+     many weeks of collaborating with a startup.
+     
   6) [[https://youtu.be/3ljt5fKVryg][Storytelling - summary (2020)]] (3'32'') + [[https://youtu.be/94qw2drvl-k][exercise]] (2'17')
+
+     Short lecture on the basics of storytelling, and an outline of
+     the exercise (create a story for your research project).
+     
   7) [[https://youtu.be/xMuBp1U-rew][Research Storytelling sample 1 (2020)]]
+
+     Not a very effective solution to the exercise. Here, I use
+     Minto's pyramid principle recipe SCQA to structure the story.
+
   8) [[https://youtu.be/ebOqbdzIoU4][Research Storytelling sample 2 (2020)]]
+     
+     A more effective example of storytelling - same subject as the
+     first example, but transported using regular storytelling
+     elements.
 
 * Storytelling mindmap
-  
+
+  ([[https://github.com/birkenkrahe/mod482/blob/main/6_storytelling/6_storytelling.xmind][Mindmap version .xmind]])
+ 
      [[./img/mindmap.png]]
