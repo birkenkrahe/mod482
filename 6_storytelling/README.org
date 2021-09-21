@@ -1,0 +1,16 @@
+#+options: toc:nil
+
+* Storytelling videos
+
+  1) [[https://youtu.be/ru84HBS7B_4][Introduction to storytelling | Pixar in a box (2017)]] (3')
+  2) [[https://youtu.be/G8GR9hJ7lEY][A simple story by Richard Buckland (2016)]] (3')
+  3) [[https://youtu.be/GY3u6QuZXEs][Nancy Duarte - the power of story (2010)]] (4')
+  4) [[https://youtu.be/RipHYzhKCuI][Steve Denning - Leadership Storytelling (2011)]] (17')
+  5) [[https://youtu.be/4MNPjWxy5Bg][Videoprototyping example proofster.com (2016)]] (1')
+  6) [[https://youtu.be/3ljt5fKVryg][Storytelling - summary (2020)]] (3'32'') + [[https://youtu.be/94qw2drvl-k][exercise]] (2'17')
+  7) [[https://youtu.be/xMuBp1U-rew][Research Storytelling sample 1 (2020)]]
+  8) [[https://youtu.be/ebOqbdzIoU4][Research Storytelling sample 2 (2020)]]
+
+* Storytelling mindmap
+  
+     [[./img/mindmap.png]]
