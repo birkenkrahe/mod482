@@ -100,22 +100,22 @@
 
 <tr>
 <td class="org-left">23-Sep</td>
-<td class="org-left">User stories (Modeling human actors)</td>
+<td class="org-left">CANCELLED (Day of Renewal)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">28-Sep</td>
-<td class="org-left">Event-controlled process chains</td>
+<td class="org-left">User stories (Modeling human actors)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">30-Sep</td>
-<td class="org-left">Event-controlled process chains (lab)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Modeling science</td>
+<td class="org-left">Midterm exam</td>
 </tr>
 
 
@@ -128,42 +128,42 @@
 
 <tr>
 <td class="org-left">12-Oct</td>
-<td class="org-left">Business Process Model and Notation</td>
+<td class="org-left">Event controlled Process Chains</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">14-Oct</td>
-<td class="org-left">Business Process Model and Notation (lab)</td>
+<td class="org-left">Event controlled Process Chains (lab)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">19-Oct</td>
-<td class="org-left">Linear models</td>
+<td class="org-left">Business Process Model and Notation</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">21-Oct</td>
-<td class="org-left">Linear models (lab)</td>
+<td class="org-left">Business Process Model and Notation (lab)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">26-Oct</td>
-<td class="org-left">Models of value and power</td>
+<td class="org-left">Business Process Model and Notation (lab)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">28-Oct</td>
-<td class="org-left">Models of value and power (lab)</td>
+<td class="org-left">Unified Modeling Language (UML)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -198,14 +198,14 @@
 
 <tr>
 <td class="org-left">16-Nov</td>
-<td class="org-left">Non-linear models</td>
+<td class="org-left">Entity Relationship Diagrams (ERD)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">18-Nov</td>
-<td class="org-left">Non-linear models (lab)</td>
+<td class="org-left">Entity Relationship Diagrams (lab)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -219,14 +219,14 @@
 
 <tr>
 <td class="org-left">30-Nov</td>
-<td class="org-left">COVID-19 models</td>
+<td class="org-left">Process mining (lab)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">2-Dec</td>
-<td class="org-left">Summary and outlook</td>
+<td class="org-left">PRESENTATIONS</td>
 <td class="org-left">4th sprint review</td>
 </tr>
 </tbody>
