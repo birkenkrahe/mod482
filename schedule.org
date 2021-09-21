@@ -14,23 +14,23 @@
    | 14-Sep | Project work                              |                   |
    | 16-Sep | REDCAPE Model categories                  |                   |
    | 21-Sep | Storytelling (Modeling human actors)      |                   |
-   | 23-Sep | User stories (Modeling human actors)      |                   |
-   | 28-Sep | Event-controlled process chains           |                   |
-   | 30-Sep | Event-controlled process chains (lab)     |                   |
+   | 23-Sep | CANCELLED (Day of Renewal)                |                   |
+   | 28-Sep | User stories (Modeling human actors)      |                   |
+   | 30-Sep | Modeling science                          | Midterm exam      |
    | 7-Oct  | PRESENTATIONS                             | 2nd sprint review |
-   | 12-Oct | Business Process Model and Notation       |                   |
-   | 14-Oct | Business Process Model and Notation (lab) |                   |
-   | 19-Oct | Linear models                             |                   |
-   | 21-Oct | Linear models (lab)                       |                   |
-   | 26-Oct | Models of value and power                 |                   |
-   | 28-Oct | Models of value and power (lab)           |                   |
+   | 12-Oct | Event controlled Process Chains           |                   |
+   | 14-Oct | Event controlled Process Chains (lab)     |                   |
+   | 19-Oct | Business Process Model and Notation       |                   |
+   | 21-Oct | Business Process Model and Notation (lab) |                   |
+   | 26-Oct | Business Process Model and Notation (lab) |                   |
+   | 28-Oct | Unified Modeling Language (UML)           |                   |
    | 2-Nov  | Unified Modeling Language (UML)           |                   |
    | 4-Nov  | UML (lab)                                 | 3rd sprint review |
    | 9-Nov  | Robotic process automation (RPA)          |                   |
    | 11-Nov | RPA (lab)                                 |                   |
-   | 16-Nov | Non-linear models                         |                   |
-   | 18-Nov | Non-linear models (lab)                   |                   |
+   | 16-Nov | Entity Relationship Diagrams (ERD)        |                   |
+   | 18-Nov | Entity Relationship Diagrams (lab)        |                   |
    | 23-Nov | Process mining                            |                   |
-   | 30-Nov | COVID-19 models                           |                   |
-   | 2-Dec  | Summary and outlook                       | 4th sprint review |
+   | 30-Nov | Process mining (lab)                      |                   |
+   | 2-Dec  | PRESENTATIONS                             | 4th sprint review |
 
