@@ -232,7 +232,7 @@
 
 
 <tr>
-<td class="org-left">TBC</td>
+<td class="org-left">Dec 6-10</td>
 <td class="org-left">FINAL EXAM</td>
 <td class="org-left">FINAL EXAM</td>
 </tr>
