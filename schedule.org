@@ -1,36 +1,37 @@
 #+options: toc:nil
 * Schedule
 
-   | DATE   | LECTURES/GLOSSARY/LABS                    | PROJECT           |
-   |--------+-------------------------------------------+-------------------|
-   | 17-Aug | Course overview & purpose                 |                   |
-   | 19-Aug | Course project                            |                   |
-   | 24-Aug | Complex problems                          |                   |
-   | 26-Aug | Many-model thinking                       |                   |
-   | 31-Aug | Decision intelligence                     |                   |
-   | 2-Sep  | Literature reviews                        |                   |
-   | 7-Sep  | Agile management methods                  |                   |
-   | 9-Sep  | PRESENTATIONS                             | 1st sprint review |
-   | 14-Sep | Project work                              |                   |
-   | 16-Sep | REDCAPE Model categories                  |                   |
-   | 21-Sep | Storytelling (Modeling human actors)      |                   |
-   | 23-Sep | CANCELLED (Day of Renewal)                |                   |
-   | 28-Sep | User stories (Modeling human actors)      |                   |
-   | 30-Sep | Modeling science                          | Midterm exam      |
-   | 7-Oct  | PRESENTATIONS                             | 2nd sprint review |
-   | 12-Oct | Event controlled Process Chains           |                   |
-   | 14-Oct | Event controlled Process Chains (lab)     |                   |
-   | 19-Oct | Business Process Model and Notation       |                   |
-   | 21-Oct | Business Process Model and Notation (lab) |                   |
-   | 26-Oct | Business Process Model and Notation (lab) |                   |
-   | 28-Oct | Unified Modeling Language (UML)           |                   |
-   | 2-Nov  | Unified Modeling Language (UML)           |                   |
-   | 4-Nov  | UML (lab)                                 | 3rd sprint review |
-   | 9-Nov  | Robotic process automation (RPA)          |                   |
-   | 11-Nov | RPA (lab)                                 |                   |
-   | 16-Nov | Entity Relationship Diagrams (ERD)        |                   |
-   | 18-Nov | Entity Relationship Diagrams (lab)        |                   |
-   | 23-Nov | Process mining                            |                   |
-   | 30-Nov | Process mining (lab)                      |                   |
-   | 2-Dec  | PRESENTATIONS                             | 4th sprint review |
+   | DATE   | LECTURES/GLOSSARY/LABS                    | PROJECT/PROTOCOL    |
+   |--------+-------------------------------------------+---------------------|
+   | 17-Aug | Course overview & purpose                 |                     |
+   | 19-Aug | Course project                            |                     |
+   | 24-Aug | Complex problems                          |                     |
+   | 26-Aug | Many-model thinking                       |                     |
+   | 31-Aug | Decision intelligence                     |                     |
+   | 2-Sep  | Literature reviews                        |                     |
+   | 7-Sep  | Agile management methods                  |                     |
+   | 9-Sep  | PRESENTATIONS                             | 1ST SPRINT REVIEW   |
+   | 14-Sep | Project work                              |                     |
+   | 16-Sep | REDCAPE Model categories                  |                     |
+   | 21-Sep | Storytelling (Modeling human actors)      |                     |
+   | 23-Sep | CANCELLED (Day of Renewal)                |                     |
+   | 28-Sep | User stories (Modeling human actors)      |                     |
+   | 30-Sep | Summary "The Model Thinker"               | MIDTERM EXAM        |
+   | 7-Oct  | PRESENTATIONS                             | 2ND SPRINT REVIEW   |
+   | 12-Oct | Event controlled Process Chains           |                     |
+   | 14-Oct | Event controlled Process Chains (lab)     | Nick Czerwinski     |
+   | 19-Oct | Business Process Model and Notation       | Wyatt Frerichs      |
+   | 21-Oct | Business Process Model and Notation (lab) | Owen Hardin         |
+   | 26-Oct | Business Process Model and Notation (lab) | Fortunato Hernandez |
+   | 28-Oct | Unified Modeling Language (UML)           | Malcolm Howard      |
+   | 2-Nov  | Unified Modeling Language (UML)           | Molly Mellor        |
+   | 4-Nov  | PRESENTATIONS                             | 3RD SPRINT REVIEW   |
+   | 9-Nov  | Robotic process automation (RPA)          | Nick Norwood        |
+   | 11-Nov | RPA (lab)                                 | Dat O               |
+   | 16-Nov | Entity Relationship Diagrams (ERD)        | Dane Roach          |
+   | 18-Nov | Entity Relationship Diagrams (lab)        | Jacob Sampley       |
+   | 23-Nov | Process mining                            | William Sonnier     |
+   | 30-Nov | Process mining (lab)                      | Nick Chaney         |
+   | 2-Dec  | PRESENTATIONS                             | 4TH SPRINT REVIEW   |
+   | TBC    | FINAL EXAM                                | FINAL EXAM          |
 

@@ -16,7 +16,7 @@
 <tr>
 <th scope="col" class="org-left">DATE</th>
 <th scope="col" class="org-left">LECTURES/GLOSSARY/LABS</th>
-<th scope="col" class="org-left">PROJECT</th>
+<th scope="col" class="org-left">PROJECT/PROTOCOL</th>
 </tr>
 </thead>
 
@@ -73,7 +73,7 @@
 <tr>
 <td class="org-left">9-Sep</td>
 <td class="org-left">PRESENTATIONS</td>
-<td class="org-left">1st sprint review</td>
+<td class="org-left">1ST SPRINT REVIEW</td>
 </tr>
 
 
@@ -114,15 +114,15 @@
 
 <tr>
 <td class="org-left">30-Sep</td>
-<td class="org-left">Modeling science</td>
-<td class="org-left">Midterm exam</td>
+<td class="org-left">Summary "The Model Thinker"</td>
+<td class="org-left">MIDTERM EXAM</td>
 </tr>
 
 
 <tr>
 <td class="org-left">7-Oct</td>
 <td class="org-left">PRESENTATIONS</td>
-<td class="org-left">2nd sprint review</td>
+<td class="org-left">2ND SPRINT REVIEW</td>
 </tr>
 
 
@@ -136,98 +136,105 @@
 <tr>
 <td class="org-left">14-Oct</td>
 <td class="org-left">Event controlled Process Chains (lab)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Nick Czerwinski</td>
 </tr>
 
 
 <tr>
 <td class="org-left">19-Oct</td>
 <td class="org-left">Business Process Model and Notation</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Wyatt Frerichs</td>
 </tr>
 
 
 <tr>
 <td class="org-left">21-Oct</td>
 <td class="org-left">Business Process Model and Notation (lab)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Owen Hardin</td>
 </tr>
 
 
 <tr>
 <td class="org-left">26-Oct</td>
 <td class="org-left">Business Process Model and Notation (lab)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Fortunato Hernandez</td>
 </tr>
 
 
 <tr>
 <td class="org-left">28-Oct</td>
 <td class="org-left">Unified Modeling Language (UML)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Malcolm Howard</td>
 </tr>
 
 
 <tr>
 <td class="org-left">2-Nov</td>
 <td class="org-left">Unified Modeling Language (UML)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Molly Mellor</td>
 </tr>
 
 
 <tr>
 <td class="org-left">4-Nov</td>
-<td class="org-left">UML (lab)</td>
-<td class="org-left">3rd sprint review</td>
+<td class="org-left">PRESENTATIONS</td>
+<td class="org-left">3RD SPRINT REVIEW</td>
 </tr>
 
 
 <tr>
 <td class="org-left">9-Nov</td>
 <td class="org-left">Robotic process automation (RPA)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Nick Norwood</td>
 </tr>
 
 
 <tr>
 <td class="org-left">11-Nov</td>
 <td class="org-left">RPA (lab)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Dat O</td>
 </tr>
 
 
 <tr>
 <td class="org-left">16-Nov</td>
 <td class="org-left">Entity Relationship Diagrams (ERD)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Dane Roach</td>
 </tr>
 
 
 <tr>
 <td class="org-left">18-Nov</td>
 <td class="org-left">Entity Relationship Diagrams (lab)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Jacob Sampley</td>
 </tr>
 
 
 <tr>
 <td class="org-left">23-Nov</td>
 <td class="org-left">Process mining</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">William Sonnier</td>
 </tr>
 
 
 <tr>
 <td class="org-left">30-Nov</td>
 <td class="org-left">Process mining (lab)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Nick Chaney</td>
 </tr>
 
 
 <tr>
 <td class="org-left">2-Dec</td>
 <td class="org-left">PRESENTATIONS</td>
-<td class="org-left">4th sprint review</td>
+<td class="org-left">4TH SPRINT REVIEW</td>
+</tr>
+
+
+<tr>
+<td class="org-left">TBC</td>
+<td class="org-left">FINAL EXAM</td>
+<td class="org-left">FINAL EXAM</td>
 </tr>
 </tbody>
 </table>
