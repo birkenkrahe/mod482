@@ -1,18 +1,19 @@
 
 # Table of Contents
 
--   [Week 2 - August 24](#org13cd9d8)
--   [Week 2 - August 26](#org03ff8bd)
--   [Week 3 - August 31](#orgdab272b)
--   [Week 3 - September 2](#org52c33ea)
--   [Week 4 - September 9](#org5d831e6)
--   [Week 5 - September 16](#org888b414)
--   [Week 6 - September 21](#orgf56e352)
--   [References](#org6bf457c)
+-   [Week 2 - August 24](#org00a7659)
+-   [Week 2 - August 26](#orga37cf65)
+-   [Week 3 - August 31](#org752b5db)
+-   [Week 3 - September 2](#org6372bb1)
+-   [Week 4 - September 9](#org57a1009)
+-   [Week 5 - September 16](#org6df4afa)
+-   [Week 6 - September 21](#orgceb05c8)
+-   [Week 7 - September 28](#org605f460)
+-   [References](#org8754aa9)
 
 
 
-<a id="org13cd9d8"></a>
+<a id="org00a7659"></a>
 
 # Week 2 - August 24
 
@@ -34,7 +35,7 @@
 -   Questions?
 
 
-<a id="org03ff8bd"></a>
+<a id="orga37cf65"></a>
 
 # Week 2 - August 26
 
@@ -59,7 +60,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="orgdab272b"></a>
+<a id="org752b5db"></a>
 
 # Week 3 - August 31
 
@@ -73,7 +74,7 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="org52c33ea"></a>
+<a id="org6372bb1"></a>
 
 # Week 3 - September 2
 
@@ -112,7 +113,7 @@
 -   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
 
-<a id="org5d831e6"></a>
+<a id="org57a1009"></a>
 
 # Week 4 - September 9
 
@@ -257,20 +258,20 @@
 -   Owen: test frameworks (e.g. [this article](https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670))
 
 
-<a id="org888b414"></a>
+<a id="org6df4afa"></a>
 
 # Week 5 - September 16
 
 ![img](./img/lecture.gif)
 
 -   [Test 4: agility, bias, canvas](https://lyon.schoology.com/assignment/5314232116/assessment_questions)
--   [Fireside chat with Scott Page](#org7813043) (2020)
+-   [Fireside chat with Scott Page](#org2a388c1) (2020)
 -   The Model Thinker, chapter 2 "Why Model":
 -   Models of systemic belonging ([lecture](https://github.com/birkenkrahe/mod482/tree/main/5_why_model))
--   System constellations ([Birkenkrahe, 2008](#org0c6370b))
+-   System constellations ([Birkenkrahe, 2008](#org1f5f14e))
 
 
-<a id="orgf56e352"></a>
+<a id="orgceb05c8"></a>
 
 # Week 6 - September 21
 
@@ -279,20 +280,29 @@
 -   This week: **Storytelling** techniques:
 -   Short midterm exam on Thu September 30!
 -   Keep up with your essay research!
--   Homework: [Complete online lesson](https://h5p.org/node/800416) (30 min)
+-   Homework 1: [Complete online lesson](https://h5p.org/node/800416)
+-   Homework 2: [Post a story on your essay topic](https://github.com/birkenkrahe/mod482/discussions/3)
 -   **Classes on Thu September 23 are cancelled**
 
 
-<a id="org6bf457c"></a>
+<a id="org605f460"></a>
+
+# Week 7 - September 28
+
+-   Homework 1: [Complete online lesson](https://h5p.org/node/800416)
+-   Homework 2: [Post a story on your essay topic](https://github.com/birkenkrahe/mod482/discussions/3)
+
+
+<a id="org8754aa9"></a>
 
 # References
 
-<a id="org0c6370b"></a> Birkenkrahe, M. (2008). System constellations as tool
+<a id="org1f5f14e"></a> Birkenkrahe, M. (2008). System constellations as tool
 supporting organisational learning and change processes. In:
 International Journal of Learning and Change 3(3),
 pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes). ([GDrive copy](https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing))
 
-<a id="org7813043"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
+<a id="org2a388c1"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
 2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
 [theartistsofdatascience.fireside.fm](https://theartistsofdatascience.fireside.fm/scott-e-page).
 

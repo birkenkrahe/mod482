@@ -156,8 +156,14 @@
   * This week: *Storytelling* techniques:
   * Short midterm exam on Thu September 30!
   * Keep up with your essay research!
-  * Homework: [[https://h5p.org/node/800416][Complete online lesson]] (30 min)
+  * Homework 1: [[https://h5p.org/node/800416][Complete online lesson]]
+  * Homework 2: [[https://github.com/birkenkrahe/mod482/discussions/3][Post a story on your essay topic]]
   * *Classes on Thu September 23 are cancelled*
+
+* Week 7 - September 28
+
+  * Homework 1: [[https://h5p.org/node/800416][Complete online lesson]]
+  * Homework 2: [[https://github.com/birkenkrahe/mod482/discussions/3][Post a story on your essay topic]]
   
 * References
 
