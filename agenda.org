@@ -1,177 +1,281 @@
 #+TITLE:Agenda
 #+AUTHOR:Marcus Birkenkrahe
-#+SUBTITLE: Data modeling seminar 482.02
+#+SUBTITLE: AI seminar 482.01
 #+reveal_theme: black
 #+reveal_init_options: transition:'cube'
 #+OPTIONS: toc:1 num:nil fig:nil
-* Week 2 - August 24
+* Week 2 - August 25
 
   #+attr_html: :height 300px
-  [[./img/keaton.gif]]
+  [[./img/bardot.gif]]
 
   * Housekeeping
-  * "Many-model thinking"
-  * Why Model? - "REDCAPE"
-  * Next week: essay topics!
+  * Four approaches to AI
+  * Major issues
+  * Next week: AI applications
 
 ** Housekeeping
 
-   * First weekly test ([[https://lyon.schoology.com/assignment/5227019586/assessment_questions][Schoology]])
-   * Reading assignment ([[https://www.amazon.com/Model-Thinker-What-Need-Know/dp/B08WHN4M7S]["The Model Thinker"]])
-   * Delayed Schedule ([[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#schedule-and-session-content][GitHub]])
-   * FAQ: ask questions! ([[https://github.com/birkenkrahe/mod482/blob/main/FAQ.md][GitHub]])
-   * Term Diary ([[https://github.com/birkenkrahe/org/blob/master/diary.md#org3b0dc9e][GitHub]])
-   * Questions?
-* Week 2 - August 26
+   * Protocol ([[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md][GitHub]])
+   * Bookmarks ([[https://github.com/birkenkrahe/ai482/blob/main/bookmarks.md][GitHub]])
+   * Missing sessions:
+     - Google meet? (Poll: Y/N)
+     - Agendas will be posted
 
-  #+attr_html: :height 300px
-  [[./img/keaton.gif]]
+* Week 2 - August 27
+
+  #+attr_html: :height 200px
+  [[./img/grace.png]]
 
   * Housekeeping
-  * Recap: complex systems
-  * Next: "Many-model thinking"
-  * Decision intelligence tools
+  * Rational agents
+  * Major issues
+
+    /Image: "Grace, the ultra-lifelike nurse robot" ([[cairns21][Cairns, 2021]])/
 
 ** Housekeeping
 
-   * Video recording ([[https://meet.google.com/ccb-ihqm-akb][Google meet]])
-   * Essay ideas ([[https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#essay-ideas][GitHub]])
-   * Questions?
+   #+attr_html: :height 200px
+   [[./img/housekeeping.gif]]
 
-** Recap
+   * [[https://meet.google.com/pkv-torj-fyt][Google meet]]
+   * Staying on top of AI (blogs)
+   * AI presentation = individual
+   * AI application = team
+   * Make them work in tandem
 
-   * What do you remember?
-   * "Strategic flexibility" ([[https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure][GitHub]])
-* Week 3 - August 31
+*** [Curated] AI blogs
+
+    * [[https://blog.feedspot.com/ai_blogs/][Top 10 blogs and sites (2021)]]
+    * [[https://blog.education-ecosystem.com/10-artificial-intelligence-blogs/][10 Best AI Blogs To Follow (2017)]]
+    * [[https://ai.googleblog.com/][Google AI Blog]]
+    * [[https://blogs.microsoft.com/ai/][Microsoft AI Blog]]
+    * [[https://aws.amazon.com/blogs/machine-learning/][Amazon AI Blog]]
+
+** References
+
+   <<cairns21>> [[https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html][Cairns, R (19 Aug 2021). Meet Grace, the
+   ultra-lifelike nurse robot. Online: cnn.com.]]
+
+* Week 3 - August 30
+
+  #+attr_html: :height 200px
+  [[./img/rugby.gif]]
+
+  * Housekeeping
+  * Mon: AI approaches pros/cons
+  * Wed: Ideas generation
+  * Fri: Project canvas
+
+** Housekeeping
+
+   #+attr_html: :height 200px
+   [[./img/housekeeping.gif]]
+
+   * [[https://meet.google.com/nmy-dydn-kwy][Google meet]]
+   * [[https://lyon.schoology.com/assignment/5257337255/assessment_questions][AI Test 2: What is AI?]]
+   * [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/followup_08_27.md][Followup]] / [[https://github.com/birkenkrahe/ai482/blob/main/diary.md][Diary]]
+   * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2][Scrum FAQs]] / TODO: video (MB)
+
+** Ideas generation
+
+   * Goal: choice of topic
+   * Presentation (solo)
+   * [[https://github.com/birkenkrahe/ai482/discussions/4][Submit presentation ideas (Wed)]]
+   * AI application (*pick a team!*)
+   * Project canvas (Fri)
+
+** AI approaches pros/cons
+
+   #+attr_html: :height 200px
+   [[./img/approaches1.png]]
+
+   * [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/2_what_is_ai.md#pros-and-cons][Group exercise]]
+   * [[https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343][Results on Kanban board]]
+   * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf][Present and discuss in class]]
+* Week 4 - September 8
+
+  #+attr_html: :height 250px
+  [[./img/wayne.png]]
+
+  #+begin_quote
+  "I'm concerned with the world in which we'll live tomorrow."
+  #+end_quote
+
+** Housekeeping
+
+   #+attr_html: :height 400px
+   [[./img/goose.gif]]
+
+   * Test 3: research project
+   * Project canvas & sprint review
+   * Group work: history of AI
+
+** Project
+
+   #+attr_html: :height 400px
+   [[./img/sample.png]]
+
+   * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/ProjectCanvasSampleAI.pdf][Project Canvas (sample)]]
+   * [[https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review][First sprint review]]
+
+** History of AI
+
+   [[./img/newell.png]]
+
+   * [[https://youtu.be/5YBIrc-6G-0]["The Thinking Machine" (1961)]]
+   * Structured group discussion[fn:1]
+   * Protocol: Fortunato
+
+** Group discussion
+
+   | A: Can technologists learn anything from historical documents? If yes (or no), why (not)? |
+   | B: What's the feeling tone of the film? Optimism, scepticism, ambitions?                  |
+   | C: SWOT analysis (Strenghts/Weaknesses/Opportunities/Threats)                             |
+   | D: What are the key questions/issues here: are they still current?                        |
+
+* Week 4 - September 10
 
   [[./img/rugby.gif]]
 
-  * [[https://lyon.schoology.com/assignment/5257398641/assessment_questions][Test 2 is live - 10 questions]]
-  * [[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#schedule-and-session-content][New project deadline: 9-Sep-2021]]
-  * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/3_decision_intelligence][Decision intelligence]]
-  * Essay: topic identification how?
-  * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm][Agile project management]]
-  * New [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2][Scrum FAQs]]
+  * [[https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/followup_09_08_2021.md][Followup: The Thinking Machine I]]
+  * [[https://github.com/birkenkrahe/org/blob/master/diary.md][Learning & Agile Methods]]
+  * [[https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review][First sprint reviews]] (Team project)
+  * Still no ideas? [[https://hai.stanford.edu/2021-spring-conference-agenda][See Stanford '21 conference]]
 
-* Week 3 - September 2
+* Week 5 - September 13
 
-  #+attr_html: :width 400
-  [[./img/autumn.gif]]
+  [[./img/analogy.gif]]
 
-** Essay project
+  * Housekeeping
+  * Analogies
+  * Are we machines?
 
-   [[./img/rugby.gif]]
+** Housekeeping
 
-   * [[https://github.com/birkenkrahe/mod482/discussions/2][Submit your essay topics by Sep-9]]
-   * Add [[https://github.com/birkenkrahe/org/blob/master/Systematic_Literature_Review_Example_Table.docx][systematic literature review]]!
-   * Formal issue: (inline) referencing
-   * [[https://github.com/birkenkrahe/mod482/blob/main/3_decision_intelligence/followup_08_31_2021.md][Wide choice of topics]]
-   * [[https://github.com/birkenkrahe/mod482/blob/main/3_decision_intelligence/followup_08_31_2021.md#research-a-topic-based-on-a-scientific-article][Example: Big Data Graph Databases]]
-   * How to read a scientific article?
+   #+attr_html: :width 300px
+   [[./img/breakfast.gif]]
 
-** Agile management
+   * No more tests (participation 50%)
+   * Use the protocols instead
+   * This week: history and philosophy of AI
 
-   #+attr_html: :width 400
-   [[./img/agile.gif]]
+** Analogies
 
-   * Lecture: [[https://github.com/birkenkrahe/mod482/tree/main/4_agile_pm][Agile [project] management]]
-   * Exercise: set up an agile project!
-   * Come up with any research question
-   * Tool: [[https://github.com/birkenkrahe/org/blob/master/ProjectCanvas.pdf][Project Canvas]]
+   #+attr_html: :width 300px
+   [[./img/rose.gif]]
 
-** Next week
+   * Full lecture available ([[https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/analogy.org][GitHub]])
+   * /"Your lips are like a red, red rose."/
+   * What are the limitations of this analogy?
+   * Analogies are persuasion tools
 
-   #+attr_html: :height 300
-   [[./img/redcape.gif]]
+** Are we machines?
 
-   * Bring research question ([[https://github.com/birkenkrahe/org/blob/master/ProjectCanvas.pdf][project canvas]])
-   * Lecture: Why Model? (Page ch. 2)
-   * REDCAPE model criteria (essay?)
-   * Thursday: 1st sprint review ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint][FAQ]])
+   #+attr_html: :width 300px
+   [[./img/robotarm.gif]]
 
-* Week 4 - September 9
+   * [[https://youtu.be/5YBIrc-6G-0?t=920][The Thinking Machine (15'-33')]]
+   * Pair up to discuss the analogies
+   * Argue: "How are humans NOT like machines."
+   * Briefly present your findings
 
-  [[./img/rugby.gif]]
-
-  * [[https://github.com/birkenkrahe/org/blob/master/diary.md][Learning & Agile Methods]] (diary)
-  * [[https://github.com/birkenkrahe/mod482/blob/main/4_agile_pm/followup_09_07_2021.md][3P / efficiency vs resilience]] (followup)
-  * [[https://github.com/birkenkrahe/mod482/discussions/2][First sprint reviews]]
-  * Next: Why Model? (Read for Tue Sep 14)
-
-** Sprint reviews
-
-   [[./img/sprint.gif]]
-
-   * Everyone: present yr research question
-   * Everyone else: prepare 1 question
-   * Ask 2 of your questions
-   * MB: critique questions
-
-** Two examples
-
-   [[./img/examples.gif]]
-
-*** Molly: [[https://psycnet.apa.org/record/2002-08436-005][Grounded Theory analysis of creativity]]
-
-    | PRO                 | CON               |
-    |---------------------+-------------------|
-    | Important framework | Difficult method  |
-    | Important issue     | Complex topic     |
-    | Lots of examples    | Lots of confusion |
-    | Peer reviewed       | Date (2002)       |
-    | Lots of literature  | Not open source   |
-    | Focus on art making | Small samples     |
-
-*** Owen: [[https://reader.elsevier.com/reader/sd/pii/S2590061720300569?token=CB8A5AB8B610593FD4CB342F3BD7658FFA2053C3D96188C2187DC62C4BECB08B47432F38EB25A429B94B7B391EB77DBE&originRegion=us-east-1&originCreation=20210909135607][The spread of misinformation]]
-
-    | PRO                 | CON              |
-    |---------------------+------------------|
-    | Recent & relevant   | Divisive case    |
-    | Reputable publisher | Conclusions weak |
-    | Many models         | Many models      |
-    | Quantitative study  | Potential bias   |
-    | Literature review   | Many theories    |
-    | Linear regression   | Causal inference |
-
-*** Suggestions
-    
-    * Molly: additional literature (e.g. [[https://www.brainpickings.org/2013/05/20/arthur-koestler-creativity-bisociation/][Koestler]])
-    * Owen: test frameworks (e.g. [[https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670][this article]])
-
-* Week 5 - September 16
-
-  [[./img/lecture.gif]]
-
-  * [[https://lyon.schoology.com/assignment/5314232116/assessment_questions][Test 4: agility, bias, canvas]]
-  * [[scott][Fireside chat with Scott Page]] (2020)
-  * The Model Thinker, chapter 2 "Why Model":
-  * Models of systemic belonging ([[https://github.com/birkenkrahe/mod482/tree/main/5_why_model][lecture]])
-  * System constellations ([[birk][Birkenkrahe, 2008]])
-    
-* Week 6 - September 21
+* Week 5 - September 15
 
   #+attr_html: :width 300px
-  [[./img/storytelling.jpg]]
+  [[./img/western.png]]
 
-  * This week: *Storytelling* techniques:
-  * Short midterm exam on Thu September 30!
-  * Keep up with your essay research!
-  * Homework 1: [[https://h5p.org/node/800416][Complete online lesson]]
-  * Homework 2: [[https://github.com/birkenkrahe/mod482/discussions/3][Post a story on your essay topic]]
-  * *Classes on Thu September 23 are cancelled*
+  #+begin_quote
+  "Intelligent behavior is rule-obeying behavior."
+  #+end_quote
 
-* Week 7 - September 28
+** Automatic creativity?
 
-  * Homework 1: [[https://h5p.org/node/800416][Complete online lesson]]
-  * Homework 2: [[https://github.com/birkenkrahe/mod482/discussions/3][Post a story on your essay topic]]
-  
+*** [[legro][Plotto book (Legro, 2012)]]
+
+    #+attr_html: :width 400px
+    [[./img/cook.png]]
+
+*** [[collins][Wycliffe Hill's 1931 plot robot (Collins, 2009)]]
+
+    #+attr_html: :width 400px
+    [[./img/plotto.jpg]]
+
+*** [[redgrave][Plotto game (Redgrave, 2018)]]
+
+    #+attr_html: :width 400px
+    [[./img/plottogame.png]]
+
+** Creativity and AI
+
+   * [[https://youtu.be/5YBIrc-6G-0?t=920][The Thinking Machine (34'-47')']]
+   * When do you feel creative?
+   * Do you think AI could help or replace this?
+   * What's intelligent about your AI application?
+   * Briefly present your findings
+
+** References
+
+   <<collins>> Collins P (6 Jul 2009). The King of All Formulas
+   [Blog]. [[https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html][Online: slate.com.]]
+
+   <<legro>> Legro M (6 Jan 2012). Plotto: The Master Book of All
+   Plots [Blog]. [[https://www.brainpickings.org/2012/01/06/plotto/][Online: brainpickings.org.]]
+
+   <<redgrave>> Redgrave AL (29 Apr 2018). Plotto Demo
+   [Video]. [[https://youtu.be/VbWrs8wm5sA][Online: youtube.com]].
+
+* Week 5 - September 17
+
+  * Topic change? Anyone interested in "Grammarly"?
+  * History of AI after 1960
+  * Next: Intelligent Agents (AIMA)
+  * Next: AI in Sales and Marketing (example)
+
+* Week 6 - September 20/22
+
+  * Intelligent agents - PEAS
+  * [[https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents][Lectures in GitHub]]
+
+* Week 6 - September 24
+
+  #+attr_html: :width 400px
+  [[./img/agents.jpg]]
+
+  * Types of intelligent agents ([[https://youtu.be/UjQ1AzSvCp8?t=1302][Iacobelli, 2015]])
+  * AI state of the art
+    - Part I: AI research-to-production gap ([[https://youtu.be/tsPuVAMaADY?t=367][Stanford HAI, 2020]])
+    - Part II: Change management
+    - Part III: Full cycle of ML projects
+
+  /Image source: [[williams][Williams, 2020]]./
+
+* Week 7 - September 27
+
+  #+attr_html: :width 500px
+  [[./img/talk.png]]
+
+  * Small data algorithms: [[https://github.com/birkenkrahe/ai482/tree/main/6_ai_state_of_the_art#small-data][GANs/GPT-3]]
+  * Today: "Change management and ML"
+  * Next: "Full ML project cycle"
+
 * References
 
-  <<birk>> Birkenkrahe, M. (2008). System constellations as tool
-  supporting organisational learning and change processes. In:
-  International Journal of Learning and Change 3(3),
-  pp. 125-144. [[https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes][Online: researchgate.net]]. ([[https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing][GDrive copy]])
+  Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
+  [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][Online: youtube.com]].
 
-  <<scott>> The Artists of Data Science with Harpreet Sahota (31 Aug
-  2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
-  [[https://theartistsofdatascience.fireside.fm/scott-e-page][theartistsofdatascience.fireside.fm]].
+  Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
+  Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
+
+  <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues about new
+  Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
+
+
+* Footnotes
+
+[fn:1]"Structured group discussion" means that I'm providing a
+framework for group discussion and group results (e.g. a set of
+questions), and a timeline. Your job is to execute the framework
+within the allotted time and present the results as good as you
+can. For participation, only participating and trying (harder) is
+evaluated, not the quality of the result itself.
