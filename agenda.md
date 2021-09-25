@@ -1,19 +1,19 @@
 
 # Table of Contents
 
--   [Week 2 - August 24](#org00a7659)
--   [Week 2 - August 26](#orga37cf65)
--   [Week 3 - August 31](#org752b5db)
--   [Week 3 - September 2](#org6372bb1)
--   [Week 4 - September 9](#org57a1009)
--   [Week 5 - September 16](#org6df4afa)
--   [Week 6 - September 21](#orgceb05c8)
--   [Week 7 - September 28](#org605f460)
--   [References](#org8754aa9)
+-   [Week 2 - August 24](#org6a3687a)
+-   [Week 2 - August 26](#org313034b)
+-   [Week 3 - August 31](#orgf1870ba)
+-   [Week 3 - September 2](#org8b957d2)
+-   [Week 4 - September 9](#orgb312e6f)
+-   [Week 5 - September 16](#org3ac64f1)
+-   [Week 6 - September 21](#org68e51f0)
+-   [Week 7 - September 28](#org2edba44)
+-   [References](#org5045f9a)
 
 
 
-<a id="org00a7659"></a>
+<a id="org6a3687a"></a>
 
 # Week 2 - August 24
 
@@ -35,7 +35,7 @@
 -   Questions?
 
 
-<a id="orga37cf65"></a>
+<a id="org313034b"></a>
 
 # Week 2 - August 26
 
@@ -60,7 +60,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="org752b5db"></a>
+<a id="orgf1870ba"></a>
 
 # Week 3 - August 31
 
@@ -74,7 +74,7 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="org6372bb1"></a>
+<a id="org8b957d2"></a>
 
 # Week 3 - September 2
 
@@ -113,7 +113,7 @@
 -   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
 
-<a id="org57a1009"></a>
+<a id="orgb312e6f"></a>
 
 # Week 4 - September 9
 
@@ -258,20 +258,20 @@
 -   Owen: test frameworks (e.g. [this article](https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670))
 
 
-<a id="org6df4afa"></a>
+<a id="org3ac64f1"></a>
 
 # Week 5 - September 16
 
 ![img](./img/lecture.gif)
 
 -   [Test 4: agility, bias, canvas](https://lyon.schoology.com/assignment/5314232116/assessment_questions)
--   [Fireside chat with Scott Page](#org2a388c1) (2020)
+-   [Fireside chat with Scott Page](#org68abecf) (2020)
 -   The Model Thinker, chapter 2 "Why Model":
 -   Models of systemic belonging ([lecture](https://github.com/birkenkrahe/mod482/tree/main/5_why_model))
--   System constellations ([Birkenkrahe, 2008](#org1f5f14e))
+-   System constellations ([Birkenkrahe, 2008](#orgf3ca19a))
 
 
-<a id="orgceb05c8"></a>
+<a id="org68e51f0"></a>
 
 # Week 6 - September 21
 
@@ -285,24 +285,34 @@
 -   **Classes on Thu September 23 are cancelled**
 
 
-<a id="org605f460"></a>
+<a id="org2edba44"></a>
 
 # Week 7 - September 28
 
+![img](./img/usecase.jpg)
+
 -   Homework 1: [Complete online lesson](https://h5p.org/node/800416)
 -   Homework 2: [Post a story on your essay topic](https://github.com/birkenkrahe/mod482/discussions/3)
+-   Lecture & Lab: User Stories
+-   Next: midterm exam (Thu Sept 30, 2.30pm)
+    
+    *Figure: [Fraifer/Fernstrom, 2016](#org216eff6)*
 
 
-<a id="org8754aa9"></a>
+<a id="org5045f9a"></a>
 
 # References
 
-<a id="org1f5f14e"></a> Birkenkrahe, M. (2008). System constellations as tool
+<a id="orgf3ca19a"></a> Birkenkrahe, M. (2008). System constellations as tool
 supporting organisational learning and change processes. In:
 International Journal of Learning and Change 3(3),
 pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes). ([GDrive copy](https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing))
 
-<a id="org2a388c1"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
+<a id="org216eff6"></a> Fraifer/Fernstrom (2016). Designing an IoT Smart Parking
+Prototype System. In: Proc. ISCA 2016, Dublin. Online:
+[researchgate.net](https://www.researchgate.net/publication/311535838_Designing_an_IoT_Smart_Parking_Prototype_System).
+
+<a id="org68abecf"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
 2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
 [theartistsofdatascience.fireside.fm](https://theartistsofdatascience.fireside.fm/scott-e-page).
 
