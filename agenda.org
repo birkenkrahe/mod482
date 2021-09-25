@@ -162,14 +162,15 @@
 
 * Week 7 - September 28
 
-  [[./img/usecase.jpg]]
+  #+attr_html: :width 500px
+  [[./img/userstory.png]]
 
-  * Homework 1: [[https://h5p.org/node/800416][Complete online lesson]]
+  * Homework 1: [[https://h5p.org/node/800416][Complete online lesson]] (Denning)
   * Homework 2: [[https://github.com/birkenkrahe/mod482/discussions/3][Post a story on your essay topic]]
-  * Lecture & Lab: User Stories
-  * Next: midterm exam (Thu Sept 30, 2.30pm)
+  * Lecture & Lab: *User Stories*
+  * Next: midterm exam (*Thu Sept 30, 2.30pm*)
 
-    /Figure: [[fig][Fraifer/Fernstrom, 2016]]/
+    /Figure: [[fig][Shah 2019]]/
   
 * References
 
@@ -178,11 +179,9 @@
   International Journal of Learning and Change 3(3),
   pp. 125-144. [[https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes][Online: researchgate.net]]. ([[https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing][GDrive copy]])
 
-  <<fig>> Fraifer/Fernstrom (2016). Designing an IoT Smart Parking
-  Prototype System. In: Proc. ISCA 2016, Dublin. Online:
-  [[https://www.researchgate.net/publication/311535838_Designing_an_IoT_Smart_Parking_Prototype_System][researchgate.net]].
-
   <<scott>> The Artists of Data Science with Harpreet Sahota (31 Aug
   2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
   [[https://theartistsofdatascience.fireside.fm/scott-e-page][theartistsofdatascience.fireside.fm]].
- 
+
+  <<fig>> Shah P (May 16, 2019). User Story Mapping | Product Backlog
+  Creation [Blog]. Online: [[https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e][medium.com]]. ([[https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing][GDrive copy]]) 
