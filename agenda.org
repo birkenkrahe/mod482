@@ -167,7 +167,7 @@
 
   * Homework 1: [[https://h5p.org/node/800416][Complete online lesson]] (Denning)
   * Homework 2: [[https://github.com/birkenkrahe/mod482/discussions/3][Post a story on your essay topic]]
-  * Lecture & Lab: *User Stories*
+  * Lecture & Lab: *[[https://github.com/birkenkrahe/mod482/tree/main/7_user_story][User Stories]]*
   * Next: midterm exam (*Thu Sept 30, 2.30pm*)
   * 2nd sprint review (*Thu Oct 7*) ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md][FAQ]])
   * Participation: protocols! ([[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Schedule]])
