@@ -114,7 +114,7 @@
 
 <tr>
 <td class="org-left">30-Sep</td>
-<td class="org-left">Summary "The Model Thinker"</td>
+<td class="org-left">MIDTERM EXAM + Outlook</td>
 <td class="org-left">MIDTERM EXAM</td>
 </tr>
 
@@ -129,7 +129,7 @@
 <tr>
 <td class="org-left">12-Oct</td>
 <td class="org-left">Event controlled Process Chains</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">MB</td>
 </tr>
 
 

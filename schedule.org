@@ -16,9 +16,9 @@
    | 21-Sep   | Storytelling (Modeling human actors)      |                     |
    | 23-Sep   | CANCELLED (Day of Renewal)                |                     |
    | 28-Sep   | User stories (Modeling human actors)      |                     |
-   | 30-Sep   | Summary "The Model Thinker"               | MIDTERM EXAM        |
+   | 30-Sep   | MIDTERM EXAM + Outlook                    | MIDTERM EXAM        |
    | 7-Oct    | PRESENTATIONS                             | 2ND SPRINT REVIEW   |
-   | 12-Oct   | Event controlled Process Chains           |                     |
+   | 12-Oct   | Event controlled Process Chains           | MB                  |
    | 14-Oct   | Event controlled Process Chains (lab)     | Nick Czerwinski     |
    | 19-Oct   | Business Process Model and Notation       | Wyatt Frerichs      |
    | 21-Oct   | Business Process Model and Notation (lab) | Owen Hardin         |
