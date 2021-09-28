@@ -90,7 +90,8 @@
 
 * Sprint review challenge
 
-  Include at least one user story and the task(s) derived from it.
+  In your next sprint review, include at least one user story and the
+  task(s) derived from it.
 
   #+begin_quote
   Example: "As a comp sci student, I want to know what technical
