@@ -1,24 +1,149 @@
-#+TITLE:Data Modeling
-#+AUTHOR:Marcus Birkenkrahe
-#+SUBTITLE: DSC 482.02 @ Lyon College
-#+OPTIONS: toc:nil
-* What's in this repo?
+* What is a user story?
 
-  * Repository for DSC 482.02 - Data modeling.
-  * Emacs Org-mode files are rendered as Markdown.
-  * In the mobile app, only the Markdown (.md) file will render
-  * For a TOC, open the bullet point list menu
+  #+begin_quote
+  User stories are short, simple descriptions of a *feature* told from
+  the perspective of the *person* who desires the new capability,
+  usually a user or customer of the *system*. ([[cohn][Cohn, 2021]])
+  #+end_quote
 
-** [[https://github.com/birkenkrahe/mod482/blob/main/agenda.md][Agenda]]
-** [[https://github.com/birkenkrahe/mod482/blob/main/diary.md][Course diary]]
-** [[https://github.com/birkenkrahe/mod482/discussions][Discussion forums]]
-** [[https://github.com/birkenkrahe/mod482/blob/main/FAQ.md][Frequently Asked Questions (FAQ)]]
-** [[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md][Syllabus]]
+** Simple example
 
-** History
+   User stories are short and can be thought of as fitting on an index
+   card.
 
-   First offered @Lyon: Fall 2021 (Undergrad). Previous versions for
-   Master programs (business) at Berlin School of Economics and
-   Law. Offered @Lyon Fall Semester 2023, 2025, 2027 as "Data Science
-   Applications and Programming" (DSC 401).
+   [[./img/helpdesk.png]]
 
+   * Who is the *person*?
+   * What is the *feature*?
+   * Why does the person *want* it?
+   * Which *system* is this?
+
+** Epic, story and task
+
+   [[./img/userstory.png]]
+
+   User stories are embedded in a larger story, also called an
+   "epic". The key reason to create a story is to derive tasks from
+   it. To do this, the story must be small and specific.
+
+   [[./img/userstory0.png]]
+
+* INVEST criteria
+
+  To be useful in a software engineering project, user stories need
+  to fulfil certain criteria. A user story needs to be:
+
+  | 1) | Independent | To derive unique tasks from it              |
+  | 2) | Negotiable  | To be able to talk to the customer about it |
+  | 3) | Valuable    | To generate a real value to the customer    |
+  | 4) | Estimable   | To be measurable (e.g. for burndown chart)  |
+  | 5) | Small       | To derive doable tasks from it              |
+  | 6) | Testable    | To be checked for completion                |
+
+  [[./img/card.png]]
+
+* More Examples
+
+** Vehicle app
+
+   This is a common place application for many modern cars:
+
+   [[./img/vehicle.png]]
+
+   What could be on the back of this card?[fn:1]
+
+** Airline app
+
+   Here is another one, which is common place in airline travel.
+
+   [[./img/airline1.png]]
+
+   The back of the card shows individual desirable features. The front
+   of the card is more of an epic - it leads to half a dozen more
+   specific user stories.
+
+   [[./img/airline2.png]]
+
+** Trello example 
+
+   This example comes from a student project: the students worked with
+   a large retailer who wanted to create a virtual show room. There
+   are four epics with several user stories each. 
+
+   [[./img/trello.png]]
+
+** Jira example
+
+   Software companies that specialize in productivity tools like
+   Atlassian offer complete User Story and Scrum tool boxes. The image
+   shows a Scrum backlog (task list) that contains user stories, and
+   matching features in the popular tool Jira [[jira
+][(Rehkopf, 2021)]].
+
+* Practice!
+
+  This short [[samsung][Samsung commercial (2017)]] contains several user
+  stories. Find them! Can you suggest tasks following from the
+  stories?[fn:2]
+
+  [[./img/iphone.png]]
+
+* Sprint review challenge
+
+  Include at least one user story and the task(s) derived from it.
+
+  #+begin_quote
+  Example: "As a comp sci student, I want to know what technical
+  jargon in my research topic X may come up in a job interview"
+  #+end_quote
+
+  Task selection:
+  * Look at recent job applications for X
+  * Check recent research papers on X
+  * Check recent conference talks on X
+  * Make a master list of 10 jargon terms
+  * Define each term in your own words
+  * Use one term per week in conversations
+
+* References
+
+  <<cohn>> Cohn M (2021). User Stories [website]. Online:
+  [[https://www.mountaingoatsoftware.com/agile/user-stories][mountaingoatsoftware.com.]]
+
+  {This is a great resource with plenty of examples from a software
+  engineering perspective - if you want to design, build or maintain
+  software.}
+
+  <<decapua>> DeCapua T (Jul 18, 2016). How to build performance into
+  your user stories [blog]. Online: [[https://techbeacon.com/app-dev-testing/how-build-performance-your-user-stories][techbeacon.com]].
+
+  {In another session, I embedded data modeling and other modeling
+  methods in the wider issue of "performance management".}
+
+  <<jira>> Rehkopf (n.d.). User Stories with Examples and Template
+  [website]. [[https://www.atlassian.com/agile/project-management/user-stories][Online: atlassian.com.]] 
+
+  <<samsung>> Top Trending (Nov 6, 2017). Samsung mocks Apple and the iPhone X
+  [video]. [[https://youtu.be/s8AmkizQ39s][Online: youtube.com]].
+
+* Footnotes
+
+[fn:2]The user stories come out of several instances of inconvenience
+that the user experiences: [0:02] User does not want to queue for his
+new phone. [0:10] User needs storage to make more high-res
+photos. [0:18] User wants to write notes by hand. [0:23] User wants to
+dry his new phone after it got wet. [0:40] User wants to charge his
+phone wirelessly.
+
+[fn:1]As [[decapua][DeCapua (2016)]] points out:
+#+begin_quote
+this user-story description captures several very subjective
+ideas. What does “by the time I get to it” mean? Does it mean “user
+should walk two to three minutes more slowly than usual” to ensure
+that the vehicle is on when he arrives? Or does it mean “user should
+press auto-start 15 minutes prior to arrival” to ensure that the
+vehicle is actually “warmed up” upon user arrival? Of course not. Most
+users would expect a car to start within five seconds so that it would
+be warming for at least five or ten minutes before they’re ready to
+drive.
+#+end_quote
