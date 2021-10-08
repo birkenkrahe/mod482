@@ -1,37 +1,37 @@
 #+options: toc:nil
 * Schedule
 
-   | DATE     | LECTURES/GLOSSARY/LABS                              | PROTOCOL            | PROJECT           |
-   |----------+-----------------------------------------------------+---------------------+-------------------|
-   | 17-Aug   | Course overview & purpose                           |                     |                   |
-   | 19-Aug   | Course project                                      |                     |                   |
-   | 24-Aug   | Complex problems                                    |                     |                   |
-   | 26-Aug   | Many-model thinking                                 |                     |                   |
-   | 31-Aug   | Decision intelligence                               |                     |                   |
-   | 2-Sep    | Literature reviews                                  |                     |                   |
-   | 7-Sep    | Agile management methods                            |                     |                   |
-   | 9-Sep    | PRESENTATIONS                                       |                     | 1ST SPRINT REVIEW |
-   | 14-Sep   | Project work                                        |                     |                   |
-   | 16-Sep   | REDCAPE Model categories                            |                     |                   |
-   | 21-Sep   | Storytelling (Modeling human actors)                |                     |                   |
-   | 23-Sep   | CANCELLED (Day of Renewal)                          |                     |                   |
-   | 28-Sep   | User stories (Modeling human actors)                |                     |                   |
-   | 30-Sep   | MIDTERM EXAM + Outlook                              |                     | MIDTERM EXAM      |
-   | 7-Oct    | PRESENTATIONS: Chaney, Sonnier, Hardin, Sampley     |                     | 2ND SPRINT REVIEW |
+   | DATE     | LECTURES/GLOSSARY/LABS                                      | PROTOCOL            | PROJECT           |
+   |----------+-------------------------------------------------------------+---------------------+-------------------|
+   | 17-Aug   | Course overview & purpose                                   |                     |                   |
+   | 19-Aug   | Course project                                              |                     |                   |
+   | 24-Aug   | Complex problems                                            |                     |                   |
+   | 26-Aug   | Many-model thinking                                         |                     |                   |
+   | 31-Aug   | Decision intelligence                                       |                     |                   |
+   | 2-Sep    | Literature reviews                                          |                     |                   |
+   | 7-Sep    | Agile management methods                                    |                     |                   |
+   | 9-Sep    | PRESENTATIONS                                               |                     | 1ST SPRINT REVIEW |
+   | 14-Sep   | Project work                                                |                     |                   |
+   | 16-Sep   | REDCAPE Model categories                                    |                     |                   |
+   | 21-Sep   | Storytelling (Modeling human actors)                        |                     |                   |
+   | 23-Sep   | CANCELLED (Day of Renewal)                                  |                     |                   |
+   | 28-Sep   | User stories (Modeling human actors)                        |                     |                   |
+   | 30-Sep   | MIDTERM EXAM + Outlook                                      |                     | MIDTERM EXAM      |
+   | 7-Oct    | PRESENTATIONS: Chaney, Sonnier, Hardin, Sampley             |                     | 2ND SPRINT REVIEW |
    | 12-Oct   | PRESENTATIONS: Roach/Czerwinski, Norwood, Hernandez, Mellor |                     | 2ND SPRINT REVIEW |
-   | 14-Oct   | Event controlled Process Chains I                   | Nick Czerwinski     |                   |
-   | 19-Oct   | Event controlled Process Chains II                  | Wyatt Frerichs      |                   |
-   | 21-Oct   | Business Process Model and Notation I               | Own Hardin          |                   |
-   | 26-Oct   | Business Process Model and Notation II              | Fortunato Hernandez |                   |
-   | 28-Oct   | Unified Modeling Language (UML) I                   | Malcolm Howard      |                   |
-   | 2-Nov    | Unified Modeling Language (UML) II                  | Molly Mellor        |                   |
-   | 4-Nov    | PRESENTATIONS                                       |                     | 3RD SPRINT REVIEW |
-   | 9-Nov    | Robotic process automation (RPA) I                  | Nick Norwood        |                   |
-   | 11-Nov   | Robotic process automation (RPA) II                 | Dat O               |                   |
-   | 16-Nov   | Entity Relationship Diagrams (ERD) I                | Dane Roach          |                   |
-   | 18-Nov   | Entity Relationship Diagrams (ERD) II               | Jacob Sampley       |                   |
-   | 23-Nov   | Process mining I                                    | William Sonnier     |                   |
-   | 30-Nov   | Process mining II                                   | Nick Chaney         |                   |
-   | 2-Dec    | PRESENTATIONS                                       |                     | 4TH SPRINT REVIEW |
-   | Dec 6-10 | FINAL EXAM                                          |                     | FINAL EXAM        |
+   | 14-Oct   | Event controlled Process Chains I                           | Nick Czerwinski     |                   |
+   | 19-Oct   | Event controlled Process Chains II                          | Wyatt Frerichs      |                   |
+   | 21-Oct   | Business Process Model and Notation I                       | Own Hardin          |                   |
+   | 26-Oct   | Business Process Model and Notation II                      | Fortunato Hernandez |                   |
+   | 28-Oct   | Unified Modeling Language (UML) I                           | Malcolm Howard      |                   |
+   | 2-Nov    | Unified Modeling Language (UML) II                          | Molly Mellor        |                   |
+   | 4-Nov    | PRESENTATIONS                                               |                     | 3RD SPRINT REVIEW |
+   | 9-Nov    | Robotic process automation (RPA) I                          | Nick Norwood        |                   |
+   | 11-Nov   | Robotic process automation (RPA) II                         | Dat O               |                   |
+   | 16-Nov   | Entity Relationship Diagrams (ERD) I                        | Dane Roach          |                   |
+   | 18-Nov   | Entity Relationship Diagrams (ERD) II                       | Jacob Sampley       |                   |
+   | 23-Nov   | Process mining I                                            | William Sonnier     |                   |
+   | 30-Nov   | Process mining II                                           | Nick Chaney         |                   |
+   | 2-Dec    | PRESENTATIONS                                               |                     | 4TH SPRINT REVIEW |
+   | Dec 6-10 | FINAL EXAM                                                  |                     | FINAL EXAM        |
 
