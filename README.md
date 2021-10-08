@@ -8,19 +8,22 @@
 -   For a TOC, open the bullet point list menu
 
 
-## [Agenda](https://github.com/birkenkrahe/mod482/blob/main/agenda.md)
+## [Schedule](https://github.com/birkenkrahe/mod482/blob/main/schedule.md) for the course (up to date)
 
 
-## [Course diary](https://github.com/birkenkrahe/mod482/blob/main/diary.md)
+## [Agenda](https://github.com/birkenkrahe/mod482/blob/main/agenda.md) for every session
 
 
-## [Discussion forums](https://github.com/birkenkrahe/mod482/discussions)
+## [Course diary](https://github.com/birkenkrahe/mod482/blob/main/diary.md) for further information
+
+
+## [Discussion forums](https://github.com/birkenkrahe/mod482/discussions) for assignments
 
 
 ## [Frequently Asked Questions (FAQ)](https://github.com/birkenkrahe/mod482/blob/main/FAQ.md)
 
 
-## [Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md)
+## [Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md) for a course overview
 
 
 ## History
