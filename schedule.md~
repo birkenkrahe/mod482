@@ -148,7 +148,7 @@
 <td class="org-left">12-Oct</td>
 <td class="org-left">PRESENTATIONS</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">3ND SPRINT REVIEW</td>
+<td class="org-left">2ND SPRINT REVIEW</td>
 </tr>
 
 
