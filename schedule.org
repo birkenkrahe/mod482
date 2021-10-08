@@ -18,7 +18,7 @@
    | 28-Sep   | User stories (Modeling human actors)   |                     |                   |
    | 30-Sep   | MIDTERM EXAM + Outlook                 |                     | MIDTERM EXAM      |
    | 7-Oct    | PRESENTATIONS                          |                     | 2ND SPRINT REVIEW |
-   | 12-Oct   | PRESENTATIONS                          |                     | 3ND SPRINT REVIEW |
+   | 12-Oct   | PRESENTATIONS                          |                     | 2ND SPRINT REVIEW |
    | 14-Oct   | Event controlled Process Chains I      | Nick Czerwinski     |                   |
    | 19-Oct   | Event controlled Process Chains II     | Wyatt Frerichs      |                   |
    | 21-Oct   | Business Process Model and Notation I  | Own Hardin          |                   |
