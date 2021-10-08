@@ -1,6 +1,6 @@
 
 
-# Schedule
+# SCHEDULE
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -146,7 +146,7 @@
 
 <tr>
 <td class="org-left">12-Oct</td>
-<td class="org-left">PRESENTATIONS: Roach/Czerwinski, Norwood, Hernandez, Mellor</td>
+<td class="org-left">PRESENTATIONS: Roach/Czerwinski, Norwood, Hernandez, Mellor, Frerichs</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">2ND SPRINT REVIEW</td>
 </tr>
