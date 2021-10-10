@@ -4,6 +4,7 @@
 #+reveal_theme: black
 #+reveal_init_options: transition:'cube'
 #+OPTIONS: toc:1 num:nil fig:nil
+#+startup: overview
 * Week 2 - August 24
 
   #+attr_html: :height 300px
@@ -173,6 +174,20 @@
   * Participation: protocols! ([[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Schedule]])
 
     /Figure: [[fig][Shah 2019]]/
+  
+* Week 9 - September 12
+
+    [[./img/presentation1.gif]]
+  
+  * Last [[https://github.com/birkenkrahe/mod482/tree/main/presentations/2nd_sprint_review][2nd sprint reviews]]
+    1) Dane Roach/Nick Czerwinski
+    2) Fortunato Hernandez
+    3) Molly Mellor
+    4) Nick Norwood
+    5) Wyatt Frerichs
+  * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][Sprint review]] critique
+  * New diary/FAQ: [[https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8][leaving Linux]]
+  * Next: [[https://en.wikipedia.org/wiki/Event-driven_process_chain][Event-controlled Process Chains(EPC)]]
   
 * References
 
