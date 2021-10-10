@@ -175,7 +175,7 @@
 
     /Figure: [[fig][Shah 2019]]/
   
-* Week 9 - September 12
+* Week 9 - October 12
 
     [[./img/presentation1.gif]]
   
