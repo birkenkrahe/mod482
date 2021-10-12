@@ -179,14 +179,14 @@
 
     [[./img/presentation1.gif]]
   
-  * Last [[https://github.com/birkenkrahe/mod482/tree/main/presentations/2nd_sprint_review][2nd sprint reviews]]
+  * Last [[https://github.com/birkenkrahe/mod482/tree/main/presentations/2nd_sprint_review][2nd sprint reviews]]:
     1) Dane Roach/Nick Czerwinski
     2) Fortunato Hernandez
     3) Molly Mellor
     4) Nick Norwood
     5) Wyatt Frerichs
   * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][Sprint review]] critique
-  * New diary/FAQ: [[https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8][leaving Linux]]
+  * New diary/FAQ: [[https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8][leaving Linux]] :-(
   * Next: [[https://en.wikipedia.org/wiki/Event-driven_process_chain][Event-controlled Process Chains(EPC)]]
   
 * References
