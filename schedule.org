@@ -19,7 +19,7 @@
    | 30-Sep   | MIDTERM EXAM + Outlook                                                |                     | MIDTERM EXAM      |
    | 7-Oct    | PRESENTATIONS: Chaney, Sonnier, Hardin, Sampley                       |                     | 2ND SPRINT REVIEW |
    | 12-Oct   | PRESENTATIONS: Roach/Czerwinski, Norwood, Hernandez, Mellor, Frerichs |                     | 2ND SPRINT REVIEW |
-   | 14-Oct   | Minto Pyramid Principle (with practice)                               | Nick Czerwinski     |                   |
+   | 14-Oct   | Minto Pyramid Principle & SCQA method (with practice)                 | Nick Czerwinski     |                   |
    | 19-Oct   | Event controlled Process Chains                                       | Wyatt Frerichs      |                   |
    | 21-Oct   | Business Process Model and Notation I                                 | Own Hardin          |                   |
    | 26-Oct   | Business Process Model and Notation II                                | Fortunato Hernandez |                   |
