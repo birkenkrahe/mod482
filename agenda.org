@@ -179,15 +179,25 @@
 
     [[./img/presentation1.gif]]
   
-  * Last [[https://github.com/birkenkrahe/mod482/tree/main/presentations/2nd_sprint_review][2nd sprint reviews]]:
+  * Last [[https://github.com/birkenkrahe/mod482/tree/main/presentations/2nd_sprint_review][2nd sprint reviews]][fn:1]:
     1) Dane Roach/Nick Czerwinski
-    2) Fortunato Hernandez
-    3) Molly Mellor
-    4) Nick Norwood
-    5) Wyatt Frerichs
+    2) Molly Mellor
+    3) Dat O
+    4) +Fortunato Hernandez+
+    5) +Nick Norwood+
   * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][Sprint review]] critique
   * New diary/FAQ: [[https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8][leaving Linux]] :-(
+
+* Week 9 - October 14
+
+  * Minto Pyramid Principle
+  * SCQA structuring method (with exercise)
+  * By Tue Oct 18: register in Signavio (see below) & create a
+    sub-folder with your name in the folder ~Lyon_DSC_482~
   * Next: [[https://en.wikipedia.org/wiki/Event-driven_process_chain][Event-controlled Process Chains(EPC)]]
+
+  #+attr_html: :width 600px
+  [[./img/signavio.png]]
   
 * References
 
@@ -202,3 +212,8 @@
 
   <<fig>> Shah P (May 16, 2019). User Story Mapping | Product Backlog
   Creation [Blog]. Online: [[https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e][medium.com]]. ([[https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing][GDrive copy]]) 
+
+* Footnotes
+
+[fn:1]Those who did not present in class need to upload their
+presentations to get feedback.
