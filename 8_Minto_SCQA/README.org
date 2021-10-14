@@ -1,4 +1,4 @@
-#+TITLE:Process modeling 
+#+TITLE:Minto Pyramid Principle and SCQA
 #+AUTHOR:Marcus Birkenkrahe
 #+SUBTITLE:Data modeling seminar 482.02 Fall 2021
 #+STARTUP:overview
@@ -7,9 +7,37 @@
 #+INFOJS_OPT: :view:info
 * What will you learn?
 
-  * What is a process?
-  * What is process modeling*
-  * Example: Event-controlled Process Chains (EPC)
-  * Practice in the Signavio Process Editor
+  * What is the Minto Pyramid Principle?
+  * What is the SCQA technique?
+  * Examples: SCQA for different
+  * Practice: SCQA for your essay project
 
-  
+  (See also [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orgd4994dd][this FAQ]] for a short overview with examples.)
+
+* What is the Minto Pyramid Principle?
+
+  Introductory video [[https://vimeo.com/87537935][Harrison Metal (2014)]].
+
+  #+attr_html: :width 600px
+
+  [![[./img/scqa.png]](https://vimeo.com/87537935)]
+
+  * A model to efficiently structure all documents
+  * Efficiency = maximizing audience rapport
+  * Developed by Barbara Minto(formerly McKinsey & Co)
+
+  #+attr_html: :width 600px
+  [[./img/minto.png]]
+
+  (Image source: powerusersoftwares.com, 2016)
+
+* References
+
+  Harrison Metal (2014). Storytelling & Presenting 1: Thank You,
+  Barbara Minto [video]. [[https://vimeo.com/87537935][Online: vimeo.com]]
+
+  Minto B (2002). The Pyramid Principle.
+
+  Power-user (Jul 31, 2016). Give a brilliant structure to your
+  presentations with the Pyramid Principle [website]. [[https://www.powerusersoftwares.com/post/2016/07/31/give-a-brilliant-structure-to-your-presentations-with-the-pyramid-principle][Online:
+  powerusersoftwares.com]]
