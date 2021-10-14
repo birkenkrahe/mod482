@@ -1,27 +1,28 @@
 
 # Table of Contents
 
--   [What will you learn?](#org55e7a84)
--   [What is the Minto Pyramid Principle?](#orga50e012)
-    -   [How to structure a presentation](#orga88ee8f)
-    -   [Pyramid rules: logic + MECE](#orge9ac3d6)
-    -   [Example: "Exploring Data Science with R"](#orgbfd7b22)
--   [SCQ = Situation + Complication + Question](#org4354165)
-    -   [Understanding SCQ](#org4be94a1)
-    -   [Example 1](#org1cd954b)
-    -   [Example 2](#org88dae7b)
-    -   [Example 3](#org674026c)
-    -   [Practice 1](#org5645b8b)
-        -   [Roadtrip trouble](#org0150eb8)
-        -   [Missed assignment](#org5ce2dbe)
-        -   [Sprint review](#org40ef715)
-    -   [Practice 2](#orga49559a)
--   [Tutorial videos](#orgcbf653c)
--   [References](#org9d72e17)
+1.  [What will you learn?](#orgb1cd22d)
+2.  [What is the Minto Pyramid Principle?](#orgd4b54dd)
+    1.  [How to structure a presentation](#orgc81801b)
+    2.  [Pyramid rules: logic + MECE](#org5dbecbc)
+    3.  [Example: "Exploring Data Science with R"](#orga8dcbc5)
+3.  [SCQ = Situation + Complication + Question](#orgb290b2c)
+    1.  [Understanding SCQ](#orgdbb6ad1)
+    2.  [Example 1](#org79a70f6)
+    3.  [Example 2](#org01f65a5)
+    4.  [Example 3](#org165dadd)
+    5.  [Practice 1](#orgf8e8010)
+        1.  [Roadtrip trouble](#org597bf78)
+        2.  [Missed assignment](#orgb07a2b0)
+        3.  [Sprint review](#org907e2e3)
+    6.  [Practice 2](#org96d12b6)
+4.  [The end](#orga66726b)
+5.  [Tutorial videos](#orgf454828)
+6.  [References](#orgd50231a)
 
 
 
-<a id="org55e7a84"></a>
+<a id="orgb1cd22d"></a>
 
 # What will you learn?
 
@@ -33,7 +34,7 @@
 (See also [this FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orgd4994dd) for a short overview with examples.)
 
 
-<a id="orga50e012"></a>
+<a id="orgd4b54dd"></a>
 
 # What is the Minto Pyramid Principle?
 
@@ -46,7 +47,7 @@ Introductory video [Harrison Metal (2014)](https://vimeo.com/87537935).
 -   Developed by Barbara Minto(formerly McKinsey & Co)
 
 
-<a id="orga88ee8f"></a>
+<a id="orgc81801b"></a>
 
 ## How to structure a presentation
 
@@ -59,7 +60,7 @@ the pyramid scheme:
 *Image source: powerusersoftwares.com, 2016*
 
 
-<a id="orge9ac3d6"></a>
+<a id="org5dbecbc"></a>
 
 ## Pyramid rules: logic + MECE
 
@@ -74,7 +75,7 @@ the pyramid scheme:
 Image: Pontema, 2021.
 
 
-<a id="orgbfd7b22"></a>
+<a id="orga8dcbc5"></a>
 
 ## Example: "Exploring Data Science with R"
 
@@ -89,7 +90,7 @@ the job!).
 ![img](./img/lecture.png)
 
 
-<a id="org4354165"></a>
+<a id="orgb290b2c"></a>
 
 # SCQ = Situation + Complication + Question
 
@@ -103,7 +104,7 @@ the job!).
 *Image: Rob George (2019)*
 
 
-<a id="org4be94a1"></a>
+<a id="orgdbb6ad1"></a>
 
 ## Understanding SCQ
 
@@ -149,7 +150,7 @@ itself.
 ![img](./img/bond.gif)
 
 
-<a id="org1cd954b"></a>
+<a id="org79a70f6"></a>
 
 ## Example 1
 
@@ -197,7 +198,7 @@ lead to a different question and hypothesis. Let's try this:
 3.  Which **answer** would you give to this question?
 
 
-<a id="org88dae7b"></a>
+<a id="org01f65a5"></a>
 
 ## Example 2
 
@@ -258,7 +259,7 @@ breakdown of "possible reactions"<sup><a id="fnr.5" class="footref" href="#fn.5"
 </table>
 
 
-<a id="org674026c"></a>
+<a id="org165dadd"></a>
 
 ## Example 3
 
@@ -327,15 +328,17 @@ Now, the keyline makes a lot more sense and is likely what happened
 after the faculty assembly vote that heated up the process and made
 it more "complicated", i.e. triggered an urgent board response.
 
+![img](./img/example3.png)
 
-<a id="org5645b8b"></a>
+
+<a id="orgf8e8010"></a>
 
 ## Practice 1
 
 Substitute the missing elements!
 
 
-<a id="org0150eb8"></a>
+<a id="org597bf78"></a>
 
 ### Roadtrip trouble
 
@@ -374,7 +377,7 @@ Substitute the missing elements!
 </table>
 
 
-<a id="org5ce2dbe"></a>
+<a id="orgb07a2b0"></a>
 
 ### Missed assignment
 
@@ -413,7 +416,7 @@ Substitute the missing elements!
 </table>
 
 
-<a id="org40ef715"></a>
+<a id="org907e2e3"></a>
 
 ### Sprint review
 
@@ -452,18 +455,25 @@ Substitute the missing elements!
 </table>
 
 
-<a id="orga49559a"></a>
+<a id="org96d12b6"></a>
 
 ## Practice 2
 
 -   Construct an introduction to your essay using the SCQ technique!
 -   Post your SCQA + keyline breakdown (= chapter structure) in this
     [discussion forum](https://github.com/birkenkrahe/mod482/discussions/4)!
-    
-    ![img](./img/goaway.gif)
+
+![img](./img/practice2.png)
 
 
-<a id="orgcbf653c"></a>
+<a id="orga66726b"></a>
+
+# The end
+
+![img](./img/goaway.gif)
+
+
+<a id="orgf454828"></a>
 
 # Tutorial videos
 
@@ -476,7 +486,7 @@ Substitute the missing elements!
 -   [SCQA tutorial video](https://youtu.be/SxGwSR4lKYs) using a retail example (Rob George, 2019)
 
 
-<a id="org9d72e17"></a>
+<a id="orgd50231a"></a>
 
 # References
 
