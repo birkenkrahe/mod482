@@ -14,6 +14,8 @@
 
   (See also [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orgd4994dd][this FAQ]] for a short overview with examples.)
 
+  [[./img/rutsche.gif]]
+
 * What is the Minto Pyramid Principle?
 
   Introductory video [[https://vimeo.com/87537935][Harrison Metal (2014)]].

@@ -1,28 +1,28 @@
 
 # Table of Contents
 
-1.  [What will you learn?](#orgd8fe41e)
-2.  [What is the Minto Pyramid Principle?](#orgb7ec36f)
-    1.  [How to structure a presentation](#org0c648b3)
-    2.  [Pyramid rules: logic + MECE](#orga1fe8d2)
-    3.  [Example: "Exploring Data Science with R"](#org71fdf79)
-3.  [SCQ = Situation + Complication + Question](#org898d47a)
-    1.  [Understanding SCQ](#orgb2246a0)
-    2.  [Example 1](#orgf48e47f)
-    3.  [Example 2](#orged97750)
-    4.  [Example 3](#orgf01d5f1)
-    5.  [Practice 1](#org1c0bb85)
-        1.  [Roadtrip trouble](#orgae0e587)
-        2.  [Missed assignment](#orgbe0a0d7)
-        3.  [Sprint review](#orge8b82f5)
-    6.  [Practice 2](#org47f1765)
-4.  [The end](#org48af4ec)
-5.  [Tutorial videos](#org74eefbe)
-6.  [References](#org74b70ac)
+1.  [What will you learn?](#org0395e1f)
+2.  [What is the Minto Pyramid Principle?](#org00dddc6)
+    1.  [How to structure a presentation](#orgde16a3b)
+    2.  [Pyramid rules: logic + MECE](#orgf4eaae8)
+    3.  [Example: "Exploring Data Science with R"](#org1d0e99e)
+3.  [SCQ = Situation + Complication + Question](#org70f0967)
+    1.  [Understanding SCQ](#orgc4c74f6)
+    2.  [Example 1](#org83d9965)
+    3.  [Example 2](#org4f185af)
+    4.  [Example 3](#org1cf2c55)
+    5.  [Practice 1](#org790893f)
+        1.  [Roadtrip trouble](#org083b953)
+        2.  [Missed assignment](#org8e55a4a)
+        3.  [Sprint review](#org1cd1b43)
+    6.  [Practice 2](#org3f0b37d)
+4.  [The end](#org76b9b9c)
+5.  [Tutorial videos](#org0b382c3)
+6.  [References](#org211ecb9)
 
 
 
-<a id="orgd8fe41e"></a>
+<a id="org0395e1f"></a>
 
 # What will you learn?
 
@@ -33,8 +33,10 @@
 
 (See also [this FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orgd4994dd) for a short overview with examples.)
 
+![img](./img/rutsche.gif)
 
-<a id="orgb7ec36f"></a>
+
+<a id="org00dddc6"></a>
 
 # What is the Minto Pyramid Principle?
 
@@ -47,7 +49,7 @@ Introductory video [Harrison Metal (2014)](https://vimeo.com/87537935).
 -   Developed by Barbara Minto(formerly McKinsey & Co)
 
 
-<a id="org0c648b3"></a>
+<a id="orgde16a3b"></a>
 
 ## How to structure a presentation
 
@@ -60,7 +62,7 @@ the pyramid scheme:
 *Image source: powerusersoftwares.com, 2016*
 
 
-<a id="orga1fe8d2"></a>
+<a id="orgf4eaae8"></a>
 
 ## Pyramid rules: logic + MECE
 
@@ -75,7 +77,7 @@ the pyramid scheme:
 Image: Pontema, 2021.
 
 
-<a id="org71fdf79"></a>
+<a id="org1d0e99e"></a>
 
 ## Example: "Exploring Data Science with R"
 
@@ -90,7 +92,7 @@ the job!).
 ![img](./img/lecture.png)
 
 
-<a id="org898d47a"></a>
+<a id="org70f0967"></a>
 
 # SCQ = Situation + Complication + Question
 
@@ -104,7 +106,7 @@ the job!).
 *Image: Rob George (2019)*
 
 
-<a id="orgb2246a0"></a>
+<a id="orgc4c74f6"></a>
 
 ## Understanding SCQ
 
@@ -150,7 +152,7 @@ itself.
 ![img](./img/bond.gif)
 
 
-<a id="orgf48e47f"></a>
+<a id="org83d9965"></a>
 
 ## Example 1
 
@@ -198,7 +200,7 @@ lead to a different question and hypothesis. Let's try this:
 3.  Which **answer** would you give to this question?
 
 
-<a id="orged97750"></a>
+<a id="org4f185af"></a>
 
 ## Example 2
 
@@ -240,7 +242,7 @@ The complete answer would be contained in a pyramid of supporting
 arguments.
 
 
-<a id="orgf01d5f1"></a>
+<a id="org1cf2c55"></a>
 
 ## Example 3
 
@@ -312,14 +314,14 @@ it more "complicated", i.e. triggered an urgent board response.
 ![img](./img/example3.png)
 
 
-<a id="org1c0bb85"></a>
+<a id="org790893f"></a>
 
 ## Practice 1
 
 Substitute the missing elements!
 
 
-<a id="orgae0e587"></a>
+<a id="org083b953"></a>
 
 ### Roadtrip trouble
 
@@ -358,7 +360,7 @@ Substitute the missing elements!
 </table>
 
 
-<a id="orgbe0a0d7"></a>
+<a id="org8e55a4a"></a>
 
 ### Missed assignment
 
@@ -397,7 +399,7 @@ Substitute the missing elements!
 </table>
 
 
-<a id="orge8b82f5"></a>
+<a id="org1cd1b43"></a>
 
 ### Sprint review
 
@@ -436,7 +438,7 @@ Substitute the missing elements!
 </table>
 
 
-<a id="org47f1765"></a>
+<a id="org3f0b37d"></a>
 
 ## Practice 2
 
@@ -447,14 +449,14 @@ Substitute the missing elements!
 ![img](./img/practice2.png)
 
 
-<a id="org48af4ec"></a>
+<a id="org76b9b9c"></a>
 
 # The end
 
 ![img](./img/goaway.gif)
 
 
-<a id="org74eefbe"></a>
+<a id="org0b382c3"></a>
 
 # Tutorial videos
 
@@ -467,7 +469,7 @@ Substitute the missing elements!
 -   [SCQA tutorial video](https://youtu.be/SxGwSR4lKYs) using a retail example (Rob George, 2019)
 
 
-<a id="org74b70ac"></a>
+<a id="org211ecb9"></a>
 
 # References
 
