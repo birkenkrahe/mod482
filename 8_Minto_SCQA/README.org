@@ -3,7 +3,7 @@
 #+SUBTITLE:Data modeling seminar 482.02 Fall 2021
 #+STARTUP:overview
 #+OPTIONS:hideblocks
-#+OPTIONS: toc:1 num:nil ^:nil
+#+OPTIONS: toc:1
 #+INFOJS_OPT: :view:info
 * What will you learn?
 
@@ -122,7 +122,7 @@
    actually a challenge at all - it's part of the president's job
    description. The course of action is pretty clear (it involves
    gathering more data etc. but not immediately firing the president).
-   
+
    | Situation    | "The president of the college has been heavily critized for divisive public comments that he made in regard to the college vs. the community. The president is the figure head of the college and charged with developing the relationship between the college and the community. Months late, the president issued a public statement regarding the comments in which he doubled down on his divisive comments." |
    | Complication | "The faculty voted unanimously for the president's resignation."                                                                                                                                                                                                                                                                                                                                                  |
    | Question     | "How should the board of trustees react?"                                                                                                                                                                                                                                                                                                                                                                         |
@@ -132,46 +132,54 @@
    breakdown of "possible reactions", e.g.
 
    | A. The board does not react at all | B. The board reprimands the president | C. The board fires the president. |
-   
+
    Now, the keyline makes a lot more sense and is likely what happened
    after the faculty assembly vote that heated up the process and made
    it more "complicated", i.e. triggered an urgent board response.
+
+   #+attr_html: :width 600px
+   [[./img/example3.png]]
    
 ** Practice 1
 
    Substitute the missing elements!
 
 *** Roadtrip trouble
-    
-   | Situation    | "I am on a roadtrip." |
-   | Complication | "My car broke down."  |
-   | Question     | ???                   |
-   | Answer       | ???                   |
+
+    | Situation    | "I am on a roadtrip." |
+    | Complication | "My car broke down."  |
+    | Question     | ???                   |
+    | Answer       | ???                   |
 
 *** Missed assignment
 
-   | Situation    | "As a student, I handed a assignment in too late."     |
-   | Complication | ???                                                    |
-   | Question     | "How will missing this assignment affect my grade?"    |
-   | Answer       | "Breakdown of course grading criteria in the Syllabus" |
+    | Situation    | "As a student, I handed a assignment in too late."     |
+    | Complication | ???                                                    |
+    | Question     | "How will missing this assignment affect my grade?"    |
+    | Answer       | "Breakdown of course grading criteria in the Syllabus" |
 
 *** Sprint review
 
-   | Situation    | ???                                                                |
-   | Complication | "In my presentation forgot to answer the sprint review questions." |
-   | Question     | "What are these sprint review questions?"                          |
-   | Answer       | "List of sprint review questions in the FAQ"                       |
-   
+    | Situation    | ???                                                                |
+    | Complication | "In my presentation forgot to answer the sprint review questions." |
+    | Question     | "What are these sprint review questions?"                          |
+    | Answer       | "List of sprint review questions in the FAQ"                       |
 
-** Practice 2   
+
+** Practice 2
 
    * Construct an introduction to your essay using the SCQ technique!
    * Post your SCQA + keyline breakdown (= chapter structure) in this
      [[https://github.com/birkenkrahe/mod482/discussions/4][discussion forum]]!
 
+   #+attr_html: :width 600px
+   [[./img/practice2.png]]
+   
+* The end
+  
      #+attr_html: :width 400px
      [[./img/goaway.gif]]
-   
+
 
 * Tutorial videos
 
@@ -223,7 +231,7 @@ to begin planning.
 
 [fn:3]"We don't have a plan in place to do this" would be possible,
 but it would be better to anchor this complication by mentioning the
-need for a *plan*. 
+need for a *plan*.
 
 [fn:2]The introduction only contains the hypothesis, the first or
 tentative answer. The full answer is contained in the entire body of
