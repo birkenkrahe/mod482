@@ -1,4 +1,4 @@
-#+TITLE:Minto Pyramid Principle and SCQA
+#+TITLE:Minto Pyramid Principle and SCQ
 #+AUTHOR:Marcus Birkenkrahe
 #+SUBTITLE:Data modeling seminar 482.02 Fall 2021
 #+STARTUP:overview
@@ -19,25 +19,222 @@
   Introductory video [[https://vimeo.com/87537935][Harrison Metal (2014)]].
 
   #+attr_html: :width 600px
-
-  [!./img/scqa.png](https://vimeo.com/87537935)]
+  [[./img/scqa.png]]
 
   * A model to efficiently structure all documents
   * Efficiency = maximizing audience rapport
   * Developed by Barbara Minto(formerly McKinsey & Co)
 
-  #+attr_html: :width 600px
-  [[./img/minto.png]]
+** How to structure a presentation
 
-  (Image source: powerusersoftwares.com, 2016)
+   The Minto method works for email, reports, talks, and also
+   presentations. For presentations, you can just read the slides off
+   the pyramid scheme:
+
+   #+attr_html: :width 600px
+   [[./img/minto.png]]
+
+   /Image source: powerusersoftwares.com, 2016/
+
+** Pyramid rules: logic + MECE
+
+   * The pyramid answers the key question at the top
+   * Deductive or inductive vertical logic
+   * Horizontal logic: only items of the same kind
+   * Horizontal grouping is MECE (Mutually Exclusive + Collectively
+     Exhaustive)
+
+   #+attr_html: :width 600px
+   [[./img/process.png]]
+
+   Image: Pontema, 2021.
+
+** Example: "Exploring Data Science with R"
+
+   I used Minto to structure [[https://1drv.ms/b/s!AhEvK3qWokrvioRuDzBtLvAwf8jGzw][my first Lyon College lecture]] (and I got
+   the job!).
+
+   * Key message: "R is great for exploratory data analysis!" (EDA)
+   * Keyline 1: EDA process model
+   * Keyline 2: EDA examples in R
+   * Keyline 3: EDA in Python vs. R
+
+   #+attr_html: :width 600px
+   [[./img/lecture.png]]
+
+* SCQ = Situation + Complication + Question
+
+  * Key to the pyramid is its top = introduction
+  * SCQ = method to build an efficient introduction
+  * Key question forms the top of the pyramid
+  * Body of the pyramid = Answer to the key question
+
+  #+attr_html: :width 600px
+  [[./img/scqa1.png]]
+
+  /Image: Rob George (2019)/
+
+** Understanding SCQ
+
+   SCQ establishes a hypothesis and the process leading to it:
+
+   | Situation    | Context in which you're operating today              |
+   | Complication | Challenge or change within the context               |
+   | Question     | Question that the challenge or change leads to[fn:1] |
+   | Answer       | The answer to the question that is posed[fn:2]             |
+
+   For the following examples, our context area is Lyon College
+   itself.
+
+   [[./img/bond.gif]]
+
+** Example 1
+
+   | Situation    | "The college wants to grow its student population by 10% annually." |
+   | Complication | "Since 2010, student population in Arkansas has declined by 9.09%"  |
+   | Question     | "Should we stick to our strategic growth plan?"                     |
+   | Answer       | "No."                                                               |
+
+   Altering the situation will suggest a different complication, and
+   lead to a different question and hypothesis. Let's try this:
+
+   1) Given the situation, could "We don't have a plan in place to do
+      this." be a possible alternative *complication*?[fn:3]
+   2) Which *question* would this alternative complication lead
+      to?[fn:4]
+   3) Which *answer* would you give to this question?
+
+** Example 2
+
+   | Situation    | "The president of the college has been heavily critized for divisive public comments that he made in regard to the college vs. the community." |
+   | Complication | "An important role of the president is to serve as link between college and community."                                                        |
+   | Question     | "How should the board of trustees react to the criticism of the president?"                                                                    |
+   | Answer       | "Possible reactions to the criticism of the president"                                                                                         |
+
+   This *answer* directly hints at a pyramid, a deductive, logical
+   breakdown of "possible reactions"[fn:5], e.g.
+
+   | A. The board does not react at all | B. The board reprimands the president | C. The board asks for the president's resignation. |
+
+** Example 3
+
+   The previous SCQ scheme can be improved: the *complication* isn't
+   actually a challenge at all - it's part of the president's job
+   description. The course of action is pretty clear (it involves
+   gathering more data etc. but not immediately firing the president).
+   
+   | Situation    | "The president of the college has been heavily critized for divisive public comments that he made in regard to the college vs. the community. The president is the figure head of the college and charged with developing the relationship between the college and the community. Months late, the president issued a public statement regarding the comments in which he doubled down on his divisive comments." |
+   | Complication | "The faculty voted unanimously for the president's resignation."                                                                                                                                                                                                                                                                                                                                                  |
+   | Question     | "How should the board of trustees react?"                                                                                                                                                                                                                                                                                                                                                                         |
+   | Answer       | "Possible reactions to the criticism of the president"                                                                                                                                                                                                                                                                                                                                                            |
+
+   This *answer* directly hints at a pyramid, a deductive, logical
+   breakdown of "possible reactions", e.g.
+
+   | A. The board does not react at all | B. The board reprimands the president | C. The board fires the president. |
+   
+   Now, the keyline makes a lot more sense and is likely what happened
+   after the faculty assembly vote that heated up the process and made
+   it more "complicated", i.e. triggered an urgent board response.
+   
+** Practice 1
+
+   Substitute the missing elements!
+
+*** Roadtrip trouble
+    
+   | Situation    | "I am on a roadtrip." |
+   | Complication | "My car broke down."  |
+   | Question     | ???                   |
+   | Answer       | ???                   |
+
+*** Missed assignment
+
+   | Situation    | "As a student, I handed a assignment in too late."     |
+   | Complication | ???                                                    |
+   | Question     | "How will missing this assignment affect my grade?"    |
+   | Answer       | "Breakdown of course grading criteria in the Syllabus" |
+
+*** Sprint review
+
+   | Situation    | ???                                                                |
+   | Complication | "In my presentation forgot to answer the sprint review questions." |
+   | Question     | "What are these sprint review questions?"                          |
+   | Answer       | "List of sprint review questions in the FAQ"                       |
+   
+
+** Practice 2   
+
+   * Construct an introduction to your essay using the SCQ technique!
+   * Post your SCQA + keyline breakdown (= chapter structure) in this
+     [[https://github.com/birkenkrahe/mod482/discussions/4][discussion forum]]!
+
+     #+attr_html: :width 400px
+     [[./img/goaway.gif]]
+   
+
+* Tutorial videos
+
+  * Minto Pyramid Principle Part 1 - [[https://youtu.be/HrmBZQuCSzo][Introductory Stories]]
+    (Birkenkrahe, 2016)
+  * Minto Pyramid Principle Part 2 - [[https://youtu.be/k_FJXpYPbQY][What Audiences Want]]
+    (Birkenkrahe, 2016)
+  * [[https://youtu.be/1y15zjp47KQ][Pyramid principle by Minto]] - video with business focus (Pontema,
+    2021)
+  * [[https://youtu.be/SxGwSR4lKYs][SCQA tutorial video]] using a retail example (Rob George, 2019)
 
 * References
+
+  Birkenkrahe M (Feb 7, 2016). Minto Pyramid Principle Part 1 -
+  Introductory stories. [[https://youtu.be/HrmBZQuCSzo][Online: youtube.com.]]
+
+  Birkenkrahe M (Feb 7, 2016). Minto Pyramid Principle Part 2 - What
+  audiences want. [[https://youtu.be/k_FJXpYPbQY][Online: youtube.com.]]
 
   Harrison Metal (2014). Storytelling & Presenting 1: Thank You,
   Barbara Minto [video]. [[https://vimeo.com/87537935][Online: vimeo.com]]
 
   Minto B (2002). The Pyramid Principle.
 
+  Pontema (Mar 12, 2021). Pyramid Principle by Barbara Minto
+  [video]. [[https://youtu.be/1y15zjp47KQ][Online: youtube.com]]
+
   Power-user (Jul 31, 2016). Give a brilliant structure to your
   presentations with the Pyramid Principle [website]. [[https://www.powerusersoftwares.com/post/2016/07/31/give-a-brilliant-structure-to-your-presentations-with-the-pyramid-principle][Online:
   powerusersoftwares.com]]
+
+  Rob George (Apr 12, 2019). 3 SCQA [video]. [[https://youtu.be/SxGwSR4lKYs][Online: youtube.com]]
+
+* Footnotes
+
+[fn:5]There are other possible breakdowns - we are hampered by having
+little to go by in the situation and complication.
+
+[fn:4]The new complication "We don't have a plan in place to do this",
+could (in the context of the situation) lead to several questions: (1)
+*why* not? (2) *who* is responsible for this? (3) *how* can we put a
+plan in place?,(4) *who* should lead the development of a plan, (5)
+*when* should this plan be in place? Since the situational context is
+quite specific, the question "how" is the best fit. All the other
+questions are not well prepared by the short situation. The *answer*
+to this question is not a simple "yes" or "no" but requires research
+and a keyline of different (supporting) arguments. E.g. areas in which
+to begin planning.
+
+[fn:3]"We don't have a plan in place to do this" would be possible,
+but it would be better to anchor this complication by mentioning the
+need for a *plan*. 
+
+[fn:2]The introduction only contains the hypothesis, the first or
+tentative answer. The full answer is contained in the entire body of
+the pyramid of arguments.
+
+[fn:1]There are several different types of questions: How, Why, What,
+Who and When; it is important that the complication exactly matches
+the question, in alignment with the context. For example, a
+complication like "We don't know how to do X", can lead to all types
+of questions, depending on the context. If the context is "we must do
+X", questions on who, when and how are possible, but not what (since X
+is given).  If the context is "we've been asked to decide between A
+and B", leads to "why should we do A or B?", or "How should we
+decide?", but not "Who", since that is given.
