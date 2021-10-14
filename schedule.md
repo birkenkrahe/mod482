@@ -138,7 +138,7 @@
 
 <tr>
 <td class="org-left">7-Oct</td>
-<td class="org-left">PRESENTATIONS: Chaney, Sonnier, Hardin, Sampley</td>
+<td class="org-left">PRESENTATIONS: Chaney, Sonnier, Hardin, Sampley, Frerichs</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">2ND SPRINT REVIEW</td>
 </tr>
@@ -146,7 +146,7 @@
 
 <tr>
 <td class="org-left">12-Oct</td>
-<td class="org-left">PRESENTATIONS: Roach/Czerwinski, Norwood, Hernandez, Mellor, Frerichs</td>
+<td class="org-left">PRESENTATIONS: Roach/Czerwinski, Mellor, O</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">2ND SPRINT REVIEW</td>
 </tr>
@@ -154,7 +154,7 @@
 
 <tr>
 <td class="org-left">14-Oct</td>
-<td class="org-left">Event controlled Process Chains I</td>
+<td class="org-left">Minto Pyramid Principle &amp; SCQA method (with practice)</td>
 <td class="org-left">Nick Czerwinski</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -162,7 +162,7 @@
 
 <tr>
 <td class="org-left">19-Oct</td>
-<td class="org-left">Event controlled Process Chains II</td>
+<td class="org-left">Process modeling &amp; Event controlled Process Chains</td>
 <td class="org-left">Wyatt Frerichs</td>
 <td class="org-left">&#xa0;</td>
 </tr>
