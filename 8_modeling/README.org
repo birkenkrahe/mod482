@@ -1,0 +1,15 @@
+#+TITLE:Process modeling 
+#+AUTHOR:Marcus Birkenkrahe
+#+SUBTITLE:Data modeling seminar 482.02 Fall 2021
+#+STARTUP:overview
+#+OPTIONS:hideblocks
+#+OPTIONS: toc:nil num:nil ^:nil
+#+INFOJS_OPT: :view:info
+* What will you learn?
+
+  * What is a process?
+  * What is process modeling*
+  * Example: Event-controlled Process Chains (EPC)
+  * Practice in the Signavio Process Editor
+
+  
