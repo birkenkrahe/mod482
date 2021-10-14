@@ -20,7 +20,7 @@
 
   #+attr_html: :width 600px
 
-  [![[./img/scqa.png]](https://vimeo.com/87537935)]
+  [!./img/scqa.png](https://vimeo.com/87537935)]
 
   * A model to efficiently structure all documents
   * Efficiency = maximizing audience rapport
