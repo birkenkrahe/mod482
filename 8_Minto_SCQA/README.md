@@ -1,13 +1,13 @@
 
 # Table of Contents
 
--   [What will you learn?](#org64b3c60)
--   [What is the Minto Pyramid Principle?](#org9e6d1c3)
--   [References](#org87499a9)
+-   [What will you learn?](#orgcbf569b)
+-   [What is the Minto Pyramid Principle?](#orgb05074d)
+-   [References](#org710d33c)
 
 
 
-<a id="org64b3c60"></a>
+<a id="orgcbf569b"></a>
 
 # What will you learn?
 
@@ -19,13 +19,13 @@
 (See also [this FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orgd4994dd) for a short overview with examples.)
 
 
-<a id="org9e6d1c3"></a>
+<a id="orgb05074d"></a>
 
 # What is the Minto Pyramid Principle?
 
 Introductory video [Harrison Metal (2014)](https://vimeo.com/87537935).
 
-[!![img](./img/scqa.png)(<https://vimeo.com/87537935>)]
+[!./img/scqa.png](<https://vimeo.com/87537935>)]
 
 -   A model to efficiently structure all documents
 -   Efficiency = maximizing audience rapport
@@ -36,7 +36,7 @@ Introductory video [Harrison Metal (2014)](https://vimeo.com/87537935).
 (Image source: powerusersoftwares.com, 2016)
 
 
-<a id="org87499a9"></a>
+<a id="org710d33c"></a>
 
 # References
 
