@@ -111,11 +111,9 @@
    | Question     | "How should the board of trustees react to the criticism of the president?"                                                                    |
    | Answer       | "Possible reactions to the criticism of the president"                                                                                         |
 
-   This *answer* directly hints at a pyramid, a deductive, logical
-   breakdown of "possible reactions"[fn:5], e.g.
-
-   | A. The board does not react at all | B. The board reprimands the president | C. The board asks for the president's resignation. |
-
+   The complete answer would be contained in a pyramid of supporting
+   arguments.
+   
 ** Example 3
 
    The previous SCQ scheme can be improved: the *complication* isn't
@@ -214,9 +212,6 @@
   Rob George (Apr 12, 2019). 3 SCQA [video]. [[https://youtu.be/SxGwSR4lKYs][Online: youtube.com]]
 
 * Footnotes
-
-[fn:5]There are other possible breakdowns - we are hampered by having
-little to go by in the situation and complication.
 
 [fn:4]The new complication "We don't have a plan in place to do this",
 could (in the context of the situation) lead to several questions: (1)

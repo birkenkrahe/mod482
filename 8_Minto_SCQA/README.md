@@ -1,28 +1,28 @@
 
 # Table of Contents
 
-1.  [What will you learn?](#orgb1cd22d)
-2.  [What is the Minto Pyramid Principle?](#orgd4b54dd)
-    1.  [How to structure a presentation](#orgc81801b)
-    2.  [Pyramid rules: logic + MECE](#org5dbecbc)
-    3.  [Example: "Exploring Data Science with R"](#orga8dcbc5)
-3.  [SCQ = Situation + Complication + Question](#orgb290b2c)
-    1.  [Understanding SCQ](#orgdbb6ad1)
-    2.  [Example 1](#org79a70f6)
-    3.  [Example 2](#org01f65a5)
-    4.  [Example 3](#org165dadd)
-    5.  [Practice 1](#orgf8e8010)
-        1.  [Roadtrip trouble](#org597bf78)
-        2.  [Missed assignment](#orgb07a2b0)
-        3.  [Sprint review](#org907e2e3)
-    6.  [Practice 2](#org96d12b6)
-4.  [The end](#orga66726b)
-5.  [Tutorial videos](#orgf454828)
-6.  [References](#orgd50231a)
+1.  [What will you learn?](#orgd8fe41e)
+2.  [What is the Minto Pyramid Principle?](#orgb7ec36f)
+    1.  [How to structure a presentation](#org0c648b3)
+    2.  [Pyramid rules: logic + MECE](#orga1fe8d2)
+    3.  [Example: "Exploring Data Science with R"](#org71fdf79)
+3.  [SCQ = Situation + Complication + Question](#org898d47a)
+    1.  [Understanding SCQ](#orgb2246a0)
+    2.  [Example 1](#orgf48e47f)
+    3.  [Example 2](#orged97750)
+    4.  [Example 3](#orgf01d5f1)
+    5.  [Practice 1](#org1c0bb85)
+        1.  [Roadtrip trouble](#orgae0e587)
+        2.  [Missed assignment](#orgbe0a0d7)
+        3.  [Sprint review](#orge8b82f5)
+    6.  [Practice 2](#org47f1765)
+4.  [The end](#org48af4ec)
+5.  [Tutorial videos](#org74eefbe)
+6.  [References](#org74b70ac)
 
 
 
-<a id="orgb1cd22d"></a>
+<a id="orgd8fe41e"></a>
 
 # What will you learn?
 
@@ -34,7 +34,7 @@
 (See also [this FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orgd4994dd) for a short overview with examples.)
 
 
-<a id="orgd4b54dd"></a>
+<a id="orgb7ec36f"></a>
 
 # What is the Minto Pyramid Principle?
 
@@ -47,7 +47,7 @@ Introductory video [Harrison Metal (2014)](https://vimeo.com/87537935).
 -   Developed by Barbara Minto(formerly McKinsey & Co)
 
 
-<a id="orgc81801b"></a>
+<a id="org0c648b3"></a>
 
 ## How to structure a presentation
 
@@ -60,7 +60,7 @@ the pyramid scheme:
 *Image source: powerusersoftwares.com, 2016*
 
 
-<a id="org5dbecbc"></a>
+<a id="orga1fe8d2"></a>
 
 ## Pyramid rules: logic + MECE
 
@@ -75,7 +75,7 @@ the pyramid scheme:
 Image: Pontema, 2021.
 
 
-<a id="orga8dcbc5"></a>
+<a id="org71fdf79"></a>
 
 ## Example: "Exploring Data Science with R"
 
@@ -90,7 +90,7 @@ the job!).
 ![img](./img/lecture.png)
 
 
-<a id="orgb290b2c"></a>
+<a id="org898d47a"></a>
 
 # SCQ = Situation + Complication + Question
 
@@ -104,7 +104,7 @@ the job!).
 *Image: Rob George (2019)*
 
 
-<a id="orgdbb6ad1"></a>
+<a id="orgb2246a0"></a>
 
 ## Understanding SCQ
 
@@ -150,7 +150,7 @@ itself.
 ![img](./img/bond.gif)
 
 
-<a id="org79a70f6"></a>
+<a id="orgf48e47f"></a>
 
 ## Example 1
 
@@ -198,7 +198,7 @@ lead to a different question and hypothesis. Let's try this:
 3.  Which **answer** would you give to this question?
 
 
-<a id="org01f65a5"></a>
+<a id="orged97750"></a>
 
 ## Example 2
 
@@ -236,30 +236,11 @@ lead to a different question and hypothesis. Let's try this:
 </tbody>
 </table>
 
-This **answer** directly hints at a pyramid, a deductive, logical
-breakdown of "possible reactions"<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>, e.g.
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+The complete answer would be contained in a pyramid of supporting
+arguments.
 
 
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">A. The board does not react at all</td>
-<td class="org-left">B. The board reprimands the president</td>
-<td class="org-left">C. The board asks for the president's resignation.</td>
-</tr>
-</tbody>
-</table>
-
-
-<a id="org165dadd"></a>
+<a id="orgf01d5f1"></a>
 
 ## Example 3
 
@@ -331,14 +312,14 @@ it more "complicated", i.e. triggered an urgent board response.
 ![img](./img/example3.png)
 
 
-<a id="orgf8e8010"></a>
+<a id="org1c0bb85"></a>
 
 ## Practice 1
 
 Substitute the missing elements!
 
 
-<a id="org597bf78"></a>
+<a id="orgae0e587"></a>
 
 ### Roadtrip trouble
 
@@ -377,7 +358,7 @@ Substitute the missing elements!
 </table>
 
 
-<a id="orgb07a2b0"></a>
+<a id="orgbe0a0d7"></a>
 
 ### Missed assignment
 
@@ -416,7 +397,7 @@ Substitute the missing elements!
 </table>
 
 
-<a id="org907e2e3"></a>
+<a id="orge8b82f5"></a>
 
 ### Sprint review
 
@@ -455,7 +436,7 @@ Substitute the missing elements!
 </table>
 
 
-<a id="org96d12b6"></a>
+<a id="org47f1765"></a>
 
 ## Practice 2
 
@@ -466,14 +447,14 @@ Substitute the missing elements!
 ![img](./img/practice2.png)
 
 
-<a id="orga66726b"></a>
+<a id="org48af4ec"></a>
 
 # The end
 
 ![img](./img/goaway.gif)
 
 
-<a id="orgf454828"></a>
+<a id="org74eefbe"></a>
 
 # Tutorial videos
 
@@ -486,7 +467,7 @@ Substitute the missing elements!
 -   [SCQA tutorial video](https://youtu.be/SxGwSR4lKYs) using a retail example (Rob George, 2019)
 
 
-<a id="orgd50231a"></a>
+<a id="org74b70ac"></a>
 
 # References
 
@@ -541,6 +522,3 @@ questions are not well prepared by the short situation. The **answer**
 to this question is not a simple "yes" or "no" but requires research
 and a keyline of different (supporting) arguments. E.g. areas in which
 to begin planning.
-
-<sup><a id="fn.5" href="#fnr.5">5</a></sup> There are other possible breakdowns - we are hampered by having
-little to go by in the situation and complication.
