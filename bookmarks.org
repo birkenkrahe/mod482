@@ -23,7 +23,7 @@
    #+begin_quote
    Computational neuroscientists taught an artificial neural network
    to imitate a biological neuron. The result offers a new way to
-   think about the complexity of single brain cell. [...] the language
+   think about the complexity of single brain cell. [...] The language
    of artificial neural networks may provide new insight into the
    power of neurons and, ultimately, the brain. “Thinking in terms of
    layers and depths and widths gives us an intuitive sense of
@@ -37,3 +37,7 @@
    complex.
    #+end_quote
 
+   With regard to modeling, the remark that this work "is still only
+   comparing a model to a model" is very interesting, I thought. This
+   does mean that neuroscience is not really an empirical science -
+   its models are not simulating reality, but only modelled reality.
