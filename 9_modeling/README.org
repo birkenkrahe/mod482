@@ -87,7 +87,7 @@
    /Image: Own image, modified after Camunda, BPM governance cycle,
    2019/
 
-   PDF: [[./img/camunda.pdf]]
+   PDF: https://github.com/birkenkrahe/mod482/blob/main/9_modeling/img/camunda.pdf
 
 * EPCs
 ** What are "Event-driven Process Chains"?
