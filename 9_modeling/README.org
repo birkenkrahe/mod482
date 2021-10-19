@@ -1,8 +1,7 @@
-#+TITLE:Process modeling 
+#+TITLE:Process modeling
 #+AUTHOR:Marcus Birkenkrahe
-#+SUBTITLE:Data modeling seminar 482.02 Fall 2021
-#+STARTUP:overview
-#+OPTIONS:hideblocks
+#+SUBTITLE: Data modeling seminar 482.02 Fall 2021
+#+STARTUP: overview
 #+OPTIONS: toc:1 num:nil ^:nil
 #+INFOJS_OPT: :view:info
 * What will you learn?
@@ -12,4 +11,139 @@
   * Example: Event-controlled Process Chains (EPC)
   * Practice in the Signavio Process Editor
 
+* What's a process?
+
   
+  
+  * What are the elements of any process?
+  * What's special (if anything) about "business processes"?
+  * What's special (if anything) about "IT processes"?[fn:1]
+  * Does data play any special role?
+  
+* Process modeling
+
+  The three-fold purpose of process modeling:
+
+  * Shared world view (key)
+  * Process standardization (means)
+  * Process optimization (end)
+
+** Shared world view
+
+*** Situation
+
+
+*** Complication & Question
+    #+attr_html: :width 600px
+    [[./img/hr_vs_it.jpg]]
+
+    *Example: hiring process.*
+
+    What does an IT person see and talk about?
+
+    What does an HR person see and talk about?
+
+**** IT view
+
+     /Image: computer parts - the IT world-view/
+
+     #+attr_html: :width 300px
+     [[./img/computer.gif]]
+
+     /Image source: [[eng][EngWorkSheets.com 2020]]/
+
+**** HR view
+     /Image: HR and people operations - HR world-view/
+
+     [[./img/hr.png]]
+
+     /Image source: [[sturgess][Sturgess, 2019]]/
+     
+*** Answer
+
+    #+attr_html: :width 500px
+    [[./img/hiring.jpg]]
+
+    New problem: process model is not *standardized*.
+
+    /Image source: [[cvo][CVO-Europe]]/
+    
+** Process standardization
+
+   ARIS = Meta model for process modeling ("model of models")
+   
+   #+attr_html: :width 500px
+   [[./img/aris.png]]
+
+   /Image: Architecture of Information Systems (ARIS) [[software][Software AG
+   2016]]/
+
+** Process optimization
+
+   
+   /Image: Modified after Camunda
+
+* EPCs
+** What are "Event-driven Process Chains"?
+
+   #+begin_quote
+   The event-driven Process Chain (EPC) is a flow chart for business
+   process modeling introduced by [[https://en.wikipedia.org/wiki/August-Wilhelm_Scheer][August-Wilhelm Scheer]] in the early
+   1990s. It illustrates the business process workflows. It uses
+   graphical symbols to show the control-flow structure of a business
+   process as a chain of events and functions. ([[vp][Visual Paradigm, 2021]])
+   #+end_quote
+
+** EPC elements   
+
+   #+attr_html: :width 600px
+   [[./img/epc.png]]
+   
+   /Image source: [[dechow][Dechow et al, 2007]]/
+   
+** EPC rules
+
+   Source: [[software][Software AG]]
+
+   
+
+   
+* Practice
+
+* References
+
+  <<cvo>> CVO-Europe (n.d.). Our Hiring Process [website]. [[https://www.cvo-europe.com/en/careers/our-hiring-process][Online:
+  cvo-europe.com]].
+
+  <<dechow>> Dechow et al (2007). Interactions between modern
+  information technology and management control [article]. [[https://www.researchgate.net/publication/274260317_Interactions_between_modern_information_technology_and_management_control][Online:
+  researchgate.net.]]
+
+  <<eng>> EngWorkSheets (2020). Computer Parts ESL Vocabulary Matching
+  Exercise Worksheet For Kids - PDF Preview [website]. [[https://www.engworksheets.com/vocabulary-pdf-preview/Computer-Parts/4/computer-parts-esl-vocabulary-matching-exercise-worksheet-for-kids.html][Online:
+  engworksheets.com]].
+
+  <<itil>> Maya G (Jun 29,2021). ITIL Processes [blog]. [[https://www.itil-docs.com/blogs/itil-concepts/itil-processes-functions][Online:
+  itil-docs.com.]]
+
+  <<software>> Software AG University Relations (2016). BPM with ARIS
+  [presentation]. [[http://cdn.ariscommunity.com/community2/documents/urelation/BPM-ARIS_Part2.pdf][Online: ariscommunity.com.]]
+  
+  <<sturgess>> Sturgess G (June 20, 2019). What's the Difference
+  between HR and People Operations? [website]. [[https://www.talentalign.com/whats-the-difference-between-hr-and-people-operations/][Online:
+  talentalign.com.]]
+
+  <<vp>> Visual Paradigm (2021). What is Event-Driven
+  Process Chain (EPC)? [Website]. [[https://online.visual-paradigm.com/knowledge/business-design-tools/what-is-epc-diagram/#][Online: visual-paradigm.com]].
+
+  <<wiki>> Wikipedia (1 Oct 2021). ITIL [website]. [[https://en.wikipedia.org/wiki/ITIL][Online:
+  en.wikipedia.org]].
+  
+* Footnotes
+
+[fn:1]Cp. ITIL library of IT processes, especially with regards
+to IT services. More: [[wiki][Wikipedia]] (2021).
+
+#+attr_html: :width 600px
+[[./img/itil.jpg]]
+/Image source: ITIL docs, 2021/
