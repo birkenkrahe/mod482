@@ -202,12 +202,18 @@
 * Week 10 - October 19
 
   #+attr_html: :width 600px
-  [[./img/epc.png]]
+  [[./img/overview.png]]
 
   * Recap: Minto Pyramid Principle ([[https://lyon.schoology.com/assignment/5399738031][test]] 15')
   * Process modeling (20')
   * Introduction to EPCs (30')
   * Signavio demo (10')
+  * Challenge: online lesson ([[https://h5p.org/node/262310][BPM Basics]])
+
+* Week 10 - October 21
+
+  * 
+  * Challenge: online lesson ([[https://h5p.org/node/1138751][BPMN Primer]])
   
 * References
 
