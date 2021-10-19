@@ -11,6 +11,9 @@
   * Example: Event-controlled Process Chains (EPC)
   * Practice in the Signavio Process Editor
 
+    #+attr_html: :width 600px
+    [[./img/pm.png]]
+  
 * What's a process?
 
   [[./img/process.png]]
