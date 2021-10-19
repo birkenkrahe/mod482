@@ -158,9 +158,20 @@
     * They are RACI - responsible, accountable, consulted and informed
 
       [[./img/raci.png]]
+
+** Extended Event-driven Process Chain (eEPC)
+
+   eEPCs integrate the other views of the ARIS house:
+   * Roles/organization
+   * Products/services
+   * Data input/output
+
+     [[./img/eepc.png]]
     
 ** EPC rules summary
 
+   
+   
     | 1 | Every EPC starts and ends with an event                 |
     | 2 | Events and functions alternate                          |
     | 3 | Must use operator (only) when flow splits or merges     |
@@ -169,13 +180,35 @@
     | 6 | Interfaces only before or after a process               |
     | 7 | Organizational units are only connected to functions    |
 
+    [[./img/summary.gif]]
+    
 * Practice
 
+  [[./img/practice.gif]]
+
+    Tip: [[https://online.visual-paradigm.com/knowledge/business-design-tools/what-is-epc-diagram/#][This platform allows you to play around in their online editor.]]
+
 ** Signavio demo
+
+   * Fire up the Signavio process editor
+   * Let's draw some EPC diagrams
+   * Create your models in your own folder
+   
 ** Find the mistakes
+
+   Find all mistakes in the EPC diagram!
+   
 ** Fill in a process model
+
+   (Classroom exercise)
+   
 ** Model a whole process
 
+
+   (Graded homework)
+
+** Test (October 26)
+   
 * References
 
   <<cvo>> CVO-Europe (n.d.). Our Hiring Process [website]. [[https://www.cvo-europe.com/en/careers/our-hiring-process][Online:
