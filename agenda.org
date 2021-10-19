@@ -198,6 +198,16 @@
 
   #+attr_html: :width 600px
   [[./img/signavio.png]]
+
+* Week 10 - October 19
+
+  #+attr_html: :width 600px
+  [[./img/epc.png]]
+
+  * Recap: Minto Pyramid Principle ([[https://lyon.schoology.com/assignment/5399738031][test]] 15')
+  * Process modeling (20')
+  * Introduction to EPCs (30')
+  * Signavio demo (10')
   
 * References
 
