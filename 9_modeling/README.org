@@ -13,13 +13,13 @@
 
 * What's a process?
 
-  
-  
+  [[./img/process.png]]
+
   * What are the elements of any process?
   * What's special (if anything) about "business processes"?
   * What's special (if anything) about "IT processes"?[fn:1]
   * Does data play any special role?
-  
+
 * Process modeling
 
   The three-fold purpose of process modeling:
@@ -32,6 +32,7 @@
 
 *** Situation
 
+    [[./img/hiring.gif]]
 
 *** Complication & Question
     #+attr_html: :width 600px
@@ -58,7 +59,7 @@
      [[./img/hr.png]]
 
      /Image source: [[sturgess][Sturgess, 2019]]/
-     
+
 *** Answer
 
     #+attr_html: :width 500px
@@ -67,11 +68,11 @@
     New problem: process model is not *standardized*.
 
     /Image source: [[cvo][CVO-Europe]]/
-    
+
 ** Process standardization
 
    ARIS = Meta model for process modeling ("model of models")
-   
+
    #+attr_html: :width 500px
    [[./img/aris.png]]
 
@@ -80,8 +81,13 @@
 
 ** Process optimization
 
-   
-   /Image: Modified after Camunda
+   #+attr_html: :width 600px
+   [[./img/camunda.png]]
+
+   /Image: Own image, modified after Camunda, BPM governance cycle,
+   2019/
+
+   PDF: [[./img/camunda.pdf]]
 
 * EPCs
 ** What are "Event-driven Process Chains"?
@@ -94,21 +100,81 @@
    process as a chain of events and functions. ([[vp][Visual Paradigm, 2021]])
    #+end_quote
 
-** EPC elements   
+** EPC elements
 
    #+attr_html: :width 600px
    [[./img/epc.png]]
-   
+
    /Image source: [[dechow][Dechow et al, 2007]]/
-   
-** EPC rules
 
-   Source: [[software][Software AG]]
+*** Events and functions
 
-   
+    | Function     | Activities carried out by a person |
+    | Event        | Status triggered by a function     |
+    | Control flow | Sequence of activities             |
 
-   
+    #+attr_html: :width 200px
+    [[./img/event.png]]
+
+    Image source: [[software][Software AG]]
+
+**** Event and function rules
+
+     * Every EPC starts and ends with an event
+     * Events and functions alternate
+
+*** Operators and tokens
+
+    | Operator           | Meaning                                     |
+    |--------------------+---------------------------------------------|
+    | AND                | All following flows are executed            |
+    | OR                 | One or several following flows are executed |
+    | XOR (exclusive OR) | Only one of the following flows is executed |
+
+    #+attr_html: :width 300px
+    [[./img/operator.png]]
+
+**** Operator rules
+
+     * Must use operator (only) when flow splits or merges
+     * Token rule: Splitting operator = joining operator
+     * Only the AND operator can split the flow after an event
+
+     #+attr_html: :width 400px
+     [[./img/loops.png]]
+
+*** Process interfaces
+
+    * Process interfaces are used to link independent processes
+    * Trigger following process or signal preceding process
+    * Can only be at the start or at the end of a process diagram
+
+      #+attr_html: :width 300px
+    [[./img/interface.png]]
+
+*** Organizational units
+
+    * Organizational units are only connected to functions
+    * They are RACI - responsible, accountable, consulted and informed
+
+      [[./img/raci.png]]
+    
+** EPC rules summary
+
+    | 1 | Every EPC starts and ends with an event                 |
+    | 2 | Events and functions alternate                          |
+    | 3 | Must use operator (only) when flow splits or merges     |
+    | 4 | Splitting operator = joining operator                   |
+    | 5 | Only the AND operator can split the flow after an event |
+    | 6 | Interfaces only before or after a process               |
+    | 7 | Organizational units are only connected to functions    |
+
 * Practice
+
+** Signavio demo
+** Find the mistakes
+** Fill in a process model
+** Model a whole process
 
 * References
 
@@ -128,7 +194,7 @@
 
   <<software>> Software AG University Relations (2016). BPM with ARIS
   [presentation]. [[http://cdn.ariscommunity.com/community2/documents/urelation/BPM-ARIS_Part2.pdf][Online: ariscommunity.com.]]
-  
+
   <<sturgess>> Sturgess G (June 20, 2019). What's the Difference
   between HR and People Operations? [website]. [[https://www.talentalign.com/whats-the-difference-between-hr-and-people-operations/][Online:
   talentalign.com.]]
@@ -138,7 +204,7 @@
 
   <<wiki>> Wikipedia (1 Oct 2021). ITIL [website]. [[https://en.wikipedia.org/wiki/ITIL][Online:
   en.wikipedia.org]].
-  
+
 * Footnotes
 
 [fn:1]Cp. ITIL library of IT processes, especially with regards
