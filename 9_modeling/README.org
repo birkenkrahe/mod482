@@ -216,7 +216,7 @@
 
 ** Signavio demo
 
-   * Fire up the Signavio process editor
+   * Fire up the [[https://academic.signavio.com][Signavio process editor]]
    * Let's draw some EPC diagrams
    * Create your models in your own folder
    
