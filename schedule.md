@@ -162,7 +162,7 @@
 
 <tr>
 <td class="org-left">19-Oct</td>
-<td class="org-left">Process modeling &amp; Event controlled Process Chains</td>
+<td class="org-left">Process modeling &amp; Event-driven Process Chains (EPC)</td>
 <td class="org-left">Wyatt Frerichs</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -170,7 +170,7 @@
 
 <tr>
 <td class="org-left">21-Oct</td>
-<td class="org-left">Business Process Model and Notation I</td>
+<td class="org-left">EPC (lab)</td>
 <td class="org-left">Own Hardin</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -178,7 +178,7 @@
 
 <tr>
 <td class="org-left">26-Oct</td>
-<td class="org-left">Business Process Model and Notation II</td>
+<td class="org-left">Business Process Model and Notation (BPMN)</td>
 <td class="org-left">Fortunato Hernandez</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -186,7 +186,7 @@
 
 <tr>
 <td class="org-left">28-Oct</td>
-<td class="org-left">Unified Modeling Language (UML) I</td>
+<td class="org-left">EPC + BPMN (lab)</td>
 <td class="org-left">Malcolm Howard</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -194,7 +194,7 @@
 
 <tr>
 <td class="org-left">2-Nov</td>
-<td class="org-left">Unified Modeling Language (UML) II</td>
+<td class="org-left">BPMN (lab)</td>
 <td class="org-left">Molly Mellor</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -202,47 +202,47 @@
 
 <tr>
 <td class="org-left">4-Nov</td>
-<td class="org-left">PRESENTATIONS</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Unified Modeling Language (UML)</td>
+<td class="org-left">Nick Norwood</td>
 <td class="org-left">3RD SPRINT REVIEW</td>
 </tr>
 
 
 <tr>
 <td class="org-left">9-Nov</td>
-<td class="org-left">Robotic process automation (RPA) I</td>
-<td class="org-left">Nick Norwood</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">11-Nov</td>
-<td class="org-left">Robotic process automation (RPA) II</td>
+<td class="org-left">UML (lab)</td>
 <td class="org-left">Dat O</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
-<td class="org-left">16-Nov</td>
-<td class="org-left">Entity Relationship Diagrams (ERD) I</td>
+<td class="org-left">11-Nov</td>
+<td class="org-left">Entity Relationship Diagrams (ERD)</td>
 <td class="org-left">Dane Roach</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
-<td class="org-left">18-Nov</td>
-<td class="org-left">Entity Relationship Diagrams (ERD) II</td>
+<td class="org-left">16-Nov</td>
+<td class="org-left">ERD (lab)</td>
 <td class="org-left">Jacob Sampley</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
+<td class="org-left">18-Nov</td>
+<td class="org-left">PRESENTATIONS</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
 <td class="org-left">23-Nov</td>
-<td class="org-left">Process mining I</td>
+<td class="org-left">Robotic Process Automation (RPA)</td>
 <td class="org-left">William Sonnier</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -250,7 +250,7 @@
 
 <tr>
 <td class="org-left">30-Nov</td>
-<td class="org-left">Process mining II</td>
+<td class="org-left">Process mining</td>
 <td class="org-left">Nick Chaney</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -258,7 +258,7 @@
 
 <tr>
 <td class="org-left">2-Dec</td>
-<td class="org-left">PRESENTATIONS</td>
+<td class="org-left">Course summary</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">4TH SPRINT REVIEW</td>
 </tr>
