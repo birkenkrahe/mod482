@@ -1,16 +1,16 @@
 
 # Table of Contents
 
-1.  [Session Protocols](#orgea81699)
+1.  [Session Protocols](#orgdfe2ef1)
 
 
 
-<a id="orgea81699"></a>
+<a id="orgdfe2ef1"></a>
 
 # Session Protocols
 
 Post your protocol here (PDF or markdown) no later than one week
-after the seminar. Take a look at [my example protocol](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md) (from the AI
+after the seminar. Take a look at [my example protocol](https://github.com/birkenkrahe/mod482/blob/main/protocols/08_23_birkenkrahe.md) (from the AI
 course).
 
 The protocol has no upper or lower word limit, and the format is
