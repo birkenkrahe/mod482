@@ -20,17 +20,17 @@
    | 7-Oct    | PRESENTATIONS: Chaney, Sonnier, Hardin, Sampley, Frerichs |                     | 2ND SPRINT REVIEW |
    | 12-Oct   | PRESENTATIONS: Roach/Czerwinski, Mellor, O                |                     | 2ND SPRINT REVIEW |
    | 14-Oct   | Minto Pyramid Principle & SCQA method (with practice)     | Nick Czerwinski     |                   |
-   | 19-Oct   | Process modeling & Event controlled Process Chains        | Wyatt Frerichs      |                   |
-   | 21-Oct   | Business Process Model and Notation I                     | Own Hardin          |                   |
-   | 26-Oct   | Business Process Model and Notation II                    | Fortunato Hernandez |                   |
-   | 28-Oct   | Unified Modeling Language (UML) I                         | Malcolm Howard      |                   |
-   | 2-Nov    | Unified Modeling Language (UML) II                        | Molly Mellor        |                   |
-   | 4-Nov    | PRESENTATIONS                                             |                     | 3RD SPRINT REVIEW |
-   | 9-Nov    | Robotic process automation (RPA) I                        | Nick Norwood        |                   |
-   | 11-Nov   | Robotic process automation (RPA) II                       | Dat O               |                   |
-   | 16-Nov   | Entity Relationship Diagrams (ERD) I                      | Dane Roach          |                   |
-   | 18-Nov   | Entity Relationship Diagrams (ERD) II                     | Jacob Sampley       |                   |
-   | 23-Nov   | Process mining I                                          | William Sonnier     |                   |
-   | 30-Nov   | Process mining II                                         | Nick Chaney         |                   |
-   | 2-Dec    | PRESENTATIONS                                             |                     | 4TH SPRINT REVIEW |
+   | 19-Oct   | Process modeling & Event-driven Process Chains (EPC)      | Wyatt Frerichs      |                   |
+   | 21-Oct   | EPC (lab)                                                 | Own Hardin          |                   |
+   | 26-Oct   | Business Process Model and Notation (BPMN)                | Fortunato Hernandez |                   |
+   | 28-Oct   | EPC + BPMN (lab)                                          | Malcolm Howard      |                   |
+   | 2-Nov    | BPMN (lab)                                                | Molly Mellor        |                   |
+   | 4-Nov    | Unified Modeling Language (UML)                           | Nick Norwood        | 3RD SPRINT REVIEW |
+   | 9-Nov    | UML (lab)                                                 | Dat O               |                   |
+   | 11-Nov   | Entity Relationship Diagrams (ERD)                        | Dane Roach          |                   |
+   | 16-Nov   | ERD (lab)                                                 | Jacob Sampley       |                   |
+   | 18-Nov   | PRESENTATIONS                                             |                     |                   |
+   | 23-Nov   | Robotic Process Automation (RPA)                          | William Sonnier     |                   |
+   | 30-Nov   | Process mining                                            | Nick Chaney         |                   |
+   | 2-Dec    | Course summary                                            |                     | 4TH SPRINT REVIEW |
    | Dec 6-10 | FINAL EXAM                                                |                     | FINAL EXAM        |
