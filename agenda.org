@@ -219,7 +219,7 @@
   |              | Fill the model yourself            | '20 |
   |              | Make your own model                | '20 |
   | Challenge    | Online lesson: [[https://h5p.org/node/1138751][BPMN Primer]]         |     |
-  | Next week    | Graded test (process/modeling/EPC) | '15 |
+  | Tue 26 Oct   | Graded test (process/modeling/EPC) | '15 |
 
 * Week 11 - October 26
 
