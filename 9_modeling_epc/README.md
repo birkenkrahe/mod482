@@ -1,37 +1,37 @@
 
 # Table of Contents
 
--   [What will you learn?](#org616fc7d)
--   [What's a process?](#org9630bea)
--   [Process modeling](#orge0cb93d)
-    -   [Shared world view](#org9c2f677)
-        -   [Situation](#org7044614)
-        -   [Complication & Question](#org53c8d38)
-        -   [Answer](#org19380e2)
-    -   [Process standardization](#org5da685d)
-    -   [Process optimization](#orgd241c2e)
--   [EPCs](#orgf326399)
-    -   [What are "Event-driven Process Chains"?](#orgd7bdf3f)
-    -   [EPC elements](#org77d9a8f)
-        -   [Events and functions](#org53eb25a)
-        -   [Flow](#orge8c66e5)
-        -   [Operators and tokens](#orgf5a07e8)
-        -   [Flow](#org4ecc0eb)
-        -   [Process interfaces](#orgc442d87)
-        -   [Organizational units](#org4fa383d)
-    -   [Extended Event-driven Process Chain (eEPC)](#org52a85ff)
-    -   [EPC rules summary](#orgde94fa2)
--   [Practice](#org3fe3e12)
-    -   [Signavio demo](#orgb64bea8)
-    -   [Find the mistakes](#org47a0e41)
-    -   [Fill in a process model](#org4c6399a)
-    -   [Model a whole process](#org6bcecfa)
-    -   [Test (October 26)](#org018990e)
--   [References](#org2bcb288)
+-   [What will you learn?](#org6d5bcc5)
+-   [What's a process?](#orgb7d3765)
+-   [Process modeling](#org747584e)
+    -   [Shared world view](#orgc244dd6)
+        -   [Situation](#org84ae3af)
+        -   [Complication & Question](#org8c6944e)
+        -   [Answer](#org8928746)
+    -   [Process standardization](#org615b2f6)
+    -   [Process optimization](#org3c6c053)
+-   [EPCs](#orgec52090)
+    -   [What are "Event-driven Process Chains"?](#org5c59f1f)
+    -   [EPC elements](#org932847f)
+        -   [Events and functions](#org49d8c30)
+        -   [Flow](#org1781dfd)
+        -   [Operators and tokens](#orga9af9ab)
+        -   [Flow](#org3a3e8e7)
+        -   [Process interfaces](#orgcac690a)
+        -   [Organizational units](#org78bf445)
+    -   [Extended Event-driven Process Chain (eEPC)](#org7d583ed)
+    -   [EPC rules summary](#org930d01a)
+-   [Practice](#org8b0206d)
+    -   [Signavio demo](#orge558f95)
+    -   [Find the mistakes](#org7740fd8)
+    -   [Fill in a process model](#orge987be7)
+    -   [Model a whole process](#org1f360b4)
+    -   [Test (October 26)](#org6368524)
+-   [References](#orgf27e6bc)
 
 
 
-<a id="org616fc7d"></a>
+<a id="org6d5bcc5"></a>
 
 # What will you learn?
 
@@ -43,7 +43,7 @@
     ![img](./img/pm.png)
 
 
-<a id="org9630bea"></a>
+<a id="orgb7d3765"></a>
 
 # What's a process?
 
@@ -55,7 +55,7 @@
 -   Does data play any special role?
 
 
-<a id="orge0cb93d"></a>
+<a id="org747584e"></a>
 
 # Process modeling
 
@@ -66,19 +66,19 @@ The three-fold purpose of process modeling:
 -   Process optimization (end)
 
 
-<a id="org9c2f677"></a>
+<a id="orgc244dd6"></a>
 
 ## Shared world view
 
 
-<a id="org7044614"></a>
+<a id="org84ae3af"></a>
 
 ### Situation
 
 ![img](./img/hiring.gif)
 
 
-<a id="org53c8d38"></a>
+<a id="org8c6944e"></a>
 
 ### Complication & Question
 
@@ -96,7 +96,7 @@ What does an HR person see and talk about?
     
     ![img](./img/computer.gif)
     
-    *Image source: [EngWorkSheets.com 2020](#org3639c0a)*
+    *Image source: [EngWorkSheets.com 2020](#org8a447aa)*
 
 -   HR view
 
@@ -104,10 +104,10 @@ What does an HR person see and talk about?
     
     ![img](./img/hr.png)
     
-    *Image source: [Sturgess, 2019](#orgfd62d76)*
+    *Image source: [Sturgess, 2019](#org94b2af2)*
 
 
-<a id="org19380e2"></a>
+<a id="org8928746"></a>
 
 ### Answer
 
@@ -115,10 +115,10 @@ What does an HR person see and talk about?
 
 New problem: process model is not **standardized**.
 
-*Image source: [CVO-Europe](#orge4d4400)*
+*Image source: [CVO-Europe](#org30e0361)*
 
 
-<a id="org5da685d"></a>
+<a id="org615b2f6"></a>
 
 ## Process standardization
 
@@ -127,10 +127,10 @@ ARIS = Meta model for process modeling ("model of models")
 ![img](./img/aris.png)
 
 *Image: Architecture of Information Systems (ARIS) [Software AG
-2016](#org980b2db)*
+2016](#org1aa7785)*
 
 
-<a id="orgd241c2e"></a>
+<a id="org3c6c053"></a>
 
 ## Process optimization
 
@@ -142,12 +142,12 @@ ARIS = Meta model for process modeling ("model of models")
 PDF: <https://github.com/birkenkrahe/mod482/blob/main/9_modeling/img/camunda.pdf>
 
 
-<a id="orgf326399"></a>
+<a id="orgec52090"></a>
 
 # EPCs
 
 
-<a id="orgd7bdf3f"></a>
+<a id="org5c59f1f"></a>
 
 ## What are "Event-driven Process Chains"?
 
@@ -155,19 +155,19 @@ PDF: <https://github.com/birkenkrahe/mod482/blob/main/9_modeling/img/camunda.pdf
 > process modeling introduced by [August-Wilhelm Scheer](https://en.wikipedia.org/wiki/August-Wilhelm_Scheer) in the early
 > 1990s. It illustrates the business process workflows. It uses
 > graphical symbols to show the control-flow structure of a business
-> process as a chain of events and functions. ([Visual Paradigm, 2021](#orge2cf3bc))
+> process as a chain of events and functions. ([Visual Paradigm, 2021](#org3e6b862))
 
 
-<a id="org77d9a8f"></a>
+<a id="org932847f"></a>
 
 ## EPC elements
 
 ![img](./img/epc.png)
 
-*Image source: [Dechow et al, 2007](#org276b7e4)*
+*Image source: [Dechow et al, 2007](#org3e7e542)*
 
 
-<a id="org53eb25a"></a>
+<a id="org49d8c30"></a>
 
 ### Events and functions
 
@@ -201,7 +201,7 @@ PDF: <https://github.com/birkenkrahe/mod482/blob/main/9_modeling/img/camunda.pdf
 
 ![img](./img/event1.png)
 
-Image source: [Software AG](#org980b2db)
+Image source: [Software AG](#org1aa7785)
 
 -   Event and function rules
 
@@ -209,15 +209,22 @@ Image source: [Software AG](#org980b2db)
     -   Events and functions alternate
 
 
-<a id="orge8c66e5"></a>
+<a id="org1781dfd"></a>
 
 ### Flow
 
 Flow represents the flow of time, and is itself represented by a
 solid arrow with a solid tip.
 
+-   Flow rules
 
-<a id="orgf5a07e8"></a>
+    -   All process elements must be connected by flow (arrows)
+    -   Loops are allowed (but careful: maintain model readability)
+        
+        ![img](./img/loops.png)
+
+
+<a id="orga9af9ab"></a>
 
 ### Operators and tokens
 
@@ -267,17 +274,12 @@ solid arrow with a solid tip.
     ![img](./img/operators.png)
 
 
-<a id="org4ecc0eb"></a>
+<a id="org3a3e8e7"></a>
 
 ### Flow
 
--   All process elements must be connected by flow (arrows)
--   Loops are allowed (but careful: maintain model readability)
-    
-    ![img](./img/loops.png)
 
-
-<a id="orgc442d87"></a>
+<a id="orgcac690a"></a>
 
 ### Process interfaces
 
@@ -288,7 +290,7 @@ solid arrow with a solid tip.
 ![img](./img/interface.png)
 
 
-<a id="org4fa383d"></a>
+<a id="org78bf445"></a>
 
 ### Organizational units
 
@@ -298,7 +300,7 @@ solid arrow with a solid tip.
     ![img](./img/raci.png)
 
 
-<a id="org52a85ff"></a>
+<a id="org7d583ed"></a>
 
 ## Extended Event-driven Process Chain (eEPC)
 
@@ -311,7 +313,7 @@ eEPCs integrate the other views of the ARIS house:
     ![img](./img/eepc.png)
 
 
-<a id="orgde94fa2"></a>
+<a id="org930d01a"></a>
 
 ## EPC rules summary
 
@@ -401,7 +403,7 @@ modeled using EPCs.<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
 ![img](./img/summary.gif)
 
 
-<a id="org3fe3e12"></a>
+<a id="org8b0206d"></a>
 
 # Practice
 
@@ -410,7 +412,7 @@ modeled using EPCs.<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
 Tip: [This platform allows you to play around in their online editor.](https://online.visual-paradigm.com/knowledge/business-design-tools/what-is-epc-diagram/#)
 
 
-<a id="orgb64bea8"></a>
+<a id="orge558f95"></a>
 
 ## Signavio demo
 
@@ -419,64 +421,64 @@ Tip: [This platform allows you to play around in their online editor.](https://o
 -   Create your models in your own folder
 
 
-<a id="org47a0e41"></a>
+<a id="org7740fd8"></a>
 
 ## Find the mistakes
 
 Find all mistakes in the EPC diagram!
 
 
-<a id="org4c6399a"></a>
+<a id="orge987be7"></a>
 
 ## Fill in a process model
 
 (Classroom exercise)
 
 
-<a id="org6bcecfa"></a>
+<a id="org1f360b4"></a>
 
 ## Model a whole process
 
 (Graded homework)
 
 
-<a id="org018990e"></a>
+<a id="org6368524"></a>
 
 ## Test (October 26)
 
 
-<a id="org2bcb288"></a>
+<a id="orgf27e6bc"></a>
 
 # References
 
-<a id="orge4d4400"></a> CVO-Europe (n.d.). Our Hiring Process [website]. [Online:
+<a id="org30e0361"></a> CVO-Europe (n.d.). Our Hiring Process [website]. [Online:
 cvo-europe.com](https://www.cvo-europe.com/en/careers/our-hiring-process).
 
-<a id="org276b7e4"></a> Dechow et al (2007). Interactions between modern
+<a id="org3e7e542"></a> Dechow et al (2007). Interactions between modern
 information technology and management control [article]. [Online:
 researchgate.net.](https://www.researchgate.net/publication/274260317_Interactions_between_modern_information_technology_and_management_control)
 
-<a id="org3639c0a"></a> EngWorkSheets (2020). Computer Parts ESL Vocabulary Matching
+<a id="org8a447aa"></a> EngWorkSheets (2020). Computer Parts ESL Vocabulary Matching
 Exercise Worksheet For Kids - PDF Preview [website]. [Online:
 engworksheets.com](https://www.engworksheets.com/vocabulary-pdf-preview/Computer-Parts/4/computer-parts-esl-vocabulary-matching-exercise-worksheet-for-kids.html).
 
-<a id="orge3766c2"></a> Maya G (Jun 29,2021). ITIL Processes [blog]. [Online:
+<a id="orge306e85"></a> Maya G (Jun 29,2021). ITIL Processes [blog]. [Online:
 itil-docs.com.](https://www.itil-docs.com/blogs/itil-concepts/itil-processes-functions)
 
-<a id="org37284d4"></a> SAP (n.d.). What is ERP? [website]. [Online:
+<a id="org7d94e32"></a> SAP (n.d.). What is ERP? [website]. [Online:
 insights.sap.com.](https://insights.sap.com/what-is-erp/?sred=glo-products-whatiserp)
 
-<a id="org980b2db"></a> Software AG University Relations (2016). BPM with ARIS
+<a id="org1aa7785"></a> Software AG University Relations (2016). BPM with ARIS
 [presentation]. [Online: ariscommunity.com.](http://cdn.ariscommunity.com/community2/documents/urelation/BPM-ARIS_Part2.pdf)
 
-<a id="orgfd62d76"></a> Sturgess G (June 20, 2019). What's the Difference
+<a id="org94b2af2"></a> Sturgess G (June 20, 2019). What's the Difference
 between HR and People Operations? [website]. [Online:
 talentalign.com.](https://www.talentalign.com/whats-the-difference-between-hr-and-people-operations/)
 
-<a id="orge2cf3bc"></a> Visual Paradigm (2021). What is Event-Driven
+<a id="org3e6b862"></a> Visual Paradigm (2021). What is Event-Driven
 Process Chain (EPC)? [Website]. [Online: visual-paradigm.com](https://online.visual-paradigm.com/knowledge/business-design-tools/what-is-epc-diagram/#).
 
-<a id="orgb23b0d7"></a> Wikipedia (1 Oct 2021). ITIL [website]. [Online:
+<a id="orgd1f81d4"></a> Wikipedia (1 Oct 2021). ITIL [website]. [Online:
 en.wikipedia.org](https://en.wikipedia.org/wiki/ITIL).
 
 
@@ -489,7 +491,7 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/ITIL).
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> Business processes generate added value.
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> Cp. ITIL library of IT processes, especially with regards
-to IT services. More: [Wikipedia](#orgb23b0d7) (2021).
+to IT services. More: [Wikipedia](#orgd1f81d4) (2021).
 
 ![img](./img/itil.jpg)
 *Image source: ITIL docs, 2021*
@@ -497,4 +499,4 @@ to IT services. More: [Wikipedia](#orgb23b0d7) (2021).
 <sup><a id="fn.4" href="#fnr.4">4</a></sup> Any productive ERP system contains many more transactions than
 that. In practice, these are often modeled as BPMN diagrams, or as ER
 Diagrams, if customer-facing or database operations are being
-modeled. For more about ERP systems, see this tutorial ([SAP](#org37284d4)).
+modeled. For more about ERP systems, see this tutorial ([SAP](#org7d94e32)).
