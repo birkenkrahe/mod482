@@ -214,12 +214,12 @@
 
   [[./img/happypath.png]]
 
-  * Recap: Process, modeling, EPCs (15')
-  * EPC practice: error diagram ('20)
-  * EPC practice: fill the model ('20)
-  * EPC practice: make a simple model ('20)
-  * Challenge: online lesson ([[https://h5p.org/node/1138751][BPMN Primer]])
-  * Next week: Process, modeling, EPCs ([[https://lyon.schoology.com/assignment/5403938015][test]] 6 - graded)
+  | Recap        | Process, modeling, EPCs            | '15 |
+  | EPC practice | Find the diagram mistakes          | '20 |
+  |              | Fill the model yourself            | '20 |
+  |              | Make your own model                | '20 |
+  | Challenge    | Online lesson: [[https://h5p.org/node/1138751][BPMN Primer]]         |     |
+  | Next week    | Graded test (process/modeling/EPC) | '15 |
 
 * Week 11 - October 26
 
