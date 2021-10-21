@@ -212,17 +212,21 @@
     
 * Week 10 - October 21
 
+  
+
+  * Recap: Process, modeling, and EPCs (5')
+  * EPC practice: error diagram ('15)
+  * EPC practice: fill the model ('15)
+  * EPC practice: make a simple model 
+  * Challenge: online lesson ([[https://h5p.org/node/1138751][BPMN Primer]])
+  * Next week: Process, modeling and EPCs ([[https://lyon.schoology.com/assignment/5403938015][test]] 6)
+
+* Week 11 - October 26
+
   /Image: result stats test 5/
 
   [[./img/test5.png]]
-  
-  * Recap: Process, modeling and EPCs ([[https://lyon.schoology.com/assignment/5403938015][test]] '15)
-  * Review test ('15)
-  * EPC practice: error diagram ('15)
-  * EPC practice: fill the model ('15)
-  * EPC practice: make a simple model
-  * Challenge: online lesson ([[https://h5p.org/node/1138751][BPMN Primer]])
-  
+
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
