@@ -132,6 +132,8 @@
     Flow represents the flow of time, and is itself represented by a
     solid arrow with a solid tip.
 
+    /Image: 
+    
 *** Flow rules
  
    * All process elements must be connected by flow (arrows)
