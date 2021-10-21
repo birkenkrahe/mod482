@@ -223,6 +223,8 @@
 
 * Week 11 - October 26
 
+  [[./img/eastwood.gif]]
+  
   /Image: result stats test 5/
 
   [[./img/test5.png]]
