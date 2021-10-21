@@ -212,12 +212,12 @@
     
 * Week 10 - October 21
 
-  
+  [[./img/happypath.png]]
 
-  * Recap: Process, modeling, and EPCs (5')
-  * EPC practice: error diagram ('15)
-  * EPC practice: fill the model ('15)
-  * EPC practice: make a simple model 
+  * Recap: Process, modeling, EPCs (15')
+  * EPC practice: error diagram ('20)
+  * EPC practice: fill the model ('20)
+  * EPC practice: make a simple model ('20)
   * Challenge: online lesson ([[https://h5p.org/node/1138751][BPMN Primer]])
   * Next week: Process, modeling and EPCs ([[https://lyon.schoology.com/assignment/5403938015][test]] 6)
 

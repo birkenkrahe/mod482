@@ -121,10 +121,10 @@
 
     Image source: [[software][Software AG]]
 
-**** Event and function rules
+*** Event and function rules
 
-     * Every EPC starts and ends with an event
-     * Events and functions alternate
+    * Every EPC starts and ends with an event
+    * Events and functions alternate
 
 
 *** Flow
@@ -132,13 +132,13 @@
     Flow represents the flow of time, and is itself represented by a
     solid arrow with a solid tip.
 
-**** Flow rules
+*** Flow rules
  
-    * All process elements must be connected by flow (arrows)
-    * Loops are allowed (but careful: maintain model readability)
+   * All process elements must be connected by flow (arrows)
+   * Loops are allowed (but careful: maintain model readability)
      
-     #+attr_html: :width 400px
-     [[./img/loops.png]]
+    #+attr_html: :width 400px
+    [[./img/loops.png]]
     
 *** Operators and tokens
 
