@@ -13,7 +13,7 @@
 
     #+attr_html: :width 600px
     [[./img/pm.png]]
-  
+
 * What's a process?
 
   [[./img/process.png]]
@@ -135,12 +135,12 @@
 
     #+attr_html: :width 400px
     [[./img/flowrules.png]]
-    
+
     * Loops are allowed (but careful: maintain model readability)
-     
+
     #+attr_html: :width 400px
     [[./img/loops.png]]
-    
+
 *** Operators and tokens
 
     | Operator           | Meaning                                     |
@@ -158,8 +158,8 @@
     * Token rule: Splitting operator = joining operator
     * Only the AND operator can split the flow after an event
 
-   #+attr_html: :width 600px
-   [[./img/operators.png]]
+    #+attr_html: :width 600px
+    [[./img/operators.png]]
 
 *** Process interfaces
 
@@ -180,13 +180,13 @@
 ** Extended Event-driven Process Chain (eEPC)
 
    eEPCs integrate the other views of the ARIS house:
-   
+
    * Roles/organization
    * Products/services
    * Data input/output
 
      [[./img/eepc.png]]
-    
+
 ** EPC rules summary
 
    This is the complete lists of rules and recommendations. Despite
@@ -194,59 +194,98 @@
    expressive - so much so that for example all of the 80,000 basic
    transaction of an SAP Enterprise Resource Planning system are
    modeled using EPCs.[fn:2]
-   
-    |    | Rule                                                    |
-    |----+---------------------------------------------------------|
-    |  1 | Every EPC starts and ends with an event                 |
-    |  2 | Events and functions alternate                          |
-    |  3 | Must use operator (only) when flow splits or merges     |
-    |  4 | Splitting operator = joining operator                   |
-    |  5 | Only the AND operator can split the flow after an event |
-    |  6 | Interfaces only before or after a process               |
-    |  7 | Organizational units are only connected to functions    |
-    |  8 | All process elements must be connected by flow          |
-    |  9 | Loops are allowed as long as they're finite             |
-    | 10 | Trivial events can be omitted                           |
 
-    [[./img/summary.gif]]
+   |    | Rule                                                    |
+   |----+---------------------------------------------------------|
+   |  1 | Every EPC starts and ends with an event                 |
+   |  2 | Events and functions alternate                          |
+   |  3 | Must use operator (only) when flow splits or merges     |
+   |  4 | Splitting operator = joining operator                   |
+   |  5 | Only the AND operator can split the flow after an event |
+   |  6 | Interfaces only before or after a process               |
+   |  7 | Organizational units are only connected to functions    |
+   |  8 | All process elements must be connected by flow          |
+   |  9 | Loops are allowed as long as they're finite             |
+   | 10 | Trivial events can be omitted                           |
 
-    Here is a complete EPC "cheat sheet" (Source: Software AG)
+   [[./img/summary.gif]]
 
-    #+attr_html: :width 600px
-    [[./img/cheatsheet.png]]
-    
+   Here is a complete EPC "cheat sheet" (Source: Software AG)
+
+   #+attr_html: :width 600px
+   [[./img/cheatsheet.png]]
+
 * Practice - EPC Lab
 
   [[./img/practice.gif]]
 
-    Tip: [[https://online.visual-paradigm.com/knowledge/business-design-tools/what-is-epc-diagram/#][This platform allows you to play around in their online editor.]]
+  Tip: [[https://online.visual-paradigm.com/knowledge/business-design-tools/what-is-epc-diagram/#][This platform allows you to play around in their online editor.]]
 
 ** Signavio demo
 
    #+attr_html: :width 300px
    [[./img/signavio.png]]
-   
+
    * Fire up the [[https://academic.signavio.com][Signavio process editor]]
    * Let's draw some EPC diagrams
    * Create your models in your own folder
-   
+
 ** Find the mistakes
 
    * Find all mistakes in the EPC diagram!
    * Do not fix mistakes as you go along
-   * 
+   * There are 11 mistakes in total
 
-   
-   
-   
+     #+attr_html: :width 400px
+     [[./img/diagram.png]]
+
 ** Fill in a process model
 
-   (Classroom exercise)
+   The following process ("Invoice Check") has already been modeled
+   for you.
+
+   #+begin_quote
+   "The invoice is checked by accounts payable when 1) the receipt for
+   incoming goods, 2) the invoice, and 3) the sales order, have all
+   been received. If the invoice is correct, it will be paid. If it is
+   not correct, an inquiry process is triggered. The process is linked
+   to four process interfaces: incoming -(1) incoming goods, (2)
+   sales, and outgoing - (3) payment, (4) inquiry."
+   #+end_quote
+
+   1) Draw the diagram in Signavio (in your folder)
+   2) Read the process description carefully
+   3) Name all elements including the operators
+   4) Name and save your diagram
+
+      #+attr_html: :width 400px
+      [[./img/invoice_problem.png]]
+
+   /The diagram contains rule violations. Why?/
+
+** A puzzling question
+
+   [[./img/puzzle.gif]]
    
+   | Can all processes be modeled with languages like EPCs? |
+
 ** Model a whole process
 
+   Consider the following process description:
 
-   (Graded homework)
+   #+begin_quote
+   "When programming in a compiled language (like C), you have to
+   create a source code file using an editor. (This can be quite
+   tricky if you use Emacs and haven't used it much before.) The
+   compiler compiles the file and links it to a library. Finally you
+   run the program.
+   #+end_quote
+
+   * Consider first what type of process this is
+   * Model this process as an EPC in Signavio
+   * Name the process "Compilation"
+   * Save it in your personal folder
+   * EPC models are usually drawn vertically
 
 ** Graded test (October 26)
 
@@ -254,7 +293,7 @@
    * Process modeling
    * Event-driven Process Chains
    * Multiple choice and open questions
-   
+
 * References
 
   <<cvo>> CVO-Europe (n.d.). Our Hiring Process [website]. [[https://www.cvo-europe.com/en/careers/our-hiring-process][Online:
@@ -273,7 +312,7 @@
 
   <<sap>> SAP (n.d.). What is ERP? [website]. [[https://insights.sap.com/what-is-erp/?sred=glo-products-whatiserp][Online:
   insights.sap.com.]]
-  
+
   <<software>> Software AG University Relations (2016). BPM with ARIS
   [presentation]. [[http://cdn.ariscommunity.com/community2/documents/urelation/BPM-ARIS_Part2.pdf][Online: ariscommunity.com.]]
 
@@ -289,7 +328,7 @@
 
 * Footnotes
 
-[fn:4]Business processes generate added value.  
+[fn:4]Business processes generate added value.
 
 [fn:3]Different languages use different terms:(1)
 *Functions*/tasks/actions/activities; (2) *events*/status/trigger; (3)
@@ -298,7 +337,7 @@
 [fn:2]Any productive ERP system contains many more transactions than
 that. In practice, these are often modeled as BPMN diagrams, or as ER
 Diagrams, if customer-facing or database operations are being
-modeled. For more about ERP systems, see this tutorial ([[sap][SAP]]). 
+modeled. For more about ERP systems, see this tutorial ([[sap][SAP]]).
 
 [fn:1]Cp. ITIL library of IT processes, especially with regards
 to IT services. More: [[wiki][Wikipedia]] (2021).
