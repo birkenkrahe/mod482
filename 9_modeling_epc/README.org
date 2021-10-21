@@ -117,7 +117,7 @@
     | Control flow | Sequence of activities             |
 
     #+attr_html: :width 200px
-    [[./img/event.png]]
+    [[./img/event1.png]]
 
     Image source: [[software][Software AG]]
 
