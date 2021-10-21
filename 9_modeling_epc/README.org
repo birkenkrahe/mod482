@@ -289,6 +289,8 @@
 
 ** Graded test (October 26)
 
+   [[../img/test5.png]]
+
    * Process elements
    * Process modeling
    * Event-driven Process Chains
