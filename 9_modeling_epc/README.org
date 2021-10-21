@@ -131,11 +131,13 @@
 
     Flow represents the flow of time, and is itself represented by a
     solid arrow with a solid tip.
-
-*** Flow rules
  
-   * All process elements must be connected by flow (arrows)
-   * Loops are allowed (but careful: maintain model readability)
+    All process elements must be connected by flow (arrows)
+
+    #+attr_html: :width 400px
+    [[./img/flowrules.png]]
+    
+    Loops are allowed (but careful: maintain model readability)
      
     #+attr_html: :width 400px
     [[./img/loops.png]]
@@ -151,16 +153,14 @@
     #+attr_html: :width 300px
     [[./img/operator.png]]
 
-**** Operator rules
+*** Operator rules
 
-     * Must use operator (only) when flow splits or merges
-     * Token rule: Splitting operator = joining operator
-     * Only the AND operator can split the flow after an event
+    * Must use operator (only) when flow splits or merges
+    * Token rule: Splitting operator = joining operator
+    * Only the AND operator can split the flow after an event
 
-    #+attr_html: :width 600px
-    [[./img/operators.png]]
-
-*** Flow
+   #+attr_html: :width 600px
+   [[./img/operators.png]]
 
 *** Process interfaces
 
@@ -210,8 +210,13 @@
     | 10 | Trivial events can be omitted                           |
 
     [[./img/summary.gif]]
+
+    Here is a complete EPC "cheat sheet" (Source: Software AG)
+
+    #+attr_html: :width 600px
+    [[./img/cheatsheet.png]]
     
-* Practice
+* Practice - EPC Lab
 
   [[./img/practice.gif]]
 
@@ -219,13 +224,21 @@
 
 ** Signavio demo
 
+   #+attr_html: :width 300px
+   [[./img/signavio.png]]
+   
    * Fire up the [[https://academic.signavio.com][Signavio process editor]]
    * Let's draw some EPC diagrams
    * Create your models in your own folder
    
 ** Find the mistakes
 
-   Find all mistakes in the EPC diagram!
+   * Find all mistakes in the EPC diagram!
+   * Do not fix mistakes as you go along
+   * 
+
+   
+   
    
 ** Fill in a process model
 
@@ -236,7 +249,12 @@
 
    (Graded homework)
 
-** Test (October 26)
+** Graded test (October 26)
+
+   * Process elements
+   * Process modeling
+   * Event-driven Process Chains
+   * Multiple choice and open questions
    
 * References
 
