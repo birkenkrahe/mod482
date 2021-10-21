@@ -232,60 +232,111 @@
 
 ** Find the mistakes
 
-   * Find all mistakes in the EPC diagram!
-   * Do not fix mistakes as you go along
-   * There are 11 mistakes in total
+*** Problem
 
-     #+attr_html: :width 400px
-     [[./img/diagram.png]]
+    * Find all mistakes in the EPC diagram!
+    * Do not fix mistakes as you go along
+    * There are 11 mistakes in total
+
+      #+attr_html: :width 400px
+      [[./img/diagram.png]]
+
+*** Solution
+
+    One could count the operator between Event 6 and 7 as a 12th
+    mistake - it's a double mistake: the operator shouldn't be here
+    and there ought to be a function instead.
+
+    #+attr_html: :width 600px
+    [[./img/diagram_solution.png]]
 
 ** Fill in a process model
 
-   The following process ("Invoice Check") has already been modeled
-   for you.
+*** Problem
 
-   #+begin_quote
-   "The invoice is checked by accounts payable when 1) the receipt for
-   incoming goods, 2) the invoice, and 3) the sales order, have all
-   been received. If the invoice is correct, it will be paid. If it is
-   not correct, an inquiry process is triggered. The process is linked
-   to four process interfaces: incoming -(1) incoming goods, (2)
-   sales, and outgoing - (3) payment, (4) inquiry."
-   #+end_quote
+    The following process ("Invoice Check") has already been modeled
+    for you.
 
-   1) Draw the diagram in Signavio (in your folder)
-   2) Read the process description carefully
-   3) Name all elements including the operators
-   4) Name and save your diagram
+    #+begin_quote
+    "The invoice is checked by accounts payable when 1) the receipt for
+    incoming goods, 2) the invoice, and 3) the sales order, have all
+    been received. If the invoice is correct, it will be paid. If it is
+    not correct, an inquiry process is triggered. The process is linked
+    to four process interfaces: incoming -(1) incoming goods, (2)
+    sales, and outgoing - (3) payment, (4) inquiry."
+    #+end_quote
 
-      #+attr_html: :width 400px
-      [[./img/invoice_problem.png]]
+    1) Draw the diagram in Signavio (in your folder)
+    2) Read the process description carefully
+    3) Name all elements including the operators
+    4) Name and save your diagram
 
-   /The diagram contains rule violations. Why?/
+       #+attr_html: :width 400px
+       [[./img/invoice_problem.png]]
+
+    /The diagram contains rule violations. Why?/
+
+*** Solution
+
+    Things to consider:
+    * Stick as close to the problem description as you can - don't
+      make stuff up, change words or "improve" the process unless
+      requested.
+    * Don't change the standard size of process elements. If an event
+      or a function don't seem to fit in the element, it is likely
+      that you need to rethink your model (e.g. the activity may be
+      too large and needs to be split up).
+
+       #+attr_html: :width 400px
+       [[./img/invoice_problem.png]]
 
 ** A puzzling question
 
    [[./img/puzzle.gif]]
 
-   | Can all processes be modeled with languages like EPCs? |
+*** Problem
+
+    | Can all processes be modeled with languages like EPCs? |
+
+*** Solution
+
+    Yes and no...it depends on the ability to measure what's going
+    on. Process models - at least in the area of business and
+    technology - can only express things or actions that are
+    quantifiable.
 
 ** Model a whole process
 
-   Consider the following process description:
+*** Problem
 
-   #+begin_quote
-   "When programming in a compiled language (like C), you have to
-   create a source code file using an editor. (This can be quite
-   tricky if you use Emacs and haven't used it much before.) The
-   compiler compiles the file and links it to a library. Finally you
-   run the program.
-   #+end_quote
+    Consider the following process description:
 
-   * Consider first what type of process this is
-   * Model this process as an EPC in Signavio
-   * Name the process "Compilation"
-   * Save it in your personal folder
-   * EPC models are usually drawn vertically
+    #+begin_quote
+    "When programming in a compiled language (like C), you have to
+    create a source code file using an editor. (This can be quite
+    tricky if you use Emacs and haven't used it much before.) The
+    compiler compiles the file and links it to a library. Finally you
+    run the program.
+    #+end_quote
+
+    * Consider first what type of process this is
+    * Model this process as an EPC in Signavio
+    * Name the process "Compilation"
+    * Save it in your personal folder
+    * EPC models are usually drawn vertically
+
+*** Solution
+
+    This is a sample solution. Process modeling is not an exact
+    science, and there is alwazs more than one answer.
+
+**** Simple solution - happy path
+
+     [[./img/compilation.png]]
+
+**** Complete solution - extended EPC
+
+
 
 ** Next: graded test (October 26)
 

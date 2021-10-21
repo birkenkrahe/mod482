@@ -171,7 +171,7 @@
 <tr>
 <td class="org-left">21-Oct</td>
 <td class="org-left">EPC (lab)</td>
-<td class="org-left">Own Hardin</td>
+<td class="org-left">Owen Hardin</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
