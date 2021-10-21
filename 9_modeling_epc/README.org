@@ -266,7 +266,7 @@
 ** A puzzling question
 
    [[./img/puzzle.gif]]
-   
+
    | Can all processes be modeled with languages like EPCs? |
 
 ** Model a whole process
@@ -288,6 +288,8 @@
    * EPC models are usually drawn vertically
 
 ** Graded test (October 26)
+
+   /Image: stats from classroom test 5 on October 19/
 
    [[../img/test5.png]]
 
