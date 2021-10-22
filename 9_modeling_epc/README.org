@@ -309,7 +309,7 @@
 
 *** Problem
 
-    Consider the following process description:
+    Consider the following process description[fn:5]:
 
     #+begin_quote
     "When programming in a compiled language (like C), you have to
@@ -362,6 +362,8 @@
   Exercise Worksheet For Kids - PDF Preview [website]. [[https://www.engworksheets.com/vocabulary-pdf-preview/Computer-Parts/4/computer-parts-esl-vocabulary-matching-exercise-worksheet-for-kids.html][Online:
   engworksheets.com]].
 
+  <<gookin>> Gookin D (2021). [[https://www.manning.com/books/tiny-c-projects][Tiny C Projects. Manning]].
+
   <<itil>> Maya G (Jun 29,2021). ITIL Processes [blog]. [[https://www.itil-docs.com/blogs/itil-concepts/itil-processes-functions][Online:
   itil-docs.com.]]
 
@@ -382,6 +384,10 @@
   en.wikipedia.org]].
 
 * Footnotes
+
+[fn:5]The idea for this problem came from a figure in a book I'm
+reading, "Tiny C Projects" ([[gookin][Gookin, 2021]]):
+[[./img/cycle.png]]
 
 [fn:4]Business processes generate added value.
 
