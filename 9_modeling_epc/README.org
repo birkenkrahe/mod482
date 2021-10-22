@@ -258,12 +258,12 @@
     for you.
 
     #+begin_quote
-    "The invoice is checked by accounts payable when 1) the receipt for
-    incoming goods, 2) the invoice, and 3) the sales order, have all
-    been received. If the invoice is correct, it will be paid. If it is
-    not correct, an inquiry process is triggered. The process is linked
-    to four process interfaces: incoming -(1) incoming goods, (2)
-    sales, and outgoing - (3) payment, (4) inquiry."
+    "The invoice is checked by accounts payable when 1) the receipt
+    for incoming goods, 2) the invoice, and 3) the sales order, have
+    all been received. If the invoice is correct, it will be paid. If
+    it is not correct, an inquiry process is triggered. The process is
+    linked to four process interfaces: incoming -(1) incoming goods,
+    (2) sales, and - outgoing - (3) payment, (4) inquiry."
     #+end_quote
 
     1) Draw the diagram in Signavio (in your folder)
@@ -288,7 +288,7 @@
       too large and needs to be split up).
 
        #+attr_html: :width 400px
-       [[./img/invoice_problem.png]]
+       [[./img/invoice_solution.png]]
 
 ** A puzzling question
 
