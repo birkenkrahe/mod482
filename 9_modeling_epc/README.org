@@ -291,7 +291,7 @@
        [[./img/invoice_solution.png]]
 
 ** A puzzling question
-
+   
    [[./img/puzzle.gif]]
 
 *** Problem
@@ -328,10 +328,11 @@
 *** Solution
 
     This is a sample solution. Process modeling is not an exact
-    science, and there is alwazs more than one answer.
+    science, and there is always more than one answer.
 
 **** Simple solution - happy path
 
+     #+attr_html: :width 300px
      [[./img/compilation.png]]
 
 **** Complete solution - extended EPC
