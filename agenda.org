@@ -209,7 +209,10 @@
   * Introduction to EPCs (30')
   * Signavio demo (10')
   * Challenge: online lesson ([[https://h5p.org/node/262310][BPM Basics]])
-    
+
+  /Image: quiz stats/
+  [[./img/mod482_test5_stats.png]]
+  
 * Week 10 - October 21
 
   [[./img/happypath.png]]
