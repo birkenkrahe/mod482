@@ -13,7 +13,8 @@
 
     #+attr_html: :width 600px
     [[./img/pm.png]]
-
+    /Image: excerpt from the [[https://github.com/birkenkrahe/mod482/blob/main/9_modeling_epc/decision_support.xmind]["decision intelligence" mindmap]]/
+    
 * What's a process?
 
   [[./img/process.png]]
