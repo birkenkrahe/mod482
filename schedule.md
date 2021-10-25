@@ -186,7 +186,7 @@
 
 <tr>
 <td class="org-left">28-Oct</td>
-<td class="org-left">EPC + BPMN (lab)</td>
+<td class="org-left">BPMN (lab)</td>
 <td class="org-left">Malcolm Howard</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -204,7 +204,7 @@
 <td class="org-left">4-Nov</td>
 <td class="org-left">Unified Modeling Language (UML)</td>
 <td class="org-left">Nick Norwood</td>
-<td class="org-left">3RD SPRINT REVIEW</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -236,7 +236,7 @@
 <td class="org-left">18-Nov</td>
 <td class="org-left">PRESENTATIONS</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">3RD SPRINT REVIEW</td>
 </tr>
 
 
@@ -260,7 +260,7 @@
 <td class="org-left">2-Dec</td>
 <td class="org-left">Course summary</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">4TH SPRINT REVIEW</td>
+<td class="org-left">4th SPRINT REVIEW</td>
 </tr>
 
 

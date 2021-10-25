@@ -135,7 +135,7 @@
     | Linear regression   | Causal inference |
 
 *** Suggestions
-    
+
     * Molly: additional literature (e.g. [[https://www.brainpickings.org/2013/05/20/arthur-koestler-creativity-bisociation/][Koestler]])
     * Owen: test frameworks (e.g. [[https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670][this article]])
 
@@ -148,7 +148,7 @@
   * The Model Thinker, chapter 2 "Why Model":
   * Models of systemic belonging ([[https://github.com/birkenkrahe/mod482/tree/main/5_why_model][lecture]])
   * System constellations ([[birk][Birkenkrahe, 2008]])
-    
+
 * Week 6 - September 21
 
   #+attr_html: :width 300px
@@ -174,11 +174,11 @@
   * Participation: protocols! ([[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Schedule]])
 
     /Figure: [[fig][Shah 2019]]/
-  
+
 * Week 9 - October 12
 
-    [[./img/presentation1.gif]]
-  
+  [[./img/presentation1.gif]]
+
   * Last [[https://github.com/birkenkrahe/mod482/tree/main/presentations/2nd_sprint_review][2nd sprint reviews]][fn:1]:
     1) Dane Roach/Nick Czerwinski
     2) Molly Mellor
@@ -212,7 +212,7 @@
 
   /Image: quiz stats/
   [[./img/mod482_test5_stats.png]]
-  
+
 * Week 10 - October 21
 
   [[./img/happypath.png]]
@@ -227,10 +227,22 @@
 * Week 11 - October 26
 
   [[./img/eastwood.gif]]
-  
-  /Image: result stats test 5/
 
-  [[./img/test5.png]]
+  | Graded test  | Process/modeling/EPCs | 30 min |
+  | EPC practice | Correct a diagram     | 15 min |
+  | Lecture      | Introduction to BPMN  | 30 min |
+
+ /Image: EPC diagram (to be modified)/
+
+* Week 11 - October 28
+
+  #+attr_html: :width 600px
+  [[./img/solo.svg]]
+
+  | BPMN recap    | Rules                         | 15 min |
+  | BPMN practice | Diagram with errors           | 15 min |
+  |               | Remodel a diagram in BPMN     | 20 min |
+  |               | Build BPMN model from scratch | 30 min |
 
 * References
 
@@ -244,7 +256,7 @@
   [[https://theartistsofdatascience.fireside.fm/scott-e-page][theartistsofdatascience.fireside.fm]].
 
   <<fig>> Shah P (May 16, 2019). User Story Mapping | Product Backlog
-  Creation [Blog]. Online: [[https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e][medium.com]]. ([[https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing][GDrive copy]]) 
+  Creation [Blog]. Online: [[https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e][medium.com]]. ([[https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing][GDrive copy]])
 
 * Footnotes
 
