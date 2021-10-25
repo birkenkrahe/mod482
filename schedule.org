@@ -23,14 +23,14 @@
    | 19-Oct   | Process modeling & Event-driven Process Chains (EPC)      | Wyatt Frerichs      |                   |
    | 21-Oct   | EPC (lab)                                                 | Owen Hardin         |                   |
    | 26-Oct   | Business Process Model and Notation (BPMN)                | Fortunato Hernandez |                   |
-   | 28-Oct   | EPC + BPMN (lab)                                          | Malcolm Howard      |                   |
+   | 28-Oct   | BPMN (lab)                                                | Malcolm Howard      |                   |
    | 2-Nov    | BPMN (lab)                                                | Molly Mellor        |                   |
-   | 4-Nov    | Unified Modeling Language (UML)                           | Nick Norwood        | 3RD SPRINT REVIEW |
+   | 4-Nov    | Unified Modeling Language (UML)                           | Nick Norwood        |                   |
    | 9-Nov    | UML (lab)                                                 | Dat O               |                   |
    | 11-Nov   | Entity Relationship Diagrams (ERD)                        | Dane Roach          |                   |
    | 16-Nov   | ERD (lab)                                                 | Jacob Sampley       |                   |
-   | 18-Nov   | PRESENTATIONS                                             |                     |                   |
+   | 18-Nov   | PRESENTATIONS                                             |                     | 3RD SPRINT REVIEW |
    | 23-Nov   | Robotic Process Automation (RPA)                          | William Sonnier     |                   |
    | 30-Nov   | Process mining                                            | Nick Chaney         |                   |
-   | 2-Dec    | Course summary                                            |                     | 4TH SPRINT REVIEW |
+   | 2-Dec    | Course summary                                            |                     | 4th SPRINT REVIEW |
    | Dec 6-10 | FINAL EXAM                                                |                     | FINAL EXAM        |
