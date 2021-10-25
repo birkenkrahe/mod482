@@ -12,8 +12,9 @@
   * Practice in the Signavio Process Editor
 
     #+attr_html: :width 600px
-    [[./img/pm.png]]
-    /Image: excerpt from the [[https://github.com/birkenkrahe/mod482/blob/main/9_modeling_epc/img/Decision%20%20Support.png]["decision intelligence" mindmap]]/
+    [[./img/perspective.gif]]
+
+    /Image: [[https://giphy.com/gifs/circlelineartschool-eiffel-tower-drawing-perspective-trees-WCPIabjFw2SY25SSnb][Eiffel Tower GIF by Tom@Circlelineartschool.com]]/
     
 * What's a process?
 
