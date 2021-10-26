@@ -15,7 +15,7 @@
     [[./img/perspective.gif]]
 
     /Image: [[https://giphy.com/gifs/circlelineartschool-eiffel-tower-drawing-perspective-trees-WCPIabjFw2SY25SSnb][Eiffel Tower GIF by Tom@Circlelineartschool.com]]/
-    
+
 * What's a process?
 
   [[./img/process.png]]
@@ -289,11 +289,11 @@
       that you need to rethink your model (e.g. the activity may be
       too large and needs to be split up).
 
-       #+attr_html: :width 400px
-       [[./img/invoice_solution.png]]
+      #+attr_html: :width 400px
+      [[./img/invoice_solution.png]]
 
 ** A puzzling question
-   
+
    [[./img/puzzle.gif]]
 
 *** Problem
@@ -340,7 +340,6 @@
 **** Complete solution - extended EPC
 
 
-
 ** Next: graded test (October 26)
 
    /Image: stats from classroom test 5 on October 19/
@@ -350,8 +349,35 @@
    * Process elements
    * Process modeling
    * Event-driven Process Chains
-   * Multiple choice and open questions
+   * Multiple choice and (mostly) open questions
 
+** Modify an EPC model
+
+   * *Open* the diagram ~Compilation (Copy) in the folder ~»Shared
+     documents»LYON_DSC_482.02»Marcus_Birkenkrahe~ ([[https://academic.signavio.com/p/editor?id=6e495dda2041412e8841a261d0a376c6][direct link]]).
+   * *Copy* the diagram to your personal folder in the ~Shared
+     documents~ folder.
+   * In your folder, *modify* the diagram to accommodate the following
+     changed description:
+
+   #+begin_quote
+   "When programming in a compiled language (like C), you have to
+   create a source code file using an editor. The compiler compiles
+   the file and links it to a library. Finally you run the program.
+
+   If the program does not run, you need to fix bugs in the source
+   file, before going through the compilation process again. 
+   #+end_quote
+
+   * *Save* your solution to your personal folder.
+   * In the folder explorer view, *share* your solution with me by
+     choosing ~Share»Invite anyone for feedback~, entering my Lyon
+     email address ~birkenkrahe@lyon.edu~. Check ~"Send a copy to me"~
+     to make sure that the invitation was sent (see image below).
+
+     #+attr_html: :width 500px
+     [[./img/share.png]]
+   
 * References
 
   <<cvo>> CVO-Europe (n.d.). Our Hiring Process [website]. [[https://www.cvo-europe.com/en/careers/our-hiring-process][Online:
@@ -390,6 +416,7 @@
 
 [fn:5]The idea for this problem came from a figure in a book I'm
 reading, "Tiny C Projects" ([[gookin][Gookin, 2021]]):
+#+attr_html: :width 500px
 [[./img/cycle.png]]
 
 [fn:4]Business processes generate added value.
