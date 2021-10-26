@@ -229,28 +229,21 @@
   #+attr_html: :width 300px
   [[./img/eastwood.gif]]
 
-** Agenda
+   | Graded test  | Process/modeling/EPCs | 30 min |
+   | EPC practice | Correct a diagram     | 15 min |
+   |              | Results discussion    | 15 min |
+   | Video        | Introduction to BPMN  | 15 min |
+   |              | Summary               |        |
+
+* Week 11 - October 28 + Nov 2
 
    #+attr_html: :width 300px
    [[./img/catwalk.gif]]
 
-   | Graded test      | Process/modeling/EPCs | 30 min |
-   | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]         | [[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Fortunato Hernandez]]   |        |
-   | EPC practice     | Correct a diagram     | 15 min |
-   |                  | Results discussion    | 15 min |
-   | Video            | Introduction to BPMN  | 15 min |
-   |                  | Summary               |        |
-   | /Next protocol/  | /Malcolm Howard/      |        |
-
-* Week 11 - October 28 + Nov 2
-
-  #+attr_html: :width 600px
-  [[./img/solo.svg]]
-
-  | Lecture       | BPMN basics and rules          | 30 min |
-  | BPMN practice | Diagram with errors            | 15 min |
-  |               | Remodel a diagram in BPMN      | 30 min |
-  | Homework      | Submit BPMN model (graded)     | 30 min |
+  | Lecture       | BPMN basics and rules      | 30 min |
+  | BPMN practice | Diagram with errors        | 15 min |
+  |               | Remodel a diagram in BPMN  | 30 min |
+  | Homework      | Submit BPMN model (graded) | 30 min |
 
 * References
 
@@ -267,6 +260,10 @@
   Creation [Blog]. Online: [[https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e][medium.com]]. ([[https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing][GDrive copy]])
 
 * Footnotes
+
+[fn:2]If the designated student is ill or absent from class, the
+student next in line should be prepared to do the protocol instead
+(and swap with the missing student).
 
 [fn:1]Those who did not present in class need to upload their
 presentations to get feedback.
