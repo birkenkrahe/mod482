@@ -232,7 +232,7 @@
 ** Agenda
 
    #+attr_html: :width 300px
-   [[./img/scheme1.png]]
+   [[./img/catwalk.gif]]
 
    | Graded test      | Process/modeling/EPCs | 30 min |
    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]         | [[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Fortunato Hernandez]]   |        |
