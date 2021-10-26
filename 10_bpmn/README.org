@@ -11,30 +11,44 @@
   * Practice in the Signavio Process Editor
 
 * BPMN Summary
-
+  
   Business Process Model and Notation (BPMN) 2.0 has four main groups
   of shapes or objects. Source: [[lucidchart][Lucidchart, 2020]].
 
-** Flow objects
+** Flow objects (Action/Decision)
 
    #+attr_html: :width 400px
    [[./img/flow.png]]
    
-** Connecting objects
+** Connecting objects (Communication)
 
    #+attr_html: :width 300px
    [[./img/connecting.png]]
 
-** Pools and swimlanes
+** Participants (Roles/Accountability)
 
    #+attr_html: :width 350px
    [[./img/pools.png]]
 
-** Artifacts
+** Artifacts (Details)
 
    #+attr_html: :width 400px
    [[./img/artifacts.png]]
 
+   * Groups
+   * Documents
+   * Annotation
+   * Message (data)
+   
+* BPMN Case
+
+     Creating and explaining this model takes about as much time as
+     eating a big icecream (7 min) - [[https://youtu.be/BwkNceoybvA?t=346][Link]].
+
+     #+attr_html: :width 600px
+     [[./img/icecream.png]]
+  
+  
 * References
 
   <<lucidchart>> Lucidchart (Apr 28, 2020). Business Process Model and
