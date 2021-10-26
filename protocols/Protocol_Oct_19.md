@@ -1,7 +1,7 @@
 # Protocol(October 19,2021)
  By [Wyatt Frerichs](https://github.com/WyattFrerichs)
  ## sources
-   - [Lecture](https://github.com/birkenkrahe/mod482/blob/main/9_modeling_epc/README.md#fn.2)
+   - [Lecture](https://github.com/birkenkrahe/mod482/blob/main/9_modeling_epc/README.md)
    - [whiteboard](https://drive.google.com/drive/u/1/folders/101mhUrhjFHAK9t3jgLf2s31Ux-MPyVQD)
  ## Test
  At the beginning of the class there was a short [Test](https://lyon.schoology.com/assignment/5399738031/assessment) on schoology. The test covered  The Minto Pyramid Principle and SCQA.
