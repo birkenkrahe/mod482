@@ -234,11 +234,13 @@
    #+attr_html: :width 300px
    [[./img/scheme1.png]]
 
-   | Graded test  | Process/modeling/EPCs | 30 min |
-   | EPC practice | Correct a diagram     | 15 min |
-   |              | Results discussion    | 15 min |
-   | Video        | Introduction to BPMN  | 15 min |
-   |              | Summary               |        |
+   | Graded test      | Process/modeling/EPCs | 30 min |
+   | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]         | [[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Fortunato Hernandez]]   |        |
+   | EPC practice     | Correct a diagram     | 15 min |
+   |                  | Results discussion    | 15 min |
+   | Video            | Introduction to BPMN  | 15 min |
+   |                  | Summary               |        |
+   | /Next protocol/  | /Malcolm Howard/      |        |
 
 * Week 11 - October 28 + Nov 2
 
