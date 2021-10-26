@@ -1,0 +1,69 @@
+#+TITLE:Process modeling with BPMN
+#+AUTHOR:Marcus Birkenkrahe
+#+SUBTITLE: Data modeling seminar 482.02 Fall 2021
+#+STARTUP: overview
+#+OPTIONS: toc:1 num:nil ^:nil
+#+INFOJS_OPT: :view:info
+* What will you learn?
+
+  * Business Process Model and Notation
+  * Object-oriented process modeling
+  * Practice in the Signavio Process Editor
+
+* BPMN Summary
+
+  Business Process Model and Notation (BPMN) 2.0 has four main groups
+  of shapes or objects. Source: [[lucidchart][Lucidchart, 2020]].
+
+** Flow objects
+
+   #+attr_html: :width 400px
+   [[./img/flow.png]]
+   
+** Connecting objects
+
+   #+attr_html: :width 300px
+   [[./img/connecting.png]]
+
+** Pools and swimlanes
+
+   #+attr_html: :width 350px
+   [[./img/pools.png]]
+
+** Artifacts
+
+   #+attr_html: :width 400px
+   [[./img/artifacts.png]]
+
+* References
+
+  <<lucidchart>> Lucidchart (Apr 28, 2020). Business Process Model and
+  Notation (BPMN) 2.0 Tutorial [video]. [[https://youtu.be/BwkNceoybvA][Online: youtube.com]].
+
+  <<signavio>> SAP Signavio Process editor version 15.7.1. SAP
+  (2021). Academic edition [platform]. Online: [[https://www.signavio.com/][www.signavio.com.]]
+
+* Footnotes
+
+[fn:5]The idea for this problem came from a figure in a book I'm
+reading, "Tiny C Projects" ([[gookin][Gookin, 2021]]):
+#+attr_html: :width 500px
+[[./img/cycle.png]]
+
+[fn:4]Business processes generate added value.
+
+[fn:3]Different languages use different terms:(1)
+*Functions*/tasks/actions/activities; (2) *events*/status/trigger; (3)
+*flow*/path/sequence/connectors; (4) *operators*/gateways/decisions.
+
+[fn:2]Any productive ERP system contains many more transactions than
+that. In practice, these are often modeled as BPMN diagrams, or as ER
+Diagrams, if customer-facing or database operations are being
+modeled. For more about ERP systems, see this tutorial ([[sap][SAP]]).
+
+[fn:1]Cp. ITIL library of IT processes, especially with regards
+to IT services. More: [[wiki][Wikipedia]] (2021).
+
+#+attr_html: :width 600px
+[[./img/itil.jpg]]
+/Image source: ITIL docs, 2021/
