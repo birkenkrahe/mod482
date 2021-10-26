@@ -7,7 +7,7 @@
  At the beginning of the class there was a short [Test](https://lyon.schoology.com/assignment/5399738031/assessment) on schoology. The test covered  The Minto Pyramid Principle and SCQA.
  After everyone had taken the test, we reviewed the answers as a class.
  ## Lecture
- ### processes
+ ### Processes
 The lecture covered processes and EPC's. A process is defined by websters dictionary as a 
 "a series of actions that produce something or that lead to a particular result"<sup>[1](https://www.merriam-webster.com/dictionary/process)</sup>
 While this was not the exact definition discussed during the class it is still very relevant to the processes that were discussed later in the lecture.
