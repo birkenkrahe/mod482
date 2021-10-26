@@ -226,24 +226,29 @@
 
 * Week 11 - October 26
 
-    [[./img/eastwood.gif]]
+  #+attr_html: :width 300px
+  [[./img/eastwood.gif]]
 
 ** Agenda
 
+   #+attr_html: :width 300px
+   [[./img/scheme1.png]]
+
+   | Graded test  | Process/modeling/EPCs | 30 min |
+   | EPC practice | Correct a diagram     | 15 min |
+   |              | Results discussion    | 15 min |
+   | Video        | Introduction to BPMN  | 15 min |
+   |              | Summary               |        |
+
+* Week 11 - October 28 + Nov 2
+
   #+attr_html: :width 600px
   [[./img/solo.svg]]
-   
-  | Graded test  | Process/modeling/EPCs | 30 min |
-  | EPC practice | Correct a diagram     | 15 min |
-  | Lecture      | Introduction to BPMN  | 30 min |
 
-* Week 11 - October 28
-
-  | BPMN recap    | Rules                         | 15 min |
-  | BPMN practice | Diagram with errors           | 15 min |
-  |               | Remodel a diagram in BPMN     | 20 min |
-  |               | Build BPMN model from scratch | 30 min |
-  | Homework      | Submit BPMN model             | 30 min |
+  | Lecture       | BPMN basics and rules          | 30 min |
+  | BPMN practice | Diagram with errors            | 15 min |
+  |               | Remodel a diagram in BPMN      | 30 min |
+  | Homework      | Submit BPMN model (graded)     | 30 min |
 
 * References
 
