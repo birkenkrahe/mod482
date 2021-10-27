@@ -178,7 +178,7 @@
 
 <tr>
 <td class="org-left">26-Oct</td>
-<td class="org-left">Business Process Model and Notation (BPMN)</td>
+<td class="org-left">EPC (lab) / Business Process Model and Notation (BPMN)</td>
 <td class="org-left">Fortunato Hernandez</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -260,7 +260,7 @@
 <td class="org-left">2-Dec</td>
 <td class="org-left">Course summary</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">4th SPRINT REVIEW</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 
