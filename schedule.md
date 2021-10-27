@@ -155,7 +155,7 @@
 <tr>
 <td class="org-left">14-Oct</td>
 <td class="org-left">Minto Pyramid Principle &amp; SCQA method (with practice)</td>
-<td class="org-left">Nick Czerwinski</td>
+<td class="org-left"><del>Nick Czerwinski</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -163,7 +163,7 @@
 <tr>
 <td class="org-left">19-Oct</td>
 <td class="org-left">Process modeling &amp; Event-driven Process Chains (EPC)</td>
-<td class="org-left">Wyatt Frerichs</td>
+<td class="org-left"><del>Wyatt Frerichs</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -218,6 +218,14 @@
 
 <tr>
 <td class="org-left">11-Nov</td>
+<td class="org-left">&#x2013;SHORT PRESENTATIONS--</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">3RD SPRINT REVIEW</td>
+</tr>
+
+
+<tr>
+<td class="org-left">16-Nov</td>
 <td class="org-left">Entity Relationship Diagrams (ERD)</td>
 <td class="org-left">Dane Roach</td>
 <td class="org-left">&#xa0;</td>
@@ -225,18 +233,10 @@
 
 
 <tr>
-<td class="org-left">16-Nov</td>
+<td class="org-left">18-Nov</td>
 <td class="org-left">ERD (lab)</td>
 <td class="org-left">Jacob Sampley</td>
 <td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">18-Nov</td>
-<td class="org-left">PRESENTATIONS</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">3RD SPRINT REVIEW</td>
 </tr>
 
 
