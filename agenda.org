@@ -229,11 +229,12 @@
   #+attr_html: :width 300px
   [[./img/eastwood.gif]]
 
-   | Graded test  | Process/modeling/EPCs | 30 min |
-   | EPC practice | Correct a diagram     | 15 min |
-   |              | Results discussion    | 15 min |
-   | Video        | Introduction to BPMN  | 15 min |
-   |              | Summary               |        |
+   | [[https://lyon.schoology.com/assignment/5403938015][Graded test]][fn:3] | Process/modeling/EPCs | 30 min |
+   | [[https://github.com/birkenkrahe/mod482/blob/main/9_modeling_epc/README.md#org3c728c3][EPC practice]]      | Correct a diagram     | 15 min |
+   |                   | Share Signavio file   |        |
+   |                   | Results discussion    | 15 min |
+   | [[https://youtu.be/BwkNceoybvA][Video tutorial]]    | Introduction to BPMN  | 15 min |
+   |                   | Summary               | 10 min |
 
 * Week 11 - October 28 + Nov 2
 
@@ -252,14 +253,20 @@
   International Journal of Learning and Change 3(3),
   pp. 125-144. [[https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes][Online: researchgate.net]]. ([[https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing][GDrive copy]])
 
+  Lucidchart (Apr 28, 2020). Business Process Model and Notation
+  (BPMN) 2.0 Tutorial [video]. [[https://youtu.be/BwkNceoybvA][Online: youtube.com]]
+  
+  <<fig>> Shah P (May 16, 2019). User Story Mapping | Product Backlog
+  Creation [Blog]. Online: [[https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e][medium.com]]. ([[https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing][GDrive copy]])
+
   <<scott>> The Artists of Data Science with Harpreet Sahota (31 Aug
   2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
   [[https://theartistsofdatascience.fireside.fm/scott-e-page][theartistsofdatascience.fireside.fm]].
 
-  <<fig>> Shah P (May 16, 2019). User Story Mapping | Product Backlog
-  Creation [Blog]. Online: [[https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e][medium.com]]. ([[https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing][GDrive copy]])
-
 * Footnotes
+
+[fn:3]Check your own performance and understanding using this
+sheet. The questions may return for the final exam.
 
 [fn:2]If the designated student is ill or absent from class, the
 student next in line should be prepared to do the protocol instead
