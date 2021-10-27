@@ -40,5 +40,7 @@ In this example Hungry would be the event that causes the function Eat to occur 
    - 	Loops are allowed as long as they're finite
    -	Trivial events can be omitted
 ### Signavio Demo
-At the end of the class period a brief [Signavio](https://www.signavio.com/?gclid=CjwKCAjwzt6LBhBeEiwAbPGOgflY8h0ogu3vD-SVQIbC4bgrn1ifH5kC58uHZxdgmk51FoqV0WLEnRoCWXEQAvD_BwE) demo was given. It did not cover how to create EPCs but only how to make and save a file in Signavio. This short excercise 
+At the end of the class period a brief [Signavio](https://www.signavio.com/?gclid=CjwKCAjwzt6LBhBeEiwAbPGOgflY8h0ogu3vD-SVQIbC4bgrn1ifH5kC58uHZxdgmk51FoqV0WLEnRoCWXEQAvD_BwE) demo was given. It did not cover how to create EPCs but only how to make and save a file in Signavio. This short excercise was in preparation for the next class.
+## Next Class
+The Next class will be on using the Signavio software to create EPCs.
 
