@@ -164,12 +164,12 @@
 
    * Review the rules using [[https://h5p.org/node/1138751][this online lesson]] (https://h5p.org/node/1138751)
    * Complete the summary quiz.
-   * Watch both videos at the end ("Job application", 20 min)
+   * Watch both videos at the end (~Job application~, 20 min)
    * Rebuild the diagram in Signavio as you go along.
-   * Save them in your personal folder in "Shared Documents"
-   * Share the diagram with me using the "Share>>Invite for feedback" tab
-   * Enter "birkenkrahe@lyon.edu" and check "Send a copy to me" for
-     proof
+   * Save them in your personal folder in ~Shared Documents~
+   * Share the diagram with me using the ~Share>>Invite for feedback~ tab
+   * Enter ~birkenkrahe@lyon.edu~ and check ~Send a copy to me~ for
+     proof - as shown in the image.
 
      [[./img/share.png]]
 
