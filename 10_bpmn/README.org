@@ -55,11 +55,6 @@
    [[https://camunda.com/bpmn/reference/][This guide from Camunda]] (with link to a free BPMN online editor),
    is also very good and complete.
 
-   #+attr_html: :width 600px
-   [[./img/bpmn.png]]
-
-   /Image: complete list of BPMN symbols and rules ([[https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster/][Signavio]]/[[https://1drv.ms/u/s!AhEvK3qWokrvwUVBiCQluz4dwFlM][OneDrive]])/
-
 * BPMN case studies
 ** Eating icecream
 
