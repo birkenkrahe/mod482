@@ -241,11 +241,12 @@
    #+attr_html: :width 300px
    [[./img/catwalk.gif]]
 
+  | Video         | Signavio Process Manager   |        |
   | Lecture       | BPMN basics and rules      | 30 min |
   | BPMN practice | Diagram with errors        | 15 min |
   |               | Remodel a diagram in BPMN  | 30 min |
   | (Homework)    | Submit BPMN model (graded) | 30 min |
-
+ 
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
