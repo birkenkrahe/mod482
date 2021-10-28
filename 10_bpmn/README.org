@@ -188,7 +188,11 @@
    * Watch both videos at the end ("Job application", 20 min)
    * Rebuild the diagram in Signavio as you go along.
    * Save them in your personal folder in "Shared Documents"
-   * Share the diagram with me using the "Share>>Invite to edit" tab
+   * Share the diagram with me using the "Share>>Invite for feedback" tab
+   * Enter "birkenkrahe@lyon.edu" and check "Send a copy to me" for
+     proof
+
+     [[./img/share.png]]
 
 ** Written BPMN test on November 2 at 2.30 pm
 
