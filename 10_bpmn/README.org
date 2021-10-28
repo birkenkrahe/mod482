@@ -60,13 +60,42 @@
 
    /Image: complete list of BPMN symbols and rules ([[https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster/][Signavio]]/[[https://1drv.ms/u/s!AhEvK3qWokrvwUVBiCQluz4dwFlM][OneDrive]])/
 
-* BPMN case
+* BPMN case studies
+** Eating icecream
 
-  Creating and explaining this model takes about as much time as
-  eating a big icecream (7 min) - [[https://youtu.be/BwkNceoybvA?t=346][Link]].
+   Creating and explaining this model takes about as much time as
+   eating a big icecream (7 min) - [[https://youtu.be/BwkNceoybvA?t=346][Link]].
 
-  #+attr_html: :width 600px
-  [[./img/icecream.png]]
+   #+attr_html: :width 600px
+   [[./img/icecream.png]]
+
+** Job application process
+
+   Part 1: demonstration of creating a simple BPMN workflow for an
+   application process. The software used here is irrelevant - you're
+   still using the BPMN standard and you can recreate these models in
+   a process modeling editor of your choice - bpmn.io, signavio, ARIS
+   or even MS Visio will do. Source: Aptero Solutions, 2011.
+
+   Youtube: https://youtu.be/WtOzW8Ck5LY
+
+   Part 2: in this demonstration, which follows on part 1, you see how
+   to implement the concept of multiple pools and message flow across
+   pools using the same example as before, an application process. The
+   process participants involved are: the applicant and the HR
+   department of a company. Source: Aptero Solutions, 2011.
+
+   Youtube: https://youtu.be/B5H2K8wcBGU
+
+** IT service
+
+   This example is (for now) only available in German.
+
+   Video: [[https://youtu.be/kYK9t8fPkAY][BPMN 2.0 Prozessmodell in Signavio erzeugen.]]
+
+
+   #+attr_html: :width 400px
+   [[./img/german.png]]
 
 * Pizza example
 
@@ -86,7 +115,6 @@
 
    #+attr_html: :width 600px
    [[./img/presentation.png]]
-
 
 * Practice
 
@@ -126,8 +154,53 @@
    [[./img/bpmn.png]]
 
 ** BPMN diagram with mistakes
+
+   Which rule violations can you see in the following diagram
+   (GitHub)? The total number is[fn:6] = 8 errors - I count a total of
+   11 additional rule violations. So the total is closer to 20.
+
+   #+attr_html: :width 600px
+   [[./img/error.png]]
+
 ** Build your first own BPMN diagram
-** Homework
+
+   Here is my (recommended) BPMN modeling workflow.
+
+   | NO. | STEP                                       | ACTION           |
+   |-----+--------------------------------------------+------------------|
+   |   1 | Who are the actors (organizational units)? | Pools and lanes  |
+   |   2 | What are the start and end events?         | Gather them      |
+   |   3 | Which other events or functions are there? | Gather them      |
+   |   4 | Is there any communication?                | Add message flow |
+   |   5 | What is the happy path?                    | Model it         |
+   |   6 | Can any events or tasks be parallelized?   | Add gateways     |
+   |   7 | Which decisions or changes are involved?   | Add gateways     |
+   |   8 | Anything else?                             | Add it           |
+   |   9 | Check diagram                              | Spell checker    |
+   |  10 | Save and share diagram                     | Save and share   |
+
+   * Turn this workflow into a BPMN diagram
+   * Save the diagram in your personal folder in Shared Documents
+   * Share the diagram with me using the "Share>>Invite to edit" tab
+
+** Assignment (complete by Nov 2, 2.30 pm)
+
+   #+attr_html: :width 400px
+   [[./img/h5p.png]]
+
+   * Review the rules using [[https://h5p.org/node/1138751][this online lesson]].
+   * Complete the summary quiz.
+   * Watch both videos at the end ("Job application", 20 min)
+   * Rebuild the diagram in Signavio as you go along.
+   * Save them in your personal folder in "Shared Documents"
+   * Share the diagram with me using the "Share>>Invite to edit" tab
+
+** Written BPMN test on November 2 at 2.30 pm
+
+   Topics:
+   * BPMN objects
+   * BPMN rules and rule violations
+   * BPMN workflow
 
 * References
 
@@ -141,6 +214,8 @@
   signavio.com]]
 
 * Footnotes
+
+[fn:6]According to the Signavio "spell checker" for BPMN 2.0 diagrams.
 
 [fn:5]The idea for this problem came from a figure in a book I'm
 reading, "Tiny C Projects" ([[gookin][Gookin, 2021]]):
