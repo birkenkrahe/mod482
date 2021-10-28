@@ -111,7 +111,7 @@
    #+attr_html: :width 600px
    [[./img/presentation.png]]
 
-* Practice
+* Practice I
 
   #+attr_html: :width 300px
   [[./img/practice.gif]]
@@ -157,6 +157,35 @@
    #+attr_html: :width 600px
    [[./img/error.png]]
 
+** Assignment (complete by Nov 2, 2.30 pm)
+
+   #+attr_html: :width 400px
+   [[./img/h5p.png]]
+
+   * Review the rules using [[https://h5p.org/node/1138751][this online lesson]] (https://h5p.org/node/1138751)
+   * Complete the summary quiz.
+   * Watch both videos at the end ("Job application", 20 min)
+   * Rebuild the diagram in Signavio as you go along.
+   * Save them in your personal folder in "Shared Documents"
+   * Share the diagram with me using the "Share>>Invite for feedback" tab
+   * Enter "birkenkrahe@lyon.edu" and check "Send a copy to me" for
+     proof
+
+     [[./img/share.png]]
+
+
+* Practice II
+
+  #+attr_html: :width 300px
+  [[./img/practice2.gif]]
+   
+** Written BPMN test on November 2 at 2.30 pm
+
+   Topics:
+   * BPMN objects
+   * BPMN rules and rule violations
+   * BPMN workflow
+
 ** Build your first own BPMN diagram
 
    Here is my (recommended) BPMN modeling workflow.
@@ -178,29 +207,10 @@
    * Save the diagram in your personal folder in Shared Documents
    * Share the diagram with me using the "Share>>Invite to edit" tab
 
-** Assignment (complete by Nov 2, 2.30 pm)
-
-   #+attr_html: :width 400px
-   [[./img/h5p.png]]
-
-   * Review the rules using [[https://h5p.org/node/1138751][this online lesson]] (https://h5p.org/node/1138751)
-   * Complete the summary quiz.
-   * Watch both videos at the end ("Job application", 20 min)
-   * Rebuild the diagram in Signavio as you go along.
-   * Save them in your personal folder in "Shared Documents"
-   * Share the diagram with me using the "Share>>Invite for feedback" tab
-   * Enter "birkenkrahe@lyon.edu" and check "Send a copy to me" for
-     proof
-
-     [[./img/share.png]]
-
-** Written BPMN test on November 2 at 2.30 pm
-
-   Topics:
-   * BPMN objects
-   * BPMN rules and rule violations
-   * BPMN workflow
-
+** TODO Convert an EPC to a BPMN diagram
+** TODO Car purchase process
+** TODO Practice session process
+** TODO IT support process
 * References
 
   <<lucidchart>> Lucidchart (Apr 28, 2020). Business Process Model and
