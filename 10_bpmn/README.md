@@ -1,28 +1,28 @@
 
 # Table of Contents
 
--   [What will you learn?](#org8e40d92)
--   [BPMN object summary](#org2bbf21e)
-    -   [Flow objects (Action/Decision)](#org6408e36)
-    -   [Connecting objects (Communication)](#org3bd5cd9)
-    -   [Participants (Roles/Accountability)](#org4651af5)
-    -   [Artifacts (Details)](#org9daa5ba)
-    -   [More information](#orgcab3266)
--   [BPMN case](#orgdee77c4)
--   [Pizza example](#orgf33d197)
-    -   [Choreography](#org9f69476)
-    -   [Collaboration](#orgdd684ef)
-    -   [Enterprise modeling with BPMN](#org8b52e1c)
--   [Practice](#org0fceccd)
-    -   [BPMN rules](#orge2d1930)
-    -   [BPMN diagram with mistakes](#orgfab94b0)
-    -   [Build your first own BPMN diagram](#orgb6c1d5e)
-    -   [Homework](#orgb4ef083)
--   [References](#org5169422)
+-   [What will you learn?](#orgd677db2)
+-   [BPMN object summary](#org71b3938)
+    -   [Flow objects (Action/Decision)](#org28e0959)
+    -   [Connecting objects (Communication)](#org2cd00ed)
+    -   [Participants (Roles/Accountability)](#org6621d4d)
+    -   [Artifacts (Details)](#org8b05f2d)
+    -   [More information](#org68092f1)
+-   [BPMN case](#org902408a)
+-   [Pizza example](#org418404d)
+    -   [Choreography](#orgd93f74a)
+    -   [Collaboration](#orge44c048)
+    -   [Enterprise modeling with BPMN](#org14399d6)
+-   [Practice](#org7aa38cd)
+    -   [BPMN rules](#org5cbe1fa)
+    -   [BPMN diagram with mistakes](#org3d8b5c1)
+    -   [Build your first own BPMN diagram](#orgf03de00)
+    -   [Homework](#org669c224)
+-   [References](#org2cf2018)
 
 
 
-<a id="org8e40d92"></a>
+<a id="orgd677db2"></a>
 
 # What will you learn?
 
@@ -31,36 +31,36 @@
 -   Practice in the Signavio Process Editor
 
 
-<a id="org2bbf21e"></a>
+<a id="org71b3938"></a>
 
 # BPMN object summary
 
 Business Process Model and Notation (BPMN) 2.0 has four main groups
-of shapes or objects. Source: [Lucidchart, 2020](#org2577723).
+of shapes or objects. Source: [Lucidchart, 2020](#orgc85ef6e).
 
 
-<a id="org6408e36"></a>
+<a id="org28e0959"></a>
 
 ## Flow objects (Action/Decision)
 
 ![img](./img/flow.png)
 
 
-<a id="org3bd5cd9"></a>
+<a id="org2cd00ed"></a>
 
 ## Connecting objects (Communication)
 
 ![img](./img/connecting.png)
 
 
-<a id="org4651af5"></a>
+<a id="org6621d4d"></a>
 
 ## Participants (Roles/Accountability)
 
 ![img](./img/pools.png)
 
 
-<a id="org9daa5ba"></a>
+<a id="org8b05f2d"></a>
 
 ## Artifacts (Details)
 
@@ -72,7 +72,7 @@ of shapes or objects. Source: [Lucidchart, 2020](#org2577723).
 -   Message (data)
 
 
-<a id="orgcab3266"></a>
+<a id="org68092f1"></a>
 
 ## More information
 
@@ -93,7 +93,7 @@ is also very good and complete.
 *Image: complete list of BPMN symbols and rules ([Signavio](https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster/)*[OneDrive](https://1drv.ms/u/s!AhEvK3qWokrvwUVBiCQluz4dwFlM))/
 
 
-<a id="orgdee77c4"></a>
+<a id="org902408a"></a>
 
 # BPMN case
 
@@ -103,40 +103,46 @@ eating a big icecream (7 min) - [Link](https://youtu.be/BwkNceoybvA?t=346).
 ![img](./img/icecream.png)
 
 
-<a id="orgf33d197"></a>
+<a id="org418404d"></a>
 
 # Pizza example
 
 
-<a id="org9f69476"></a>
+<a id="orgd93f74a"></a>
 
 ## Choreography
 
 ![img](./img/choreography.png)
 
 
-<a id="orgdd684ef"></a>
+<a id="orge44c048"></a>
 
 ## Collaboration
 
 ![img](./img/collaboration.png)
 
 
-<a id="org8b52e1c"></a>
+<a id="org14399d6"></a>
 
 ## Enterprise modeling with BPMN
 
+[GitHub: Enterprise Modeling with BPMN (PDF)](https://github.com/birkenkrahe/mod482/blob/main/10_bpmn/bpmn_modeling.pdf)
 
-<a id="org0fceccd"></a>
+![img](./img/presentation.png)
+
+
+<a id="org7aa38cd"></a>
 
 # Practice
 
 ![img](./img/practice.gif)
 
 
-<a id="orge2d1930"></a>
+<a id="org5cbe1fa"></a>
 
 ## BPMN rules
+
+![img](./img/summary.gif)
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -215,32 +221,73 @@ eating a big icecream (7 min) - [Link](https://youtu.be/BwkNceoybvA?t=346).
 </tbody>
 </table>
 
+BPMN has slightly different rules than EPC. In addition, because
+it is primarily (though not only - see process mining and BPEL)
+for human consumption, the style of a diagram carries extra weight:
 
-<a id="orgfab94b0"></a>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">BPMN diagrams should be readable</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BPMN diagrams can be infinite in size</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BPMN diagrams run from the left to the right</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BPMN diagrams avoid loops (instead: attributes)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BPMN diagrams distinguish action and communication</td>
+</tr>
+</tbody>
+</table>
+
+Here is a complete EPC "cheat sheet" (Source: SAP Signavio)
+
+![img](./img/bpmn.png)
+
+
+<a id="org3d8b5c1"></a>
 
 ## BPMN diagram with mistakes
 
 
-<a id="orgb6c1d5e"></a>
+<a id="orgf03de00"></a>
 
 ## Build your first own BPMN diagram
 
 
-<a id="orgb4ef083"></a>
+<a id="org669c224"></a>
 
 ## Homework
 
 
-<a id="org5169422"></a>
+<a id="org2cf2018"></a>
 
 # References
 
-<a id="org2577723"></a> Lucidchart (Apr 28, 2020). Business Process Model and
+<a id="orgc85ef6e"></a> Lucidchart (Apr 28, 2020). Business Process Model and
 Notation (BPMN) 2.0 Tutorial [video]. [Online: youtube.com](https://youtu.be/BwkNceoybvA).
 
-<a id="orgc2e3b2c"></a> SAP Signavio Process editor version 15.7.1. SAP
+<a id="org97e973a"></a> SAP Signavio Process editor version 15.7.1. SAP
 (2021). Academic edition [platform]. Online: [www.signavio.com.](https://www.signavio.com/)
 
-<a id="org6aa2dd1"></a> SAP Signavio (n.d.). BPMN modeling [website]. [Online:
+<a id="org37b916c"></a> SAP Signavio (n.d.). BPMN modeling [website]. [Online:
 signavio.com](https://documentation.signavio.com/suite/en-us/Content/process-manager/userguide/bpmn/modeling.htm)
 
