@@ -183,7 +183,7 @@
    #+attr_html: :width 400px
    [[./img/h5p.png]]
 
-   * Review the rules using [[https://h5p.org/node/1138751][this online lesson]].
+   * Review the rules using [[https://h5p.org/node/1138751][this online lesson]] (https://h5p.org/node/1138751)
    * Complete the summary quiz.
    * Watch both videos at the end ("Job application", 20 min)
    * Rebuild the diagram in Signavio as you go along.

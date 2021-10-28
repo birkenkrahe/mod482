@@ -1,32 +1,32 @@
 
 # Table of Contents
 
--   [What will you learn?](#orge868f8f)
--   [BPMN object summary](#org61dcb18)
-    -   [Flow objects (Action/Decision)](#orgb76532d)
-    -   [Connecting objects (Communication)](#orgb444fb5)
-    -   [Participants (Roles/Accountability)](#org0699398)
-    -   [Artifacts (Details)](#org48f6cb7)
-    -   [More information](#orgf076d33)
--   [BPMN case studies](#orgb2bffad)
-    -   [Eating icecream](#org2d667b9)
-    -   [Job application process](#org4afc587)
-    -   [IT service](#orga6c44e8)
--   [Pizza example](#org728b9e3)
-    -   [Choreography](#org0f87400)
-    -   [Collaboration](#orgcb3f9cc)
-    -   [Enterprise modeling with BPMN](#org9b9e94a)
--   [Practice](#org89e40ac)
-    -   [BPMN rules](#orgf921f62)
-    -   [BPMN diagram with mistakes](#org9cc6bae)
-    -   [Build your first own BPMN diagram](#org76f1bc2)
-    -   [Assignment (complete by Nov 2, 2.30 pm)](#org48fbd5c)
-    -   [Written BPMN test on November 2 at 2.30 pm](#orgb4b4b7d)
--   [References](#orgba19c9a)
+-   [What will you learn?](#orge70c441)
+-   [BPMN object summary](#org4d4ba5e)
+    -   [Flow objects (Action/Decision)](#orgd61cfbe)
+    -   [Connecting objects (Communication)](#orgfd8d6c9)
+    -   [Participants (Roles/Accountability)](#org5d51038)
+    -   [Artifacts (Details)](#orgb0a6468)
+    -   [More information](#org588f3fa)
+-   [BPMN case studies](#orga8fee39)
+    -   [Eating icecream](#orgfd499ac)
+    -   [Job application process](#org49e3440)
+    -   [IT service](#orgd748d11)
+-   [Pizza example](#orga181744)
+    -   [Choreography](#org9c0a01b)
+    -   [Collaboration](#org9a765d3)
+    -   [Enterprise modeling with BPMN](#org7552348)
+-   [Practice](#org47e0024)
+    -   [BPMN rules](#org4895844)
+    -   [BPMN diagram with mistakes](#org2c29339)
+    -   [Build your first own BPMN diagram](#org0a58818)
+    -   [Assignment (complete by Nov 2, 2.30 pm)](#org3288e2b)
+    -   [Written BPMN test on November 2 at 2.30 pm](#orgbd108fd)
+-   [References](#org0ab5547)
 
 
 
-<a id="orge868f8f"></a>
+<a id="orge70c441"></a>
 
 # What will you learn?
 
@@ -35,36 +35,36 @@
 -   Practice in the Signavio Process Editor
 
 
-<a id="org61dcb18"></a>
+<a id="org4d4ba5e"></a>
 
 # BPMN object summary
 
 Business Process Model and Notation (BPMN) 2.0 has four main groups
-of shapes or objects. Source: [Lucidchart, 2020](#org2a4fa63).
+of shapes or objects. Source: [Lucidchart, 2020](#orgf9adf21).
 
 
-<a id="orgb76532d"></a>
+<a id="orgd61cfbe"></a>
 
 ## Flow objects (Action/Decision)
 
 ![img](./img/flow.png)
 
 
-<a id="orgb444fb5"></a>
+<a id="orgfd8d6c9"></a>
 
 ## Connecting objects (Communication)
 
 ![img](./img/connecting.png)
 
 
-<a id="org0699398"></a>
+<a id="org5d51038"></a>
 
 ## Participants (Roles/Accountability)
 
 ![img](./img/pools.png)
 
 
-<a id="org48f6cb7"></a>
+<a id="orgb0a6468"></a>
 
 ## Artifacts (Details)
 
@@ -76,7 +76,7 @@ of shapes or objects. Source: [Lucidchart, 2020](#org2a4fa63).
 -   Message (data)
 
 
-<a id="orgf076d33"></a>
+<a id="org588f3fa"></a>
 
 ## More information
 
@@ -93,12 +93,12 @@ the most relevant aspects of BPMN with many examples (SAP Signavio,
 is also very good and complete.
 
 
-<a id="orgb2bffad"></a>
+<a id="orga8fee39"></a>
 
 # BPMN case studies
 
 
-<a id="org2d667b9"></a>
+<a id="orgfd499ac"></a>
 
 ## Eating icecream
 
@@ -108,7 +108,7 @@ eating a big icecream (7 min) - [Link](https://youtu.be/BwkNceoybvA?t=346).
 ![img](./img/icecream.png)
 
 
-<a id="org4afc587"></a>
+<a id="org49e3440"></a>
 
 ## Job application process
 
@@ -129,7 +129,7 @@ department of a company. Source: Aptero Solutions, 2011.
 Youtube: <https://youtu.be/B5H2K8wcBGU>
 
 
-<a id="orga6c44e8"></a>
+<a id="orgd748d11"></a>
 
 ## IT service
 
@@ -140,26 +140,26 @@ Video: [BPMN 2.0 Prozessmodell in Signavio erzeugen.](https://youtu.be/kYK9t8fPk
 ![img](./img/german.png)
 
 
-<a id="org728b9e3"></a>
+<a id="orga181744"></a>
 
 # Pizza example
 
 
-<a id="org0f87400"></a>
+<a id="org9c0a01b"></a>
 
 ## Choreography
 
 ![img](./img/choreography.png)
 
 
-<a id="orgcb3f9cc"></a>
+<a id="org9a765d3"></a>
 
 ## Collaboration
 
 ![img](./img/collaboration.png)
 
 
-<a id="org9b9e94a"></a>
+<a id="org7552348"></a>
 
 ## Enterprise modeling with BPMN
 
@@ -168,14 +168,14 @@ Video: [BPMN 2.0 Prozessmodell in Signavio erzeugen.](https://youtu.be/kYK9t8fPk
 ![img](./img/presentation.png)
 
 
-<a id="org89e40ac"></a>
+<a id="org47e0024"></a>
 
 # Practice
 
 ![img](./img/practice.gif)
 
 
-<a id="orgf921f62"></a>
+<a id="org4895844"></a>
 
 ## BPMN rules
 
@@ -300,7 +300,7 @@ Here is a complete EPC "cheat sheet" (Source: SAP Signavio)
 ![img](./img/bpmn.png)
 
 
-<a id="org9cc6bae"></a>
+<a id="org2c29339"></a>
 
 ## BPMN diagram with mistakes
 
@@ -311,7 +311,7 @@ Which rule violations can you see in the following diagram
 ![img](./img/error.png)
 
 
-<a id="org76f1bc2"></a>
+<a id="org0a58818"></a>
 
 ## Build your first own BPMN diagram
 
@@ -412,13 +412,13 @@ Here is my (recommended) BPMN modeling workflow.
 -   Share the diagram with me using the "Share>>Invite to edit" tab
 
 
-<a id="org48fbd5c"></a>
+<a id="org3288e2b"></a>
 
 ## Assignment (complete by Nov 2, 2.30 pm)
 
 ![img](./img/h5p.png)
 
--   Review the rules using [this online lesson](https://h5p.org/node/1138751).
+-   Review the rules using [this online lesson](https://h5p.org/node/1138751) (<https://h5p.org/node/1138751>)
 -   Complete the summary quiz.
 -   Watch both videos at the end ("Job application", 20 min)
 -   Rebuild the diagram in Signavio as you go along.
@@ -430,7 +430,7 @@ Here is my (recommended) BPMN modeling workflow.
     ![img](./img/share.png)
 
 
-<a id="orgb4b4b7d"></a>
+<a id="orgbd108fd"></a>
 
 ## Written BPMN test on November 2 at 2.30 pm
 
@@ -441,17 +441,17 @@ Topics:
 -   BPMN workflow
 
 
-<a id="orgba19c9a"></a>
+<a id="org0ab5547"></a>
 
 # References
 
-<a id="org2a4fa63"></a> Lucidchart (Apr 28, 2020). Business Process Model and
+<a id="orgf9adf21"></a> Lucidchart (Apr 28, 2020). Business Process Model and
 Notation (BPMN) 2.0 Tutorial [video]. [Online: youtube.com](https://youtu.be/BwkNceoybvA).
 
-<a id="orgbe21404"></a> SAP Signavio Process editor version 15.7.1. SAP
+<a id="org703721d"></a> SAP Signavio Process editor version 15.7.1. SAP
 (2021). Academic edition [platform]. Online: [www.signavio.com.](https://www.signavio.com/)
 
-<a id="org83ce6d3"></a> SAP Signavio (n.d.). BPMN modeling [website]. [Online:
+<a id="org4718a0c"></a> SAP Signavio (n.d.). BPMN modeling [website]. [Online:
 signavio.com](https://documentation.signavio.com/suite/en-us/Content/process-manager/userguide/bpmn/modeling.htm)
 
 
