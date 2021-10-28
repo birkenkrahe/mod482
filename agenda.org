@@ -241,11 +241,13 @@
    #+attr_html: :width 300px
    [[./img/catwalk.gif]]
 
-  | Lecture       | BPMN basics and rules      | 30 min |
-  | BPMN practice | Diagram with errors        | 15 min |
-  |               | Remodel a diagram in BPMN  | 30 min |
-  | (Homework)    | Submit BPMN model (graded) | 30 min |
-
+   | [[https://youtu.be/BwkNceoybvA][Video tutorial]] | Introduction to BPMN  | 10 min |
+   | Lecture        | BPMN basics and rules | 15 min |
+   | BPMN practice  | Diagram with errors   | 15 min |
+   |                | Submit BPMN model     | 30 min |
+   |----------------+-----------------------+--------|
+   | Homework       | Online lesson/video   | 30 min |
+ 
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
