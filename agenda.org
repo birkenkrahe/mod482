@@ -247,6 +247,7 @@
    |                | Submit BPMN model     | 30 min |
    |----------------+-----------------------+--------|
    | [[https://h5p.org/node/1138751][Homework]]       | Online lesson/video   | 30 min |
+   |                | Recreate diagram      |        |
  
 * References
 
