@@ -236,7 +236,7 @@
    | [[https://youtu.be/BwkNceoybvA][Video tutorial]]    | Introduction to BPMN  | 15 min |
    |                   | Summary               | 10 min |
 
-* Week 11 - October 28 + Nov 2
+* Week 11 - October 28
 
    #+attr_html: :width 300px
    [[./img/catwalk.gif]]
@@ -244,7 +244,7 @@
   | Lecture       | BPMN basics and rules      | 30 min |
   | BPMN practice | Diagram with errors        | 15 min |
   |               | Remodel a diagram in BPMN  | 30 min |
-  | Homework      | Submit BPMN model (graded) | 30 min |
+  | (Homework)    | Submit BPMN model (graded) | 30 min |
 
 * References
 

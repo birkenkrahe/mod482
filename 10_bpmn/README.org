@@ -10,8 +10,8 @@
   * Object-oriented process modeling
   * Practice in the Signavio Process Editor
 
-* BPMN Summary
-  
+* BPMN object summary
+
   Business Process Model and Notation (BPMN) 2.0 has four main groups
   of shapes or objects. Source: [[lucidchart][Lucidchart, 2020]].
 
@@ -19,7 +19,7 @@
 
    #+attr_html: :width 400px
    [[./img/flow.png]]
-   
+
 ** Connecting objects (Communication)
 
    #+attr_html: :width 300px
@@ -39,16 +39,75 @@
    * Documents
    * Annotation
    * Message (data)
+
+** More information
+
+   For Signavio Process Manager, open the "Getting started" sidebar
+   inside the Process Manager explorer window under "Help".
+
+   #+attr_html: :width 600px
+   [[./img/signavio.png]]
+
+   [[https://documentation.signavio.com/suite/en-us/Content/process-manager/userguide/bpmn/modeling.htm][This Signavio document]] gives a complete, structured account of all
+   the most relevant aspects of BPMN with many examples (SAP Signavio,
+   2021).
+
+   [[https://camunda.com/bpmn/reference/][This guide from Camunda]] (with link to a free BPMN online editor),
+   is also very good and complete.
+
+   #+attr_html: :width 600px
+   [[./img/bpmn.png]]
+
+   /Image: complete list of BPMN symbols and rules ([[https://www.signavio.com/downloads/short-reads/free-bpmn-2-0-poster/][Signavio]]/[[https://1drv.ms/u/s!AhEvK3qWokrvwUVBiCQluz4dwFlM][OneDrive]])/
+
+* BPMN case
+
+  Creating and explaining this model takes about as much time as
+  eating a big icecream (7 min) - [[https://youtu.be/BwkNceoybvA?t=346][Link]].
+
+  #+attr_html: :width 600px
+  [[./img/icecream.png]]
+
+* Pizza example
+
+** Choreography
+
+   #+attr_html: :width 600px
+   [[./img/choreography.png]]
+
+** Collaboration
+
+   #+attr_html: :width 600px
+   [[./img/collaboration.png]]
+
+** Enterprise modeling with BPMN
+
    
-* BPMN Case
+   
+* Practice
 
-     Creating and explaining this model takes about as much time as
-     eating a big icecream (7 min) - [[https://youtu.be/BwkNceoybvA?t=346][Link]].
+  #+attr_html: :width 300px
+  [[./img/practice.gif]]
 
-     #+attr_html: :width 600px
-     [[./img/icecream.png]]
-  
-  
+** BPMN rules
+
+   | NO. | BPMN MODELING RULE                                          |
+   |-----+-------------------------------------------------------------|
+   |   1 | Every participant gets a pool or a lane inside a pool       |
+   |   2 | Every pool contains exactly one process                     |
+   |   3 | A process has at least one start and one end event          |
+   |   4 | Sequence flow (Action) flows only within pools              |
+   |   5 | Message flow (Communication) flows only between pools       |
+   |   6 | All process elements must be named                          |
+   |   7 | Decision points (exclusive gateways) have questions         |
+   |   8 | Actors with little to do can become additional participants |
+   |   9 | Split or joined sequence flows need gateways                |
+   |  10 | Opened gateways must be closed                              |
+
+** BPMN diagram with mistakes
+** Build your first own BPMN diagram
+** Homework
+
 * References
 
   <<lucidchart>> Lucidchart (Apr 28, 2020). Business Process Model and
@@ -56,6 +115,9 @@
 
   <<signavio>> SAP Signavio Process editor version 15.7.1. SAP
   (2021). Academic edition [platform]. Online: [[https://www.signavio.com/][www.signavio.com.]]
+
+  <<tutor>> SAP Signavio (n.d.). BPMN modeling [website]. [[https://documentation.signavio.com/suite/en-us/Content/process-manager/userguide/bpmn/modeling.htm][Online:
+  signavio.com]]
 
 * Footnotes
 
