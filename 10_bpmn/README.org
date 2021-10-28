@@ -163,9 +163,10 @@
    [[./img/h5p.png]]
 
    * Review the rules using [[https://h5p.org/node/1138751][this online lesson]] (https://h5p.org/node/1138751)
-   * Complete the summary quiz.
+   * Complete the summary quiz at the end of the lesson.
    * Watch both videos at the end (~Job application~, 20 min)
-   * Rebuild the diagram in Signavio as you go along.
+   * Rebuild the diagram in Signavio as a ~new>>BPMN 2.0 diagram~
+     while you watch
    * Save them in your personal folder in ~Shared Documents~
    * Share the diagram with me using the ~Share>>Invite for feedback~ tab
    * Enter ~birkenkrahe@lyon.edu~ and check ~Send a copy to me~ for
