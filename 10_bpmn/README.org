@@ -149,7 +149,7 @@
    [[./img/bpmn.png]]
 
 ** BPMN diagram with mistakes
-
+*** Problem
    Which rule violations can you see in the following diagram
    (GitHub)? The total number is[fn:6] = 8 errors - I count a total of
    11 additional rule violations. So the total is closer to 20.
@@ -157,6 +157,32 @@
    #+attr_html: :width 600px
    [[./img/error.png]]
 
+*** Solution
+
+    #+attr_html: :width 600px
+    [[./img/error_solution.png]]
+
+    1. Pool name must be actor or organization
+    2. Between pools only message flows
+    3. Collapsed pool needs a name
+    4. Whole process must be inside pool
+    5. Inside pools only sequence flows
+    6. Only one start event per pool
+    7. Only one end event per pool
+    8. Default flow only after exclusive gateway
+    9. Bi-directional association serves no purpose here
+    10. "No" as flow title, and question at exclusive gateway missing
+    11. Receiving intermediate message event wrongly named
+    12. Task name missing
+    13. End event name missing
+    14. Sending end event neds to send something
+    15. Need gateway here (flow splits)
+    16. Start event need title
+    17. Task needs title
+    18. Task needs title
+    19. Artifact needs title
+    20. Swimline needs title
+    
 ** Assignment (complete by Nov 2, 2.30 pm)
 
    #+attr_html: :width 400px
