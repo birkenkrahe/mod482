@@ -242,11 +242,11 @@
    [[./img/catwalk.gif]]
 
    | [[https://youtu.be/BwkNceoybvA][Video tutorial]] | Introduction to BPMN  | 10 min |
-   | Lecture        | BPMN basics and rules | 15 min |
+   | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn][Lecture]]        | BPMN basics and rules | 15 min |
    | BPMN practice  | Diagram with errors   | 15 min |
    |                | Submit BPMN model     | 30 min |
    |----------------+-----------------------+--------|
-   | Homework       | Online lesson/video   | 30 min |
+   | [[https://h5p.org/node/1138751][Homework]]       | Online lesson/video   | 30 min |
  
 * References
 

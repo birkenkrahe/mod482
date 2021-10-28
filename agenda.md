@@ -1,25 +1,25 @@
 
 # Table of Contents
 
--   [Week 2 - August 24](#orgc27f968)
--   [Week 2 - August 26](#org20db99a)
--   [Week 3 - August 31](#orgbd37ecc)
--   [Week 3 - September 2](#orgedfb39d)
--   [Week 4 - September 9](#orgbe495ab)
--   [Week 5 - September 16](#org06d8754)
--   [Week 6 - September 21](#org8c1a12b)
--   [Week 7 - September 28](#org81d82b7)
--   [Week 9 - October 12](#org8880c20)
--   [Week 9 - October 14](#org9a32e9a)
--   [Week 10 - October 19](#orga2213d2)
--   [Week 10 - October 21](#orge796a8f)
--   [Week 11 - October 26](#orgbbd13dc)
--   [Week 11 - October 28](#org05707c0)
--   [References](#org55858ee)
+-   [Week 2 - August 24](#orgbf2644a)
+-   [Week 2 - August 26](#org2baadfe)
+-   [Week 3 - August 31](#org6878211)
+-   [Week 3 - September 2](#orgb893b74)
+-   [Week 4 - September 9](#orgab7927d)
+-   [Week 5 - September 16](#org008816f)
+-   [Week 6 - September 21](#org27eb3cf)
+-   [Week 7 - September 28](#orge492f16)
+-   [Week 9 - October 12](#orgadbd30a)
+-   [Week 9 - October 14](#org4f886c0)
+-   [Week 10 - October 19](#orgd525d80)
+-   [Week 10 - October 21](#orgcf20e45)
+-   [Week 11 - October 26](#org751710d)
+-   [Week 11 - October 28](#org11d0059)
+-   [References](#orgfee650a)
 
 
 
-<a id="orgc27f968"></a>
+<a id="orgbf2644a"></a>
 
 # Week 2 - August 24
 
@@ -41,7 +41,7 @@
 -   Questions?
 
 
-<a id="org20db99a"></a>
+<a id="org2baadfe"></a>
 
 # Week 2 - August 26
 
@@ -66,7 +66,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="orgbd37ecc"></a>
+<a id="org6878211"></a>
 
 # Week 3 - August 31
 
@@ -80,7 +80,7 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="orgedfb39d"></a>
+<a id="orgb893b74"></a>
 
 # Week 3 - September 2
 
@@ -119,7 +119,7 @@
 -   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
 
-<a id="orgbe495ab"></a>
+<a id="orgab7927d"></a>
 
 # Week 4 - September 9
 
@@ -264,20 +264,20 @@
 -   Owen: test frameworks (e.g. [this article](https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670))
 
 
-<a id="org06d8754"></a>
+<a id="org008816f"></a>
 
 # Week 5 - September 16
 
 ![img](./img/lecture.gif)
 
 -   [Test 4: agility, bias, canvas](https://lyon.schoology.com/assignment/5314232116/assessment_questions)
--   [Fireside chat with Scott Page](#org8a4a571) (2020)
+-   [Fireside chat with Scott Page](#org9830ef4) (2020)
 -   The Model Thinker, chapter 2 "Why Model":
 -   Models of systemic belonging ([lecture](https://github.com/birkenkrahe/mod482/tree/main/5_why_model))
--   System constellations ([Birkenkrahe, 2008](#org86a74b0))
+-   System constellations ([Birkenkrahe, 2008](#org3ff261b))
 
 
-<a id="org8c1a12b"></a>
+<a id="org27eb3cf"></a>
 
 # Week 6 - September 21
 
@@ -291,7 +291,7 @@
 -   **Classes on Thu September 23 are cancelled**
 
 
-<a id="org81d82b7"></a>
+<a id="orge492f16"></a>
 
 # Week 7 - September 28
 
@@ -304,10 +304,10 @@
 -   2nd sprint review (**Thu Oct 7**) ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md))
 -   Participation: protocols! ([Schedule](https://github.com/birkenkrahe/mod482/blob/main/schedule.md))
     
-    *Figure: [Shah 2019](#org73312d7)*
+    *Figure: [Shah 2019](#org5bfec34)*
 
 
-<a id="org8880c20"></a>
+<a id="orgadbd30a"></a>
 
 # Week 9 - October 12
 
@@ -323,7 +323,7 @@
 -   New diary/FAQ: [leaving Linux](https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8) :-(
 
 
-<a id="org9a32e9a"></a>
+<a id="org4f886c0"></a>
 
 # Week 9 - October 14
 
@@ -336,7 +336,7 @@
 ![img](./img/signavio.png)
 
 
-<a id="orga2213d2"></a>
+<a id="orgd525d80"></a>
 
 # Week 10 - October 19
 
@@ -352,7 +352,7 @@
 ![img](./img/mod482_test5_stats.png)
 
 
-<a id="orge796a8f"></a>
+<a id="orgcf20e45"></a>
 
 # Week 10 - October 21
 
@@ -413,7 +413,7 @@
 </table>
 
 
-<a id="orgbbd13dc"></a>
+<a id="org751710d"></a>
 
 # Week 11 - October 26
 
@@ -474,7 +474,7 @@
 </table>
 
 
-<a id="org05707c0"></a>
+<a id="org11d0059"></a>
 
 # Week 11 - October 28
 
@@ -499,7 +499,7 @@
 
 
 <tr>
-<th scope="col" class="org-left">Lecture</th>
+<th scope="col" class="org-left"><a href="https://github.com/birkenkrahe/mod482/tree/main/10_bpmn">Lecture</a></th>
 <th scope="col" class="org-left">BPMN basics and rules</th>
 <th scope="col" class="org-left">15 min</th>
 </tr>
@@ -521,7 +521,7 @@
 
 <tbody>
 <tr>
-<td class="org-left">Homework</td>
+<td class="org-left"><a href="https://h5p.org/node/1138751">Homework</a></td>
 <td class="org-left">Online lesson/video</td>
 <td class="org-left">30 min</td>
 </tr>
@@ -529,11 +529,11 @@
 </table>
 
 
-<a id="org55858ee"></a>
+<a id="orgfee650a"></a>
 
 # References
 
-<a id="org86a74b0"></a> Birkenkrahe, M. (2008). System constellations as tool
+<a id="org3ff261b"></a> Birkenkrahe, M. (2008). System constellations as tool
 supporting organisational learning and change processes. In:
 International Journal of Learning and Change 3(3),
 pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes). ([GDrive copy](https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing))
@@ -541,10 +541,10 @@ pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication
 Lucidchart (Apr 28, 2020). Business Process Model and Notation
 (BPMN) 2.0 Tutorial [video]. [Online: youtube.com](https://youtu.be/BwkNceoybvA)
 
-<a id="org73312d7"></a> Shah P (May 16, 2019). User Story Mapping | Product Backlog
+<a id="org5bfec34"></a> Shah P (May 16, 2019). User Story Mapping | Product Backlog
 Creation [Blog]. Online: [medium.com](https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e). ([GDrive copy](https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing))
 
-<a id="org8a4a571"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
+<a id="org9830ef4"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
 2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
 [theartistsofdatascience.fireside.fm](https://theartistsofdatascience.fireside.fm/scott-e-page).
 
