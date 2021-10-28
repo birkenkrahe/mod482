@@ -82,14 +82,20 @@
 
 ** Enterprise modeling with BPMN
 
-   
-   
+   [[https://github.com/birkenkrahe/mod482/blob/main/10_bpmn/bpmn_modeling.pdf][GitHub: Enterprise Modeling with BPMN (PDF)]]
+
+   #+attr_html: :width 600px
+   [[./img/presentation.png]]
+
+
 * Practice
 
   #+attr_html: :width 300px
   [[./img/practice.gif]]
 
 ** BPMN rules
+
+   [[./img/summary.gif]]
 
    | NO. | BPMN MODELING RULE                                          |
    |-----+-------------------------------------------------------------|
@@ -103,6 +109,21 @@
    |   8 | Actors with little to do can become additional participants |
    |   9 | Split or joined sequence flows need gateways                |
    |  10 | Opened gateways must be closed                              |
+
+   BPMN has slightly different rules than EPC. In addition, because
+   it is primarily (though not only - see process mining and BPEL)
+   for human consumption, the style of a diagram carries extra weight:
+
+   | BPMN diagrams should be readable                   |
+   | BPMN diagrams can be infinite in size              |
+   | BPMN diagrams run from the left to the right       |
+   | BPMN diagrams avoid loops (instead: attributes)    |
+   | BPMN diagrams distinguish action and communication |
+
+   Here is a complete EPC "cheat sheet" (Source: SAP Signavio)
+
+   #+attr_html: :width 600px
+   [[./img/bpmn.png]]
 
 ** BPMN diagram with mistakes
 ** Build your first own BPMN diagram

@@ -192,6 +192,8 @@
 
 ** EPC rules summary
 
+   [[./img/summary.gif]]
+
    This is the complete lists of rules and recommendations. Despite
    the apparent simplicity of this modeling language, it is incredibly
    expressive - so much so that for example all of the 80,000 basic
@@ -211,10 +213,7 @@
    |  9 | Loops are allowed as long as they're finite             |
    | 10 | Trivial events can be omitted                           |
 
-   [[./img/summary.gif]]
-
    Here is a complete EPC "cheat sheet" (Source: Software AG)
-
    #+attr_html: :width 600px
    [[./img/cheatsheet.png]]
 
@@ -252,6 +251,7 @@
 
     #+attr_html: :width 600px
     [[./img/diagram_solution.png]]
+
 
 ** Fill in a process model
 
@@ -367,7 +367,7 @@
    the file and links it to a library. Finally you run the program.
 
    If the program does not run, you need to fix bugs in the source
-   file, before going through the compilation process again. 
+   file, before going through the compilation process again.
    #+end_quote
 
    * *Save* your solution to your personal folder.
@@ -378,7 +378,7 @@
 
      #+attr_html: :width 500px
      [[./img/share.png]]
-   
+
 * References
 
   <<cvo>> CVO-Europe (n.d.). Our Hiring Process [website]. [[https://www.cvo-europe.com/en/careers/our-hiring-process][Online:
