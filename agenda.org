@@ -244,11 +244,17 @@
    | [[https://youtu.be/BwkNceoybvA][Video tutorial]] | Introduction to BPMN  | 10 min |
    | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn][Lecture]]        | BPMN basics and rules | 15 min |
    | BPMN practice  | Diagram with errors   | 15 min |
-   |                | Submit BPMN model     | 30 min |
    |----------------+-----------------------+--------|
    | [[https://h5p.org/node/1138751][Homework]]       | Online lesson/video   | 30 min |
    |                | Recreate diagram      |        |
- 
+
+* Week 12 - November 2
+
+  [[./img/penguin.gif]]
+
+  | BPMN Test     | Symbols & Syntax | 15 |
+  | BPMN Practice | Model processes  | 60 |
+  
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
