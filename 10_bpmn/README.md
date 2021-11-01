@@ -1,47 +1,47 @@
 
 # Table of Contents
 
--   [What will you learn?](#orgea49cea)
--   [BPMN object summary](#orgf7eefec)
-    -   [Flow objects (Action/Decision)](#org1eab25f)
-    -   [Connecting objects (Communication)](#orgd1b45cf)
-    -   [Participants (Roles/Accountability)](#org64d416a)
-    -   [Artifacts (Details)](#org01721b4)
-    -   [More information](#org5026e42)
--   [BPMN case studies](#orgd3f316c)
-    -   [Eating icecream](#org936a637)
-    -   [Job application process](#org624727b)
-    -   [IT service](#org3554252)
--   [Pizza example](#orgff2c3b1)
-    -   [Choreography](#org795998a)
-    -   [Collaboration](#org5d20b70)
-    -   [Enterprise modeling with BPMN](#org3827a08)
--   [Practice I](#orgb4135c9)
-    -   [BPMN rules](#org26e81ad)
-    -   [BPMN diagram with mistakes](#orgff0c1d2)
-        -   [Problem](#org5b3d036)
-        -   [Solution](#org9d6eacc)
-    -   [Assignment (complete by Nov 2, 2.30 pm)](#org729ac1f)
--   [Practice II](#org35db220)
-    -   [Written BPMN test on November 2 at 2.30 pm](#org630f082)
-    -   [Assignment: Job application process (by Nov 2, 2.30 pm)](#org5834a7e)
-        -   [Applicant - happy path process](#orgb075d62)
-        -   [Applicant - complete process](#org63fd48e)
-        -   [Recruiter - happy path process](#orgf0651c9)
-        -   [Applicant and recruiter - happy path process](#orgd453833)
-        -   [Recruiter - complete process](#orgc921f1a)
-        -   [Applicant (complete process) / Recruiter (collapsed process)](#orge11eceb)
-        -   [Applicant and recruiter - complete collaborative process](#org2a91c8a)
-    -   [Build your first own BPMN diagram](#org337496a)
-    -   [Convert an EPC to a BPMN diagram](#orgc5e6912)
-    -   [Car purchase process](#orgdac777b)
-    -   [Practice session process](#org66dbad7)
-    -   [IT support process](#org990b504)
--   [References](#orgc7f46b0)
+-   [What will you learn?](#orgb3d84c0)
+-   [BPMN object summary](#org0c58a1f)
+    -   [Flow objects (Action/Decision)](#orga6f672a)
+    -   [Connecting objects (Communication)](#orga368ff6)
+    -   [Participants (Roles/Accountability)](#org519a639)
+    -   [Artifacts (Details)](#org6b026e4)
+    -   [More information](#org62efd16)
+-   [BPMN case studies](#orgb1b57bc)
+    -   [Eating icecream](#org5e2d96c)
+    -   [Job application process](#org9b7e24f)
+    -   [IT service](#orgf7ad699)
+-   [Pizza example](#orgc32b64f)
+    -   [Choreography](#org52dc846)
+    -   [Collaboration](#org3fb76cc)
+    -   [Enterprise modeling with BPMN](#orgd3f431f)
+-   [Practice I](#org1b5573a)
+    -   [BPMN rules](#org788030b)
+    -   [BPMN diagram with mistakes](#org986006d)
+        -   [Problem](#org5a7146d)
+        -   [Solution](#org5e2f8a9)
+    -   [Assignment (complete by Nov 2, 2.30 pm)](#orga4ea1ce)
+-   [Practice II](#orgd4fee0d)
+    -   [Written BPMN test on November 4 at 2.30 pm](#org0fb8bf9)
+    -   [Assignment: Job application process (by Nov 2, 2.30 pm)](#org6fa2646)
+        -   [Applicant - happy path process](#orgea3c9ad)
+        -   [Applicant - complete process](#org0bcd242)
+        -   [Recruiter - happy path process](#org04092f8)
+        -   [Applicant and recruiter - happy path process](#orgcb685ca)
+        -   [Recruiter - complete process](#org0881ca2)
+        -   [Applicant (complete process) / Recruiter (collapsed process)](#org6ef0dd7)
+        -   [Applicant and recruiter - complete collaborative process](#orge6439a3)
+    -   [Assignment: Build your first own BPMN diagram](#orgf4f23f5)
+    -   [Convert an EPC to a BPMN diagram](#org2c047b3)
+    -   [Car purchase process](#orga234a34)
+    -   [Practice session process](#orgf03c9cd)
+    -   [IT support process](#org7be0fdc)
+-   [References](#orgb43bf3a)
 
 
 
-<a id="orgea49cea"></a>
+<a id="orgb3d84c0"></a>
 
 # What will you learn?
 
@@ -50,36 +50,36 @@
 -   Practice in the Signavio Process Editor
 
 
-<a id="orgf7eefec"></a>
+<a id="org0c58a1f"></a>
 
 # BPMN object summary
 
 Business Process Model and Notation (BPMN) 2.0 has four main groups
-of shapes or objects. Source: [Lucidchart, 2020](#orga6908a6).
+of shapes or objects. Source: [Lucidchart, 2020](#orga66079c).
 
 
-<a id="org1eab25f"></a>
+<a id="orga6f672a"></a>
 
 ## Flow objects (Action/Decision)
 
 ![img](./img/flow.png)
 
 
-<a id="orgd1b45cf"></a>
+<a id="orga368ff6"></a>
 
 ## Connecting objects (Communication)
 
 ![img](./img/connecting.png)
 
 
-<a id="org64d416a"></a>
+<a id="org519a639"></a>
 
 ## Participants (Roles/Accountability)
 
 ![img](./img/pools.png)
 
 
-<a id="org01721b4"></a>
+<a id="org6b026e4"></a>
 
 ## Artifacts (Details)
 
@@ -91,7 +91,7 @@ of shapes or objects. Source: [Lucidchart, 2020](#orga6908a6).
 -   Message (data)
 
 
-<a id="org5026e42"></a>
+<a id="org62efd16"></a>
 
 ## More information
 
@@ -108,12 +108,12 @@ the most relevant aspects of BPMN with many examples (SAP Signavio,
 is also very good and complete.
 
 
-<a id="orgd3f316c"></a>
+<a id="orgb1b57bc"></a>
 
 # BPMN case studies
 
 
-<a id="org936a637"></a>
+<a id="org5e2d96c"></a>
 
 ## Eating icecream
 
@@ -123,7 +123,7 @@ eating a big icecream (7 min) - [Link](https://youtu.be/BwkNceoybvA?t=346).
 ![img](./img/icecream.png)
 
 
-<a id="org624727b"></a>
+<a id="org9b7e24f"></a>
 
 ## Job application process
 
@@ -144,7 +144,7 @@ department of a company. Source: Aptero Solutions, 2011.
 Youtube: <https://youtu.be/B5H2K8wcBGU>
 
 
-<a id="org3554252"></a>
+<a id="orgf7ad699"></a>
 
 ## IT service
 
@@ -155,26 +155,26 @@ Video: [BPMN 2.0 Prozessmodell in Signavio erzeugen.](https://youtu.be/kYK9t8fPk
 ![img](./img/german.png)
 
 
-<a id="orgff2c3b1"></a>
+<a id="orgc32b64f"></a>
 
 # Pizza example
 
 
-<a id="org795998a"></a>
+<a id="org52dc846"></a>
 
 ## Choreography
 
 ![img](./img/choreography.png)
 
 
-<a id="org5d20b70"></a>
+<a id="org3fb76cc"></a>
 
 ## Collaboration
 
 ![img](./img/collaboration.png)
 
 
-<a id="org3827a08"></a>
+<a id="orgd3f431f"></a>
 
 ## Enterprise modeling with BPMN
 
@@ -183,14 +183,14 @@ Video: [BPMN 2.0 Prozessmodell in Signavio erzeugen.](https://youtu.be/kYK9t8fPk
 ![img](./img/presentation.png)
 
 
-<a id="orgb4135c9"></a>
+<a id="org1b5573a"></a>
 
 # Practice I
 
 ![img](./img/practice.gif)
 
 
-<a id="org26e81ad"></a>
+<a id="org788030b"></a>
 
 ## BPMN rules
 
@@ -315,12 +315,12 @@ Here is a complete EPC "cheat sheet" (Source: SAP Signavio)
 ![img](./img/bpmn.png)
 
 
-<a id="orgff0c1d2"></a>
+<a id="org986006d"></a>
 
 ## BPMN diagram with mistakes
 
 
-<a id="org5b3d036"></a>
+<a id="org5a7146d"></a>
 
 ### Problem
 
@@ -331,7 +331,7 @@ Which rule violations can you see in the following diagram
 ![img](./img/error.png)
 
 
-<a id="org9d6eacc"></a>
+<a id="org5e2f8a9"></a>
 
 ### Solution
 
@@ -359,7 +359,7 @@ Which rule violations can you see in the following diagram
 20. Swimline needs title
 
 
-<a id="org729ac1f"></a>
+<a id="orga4ea1ce"></a>
 
 ## Assignment (complete by Nov 2, 2.30 pm)
 
@@ -378,16 +378,16 @@ Which rule violations can you see in the following diagram
     ![img](./img/share.png)
 
 
-<a id="org35db220"></a>
+<a id="orgd4fee0d"></a>
 
 # Practice II
 
 ![img](./img/practice2.gif)
 
 
-<a id="org630f082"></a>
+<a id="org0fb8bf9"></a>
 
-## Written BPMN test on November 2 at 2.30 pm
+## Written BPMN test on November 4 at 2.30 pm
 
 Topics:
 
@@ -396,7 +396,7 @@ Topics:
 -   BPMN workflow
 
 
-<a id="org5834a7e"></a>
+<a id="org6fa2646"></a>
 
 ## Assignment: Job application process (by Nov 2, 2.30 pm)
 
@@ -422,7 +422,7 @@ class. Though BPMN 2.0 did exist in 2011, the diagram owes too much to
 version 1.0.
 
 
-<a id="orgb075d62"></a>
+<a id="orgea3c9ad"></a>
 
 ### Applicant - happy path process
 
@@ -431,7 +431,7 @@ version 1.0.
 ![img](./img/app1.png)
 
 
-<a id="org63fd48e"></a>
+<a id="org0bcd242"></a>
 
 ### Applicant - complete process
 
@@ -458,7 +458,7 @@ version 1.0.
 ![img](./img/app2.png)
 
 
-<a id="orgf0651c9"></a>
+<a id="org04092f8"></a>
 
 ### Recruiter - happy path process
 
@@ -467,7 +467,7 @@ version 1.0.
 ![img](./img/app3.png)
 
 
-<a id="orgd453833"></a>
+<a id="orgcb685ca"></a>
 
 ### Applicant and recruiter - happy path process
 
@@ -476,7 +476,7 @@ version 1.0.
 ![img](./img/app4.png)
 
 
-<a id="orgc921f1a"></a>
+<a id="org0881ca2"></a>
 
 ### Recruiter - complete process
 
@@ -503,7 +503,7 @@ version 1.0.
 ![img](./img/app5.png)
 
 
-<a id="orge11eceb"></a>
+<a id="org6ef0dd7"></a>
 
 ### Applicant (complete process) / Recruiter (collapsed process)
 
@@ -512,7 +512,7 @@ version 1.0.
 ![img](./img/app6.png)
 
 
-<a id="org2a91c8a"></a>
+<a id="orge6439a3"></a>
 
 ### Applicant and recruiter - complete collaborative process
 
@@ -521,9 +521,9 @@ version 1.0.
 ![img](./img/app7.png)
 
 
-<a id="org337496a"></a>
+<a id="orgf4f23f5"></a>
 
-## Build your first own BPMN diagram
+## Assignment: Build your first own BPMN diagram
 
 Here is my (recommended) BPMN modeling workflow.
 
@@ -617,42 +617,47 @@ Here is my (recommended) BPMN modeling workflow.
 </tbody>
 </table>
 
--   Turn this workflow into a BPMN diagram
--   Save the diagram in your personal folder in Shared Documents
+-   Turn this workflow into a BPMN diagram. It begins with the start
+    event "Modeling begins"
+-   You should at least complete the happy path model. If you're up
+    to it, add gateways
+-   Make sure you save the happy path model before creating a more
+    detailed model
+-   Save the diagram(s) in your personal folder in Shared Documents
 -   Share the diagram with me using the "Share>>Invite to edit" tab
 
 
-<a id="orgc5e6912"></a>
+<a id="org2c047b3"></a>
 
 ## TODO Convert an EPC to a BPMN diagram
 
 
-<a id="orgdac777b"></a>
+<a id="orga234a34"></a>
 
 ## TODO Car purchase process
 
 
-<a id="org66dbad7"></a>
+<a id="orgf03c9cd"></a>
 
 ## TODO Practice session process
 
 
-<a id="org990b504"></a>
+<a id="org7be0fdc"></a>
 
 ## TODO IT support process
 
 
-<a id="orgc7f46b0"></a>
+<a id="orgb43bf3a"></a>
 
 # References
 
-<a id="orga6908a6"></a> Lucidchart (Apr 28, 2020). Business Process Model and
+<a id="orga66079c"></a> Lucidchart (Apr 28, 2020). Business Process Model and
 Notation (BPMN) 2.0 Tutorial [video]. [Online: youtube.com](https://youtu.be/BwkNceoybvA).
 
-<a id="org646ac87"></a> SAP Signavio Process editor version 15.7.1. SAP
+<a id="orgb4da9f8"></a> SAP Signavio Process editor version 15.7.1. SAP
 (2021). Academic edition [platform]. Online: [www.signavio.com.](https://www.signavio.com/)
 
-<a id="org32af741"></a> SAP Signavio (n.d.). BPMN modeling [website]. [Online:
+<a id="orgb9042f2"></a> SAP Signavio (n.d.). BPMN modeling [website]. [Online:
 signavio.com](https://documentation.signavio.com/suite/en-us/Content/process-manager/userguide/bpmn/modeling.htm)
 
 

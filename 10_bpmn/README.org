@@ -205,7 +205,7 @@
   #+attr_html: :width 300px
   [[./img/practice2.gif]]
 
-** Written BPMN test on November 2 at 2.30 pm
+** Written BPMN test on November 4 at 2.30 pm
 
    Topics:
    * BPMN objects
@@ -283,7 +283,7 @@
     #+attr_html: :width 600px
     [[./img/app7.png]]
 
-** Build your first own BPMN diagram
+** Assignment: Build your first own BPMN diagram
 
    Here is my (recommended) BPMN modeling workflow.
 
@@ -300,8 +300,13 @@
    |   9 | Check diagram                              | Spell checker    |
    |  10 | Save and share diagram                     | Save and share   |
 
-   * Turn this workflow into a BPMN diagram
-   * Save the diagram in your personal folder in Shared Documents
+   * Turn this workflow into a BPMN diagram. It begins with the start
+     event "Modeling begins"
+   * You should at least complete the happy path model. If you're up
+     to it, add gateways
+   * Make sure you save the happy path model before creating a more
+     detailed model
+   * Save the diagram(s) in your personal folder in Shared Documents
    * Share the diagram with me using the "Share>>Invite to edit" tab
 
 ** TODO Convert an EPC to a BPMN diagram
