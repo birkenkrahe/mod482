@@ -194,15 +194,15 @@
 
 <tr>
 <td class="org-left">2-Nov</td>
-<td class="org-left">BPMN (lab)</td>
-<td class="org-left">Molly Mellor</td>
+<td class="org-left">CANCELLED</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">4-Nov</td>
-<td class="org-left">Unified Modeling Language (UML)</td>
+<td class="org-left">BPMN (lab)</td>
 <td class="org-left">Nick Norwood</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -210,7 +210,7 @@
 
 <tr>
 <td class="org-left">9-Nov</td>
-<td class="org-left">UML (lab)</td>
+<td class="org-left">Unified Modeling Language (UML)</td>
 <td class="org-left">Dat O</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -218,8 +218,8 @@
 
 <tr>
 <td class="org-left">11-Nov</td>
-<td class="org-left">&#x2013;SHORT PRESENTATIONS--</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">UML (lab)</td>
+<td class="org-left">Molly Mellor</td>
 <td class="org-left">3RD SPRINT REVIEW</td>
 </tr>
 
