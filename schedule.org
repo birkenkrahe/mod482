@@ -24,10 +24,10 @@
    | 21-Oct   | EPC (lab)                                                 | Owen Hardin         |                   |
    | 26-Oct   | EPC (lab) / Business Process Model and Notation (BPMN)    | Fortunato Hernandez |                   |
    | 28-Oct   | BPMN (lab)                                                | Malcolm Howard      |                   |
-   | 2-Nov    | BPMN (lab)                                                | Molly Mellor        |                   |
-   | 4-Nov    | Unified Modeling Language (UML)                           | Nick Norwood        |                   |
-   | 9-Nov    | UML (lab)                                                 | Dat O               |                   |
-   | 11-Nov   | --SHORT PRESENTATIONS--                                   |                     | 3RD SPRINT REVIEW |
+   | 2-Nov    | CANCELLED                                                 |                     |                   |
+   | 4-Nov    | BPMN (lab)                                                | Nick Norwood        |                   |
+   | 9-Nov    | Unified Modeling Language (UML)                           | Dat O               |                   |
+   | 11-Nov   | UML (lab)                                                 | Molly Mellor        | 3RD SPRINT REVIEW |
    | 16-Nov   | Entity Relationship Diagrams (ERD)                        | Dane Roach          |                   |
    | 18-Nov   | ERD (lab)                                                 | Jacob Sampley       |                   |
    | 23-Nov   | Robotic Process Automation (RPA)                          | William Sonnier     |                   |
