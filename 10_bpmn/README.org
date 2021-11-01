@@ -236,25 +236,52 @@
    version 1.0.
 
 *** Applicant - happy path process
+    ([[https://academic.signavio.com/p/editor?id=86d64600d0624b6cb17d7d81d2ef9bb5][Signavio]])
 
+    #+attr_html: :width 600px
+    [[./img/app1.png]]
 
-    
 *** Applicant - complete process
+    ([[https://academic.signavio.com/p/editor?id=d82bf0c4c92248e89874950b78ff23b0][Signavio]])
 
+    | Above: model in video       |
+    | Below: rule compliant model |
+
+    #+attr_html: :width 600px
+    [[./img/app2.png]]
 
 *** Recruiter - happy path process
+    ([[https://academic.signavio.com/p/editor?id=2ff1f18657664833af590c6fc7aefbfc][Signavio]])
 
-    
+    #+attr_html: :width 600px
+    [[./img/app3.png]]
+
 *** Applicant and recruiter - happy path process
-    
+    ([[https://academic.signavio.com/p/editor?id=8ce1e76269aa48a3a7d646f29b3caebd][Signavio]])
+
+    #+attr_html: :width 600px
+    [[./img/app4.png]]
 
 *** Recruiter - complete process
+    ([[https://academic.signavio.com/p/editor?id=39830914287c4e658b5bf49584ba1c58][Signavio]])
 
-    
+    | Above: model in video       |
+    | Below: rule compliant model |
+
+    #+attr_html: :width 600px
+    [[./img/app5.png]]
+
 *** Applicant (complete process) / Recruiter (collapsed process)
+    ([[https://academic.signavio.com/p/editor?id=3be88a96f306465cbb6a0dc486e0f726][Signavio]])
 
+    #+attr_html: :width 600px
+    [[./img/app6.png]]
 
-*** Applicant and recruiter - complete process
+*** Applicant and recruiter - complete collaborative process
+    ([[https://academic.signavio.com/p/editor?id=e377cc9506544985b3c4978347b72f64][Signavio]])
+
+    #+attr_html: :width 600px
+    [[./img/app7.png]]
 
 ** Build your first own BPMN diagram
 
