@@ -150,12 +150,12 @@
 
 ** BPMN diagram with mistakes
 *** Problem
-   Which rule violations can you see in the following diagram
-   (GitHub)? The total number is[fn:6] = 8 errors - I count a total of
-   11 additional rule violations. So the total is closer to 20.
+    Which rule violations can you see in the following diagram
+    (GitHub)? The total number is[fn:6] = 8 errors - I count a total of
+    11 additional rule violations. So the total is closer to 20.
 
-   #+attr_html: :width 600px
-   [[./img/error.png]]
+    #+attr_html: :width 600px
+    [[./img/error.png]]
 
 *** Solution
 
@@ -182,7 +182,7 @@
     18. Task needs title
     19. Artifact needs title
     20. Swimline needs title
-    
+
 ** Assignment (complete by Nov 2, 2.30 pm)
 
    #+attr_html: :width 400px
@@ -200,18 +200,61 @@
 
      [[./img/share.png]]
 
-
 * Practice II
 
   #+attr_html: :width 300px
   [[./img/practice2.gif]]
-   
+
 ** Written BPMN test on November 2 at 2.30 pm
 
    Topics:
    * BPMN objects
    * BPMN rules and rule violations
    * BPMN workflow
+
+** Assignment: Job application process (by Nov 2, 2.30 pm)
+
+   * Review the rules using this online lesson
+     (https://h5p.org/node/1138751)
+   * Complete the summary quiz at the end of the lesson.
+   * Watch both videos at the end ("Job application", 20 min)
+   * Rebuild the diagram for the *Applicant* only (= 1 pool) in
+     Signavio as a BPMN 2.0 diagram while you watch the first
+     video. For the second video, rebuild only the diagram that is
+     finished after 7 minutes* (= complete applicant process with
+     message flows to the collapsed recruiter pool).
+   * I made [[https://youtu.be/l6-fCtOXin4][this short screencast]] to help you get started.
+   * Save the diagram in your personal folder in "Shared Documents"
+   * Share the diagram with me using the "Share>>Invite for feedback"
+     tab
+   * Enter "birkenkrahe@lyon.edu" and check "Send a copy to me" for
+     proof (as shown below)
+
+   *) the complete model that is shown is unfortunately not very
+   good. I'll share my complete, rule-compliant solution with you in
+   class. Though BPMN 2.0 did exist in 2011, the diagram owes too much to
+   version 1.0.
+
+*** Applicant - happy path process
+
+
+    
+*** Applicant - complete process
+
+
+*** Recruiter - happy path process
+
+    
+*** Applicant and recruiter - happy path process
+    
+
+*** Recruiter - complete process
+
+    
+*** Applicant (complete process) / Recruiter (collapsed process)
+
+
+*** Applicant and recruiter - complete process
 
 ** Build your first own BPMN diagram
 
