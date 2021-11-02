@@ -260,12 +260,16 @@
 * Week 12 - November 4
 
   #+attr_html: :width 400px
-  [[./img/penguin.gif]]
+  [[./img/afk.gif]]
 
-  | BPMN Test (review)            | Symbols & Syntax | 15 |
-  | [[https://youtu.be/l6-fCtOXin4][BPMN online lesson assignment]] | Job application  | 15 |
-  | BPMN Practice                 | Model processes  | 45 |
-
+  | BPMN Test (online, graded)    | Symbols & Syntax    |    |
+  | [[https://youtu.be/l6-fCtOXin4][BPMN online lesson assignment]] | Job application     | 15 |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#practice-ii][BPMN Practice II]]              | *Model processes*   |    |
+  |                               | Workflow model      | 15 |
+  |                               | Convert EPK to BPMN | 15 |
+  |                               | Car purchasing      | 15 |
+  |                               | Practice session    | 15 |
+  
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
