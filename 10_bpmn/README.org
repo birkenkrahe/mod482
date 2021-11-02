@@ -235,6 +235,8 @@
    class. Though BPMN 2.0 did exist in 2011, the diagram owes too much to
    version 1.0.
 
+   [[https://github.com/birkenkrahe/admin/blob/main/mod482.org][[Solutions]​]]
+   
 ** Assignment: Build your first own BPMN diagram
 
    Here is my (recommended) BPMN modeling workflow.
