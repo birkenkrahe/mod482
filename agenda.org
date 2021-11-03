@@ -269,7 +269,11 @@
   |                               | Convert EPK to BPMN | 15 |
   |                               | Car purchasing      | 15 |
   |                               | Practice session    | 15 |
-  
+
+** [[https://github.com/birkenkrahe/org/blob/master/diary.md#join-me-in-spring-2022-nov-3][New ~org~ diary entry "Join me in spring 2022!"]]
+
+   [[./img/joinme.gif]]
+   
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
