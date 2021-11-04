@@ -263,7 +263,26 @@
    * Save the diagram(s) in your personal folder in Shared Documents
    * Share the diagram with me using the "Share>>Invite to edit" tab
 
-** TODO Convert an EPC to a BPMN diagram
+** Convert an EPC to a BPMN diagram
+
+   You saw this diagram [[https://github.com/birkenkrahe/mod482/tree/main/9_modeling_epc#flow][in the lecture on modeling and EPCs]].
+   
+   #+attr_html: :width 400px
+   [[./img/convert.png]]
+
+   Unfortunately, this diagram violates an EPC rule. Can you tell
+   which one?[fn:7]. I've cleaned it up (also avoiding the loop but
+   retaining all the important information) in the diagram
+   below. Convert this diagram into a BPMN 2.0 diagram!
+
+   For simplicity use only BPMN 2.0 *core* elements (i.e. no
+   intermediate events). But you can overload tasks with a ~loop~
+   attribute and set a ~loop maximum~ value by opening the
+   ~Attributes|Views~ sidepanel on the right side of the editor.
+
+   #+attr_html: :width 400px
+   [[./img/convert1.png]]  
+   
 ** TODO Car purchase process
 ** TODO Practice session process
 ** TODO IT support process
@@ -279,6 +298,12 @@
   signavio.com]]
 
 * Footnotes
+
+[fn:7]The second XOR operator has not two but three outgoing events,
+and the flow splits without an operator. The third event was put in so
+that the loop does not become infinite in case the wrong password is
+entered more than twice. The problem is that an event has been
+forgotten: "wrong password entered" vs. "correct password entered".
 
 [fn:6]According to the Signavio "spell checker" for BPMN 2.0 diagrams.
 
