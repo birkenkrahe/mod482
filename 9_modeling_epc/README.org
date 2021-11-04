@@ -129,7 +129,6 @@
     * Every EPC starts and ends with an event
     * Events and functions alternate
 
-
 *** Flow
 
     * Flow represents the flow of time, and is itself represented by a
@@ -139,10 +138,19 @@
     #+attr_html: :width 400px
     [[./img/flowrules.png]]
 
-    * Loops are allowed (but careful: maintain model readability)
+    * Loops are allowed in principle (but careful: maintain model
+      readability)
 
     #+attr_html: :width 400px
     [[./img/loops.png]]
+
+    Unfortunately, this diagram violates a rule and uses the wrong
+    operator (XOR instead of OR). I've cleaned it up (also avoiding
+    the loop but retaining all the important information) in the
+    diagram below:
+
+    #+attr_html: :width 400px
+    [[./img/convert1.png]]
 
 *** Operators and tokens
 
