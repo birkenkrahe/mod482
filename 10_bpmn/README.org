@@ -236,7 +236,7 @@
    version 1.0.
 
    [[https://github.com/birkenkrahe/admin/blob/main/mod482.org][[Solutions]​]]
-   
+
 ** Assignment: Build your first own BPMN diagram
 
    Here is my (recommended) BPMN modeling workflow.
@@ -266,7 +266,7 @@
 ** Convert an EPC to a BPMN diagram
 
    You saw this diagram [[https://github.com/birkenkrahe/mod482/tree/main/9_modeling_epc#flow][in the lecture on modeling and EPCs]].
-   
+
    #+attr_html: :width 400px
    [[./img/convert.png]]
 
@@ -281,11 +281,52 @@
    ~Attributes|Views~ sidepanel on the right side of the editor.
 
    #+attr_html: :width 400px
-   [[./img/convert1.png]]  
+   [[./img/convert1.png]]
+
+** Car purchase process
+
+*** Problem
+
+    Model the following process using BPMN 2.0:
+
+    #+begin_quote
+    A customer wants to buy a car. He goes to a car dealer to pick a
+    car. The dealer has several new, and one used car available. The
+    customer picks one, pays for the car, and leaves. She's happy now!
+    #+end_quote
+
+    /Tip: you don't need two pools for this process, because the
+    dealer doesn't have much to do./
+    
+** Practice session process
+*** Problem
+   Model the following process using BPMN 2.0:
+
+   #+begin_quote
+   The professor demonstrates the modeling language BPMN. After the
+   demonstration, he assigns an exercise to the students. Once the
+   assignment is completed, the student submits the solution. The
+   professor checks the result before ending the class.
+   #+end_quote
+
+   /Tip: model the professor first, then add the student as a second
+   pool./
    
-** TODO Car purchase process
-** TODO Practice session process
-** TODO IT support process
+** IT support process
+*** Problem
+   Model the following supply chain process using BPMN 2.0:
+
+   #+begin_quote
+   The process begins with a material purchase request, the Resource
+   Manager issues a material requisition. Next, Purchasing issues a
+   purchase order for the requested material. When the receipt of the
+   purchased items has been received by the Resource Manager, the
+   Warehouse inspects the items. Now, Accounting processes the
+   vendor’s invoice and the purchase process is finished.
+   #+end_quote
+
+   /Tip: think about the number of lanes or pools that you need./
+
 * References
 
   <<lucidchart>> Lucidchart (Apr 28, 2020). Business Process Model and
