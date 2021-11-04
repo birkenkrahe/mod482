@@ -262,13 +262,14 @@
   #+attr_html: :width 400px
   [[./img/afk.gif]]
 
-  | BPMN Test (online, graded)    | Symbols & Syntax    |    |
+  | BPMN Test (online, graded)    | Symbols & Syntax    | 30 |
   | [[https://youtu.be/l6-fCtOXin4][BPMN online lesson assignment]] | Job application     | 15 |
   | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#practice-ii][BPMN Practice II]]              | *Model processes*   |    |
   |                               | Workflow model      | 15 |
   |                               | Convert EPK to BPMN | 15 |
   |                               | Car purchasing      | 15 |
-  |                               | Practice session    | 15 |
+  |                               | Practice session    | 30 |
+  |                               | Supply chain        | 30 |
 
 ** [[https://github.com/birkenkrahe/org/blob/master/diary.md#join-me-in-spring-2022-nov-3][New ~org~ diary entry "Join me in spring 2022!"]]
 
