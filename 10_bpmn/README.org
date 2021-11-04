@@ -245,19 +245,19 @@
    |-----+--------------------------------------------+------------------|
    |   1 | Who are the actors (organizational units)? | Pools and lanes  |
    |   2 | What are the start and end events?         | Gather them      |
-   |   3 | Which other events or functions are there? | Gather them      |
+   |   3 | Which other events or tasks are there?     | Gather them      |
    |   4 | Is there any communication?                | Add message flow |
    |   5 | What is the happy path?                    | Model it         |
    |   6 | Can any events or tasks be parallelized?   | Add gateways     |
    |   7 | Which decisions or changes are involved?   | Add gateways     |
    |   8 | Anything else?                             | Add it           |
-   |   9 | Check diagram                              | Spell checker    |
-   |  10 | Save and share diagram                     | Save and share   |
+   |   9 | Check model                                | Spell checker    |
+   |  10 | Save and share model diagram               | Save and share   |
 
    * Turn this workflow into a BPMN diagram. It begins with the start
      event "Modeling begins"
    * You should at least complete the happy path model. If you're up
-     to it, add gateways
+     to it, add gateway points (identify where gateways may be placed)
    * Make sure you save the happy path model before creating a more
      detailed model
    * Save the diagram(s) in your personal folder in Shared Documents
