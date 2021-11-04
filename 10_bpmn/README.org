@@ -273,7 +273,7 @@
    Unfortunately, this diagram violates an EPC rule. Can you tell
    which one?[fn:7]. I've cleaned it up (also avoiding the loop but
    retaining all the important information) in the diagram
-   below. Convert this diagram into a BPMN 2.0 diagram!
+   below. Convert this diagram ([[https://academic.signavio.com/p/editor?id=6a471b2d78384fc4b278ceb678f675ee][Signavio]]) into a BPMN 2.0 diagram!
 
    For simplicity use only BPMN 2.0 *core* elements (i.e. no
    intermediate events). But you can overload tasks with a ~loop~
