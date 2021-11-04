@@ -312,7 +312,7 @@
    /Tip: model the professor first, then add the student as a second
    pool./
    
-** IT support process
+** Supply chain process
 *** Problem
    Model the following supply chain process using BPMN 2.0:
 
