@@ -1,4 +1,5 @@
 #+startup: overview
+#+options: toc:nil
 * Session Protocols
 
   Post your protocol here (PDF or markdown) no later than one week

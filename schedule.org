@@ -21,7 +21,7 @@
    | 12-Oct   | PRESENTATIONS: Roach/Czerwinski, Mellor, O                |                     | 2ND SPRINT REVIEW |
    | 14-Oct   | Minto Pyramid Principle & SCQA method (with practice)     | +Nick Czerwinski+   |                   |
    | 19-Oct   | Process modeling & Event-driven Process Chains (EPC)      | +Wyatt Frerichs+    |                   |
-   | 21-Oct   | EPC (lab)                                                 | Owen Hardin         |                   |
+   | 21-Oct   | EPC (lab)                                                 | +Owen Hardin+       |                   |
    | 26-Oct   | EPC (lab) / Business Process Model and Notation (BPMN)    | Fortunato Hernandez |                   |
    | 28-Oct   | BPMN (lab)                                                | Malcolm Howard      |                   |
    | 2-Nov    | CANCELLED                                                 |                     |                   |
