@@ -220,7 +220,7 @@
 <td class="org-left">11-Nov</td>
 <td class="org-left">UML (lab)</td>
 <td class="org-left">Molly Mellor</td>
-<td class="org-left">3RD SPRINT REVIEW</td>
+<td class="org-left">3RD SPRINT REVIEW (online)</td>
 </tr>
 
 

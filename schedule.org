@@ -1,36 +1,36 @@
 #+options: toc:nil
 * SCHEDULE
 
-   | DATE     | LECTURES/GLOSSARY/LABS                                    | PROTOCOL            | PROJECT           |
-   |----------+-----------------------------------------------------------+---------------------+-------------------|
-   | 17-Aug   | Course overview & purpose                                 |                     |                   |
-   | 19-Aug   | Course project                                            |                     |                   |
-   | 24-Aug   | Complex problems                                          |                     |                   |
-   | 26-Aug   | Many-model thinking                                       |                     |                   |
-   | 31-Aug   | Decision intelligence                                     |                     |                   |
-   | 2-Sep    | Literature reviews                                        |                     |                   |
-   | 7-Sep    | Agile management methods                                  |                     |                   |
-   | 9-Sep    | PRESENTATIONS                                             |                     | 1ST SPRINT REVIEW |
-   | 14-Sep   | Project work                                              |                     |                   |
-   | 16-Sep   | REDCAPE Model categories                                  |                     |                   |
-   | 21-Sep   | Storytelling (Modeling human actors)                      |                     |                   |
-   | 23-Sep   | CANCELLED (Day of Renewal)                                |                     |                   |
-   | 28-Sep   | User stories (Modeling human actors)                      |                     |                   |
-   | 30-Sep   | MIDTERM EXAM + Outlook                                    |                     | MIDTERM EXAM      |
-   | 7-Oct    | PRESENTATIONS: Chaney, Sonnier, Hardin, Sampley, Frerichs |                     | 2ND SPRINT REVIEW |
-   | 12-Oct   | PRESENTATIONS: Roach/Czerwinski, Mellor, O                |                     | 2ND SPRINT REVIEW |
-   | 14-Oct   | Minto Pyramid Principle & SCQA method (with practice)     | +Nick Czerwinski+   |                   |
-   | 19-Oct   | Process modeling & Event-driven Process Chains (EPC)      | +Wyatt Frerichs+    |                   |
-   | 21-Oct   | EPC (lab)                                                 | +Owen Hardin+       |                   |
-   | 26-Oct   | EPC (lab) / Business Process Model and Notation (BPMN)    | Fortunato Hernandez |                   |
-   | 28-Oct   | BPMN (lab)                                                | +Malcolm Howard+    |                   |
-   | 2-Nov    | CANCELLED                                                 |                     |                   |
-   | 4-Nov    | BPMN (lab)                                                | Nick Norwood        |                   |
-   | 9-Nov    | Unified Modeling Language (UML)                           | Dat O               |                   |
-   | 11-Nov   | UML (lab)                                                 | Molly Mellor        | 3RD SPRINT REVIEW |
-   | 16-Nov   | Entity Relationship Diagrams (ERD)                        | Dane Roach          |                   |
-   | 18-Nov   | ERD (lab)                                                 | Jacob Sampley       |                   |
-   | 23-Nov   | Robotic Process Automation (RPA)                          | William Sonnier     |                   |
-   | 30-Nov   | Process mining                                            | Nick Chaney         |                   |
-   | 2-Dec    | Course summary                                            |                     |                   |
-   | Dec 6-10 | FINAL EXAM                                                |                     | FINAL EXAM        |
+   | DATE     | LECTURES/GLOSSARY/LABS                                    | PROTOCOL            | PROJECT                    |
+   |----------+-----------------------------------------------------------+---------------------+----------------------------|
+   | 17-Aug   | Course overview & purpose                                 |                     |                            |
+   | 19-Aug   | Course project                                            |                     |                            |
+   | 24-Aug   | Complex problems                                          |                     |                            |
+   | 26-Aug   | Many-model thinking                                       |                     |                            |
+   | 31-Aug   | Decision intelligence                                     |                     |                            |
+   | 2-Sep    | Literature reviews                                        |                     |                            |
+   | 7-Sep    | Agile management methods                                  |                     |                            |
+   | 9-Sep    | PRESENTATIONS                                             |                     | 1ST SPRINT REVIEW          |
+   | 14-Sep   | Project work                                              |                     |                            |
+   | 16-Sep   | REDCAPE Model categories                                  |                     |                            |
+   | 21-Sep   | Storytelling (Modeling human actors)                      |                     |                            |
+   | 23-Sep   | CANCELLED (Day of Renewal)                                |                     |                            |
+   | 28-Sep   | User stories (Modeling human actors)                      |                     |                            |
+   | 30-Sep   | MIDTERM EXAM + Outlook                                    |                     | MIDTERM EXAM               |
+   | 7-Oct    | PRESENTATIONS: Chaney, Sonnier, Hardin, Sampley, Frerichs |                     | 2ND SPRINT REVIEW          |
+   | 12-Oct   | PRESENTATIONS: Roach/Czerwinski, Mellor, O                |                     | 2ND SPRINT REVIEW          |
+   | 14-Oct   | Minto Pyramid Principle & SCQA method (with practice)     | +Nick Czerwinski+   |                            |
+   | 19-Oct   | Process modeling & Event-driven Process Chains (EPC)      | +Wyatt Frerichs+    |                            |
+   | 21-Oct   | EPC (lab)                                                 | +Owen Hardin+       |                            |
+   | 26-Oct   | EPC (lab) / Business Process Model and Notation (BPMN)    | Fortunato Hernandez |                            |
+   | 28-Oct   | BPMN (lab)                                                | +Malcolm Howard+    |                            |
+   | 2-Nov    | CANCELLED                                                 |                     |                            |
+   | 4-Nov    | BPMN (lab)                                                | Nick Norwood        |                            |
+   | 9-Nov    | Unified Modeling Language (UML)                           | Dat O               |                            |
+   | 11-Nov   | UML (lab)                                                 | Molly Mellor        | 3RD SPRINT REVIEW (online) |
+   | 16-Nov   | Entity Relationship Diagrams (ERD)                        | Dane Roach          |                            |
+   | 18-Nov   | ERD (lab)                                                 | Jacob Sampley       |                            |
+   | 23-Nov   | Robotic Process Automation (RPA)                          | William Sonnier     |                            |
+   | 30-Nov   | Process mining                                            | Nick Chaney         |                            |
+   | 2-Dec    | Course summary                                            |                     |                            |
+   | Dec 6-10 | FINAL EXAM                                                |                     | FINAL EXAM                 |
