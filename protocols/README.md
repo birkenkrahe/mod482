@@ -1,11 +1,4 @@
 
-# Table of Contents
-
-1.  [Session Protocols](#orgdfe2ef1)
-
-
-
-<a id="orgdfe2ef1"></a>
 
 # Session Protocols
 
