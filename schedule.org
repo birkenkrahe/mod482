@@ -23,7 +23,7 @@
    | 19-Oct   | Process modeling & Event-driven Process Chains (EPC)      | +Wyatt Frerichs+    |                   |
    | 21-Oct   | EPC (lab)                                                 | +Owen Hardin+       |                   |
    | 26-Oct   | EPC (lab) / Business Process Model and Notation (BPMN)    | Fortunato Hernandez |                   |
-   | 28-Oct   | BPMN (lab)                                                | Malcolm Howard      |                   |
+   | 28-Oct   | BPMN (lab)                                                | +Malcolm Howard+    |                   |
    | 2-Nov    | CANCELLED                                                 |                     |                   |
    | 4-Nov    | BPMN (lab)                                                | Nick Norwood        |                   |
    | 9-Nov    | Unified Modeling Language (UML)                           | Dat O               |                   |

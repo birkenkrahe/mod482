@@ -171,7 +171,7 @@
 <tr>
 <td class="org-left">21-Oct</td>
 <td class="org-left">EPC (lab)</td>
-<td class="org-left">Owen Hardin</td>
+<td class="org-left"><del>Owen Hardin</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -187,7 +187,7 @@
 <tr>
 <td class="org-left">28-Oct</td>
 <td class="org-left">BPMN (lab)</td>
-<td class="org-left">Malcolm Howard</td>
+<td class="org-left"><del>Malcolm Howard</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
