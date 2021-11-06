@@ -267,14 +267,23 @@
   | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#practice-ii][BPMN Practice II]]              | *Model processes*   |    |
   |                               | Workflow model      | 15 |
   |                               | Convert EPK to BPMN | 15 |
-  |                               | Car purchasing      | 15 |
-  |                               | Practice session    | 30 |
-  |                               | Supply chain        | 30 |
+  | HOMEWORK                      | Car purchasing      | 15 |
+  | HOMEWORK                      | Practice session    | 30 |
+  | HOMEWORK                      | Supply chain        | 30 |
 
 ** [[https://github.com/birkenkrahe/org/blob/master/diary.md#join-me-in-spring-2022-nov-3][New ~org~ diary entry "Join me in spring 2022!"]]
 
    [[./img/joinme.gif]]
    
+* Week 13 - November 9
+
+  #+attr_html: :width 400px
+  [[./img/bpmn.png]]
+  
+  | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#orgeea3dbc][BPMN Homework]] | Create a BPMN 2.0 model         |
+  | BPMN Practice | Convert a diagram into BPMN 2.0 |
+  | Lecture       | Unified Modeling Language (UML) |
+  
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
