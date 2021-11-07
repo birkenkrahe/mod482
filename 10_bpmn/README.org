@@ -397,9 +397,11 @@
 
     /Tip: think about the number of lanes or pools that you need./
 
-* Practice III - model a design
+* Modeling a system
 
-** Create a model
+  This example motivates the use of UML over EPCs and BPMN.
+  
+** Understand the problem
 
    Convert the design of a "simple reflex agent" (like a vacuum robot,
    from [[aima][AIMA]]) into a standardized process model. Use either EPCs or
@@ -416,13 +418,27 @@
    #+attr_html: :width 450px
    [[./img/simple.png]]
 
+** Create the model
+
+   This BPMN model is based on the pseudocode more than on the
+   diagram:
+
+   #+attr_html: :width 600px
+   [[./img/simplebpmn.png]]
+
+   This BPMN model is based on the diagram more than on the
+   pseudocode:
+
+   #+attr_html: :width 400px
+   [[./img/simplebpmn1.png]]
+
 ** Run a simulation
 
    One of the tests for a good model is to run a "simulation": go
    through the process with known input values and obtain known output
    values. This is the same procedure used to e.g. improve machine
    learning models during training and testing phases.
-   
+
    Here is an example ~percept~/~action~ sequence for a vacuum robot
    whose ~world~ consists of two adjacent areas A and B that are
    either dirty or clean:
