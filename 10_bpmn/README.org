@@ -399,7 +399,11 @@
 
 * Modeling a system
 
-  This example motivates the use of UML over EPCs and BPMN.
+  This brief example motivates the use of UML over EPCs and BPMN. It's
+  not that modeling cannot be done, but there are limits when it comes
+  to process optimization, or shared model view (two key benefits of
+  modeling), because we're describing a system design, not a process
+  model[fn:8].
   
 ** Understand the problem
 
@@ -417,7 +421,7 @@
    Figure:
    #+attr_html: :width 450px
    [[./img/simple.png]]
-
+   
 ** Create the model
 
    This BPMN model is based on the pseudocode more than on the
@@ -470,6 +474,11 @@
   signavio.com]]
 
 * Footnotes
+
+[fn:8]We identified the following process elements: events, roles,
+activities, flows. But the modeling of processes depends on knowing
+the environment and the algorithms. Modeling methods that overcome the
+implicit limits include: UML, and process mining.
 
 [fn:7]The second XOR operator has not two but three outgoing events,
 and the flow splits without an operator. The third event was put in so
