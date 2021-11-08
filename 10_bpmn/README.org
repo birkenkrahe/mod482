@@ -478,7 +478,8 @@
 [fn:8]We identified the following process elements: events, roles,
 activities, flows. But the modeling of processes depends on knowing
 the environment and the algorithms. Modeling methods that overcome the
-implicit limits include: UML, and process mining.
+implicit limits include: UML (through a variety of diagrams), and
+process mining (through real-time simulation based on event logs).
 
 [fn:7]The second XOR operator has not two but three outgoing events,
 and the flow splits without an operator. The third event was put in so
