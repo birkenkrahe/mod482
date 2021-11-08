@@ -30,7 +30,7 @@
 
   What are "complex phenomena?"
 
-** Dörner's definition
+** Dorner's definition
 
    #+attr_html: :height 200px
    [[./img/dorner.jpeg]]
