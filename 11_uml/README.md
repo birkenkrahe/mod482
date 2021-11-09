@@ -1,27 +1,29 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#org1e20fbe)
--   [What will you learn?](#org8898d36)
--   [What is UML?](#orgcd54f32)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#orgcdc6368)
-    -   [How UML came about](#org02be519)
-    -   [Case study: airport](#org10e0e12)
-    -   [UML introduction](#org6d0d16f)
-        -   [Structure diagrams](#org704b83d)
-        -   [Behavior diagrams](#org4ade2f9)
--   [References](#orgfab25ec)
+-   [UNDER CONSTRUCTION](#orgfd22f92)
+-   [What will you learn?](#org3008fc3)
+-   [What is UML?](#org8357331)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org69cc23c)
+    -   [How UML came about](#org0f5b9f9)
+    -   [Case study: airport](#orge8be0f8)
+    -   [UML diagram overview](#org687f175)
+        -   [Structure diagrams](#org8af1aa1)
+        -   [Behavior diagrams](#org5e84eaa)
+-   [Use case diagrams](#orgfb893d1)
+-   [Practice](#org9233d14)
+-   [References](#org7755cd6)
 
 
 
-<a id="org1e20fbe"></a>
+<a id="orgfd22f92"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="org8898d36"></a>
+<a id="org3008fc3"></a>
 
 # What will you learn?
 
@@ -32,12 +34,12 @@
 -   UML practice (use case only)
 
 
-<a id="orgcd54f32"></a>
+<a id="org8357331"></a>
 
 # What is UML?
 
 
-<a id="orgcdc6368"></a>
+<a id="org69cc23c"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -99,7 +101,7 @@
 In UML, one can also model static systems (without flow).
 
 
-<a id="org02be519"></a>
+<a id="org0f5b9f9"></a>
 
 ## How UML came about
 
@@ -159,7 +161,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org10e0e12"></a>
+<a id="orge8be0f8"></a>
 
 ## Case study: airport
 
@@ -180,17 +182,16 @@ Three relevant models:
 ![img](./img/airport2.png)
 
 
-<a id="org6d0d16f"></a>
+<a id="org687f175"></a>
 
-## UML introduction
+## UML diagram overview
 
--   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#org1a95424))
--   Image source: [Creately.com (2021)](#orgbe16e6b) - editable diagrams
+-   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#org560fefe))
 
 ![img](./img/uml.png)
 
 
-<a id="org704b83d"></a>
+<a id="org8af1aa1"></a>
 
 ### Structure diagrams
 
@@ -264,7 +265,7 @@ Three relevant models:
 </table>
 
 
-<a id="org4ade2f9"></a>
+<a id="org5e84eaa"></a>
 
 ### Behavior diagrams
 
@@ -289,74 +290,84 @@ Three relevant models:
 <tbody>
 <tr>
 <td class="org-left">Use case diagram</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Actors, functions and function interactions</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/usecase.jpg">Travel agency</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Activity diagram</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Graphical representation of workflow (functions)</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/activity.jpg">Enter PIN</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">State machine diagram</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Object behavior states (events)</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/state.png">Game states</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Sequence diagram</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Object interaction scenarios (state focus)</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/sequence.png">ATM scenario</a></td>
 </tr>
 
 
 <tr>
-<td class="org-left">Communication diagram</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Communication (collaboration) diagram</td>
+<td class="org-left">Object interaction scenario (message focus)</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/communication.jpg">Contact manager</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Interaction overview diagram</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Sequences of interaction diagrams</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/interaction.png">Online shopping</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Timing diagram</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Sequences with timing</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/timing.png">Car park</a></td>
 </tr>
 </tbody>
 </table>
 
 
-<a id="orgfab25ec"></a>
+<a id="orgfb893d1"></a>
+
+# Use case diagrams
+
+
+<a id="org9233d14"></a>
+
+# Practice
+
+
+<a id="org7755cd6"></a>
 
 # References
 
-<a id="orgd54ad0b"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="orgbf671cf"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="org2be8c3f"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="orgd65e794"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
-<a id="orgdc68cab"></a> Object Management Group: Unified Modeling Language
+<a id="orge45020c"></a> Object Management Group: Unified Modeling Language
 Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
 
-<a id="org1a95424"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+<a id="org560fefe"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
 (Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
 
-<a id="orgbe16e6b"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+<a id="org8238ee9"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
 Learn about All Types of UML Diagrams with Examples [blog]. [URL:
 creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
 
@@ -369,4 +380,4 @@ creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
     + Object-Oriented Software Engineering (Ivar Jacobsen)
     + Others
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orgdc68cab))
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orge45020c))

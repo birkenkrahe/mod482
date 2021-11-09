@@ -59,10 +59,9 @@
    #+attr_html: :width 400px
    [[./img/airport2.png]]
 
-** UML introduction
+** UML diagram overview
 
    * Video: [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course]] ([[video][freeCodeCamp.org, 2021]])
-   * Image source: [[creately][Creately.com (2021)]] - editable diagrams
 
    #+attr_html: :width 600px
    [[./img/uml.png]]
@@ -81,16 +80,21 @@
 
 *** Behavior diagrams
     
-    | BEHAVIOR DIAGRAMS                     | WHAT IS IT                                       | EXAMPLE       |
-    |---------------------------------------+--------------------------------------------------+---------------|
-    | Use case diagram                      | Actors, functions and function interactions      | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/usecase.jpg][Travel agency]] |
-    | Activity diagram                      | Graphical representation of workflow (functions) | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/activity.jpg][Enter PIN]]     |
-    | State machine diagram                 | Object behavior states (events)                  | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/state.png][Game states]]   |
-    | Sequence diagram                      | Object interaction scenarios                     | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/sequence.svg][Webservice]]    |
-    | Communication (collaboration) diagram |                                                  |               |
-    | Interaction overview diagram          |                                                  |               |
-    | Timing diagram                        |                                                  |               |
+    | BEHAVIOR DIAGRAMS                     | WHAT IS IT                                       | EXAMPLE         |
+    |---------------------------------------+--------------------------------------------------+-----------------|
+    | Use case diagram                      | Actors, functions and function interactions      | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/usecase.jpg][Travel agency]]   |
+    | Activity diagram                      | Graphical representation of workflow (functions) | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/activity.jpg][Enter PIN]]       |
+    | State machine diagram                 | Object behavior states (events)                  | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/state.png][Game states]]     |
+    | Sequence diagram                      | Object interaction scenarios (state focus)       | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/sequence.png][ATM scenario]]    |
+    | Communication (collaboration) diagram | Object interaction scenario (message focus)      | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/communication.jpg][Contact manager]] |
+    | Interaction overview diagram          | Sequences of interaction diagrams                | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/interaction.png][Online shopping]] |
+    | Timing diagram                        | Sequences with timing                            | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/timing.png][Car park]]         |
    
+
+* Use case diagrams
+
+* Practice
+  
 * References
 
   <<uml>> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
