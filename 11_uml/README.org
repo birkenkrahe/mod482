@@ -11,7 +11,7 @@
 * Preamble - When learning a lot of stuff...
 
   ...trust your intuition.
-  
+
   #+attr_html: :width 400px
   [[./img/feynman.jpg]]
 
@@ -23,9 +23,11 @@
 * What will you learn?
 
   * What is UML?
+  * How do you use UML in practice?
   * What are the main UML diagrams?
   * What are use case diagrams?
   * UML case study (airport systems)
+  * Use case diagrams (requirements analysis/outside view)
   * UML practice (use case only)
 
 * What is UML?
@@ -50,6 +52,30 @@
    | Until 1990s | Object orientation          | Reusability       | UML 0.9[fn:1]    |
    | Since 2005  | Integrated modeling         | Standardisation   | UML 2.0 (OMG)[fn:2]    |
 
+** How do you use UML?
+
+   #+attr_html: :width 400px
+   [[./img/learn.gif]]
+
+   | UML as a sketch               | Convey key points, then throw away                                                                                                                |
+   | UML as a blueprint            | Detailed system specification. Use UML tool. Reverse and forward engineering to keep model in line with system. Turn portions of model into code. |
+   | UML as a programming language | Go from UML model to executable code: every aspect of the system is modeled. Model enables deployment to different environments.                  |
+
+*** Software engineering views
+
+    /Image: [[https://en.wikipedia.org/wiki/4%2B1_architectural_view_model][Phillippe Kruchten's 4+1 view software engineering model]]/
+    
+    #+attr_html: :width 400px
+    [[./img/kruchten.png]]
+
+    | VIEW             | WHAT IS IT                                                                                                                                | UML Diagrams                              |
+    |------------------+-------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------|
+    | Logical view     | Abstract description of system's parts and their interactions (logic)                                                                     | class, object, state machine, interaction |
+    | Process view     | Describes processes within the system and what might happen (simulation)                                                                  | activity                                  |
+    | Development view | Describes how system's parts are organized into modules and components, and how they are layered (architecture)                           | package, component                        |
+    | Physical view    | Describes how system is transferred to the real world (deployment)                                                                        | deployment                                |
+    | Use case view    | Describes the system functionality from an outside perspective - what the system is supposed to do. Guides all other views (requirements) | use case, interaction overview            |
+    
 ** UML diagram overview
 
    * Video: [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course]] ([[video][freeCodeCamp.org, 2021]])
