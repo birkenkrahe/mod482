@@ -27,9 +27,7 @@
    | BPMN       | Model process with communication | IT support communication    | IT Service  |
    | UML        | Model systems and processes      | Infrastructure and services | Airport     |
 
-   UML also allows to distinguish between an external and an internal
-   view of the modeled system, and one can model static systems
-   (without flow).
+   In UML, one can also model static systems (without flow).
 
 ** How UML came about
 
@@ -39,7 +37,7 @@
    | Until 1980s | Split data and procedures   | Fragmentation     | ERD / Petri Nets |
    | Until 1990s | Object orientation          | Reusability       | UML 0.9[fn:1]    |
    | Since 2005  | Integrated modeling         | Standardisation   | UML 2.0 (OMG)[fn:2]    |
-   
+
 ** Case study: airport
 
    Some services in an airport:
@@ -47,12 +45,12 @@
    #+attr_html: :width 400px
    [[./img/airport.png]]
 
-   
+
    Three relevant models:
    1) Business system model (passenger services)
    2) IT systems model (enabling passenger services)
    3) System integration model (interacting IT systems)
-   
+
    #+attr_html: :width 400px
    [[./img/airport1.png]]
 
@@ -60,6 +58,37 @@
 
    #+attr_html: :width 400px
    [[./img/airport2.png]]
+
+** UML introduction
+
+   [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course - video]] ([[video][freeCodeCamp.org, 2021]])
+
+   #+attr_html: :width 600px
+   [[./img/uml.png]]
+
+*** Structure diagrams   
+
+    | STRUCTURE DIAGRAMS          | WHAT IS IT                                        | EXAMPLE                 |
+    |-----------------------------+---------------------------------------------------+-------------------------|
+    | Class diagram               | Classes, attributes, methods, class relationships | Order processing system |
+    | Component diagram           |                                                   |                         |
+    | Deployment diagram          |                                                   |                         |
+    | Object diagram              |                                                   |                         |
+    | Package diagram             |                                                   |                         |
+    | Profile diagram             |                                                   |                         |
+    | Composite structure diagram |                                                   |                         |
+
+*** Behavior diagrams
+    
+    | BEHAVIOR DIAGRAMS            | WHAT IS IT | EXAMPLE |
+    |------------------------------+------------+---------|
+    | Use case diagram             |            |         |
+    | Activity diagram             |            |         |
+    | State machine diagram        |            |         |
+    | Sequence diagram             |            |         |
+    | Communication diagram        |            |         |
+    | Interaction overview diagram |            |         |
+    | Timing diagram               |            |         |
    
 * References
 
@@ -72,17 +101,19 @@
 
   <<omg>> Object Management Group: Unified Modeling Language
   Specifications [website]. [[https://www.omg.org/spec/UML/2.5.1/About-UML/][URL: omg.org.]]
-  
+
+  <<video>> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+  (Unified Modeling Language) [video]. [[https://youtu.be/WnMQ8HlmeXc][URL: youtu.be/WnMQ8HlmeXc.]]
+
 * Footnotes
 
-[fn:2]Since 2017: UML 2.5.1 ([[omg][OMG]]) 
+[fn:2]Since 2017: UML 2.5.1 ([[omg][OMG]])
 
 [fn:1]
-   #+begin_example
-   UML 0.9 =
-   + Booch Method (Grady Booch)
-   + Object Modeling Technique (James Rumbaugh)
-   + Object-Oriented Software Engineering (Ivar Jacobsen)
-   + Others
-   #+end_example
-
+#+begin_example
+UML 0.9 =
++ Booch Method (Grady Booch)
++ Object Modeling Technique (James Rumbaugh)
++ Object-Oriented Software Engineering (Ivar Jacobsen)
++ Others
+#+end_example
