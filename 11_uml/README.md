@@ -1,30 +1,30 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#org76d206d)
--   [What will you learn?](#orgd445ce6)
--   [What is UML?](#org103c55c)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org823734e)
-    -   [How UML came about](#org9071c96)
-    -   [UML diagram overview](#org2525800)
-        -   [Structure diagrams](#orgc5cca39)
-        -   [Behavior diagrams](#orgaf9d2e0)
-    -   [Case study: airport](#orgd9024a0)
-        -   [Use case diagram](#org8de147e)
--   [Use case diagrams](#orgd95705c)
--   [Practice](#org8df3349)
--   [References](#org11105a6)
+-   [UNDER CONSTRUCTION](#org978d2f0)
+-   [What will you learn?](#orgc395db5)
+-   [What is UML?](#org358b0f9)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org43dc00c)
+    -   [How UML came about](#org5c21133)
+    -   [UML diagram overview](#org8316153)
+        -   [Structure diagrams](#org5d728c5)
+        -   [Behavior diagrams](#org33f4b99)
+    -   [Case study: airport](#org5fdf794)
+        -   [Use case diagram](#orgdb1122f)
+-   [Use case diagrams](#org32dba33)
+-   [Practice](#org82ff688)
+-   [References](#org1e16a5f)
 
 
 
-<a id="org76d206d"></a>
+<a id="org978d2f0"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="orgd445ce6"></a>
+<a id="orgc395db5"></a>
 
 # What will you learn?
 
@@ -35,12 +35,12 @@
 -   UML practice (use case only)
 
 
-<a id="org103c55c"></a>
+<a id="org358b0f9"></a>
 
 # What is UML?
 
 
-<a id="org823734e"></a>
+<a id="org43dc00c"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -102,7 +102,7 @@
 In UML, one can also model static systems (without flow).
 
 
-<a id="org9071c96"></a>
+<a id="org5c21133"></a>
 
 ## How UML came about
 
@@ -162,16 +162,16 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org2525800"></a>
+<a id="org8316153"></a>
 
 ## UML diagram overview
 
--   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#org0dfdf9e))
+-   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#orgd4e6346))
 
 ![img](./img/uml.png)
 
 
-<a id="orgc5cca39"></a>
+<a id="org5d728c5"></a>
 
 ### Structure diagrams
 
@@ -211,7 +211,7 @@ In UML, one can also model static systems (without flow).
 <tr>
 <td class="org-left">Deployment diagram</td>
 <td class="org-left">Hardware and software across multiple machines in a realworld situation</td>
-<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/deployment.png">Hospital management system</a></td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/deployment.png">Web application</a></td>
 </tr>
 
 
@@ -245,7 +245,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="orgaf9d2e0"></a>
+<a id="org33f4b99"></a>
 
 ### Behavior diagrams
 
@@ -299,7 +299,7 @@ In UML, one can also model static systems (without flow).
 <tr>
 <td class="org-left">Communication (collaboration) diagram</td>
 <td class="org-left">The ways in which objects interact and the connections that are needed to support that interaction</td>
-<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/communication.jpg">Contact manager</a></td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/communication.png">Bank transaction</a></td>
 </tr>
 
 
@@ -319,7 +319,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="orgd9024a0"></a>
+<a id="org5fdf794"></a>
 
 ## Case study: airport
 
@@ -340,7 +340,7 @@ Three relevant models:
 ![img](./img/airport2.png)
 
 
-<a id="org8de147e"></a>
+<a id="orgdb1122f"></a>
 
 ### Use case diagram
 
@@ -349,35 +349,35 @@ Issuing a boarding pass
 ![img](./img/airport_usecase.png)
 
 
-<a id="orgd95705c"></a>
+<a id="org32dba33"></a>
 
 # Use case diagrams
 
 
-<a id="org8df3349"></a>
+<a id="org82ff688"></a>
 
 # Practice
 
 
-<a id="org11105a6"></a>
+<a id="org1e16a5f"></a>
 
 # References
 
-<a id="org3e8c4cf"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="orga1ecf34"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="org1c1ff2d"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="org8de9cd6"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
-<a id="orgc2445ec"></a> Object Management Group: Unified Modeling Language
+<a id="org25fc61d"></a> Object Management Group: Unified Modeling Language
 Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
 
-<a id="org0dfdf9e"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+<a id="orgd4e6346"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
 (Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
 
-<a id="org5b34a15"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+<a id="org73e37a5"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
 Learn about All Types of UML Diagrams with Examples [blog]. [URL:
 creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
 
@@ -390,4 +390,4 @@ creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
     + Object-Oriented Software Engineering (Ivar Jacobsen)
     + Others
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orgc2445ec))
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org25fc61d))
