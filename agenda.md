@@ -1,32 +1,33 @@
 
 # Table of Contents
 
--   [Week 2 - August 24](#org047e8d7)
--   [Week 2 - August 26](#orgacb4b50)
--   [Week 3 - August 31](#orgd345299)
--   [Week 3 - September 2](#org1aefbe7)
--   [Week 4 - September 9](#org4ae15ae)
--   [Week 5 - September 16](#org7dd8f60)
--   [Week 6 - September 21](#org94fdb0b)
--   [Week 7 - September 28](#org15e12e3)
--   [Week 9 - October 12](#orgb6f0bb4)
--   [Week 9 - October 14](#orgdbb9f33)
--   [Week 10 - October 19](#org614eaf8)
--   [Week 10 - October 21](#org27fd382)
--   [Week 11 - October 26](#orgbbdafbc)
--   [Week 11 - October 28](#org9b359d4)
--   [Week 12 - November 2](#orga1875b5)
--   [Week 12 - November 4](#org8042ce2)
--   [Week 13 - November 9](#org9d52374)
--   [Week 13 - November 11](#org340af06)
--   [Week 14 - November 16-18](#orgaf7d736)
--   [Week 15 - November 23](#orgbe3de16)
--   [Week 16 - November 30](#orgd0bb1aa)
--   [References](#org50016ca)
+-   [Week 2 - August 24](#org1f8e0ee)
+-   [Week 2 - August 26](#orgcac8aa8)
+-   [Week 3 - August 31](#org2901f6c)
+-   [Week 3 - September 2](#orgb64a607)
+-   [Week 4 - September 9](#orgc04c05e)
+-   [Week 5 - September 16](#org1e22675)
+-   [Week 6 - September 21](#orge850d9e)
+-   [Week 7 - September 28](#org732c60c)
+-   [Week 9 - October 12](#org364dc26)
+-   [Week 9 - October 14](#orgc9c785b)
+-   [Week 10 - October 19](#orgfec2246)
+-   [Week 10 - October 21](#orge1e4ec8)
+-   [Week 11 - October 26](#org72ba974)
+-   [Week 11 - October 28](#org578e0c2)
+-   [Week 12 - November 2](#org671a695)
+-   [Week 12 - November 4](#orgde6d3f2)
+-   [Week 13 - November 9](#orgf358048)
+-   [Week 13 - November 11](#org29a6eef)
+-   [Week 14 - November 16](#orgd1ae528)
+-   [Week 14 - November 18](#org5d609a6)
+-   [Week 15 - November 23](#org28bff8d)
+-   [Week 16 - November 30](#orgadb6552)
+-   [References](#orgacbb271)
 
 
 
-<a id="org047e8d7"></a>
+<a id="org1f8e0ee"></a>
 
 # Week 2 - August 24
 
@@ -48,7 +49,7 @@
 -   Questions?
 
 
-<a id="orgacb4b50"></a>
+<a id="orgcac8aa8"></a>
 
 # Week 2 - August 26
 
@@ -73,7 +74,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="orgd345299"></a>
+<a id="org2901f6c"></a>
 
 # Week 3 - August 31
 
@@ -87,7 +88,7 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="org1aefbe7"></a>
+<a id="orgb64a607"></a>
 
 # Week 3 - September 2
 
@@ -126,7 +127,7 @@
 -   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
 
-<a id="org4ae15ae"></a>
+<a id="orgc04c05e"></a>
 
 # Week 4 - September 9
 
@@ -271,20 +272,20 @@
 -   Owen: test frameworks (e.g. [this article](https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670))
 
 
-<a id="org7dd8f60"></a>
+<a id="org1e22675"></a>
 
 # Week 5 - September 16
 
 ![img](./img/lecture.gif)
 
 -   [Test 4: agility, bias, canvas](https://lyon.schoology.com/assignment/5314232116/assessment_questions)
--   [Fireside chat with Scott Page](#org7c99b5c) (2020)
+-   [Fireside chat with Scott Page](#org34c3fc0) (2020)
 -   The Model Thinker, chapter 2 "Why Model":
 -   Models of systemic belonging ([lecture](https://github.com/birkenkrahe/mod482/tree/main/5_why_model))
--   System constellations ([Birkenkrahe, 2008](#org39a6af2))
+-   System constellations ([Birkenkrahe, 2008](#orgfd0dfa9))
 
 
-<a id="org94fdb0b"></a>
+<a id="orge850d9e"></a>
 
 # Week 6 - September 21
 
@@ -298,7 +299,7 @@
 -   **Classes on Thu September 23 are cancelled**
 
 
-<a id="org15e12e3"></a>
+<a id="org732c60c"></a>
 
 # Week 7 - September 28
 
@@ -311,10 +312,10 @@
 -   2nd sprint review (**Thu Oct 7**) ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md))
 -   Participation: protocols! ([Schedule](https://github.com/birkenkrahe/mod482/blob/main/schedule.md))
     
-    *Figure: [Shah 2019](#org41e3305)*
+    *Figure: [Shah 2019](#orgb90a6a8)*
 
 
-<a id="orgb6f0bb4"></a>
+<a id="org364dc26"></a>
 
 # Week 9 - October 12
 
@@ -330,7 +331,7 @@
 -   New diary/FAQ: [leaving Linux](https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8) :-(
 
 
-<a id="orgdbb9f33"></a>
+<a id="orgc9c785b"></a>
 
 # Week 9 - October 14
 
@@ -343,7 +344,7 @@
 ![img](./img/signavio.png)
 
 
-<a id="org614eaf8"></a>
+<a id="orgfec2246"></a>
 
 # Week 10 - October 19
 
@@ -359,7 +360,7 @@
 ![img](./img/mod482_test5_stats.png)
 
 
-<a id="org27fd382"></a>
+<a id="orge1e4ec8"></a>
 
 # Week 10 - October 21
 
@@ -420,7 +421,7 @@
 </table>
 
 
-<a id="orgbbdafbc"></a>
+<a id="org72ba974"></a>
 
 # Week 11 - October 26
 
@@ -481,7 +482,7 @@
 </table>
 
 
-<a id="org9b359d4"></a>
+<a id="org578e0c2"></a>
 
 # Week 11 - October 28
 
@@ -536,7 +537,7 @@
 </table>
 
 
-<a id="orga1875b5"></a>
+<a id="org671a695"></a>
 
 # Week 12 - November 2
 
@@ -547,7 +548,7 @@
 -   Schoology assignment 2 - Create a BPMN diagram ([lecture](https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#build-your-first-own-bpmn-diagram))
 
 
-<a id="org8042ce2"></a>
+<a id="orgde6d3f2"></a>
 
 # Week 12 - November 4
 
@@ -627,7 +628,7 @@
 ![img](./img/joinme.gif)
 
 
-<a id="org9d52374"></a>
+<a id="orgf358048"></a>
 
 # Week 13 - November 9
 
@@ -679,7 +680,7 @@
 -   Make sure that the presentation can be understood (use text)
 
 
-<a id="org340af06"></a>
+<a id="org29a6eef"></a>
 
 # Week 13 - November 11
 
@@ -702,36 +703,185 @@
 <td class="org-left">Practice</td>
 <td class="org-left">Create use case diagrams</td>
 </tr>
+
+
+<tr>
+<td class="org-left">Protocol</td>
+<td class="org-left">Molly Mellor</td>
+</tr>
+</tbody>
+</table>
+
+SPRINT REVIEW DUE ON FRIDAY, NOVEMBER 12
+
+
+<a id="orgd1ae528"></a>
+
+# Week 14 - November 16
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Feedback</td>
+<td class="org-left">3rd Sprint Review</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Test 8</td>
+<td class="org-left">UML</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lecture</td>
+<td class="org-left">Entity Relationship diagrams</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Practice</td>
+<td class="org-left">Create E-R diagrams</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Protocol</td>
+<td class="org-left">Dane Roach</td>
+</tr>
 </tbody>
 </table>
 
 
-<a id="orgaf7d736"></a>
+<a id="org5d609a6"></a>
 
-# Week 14 - November 16-18
+# Week 14 - November 18
 
-Entity-Relationship Modeling (relational databases)
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="orgbe3de16"></a>
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Feedback</td>
+<td class="org-left">3rd Sprint Review</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lecture</td>
+<td class="org-left">Entity Relationship diagrams</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Practice</td>
+<td class="org-left">Create E-R diagrams</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Protocol</td>
+<td class="org-left">Jacob Sampley</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org28bff8d"></a>
 
 # Week 15 - November 23
 
-Robotic Process Automation (RPA)
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="orgd0bb1aa"></a>
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Test 9</td>
+<td class="org-left">Entity-Relationship diagrams</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lecture</td>
+<td class="org-left">Robotic Process Automation (RPA)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Practice</td>
+<td class="org-left">RPA lab</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Protocol</td>
+<td class="org-left">William Sonnier</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgadb6552"></a>
 
 # Week 16 - November 30
 
-Process mining
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="org50016ca"></a>
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Lecture</td>
+<td class="org-left">Process Mining</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Practice</td>
+<td class="org-left">Process Mining lab</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Protocol</td>
+<td class="org-left">Nick Chaney</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Test 10</td>
+<td class="org-left">RPA and Process Mining</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgacbb271"></a>
 
 # References
 
-<a id="org39a6af2"></a> Birkenkrahe, M. (2008). System constellations as tool
+<a id="orgfd0dfa9"></a> Birkenkrahe, M. (2008). System constellations as tool
 supporting organisational learning and change processes. In:
 International Journal of Learning and Change 3(3),
 pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes). ([GDrive copy](https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing))
@@ -739,10 +889,10 @@ pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication
 Lucidchart (Apr 28, 2020). Business Process Model and Notation
 (BPMN) 2.0 Tutorial [video]. [Online: youtube.com](https://youtu.be/BwkNceoybvA)
 
-<a id="org41e3305"></a> Shah P (May 16, 2019). User Story Mapping | Product Backlog
+<a id="orgb90a6a8"></a> Shah P (May 16, 2019). User Story Mapping | Product Backlog
 Creation [Blog]. Online: [medium.com](https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e). ([GDrive copy](https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing))
 
-<a id="org7c99b5c"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
+<a id="org34c3fc0"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
 2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
 [theartistsofdatascience.fireside.fm](https://theartistsofdatascience.fireside.fm/scott-e-page).
 
