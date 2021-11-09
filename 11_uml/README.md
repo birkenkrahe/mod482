@@ -1,29 +1,30 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#orgfd22f92)
--   [What will you learn?](#org3008fc3)
--   [What is UML?](#org8357331)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org69cc23c)
-    -   [How UML came about](#org0f5b9f9)
-    -   [Case study: airport](#orge8be0f8)
-    -   [UML diagram overview](#org687f175)
-        -   [Structure diagrams](#org8af1aa1)
-        -   [Behavior diagrams](#org5e84eaa)
--   [Use case diagrams](#orgfb893d1)
--   [Practice](#org9233d14)
--   [References](#org7755cd6)
+-   [UNDER CONSTRUCTION](#org76d206d)
+-   [What will you learn?](#orgd445ce6)
+-   [What is UML?](#org103c55c)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org823734e)
+    -   [How UML came about](#org9071c96)
+    -   [UML diagram overview](#org2525800)
+        -   [Structure diagrams](#orgc5cca39)
+        -   [Behavior diagrams](#orgaf9d2e0)
+    -   [Case study: airport](#orgd9024a0)
+        -   [Use case diagram](#org8de147e)
+-   [Use case diagrams](#orgd95705c)
+-   [Practice](#org8df3349)
+-   [References](#org11105a6)
 
 
 
-<a id="orgfd22f92"></a>
+<a id="org76d206d"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="org3008fc3"></a>
+<a id="orgd445ce6"></a>
 
 # What will you learn?
 
@@ -34,12 +35,12 @@
 -   UML practice (use case only)
 
 
-<a id="org8357331"></a>
+<a id="org103c55c"></a>
 
 # What is UML?
 
 
-<a id="org69cc23c"></a>
+<a id="org823734e"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -101,7 +102,7 @@
 In UML, one can also model static systems (without flow).
 
 
-<a id="org0f5b9f9"></a>
+<a id="org9071c96"></a>
 
 ## How UML came about
 
@@ -161,37 +162,16 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="orge8be0f8"></a>
-
-## Case study: airport
-
-Some services in an airport:
-
-![img](./img/airport.png)
-
-Three relevant models:
-
-1.  Business system model (passenger services)
-2.  IT systems model (enabling passenger services)
-3.  System integration model (interacting IT systems)
-
-![img](./img/airport1.png)
-
-8 diagram types used to model the whole airport ([PDF](https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/airport.pdf)):
-
-![img](./img/airport2.png)
-
-
-<a id="org687f175"></a>
+<a id="org2525800"></a>
 
 ## UML diagram overview
 
--   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#org560fefe))
+-   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#org0dfdf9e))
 
 ![img](./img/uml.png)
 
 
-<a id="org8af1aa1"></a>
+<a id="orgc5cca39"></a>
 
 ### Structure diagrams
 
@@ -216,36 +196,36 @@ Three relevant models:
 <tbody>
 <tr>
 <td class="org-left">Class diagram</td>
-<td class="org-left">Classes, attributes, methods, class relationships</td>
+<td class="org-left">Classes, types, interfaces, and the relationships between them</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/class.png">Order processing system</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Component diagram</td>
-<td class="org-left">Structural relationship of software components</td>
+<td class="org-left">Structural relationship of important components within your system</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/component.png">Automatic Teller Machine (ATM)</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Deployment diagram</td>
-<td class="org-left">Hardware and software across multiple machines</td>
+<td class="org-left">Hardware and software across multiple machines in a realworld situation</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/deployment.png">Hospital management system</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Object (instance) diagram</td>
-<td class="org-left">Real-time class diagrams</td>
+<td class="org-left">Object instances of the classes defined in class diagrams in configurations that are important to your system</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/object.jpg">Order processing system (with data)</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Package diagram</td>
-<td class="org-left">Dependencies between software packages</td>
-<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/package.jpg">Invoicing</a></td>
+<td class="org-left">Dependencies between software packages and the hierarchical organization of groups of classes and components</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/package.png">Web application</a></td>
 </tr>
 
 
@@ -258,14 +238,14 @@ Three relevant models:
 
 <tr>
 <td class="org-left">Composite structure diagram</td>
-<td class="org-left">Internal structure of classes</td>
+<td class="org-left">The internals of a class or component, and class relationships within a given context</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/composite.jpg">School class</a></td>
 </tr>
 </tbody>
 </table>
 
 
-<a id="org5e84eaa"></a>
+<a id="orgaf9d2e0"></a>
 
 ### Behavior diagrams
 
@@ -290,84 +270,114 @@ Three relevant models:
 <tbody>
 <tr>
 <td class="org-left">Use case diagram</td>
-<td class="org-left">Actors, functions and function interactions</td>
-<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/usecase.jpg">Travel agency</a></td>
+<td class="org-left">Interactions between your system and users or other external systems. Helpful to map requirements.</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/usecase.png">Broadcasting System</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Activity diagram</td>
-<td class="org-left">Graphical representation of workflow (functions)</td>
+<td class="org-left">Sequential and parallel activities within your system (functions)</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/activity.jpg">Enter PIN</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">State machine diagram</td>
-<td class="org-left">Object behavior states (events)</td>
+<td class="org-left">The state of an object throughout its lifetime and the events that can change that state</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/state.png">Game states</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Sequence diagram</td>
-<td class="org-left">Object interaction scenarios (state focus)</td>
+<td class="org-left">Interactions between objects where the order of the interactions is important</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/sequence.png">ATM scenario</a></td>
 </tr>
 
 
 <tr>
 <td class="org-left">Communication (collaboration) diagram</td>
-<td class="org-left">Object interaction scenario (message focus)</td>
+<td class="org-left">The ways in which objects interact and the connections that are needed to support that interaction</td>
 <td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/communication.jpg">Contact manager</a></td>
 </tr>
 
 
 <tr>
-<td class="org-left">Interaction overview diagram</td>
-<td class="org-left">Sequences of interaction diagrams</td>
-<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/interaction.png">Online shopping</a></td>
+<td class="org-left">Timing diagram</td>
+<td class="org-left">Interactions between objects where timing is an important concern</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/timing.png">Car park</a></td>
 </tr>
 
 
 <tr>
-<td class="org-left">Timing diagram</td>
-<td class="org-left">Sequences with timing</td>
-<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/timing.png">Car park</a></td>
+<td class="org-left">Interaction overview diagram</td>
+<td class="org-left">Used to collect sequence, communication, and timing diagrams to capture an important interaction that occurs within your system</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/interaction.png">Online shopping</a></td>
 </tr>
 </tbody>
 </table>
 
 
-<a id="orgfb893d1"></a>
+<a id="orgd9024a0"></a>
+
+## Case study: airport
+
+Some services in an airport:
+
+![img](./img/airport.png)
+
+Three relevant models:
+
+1.  Business system model (passenger services)
+2.  IT systems model (enabling passenger services)
+3.  System integration model (interacting IT systems)
+
+![img](./img/airport1.png)
+
+8 diagram types used to model the whole airport ([PDF](https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/airport.pdf)):
+
+![img](./img/airport2.png)
+
+
+<a id="org8de147e"></a>
+
+### Use case diagram
+
+Issuing a boarding pass
+
+![img](./img/airport_usecase.png)
+
+
+<a id="orgd95705c"></a>
 
 # Use case diagrams
 
 
-<a id="org9233d14"></a>
+<a id="org8df3349"></a>
 
 # Practice
 
 
-<a id="org7755cd6"></a>
+<a id="org11105a6"></a>
 
 # References
 
-<a id="orgbf671cf"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="org3e8c4cf"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="orgd65e794"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="org1c1ff2d"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
-<a id="orge45020c"></a> Object Management Group: Unified Modeling Language
+<a id="orgc2445ec"></a> Object Management Group: Unified Modeling Language
 Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
 
-<a id="org560fefe"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+<a id="org0dfdf9e"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
 (Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
 
-<a id="org8238ee9"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+<a id="org5b34a15"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
 Learn about All Types of UML Diagrams with Examples [blog]. [URL:
 creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
 
@@ -380,4 +390,4 @@ creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
     + Object-Oriented Software Engineering (Ivar Jacobsen)
     + Others
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orge45020c))
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orgc2445ec))
