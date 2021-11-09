@@ -281,8 +281,24 @@
   [[./img/bpmn.png]]
   
   | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#orgeea3dbc][BPMN Homework]] | Create a BPMN 2.0 model         |
-  | BPMN Practice | Convert a diagram into BPMN 2.0 |
   | Lecture       | Unified Modeling Language (UML) |
+
+* Week 13 - November 11
+
+  | Lecture  | UML Use Case Diagrams    |
+  | Practice | Create use case diagrams |
+
+* Week 14 - November 16-18
+
+  Entity-Relationship Modeling (relational databases)
+
+* Week 15 - November 23
+
+  Robotic Process Automation (RPA)
+
+* Week 16 - November 30
+
+  Process mining
   
 * References
 
