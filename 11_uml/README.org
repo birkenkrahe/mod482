@@ -105,6 +105,8 @@
 
 ** Case study: airport
 
+   Airports are complicated ([[https://youtu.be/gWYTnc7m9mE][video]], [[dw][DW 2020]])
+
    Some services in an airport:
 
    #+attr_html: :width 400px
@@ -138,13 +140,13 @@
 
 *** Activity diagrams: checking in
 
-    "Passenger services" overview (low level of detail):
+    ~Passenger services~ overview (low level of detail):
 
     #+attr_html: :width 400px
     [[./img/airport_activity1.png]]
 
 
-    More detail: "Passenter checks in":
+    More detail: ~Passenter checks in~:
 
     #+attr_html: :width 400px
     [[./img/airport_activity2.png]]
@@ -161,13 +163,13 @@
     #+attr_html: :width 400px
     [[./img/airport_sequence1.png]]
 
-    The entire sequence spans the business use cases "check-in" and
-    "boarding":
+    The entire sequence spans the business use cases ~check-in~ and
+    ~boarding~:
 
     #+attr_html: :width 400px
     [[./img/airport_sequence2.png]]
 
-*** Package diagram: who is involved?
+*** Package diagram: organisational units
 
     Constructing a package diagram by collecting organizational
     units/roles:
@@ -175,23 +177,53 @@
     #+attr_html: :width 400px
     [[./img/airport_package1.png]]
 
-    Package diagram for the organization unit "Passenger service":
+    Package diagram for the organization unit ~Passenger service~:
 
     #+attr_html: :width 400px
     [[./img/airport_package1.png]]
 
-*** Class diagram: 
-    
+*** Class diagram: Passenger services
+
+    Illustration of class "generalization". In OOP terms, ~List of
+    checked in passengers~ and ~List of passengers not yet on board~
+    inherits attributes and methods from ~Passenger List~.
+
+    #+attr_html: :width 400px
+    [[./img/airport_class1.png]]
+
+    Classes of the internal view of the business system:
+
+    #+attr_html: :width 400px
+    [[./img/airport_class3.png]]
+
+    Class diagram of ~Passenger services~ including associations
+    between them. This way of drawing class diagrams focuses on the
+    relationships, not on the methods/functions or abilities of the
+    classes.
+
+    #+attr_html: :width 400px
+    [[./img/airport_class2.png]]
+
 * Discussion - whaddayathink?
 
   #+attr_html: :width 400px
   [[./img/learn.gif]]
+
+  * What do you like best? EPC, BPMN, UML? Why?
+  * If Germans are so fond of modeling, why can't they seem to build
+    an international airport? ([[dw][DW, 2020]]).
 
 * Use case diagrams
 
   [[./img/underconstruction.gif]]
 
 * Practice
+
+  [[./img/underconstruction.gif]]
+
+  * "Hello World" as UML ([[hello][Akehurst, 2014]])
+  * Transfer EPC/BPMN into UML
+  * Simple system description
 
 * References
 
@@ -211,6 +243,12 @@
   <<creately>> Creately.com (10 Sept 2021). UML Diagram Types Guide:
   Learn about All Types of UML Diagrams with Examples [blog]. [[https://creately.com/blog/diagrams/uml-diagram-types-examples][URL:
   creately.com]].
+
+  <<hello>> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
+  World. [[http://dhakehurst.blogspot.com/2014/08/examples-uml-hello-world-part-1.html][URL: dhakehurst.blogspot.com.]]
+
+  <<dw>> DW (31 Oct 2020). Berlin's new airport finally opens: A story
+  of failure and embarrassment [blog]. URL: [[https://www.dw.com/en/berlins-new-airport-finally-opens-a-story-of-failure-and-embarrassment/a-55446329][URL: www.dw.com.]]
 
 * Footnotes
 
