@@ -8,6 +8,16 @@
 
   [[./img/underconstruction.gif]]
 
+* Preamble - Learning a lot of stuff
+
+  #+attr_html: :width 400px
+  [[./img/feynman.jpg]]
+
+  #+begin_quote
+  "If we want to solve a problem that we have never solved before, we
+  must leave the door to the unknown afar." -Richard Feynman
+  #+end_quote
+
 * What will you learn?
 
   * What is UML?
@@ -88,17 +98,17 @@
 
    #+attr_html: :width 400px
    [[./img/airport2.png]]
-   
+
 
 *** Use case diagrams: issuing a boarding pass
 
     First draft of the use case:
-    
+
     #+attr_html: :width 400px
     [[./img/airport_usecase1.png]]
 
     Extended use case diagram:
-    
+
     #+attr_html: :width 400px
     [[./img/airport_usecase.png]]
 
