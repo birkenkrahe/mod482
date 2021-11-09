@@ -64,7 +64,7 @@
 *** Software engineering views
 
     /Image: [[https://en.wikipedia.org/wiki/4%2B1_architectural_view_model][Phillippe Kruchten's 4+1 view software engineering model]]/
-    
+
     #+attr_html: :width 400px
     [[./img/kruchten.png]]
 
@@ -75,7 +75,7 @@
     | Development view | Describes how system's parts are organized into modules and components, and how they are layered (architecture)                           | package, component                        |
     | Physical view    | Describes how system is transferred to the real world (deployment)                                                                        | deployment                                |
     | Use case view    | Describes the system functionality from an outside perspective - what the system is supposed to do. Guides all other views (requirements) | use case, interaction overview            |
-    
+
 ** UML diagram overview
 
    * Video: [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course]] ([[video][freeCodeCamp.org, 2021]])
@@ -153,16 +153,48 @@
     #+attr_html: :width 400px
     [[./img/airport_activity2.png]]
 
-*** Sequence diagrams:
+    The same diagram but without explanations:
 
+    #+attr_html: :width 400px
+    [[./img/airport_activity3.png]]
 
-   #+attr_html: :width 400px
-   [[./img/learn.gif]]
+*** Sequence diagrams: check in and boarding
+
+    Constructing sequence of actions:
+
+    #+attr_html: :width 400px
+    [[./img/airport_sequence1.png]]
+
+    The entire sequence spans the business use cases "check-in" and
+    "boarding":
+
+    #+attr_html: :width 400px
+    [[./img/airport_sequence2.png]]
+
+*** Package diagram: who is involved?
+
+    Constructing a package diagram by collecting organizational
+    units/roles:
+
+    #+attr_html: :width 400px
+    [[./img/airport_package1.png]]
+
+    Package diagram for the organization unit "Passenger service":
+
+    #+attr_html: :width 400px
+    [[./img/airport_package1.png]]
+
+*** Class diagram: 
+    
+* Discussion - whaddayathink?
+
+  #+attr_html: :width 400px
+  [[./img/learn.gif]]
 
 * Use case diagrams
 
   [[./img/underconstruction.gif]]
-  
+
 * Practice
 
 * References
