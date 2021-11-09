@@ -299,7 +299,7 @@
 
   | Lecture      | UML Use Case Diagrams    |
   | Practice     | Create use case diagrams |
-  | Protocol     | Molly Mellor             |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]     | Molly Mellor             |
 
   SPRINT REVIEW DUE ON FRIDAY, NOVEMBER 12
   
@@ -309,27 +309,27 @@
     | Test 8   | UML                          |
     | Lecture  | Entity Relationship diagrams |
     | Practice | Create E-R diagrams          |
-    | Protocol | Dane Roach                   |
+    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Dane Roach                   |
 
 * Week 14 - November 18
 
     | Feedback | 3rd Sprint Review            |
-    | Lecture  | Entity Relationship diagrams |
+    | [[https://github.com/birkenkrahe/mod482/tree/main/12_erd][Lecture]]  | Entity Relationship diagrams |
     | Practice | Create E-R diagrams          |
-    | Protocol | Jacob Sampley                |
+    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Jacob Sampley                |
 
 * Week 15 - November 23
 
     | Test 9   | Entity-Relationship diagrams     |
-    | Lecture  | Robotic Process Automation (RPA) |
+    | [[https://github.com/birkenkrahe/mod482/tree/main/13_rpa][Lecture]]  | Robotic Process Automation (RPA) |
     | Practice | RPA lab                          |
-    | Protocol | William Sonnier                  |
+    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | William Sonnier                  |
 
 * Week 16 - November 30
 
-    | Lecture  | Process Mining         |
+    | [[https://github.com/birkenkrahe/mod482/tree/main/14_process_mining][Lecture]]  | Process Mining         |
     | Practice | Process Mining lab     |
-    | Protocol | Nick Chaney            |
+    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Nick Chaney            |
     | Test 10  | RPA and Process Mining |
 
 * References
