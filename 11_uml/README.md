@@ -1,24 +1,24 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#org13fad8b)
--   [What will you learn?](#orge1d114a)
--   [What is UML?](#orgeb869e4)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org12484ca)
-    -   [How UML came about](#orgc923a70)
-    -   [Case study: airport](#org89eeb2e)
--   [References](#orgc51641a)
+-   [UNDER CONSTRUCTION](#org47d065e)
+-   [What will you learn?](#orgec238a8)
+-   [What is UML?](#org36cf275)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org8113d28)
+    -   [How UML came about](#org455b293)
+    -   [Case study: airport](#org023e9d3)
+-   [References](#org1dbb525)
 
 
 
-<a id="org13fad8b"></a>
+<a id="org47d065e"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="orge1d114a"></a>
+<a id="orgec238a8"></a>
 
 # What will you learn?
 
@@ -29,12 +29,12 @@
 -   UML practice (use case only)
 
 
-<a id="orgeb869e4"></a>
+<a id="org36cf275"></a>
 
 # What is UML?
 
 
-<a id="org12484ca"></a>
+<a id="org8113d28"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -98,7 +98,7 @@ view of the modeled system, and one can model static systems
 (without flow).
 
 
-<a id="orgc923a70"></a>
+<a id="org455b293"></a>
 
 ## How UML came about
 
@@ -158,7 +158,7 @@ view of the modeled system, and one can model static systems
 </table>
 
 
-<a id="org89eeb2e"></a>
+<a id="org023e9d3"></a>
 
 ## Case study: airport
 
@@ -174,24 +174,24 @@ Three relevant models:
 
 ![img](./img/airport1.png)
 
-8 diagram types used to model the whole airport (PDF):
+8 diagram types used to model the whole airport ([PDF](https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/airport.pdf)):
 
 ![img](./img/airport2.png)
 
 
-<a id="orgc51641a"></a>
+<a id="org1dbb525"></a>
 
 # References
 
-<a id="org0e4822d"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="org05db61f"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="org518da42"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="org0456550"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
-<a id="org1c3ef24"></a> Object Management Group: Unified Modeling Language
+<a id="orgbfef458"></a> Object Management Group: Unified Modeling Language
 Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
 
 
@@ -203,4 +203,4 @@ Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/Abo
     + Object-Oriented Software Engineering (Ivar Jacobsen)
     + Others
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org1c3ef24))
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orgbfef458))
