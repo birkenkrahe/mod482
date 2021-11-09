@@ -281,9 +281,12 @@
   [[./img/bpmn.png]]
 
   | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#orgeea3dbc][BPMN Homework]] | Create a BPMN 2.0 model          |
-  | Lecture       | Unified Modeling Language (UML)  |
-  | Homework      | 3rd sprint review (presentation) |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/11_uml][Lecture]]       | Unified Modeling Language (UML)  |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/presentations/3rd_sprint_review][Homework]]      | 3rd sprint review (presentation) |
 
+  #+attr_html: :width 400px
+  [[./img/uml.png]]
+  
 ** 3rd sprint review - results focus (Fri 12 Nov 1pm)
 
    [[./img/sprint.gif]]
