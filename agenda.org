@@ -252,11 +252,11 @@
 
   #+attr_html: :width 400px
   [[./img/break.gif]]
-  
+
   * No meeting in class on this day - work on assignments.
   * Schoology assignment 1 - Rebuild BPMN diagram ([[https://youtu.be/WtOzW8Ck5LY][video]])
   * Schoology assignment 2 - Create a BPMN diagram ([[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#build-your-first-own-bpmn-diagram][lecture]])
-  
+
 * Week 12 - November 4
 
   #+attr_html: :width 400px
@@ -274,14 +274,25 @@
 ** [[https://github.com/birkenkrahe/org/blob/master/diary.md#join-me-in-spring-2022-nov-3][New ~org~ diary entry "Join me in spring 2022!"]]
 
    [[./img/joinme.gif]]
-   
+
 * Week 13 - November 9
 
   #+attr_html: :width 400px
   [[./img/bpmn.png]]
-  
-  | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#orgeea3dbc][BPMN Homework]] | Create a BPMN 2.0 model         |
-  | Lecture       | Unified Modeling Language (UML) |
+
+  | [[https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#orgeea3dbc][BPMN Homework]] | Create a BPMN 2.0 model          |
+  | Lecture       | Unified Modeling Language (UML)  |
+  | Homework      | 3rd sprint review (presentation) |
+
+** 3rd sprint review - results focus (Fri 12 Nov 1pm)
+
+   [[./img/sprint.gif]]
+   
+   * Create a presentation (PDF or PPT) that represents your progress
+     (or lack thereof) using the usual sprint review questions.
+   * Upload the presentation in the ~presentation/3rd_sprint_review~
+     folder in GitHub no later than Friday, 12 November, 1 PM
+   * Make sure that the presentation can be understood (use text)
 
 * Week 13 - November 11
 
@@ -299,7 +310,7 @@
 * Week 16 - November 30
 
   Process mining
-  
+
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
