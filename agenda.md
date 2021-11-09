@@ -1,32 +1,32 @@
 
 # Table of Contents
 
--   [Week 2 - August 24](#orgc495dd7)
--   [Week 2 - August 26](#orgbd9450e)
--   [Week 3 - August 31](#orga08d68a)
--   [Week 3 - September 2](#org6a0f6b7)
--   [Week 4 - September 9](#orgde6369d)
--   [Week 5 - September 16](#orgb6d09bb)
--   [Week 6 - September 21](#org783452c)
--   [Week 7 - September 28](#orgc64ec48)
--   [Week 9 - October 12](#orgd81cee5)
--   [Week 9 - October 14](#orgedee117)
--   [Week 10 - October 19](#orgbeda80a)
--   [Week 10 - October 21](#org6d7847a)
--   [Week 11 - October 26](#org55767a6)
--   [Week 11 - October 28](#orgd9d3291)
--   [Week 12 - November 2](#org47ce9aa)
--   [Week 12 - November 4](#org4ca01cd)
--   [Week 13 - November 9](#orgdef8cfb)
--   [Week 13 - November 11](#orgf743fd1)
--   [Week 14 - November 16-18](#org319d3e8)
--   [Week 15 - November 23](#org47ee74a)
--   [Week 16 - November 30](#orgc79d90b)
--   [References](#orga9890da)
+-   [Week 2 - August 24](#org430554b)
+-   [Week 2 - August 26](#orga75285d)
+-   [Week 3 - August 31](#orgaab35f9)
+-   [Week 3 - September 2](#org88b2048)
+-   [Week 4 - September 9](#orgc6422d3)
+-   [Week 5 - September 16](#org4b387ee)
+-   [Week 6 - September 21](#org0f26ea9)
+-   [Week 7 - September 28](#org2abd8e5)
+-   [Week 9 - October 12](#orgbcf7396)
+-   [Week 9 - October 14](#org5671bf1)
+-   [Week 10 - October 19](#orgb25b23b)
+-   [Week 10 - October 21](#orge6fcc93)
+-   [Week 11 - October 26](#org1a6c739)
+-   [Week 11 - October 28](#orgd7185f3)
+-   [Week 12 - November 2](#org511c9b5)
+-   [Week 12 - November 4](#orgb14c595)
+-   [Week 13 - November 9](#org8b928d8)
+-   [Week 13 - November 11](#org40bd2b9)
+-   [Week 14 - November 16-18](#orgb105dca)
+-   [Week 15 - November 23](#org26d6f9c)
+-   [Week 16 - November 30](#org7bb767a)
+-   [References](#org37ba5de)
 
 
 
-<a id="orgc495dd7"></a>
+<a id="org430554b"></a>
 
 # Week 2 - August 24
 
@@ -48,7 +48,7 @@
 -   Questions?
 
 
-<a id="orgbd9450e"></a>
+<a id="orga75285d"></a>
 
 # Week 2 - August 26
 
@@ -73,7 +73,7 @@
 -   "Strategic flexibility" ([GitHub](https://github.com/birkenkrahe/mod482/blob/main/2_why_model/followup_08_24_2021.md#the-logic-of-failure))
 
 
-<a id="orga08d68a"></a>
+<a id="orgaab35f9"></a>
 
 # Week 3 - August 31
 
@@ -87,7 +87,7 @@
 -   New [Scrum FAQs](https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2)
 
 
-<a id="org6a0f6b7"></a>
+<a id="org88b2048"></a>
 
 # Week 3 - September 2
 
@@ -126,7 +126,7 @@
 -   Thursday: 1st sprint review ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-first-sprint))
 
 
-<a id="orgde6369d"></a>
+<a id="orgc6422d3"></a>
 
 # Week 4 - September 9
 
@@ -271,20 +271,20 @@
 -   Owen: test frameworks (e.g. [this article](https://theconversation.com/engineers-and-economists-prize-efficiency-but-nature-favors-resilience-lessons-from-texas-covid-19-and-the-737-max-152670))
 
 
-<a id="orgb6d09bb"></a>
+<a id="org4b387ee"></a>
 
 # Week 5 - September 16
 
 ![img](./img/lecture.gif)
 
 -   [Test 4: agility, bias, canvas](https://lyon.schoology.com/assignment/5314232116/assessment_questions)
--   [Fireside chat with Scott Page](#org93c2050) (2020)
+-   [Fireside chat with Scott Page](#orgb1997bb) (2020)
 -   The Model Thinker, chapter 2 "Why Model":
 -   Models of systemic belonging ([lecture](https://github.com/birkenkrahe/mod482/tree/main/5_why_model))
--   System constellations ([Birkenkrahe, 2008](#org45f3646))
+-   System constellations ([Birkenkrahe, 2008](#org04504ce))
 
 
-<a id="org783452c"></a>
+<a id="org0f26ea9"></a>
 
 # Week 6 - September 21
 
@@ -298,7 +298,7 @@
 -   **Classes on Thu September 23 are cancelled**
 
 
-<a id="orgc64ec48"></a>
+<a id="org2abd8e5"></a>
 
 # Week 7 - September 28
 
@@ -311,10 +311,10 @@
 -   2nd sprint review (**Thu Oct 7**) ([FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md))
 -   Participation: protocols! ([Schedule](https://github.com/birkenkrahe/mod482/blob/main/schedule.md))
     
-    *Figure: [Shah 2019](#orgcef79fd)*
+    *Figure: [Shah 2019](#org18d17fb)*
 
 
-<a id="orgd81cee5"></a>
+<a id="orgbcf7396"></a>
 
 # Week 9 - October 12
 
@@ -330,7 +330,7 @@
 -   New diary/FAQ: [leaving Linux](https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8) :-(
 
 
-<a id="orgedee117"></a>
+<a id="org5671bf1"></a>
 
 # Week 9 - October 14
 
@@ -343,7 +343,7 @@
 ![img](./img/signavio.png)
 
 
-<a id="orgbeda80a"></a>
+<a id="orgb25b23b"></a>
 
 # Week 10 - October 19
 
@@ -359,7 +359,7 @@
 ![img](./img/mod482_test5_stats.png)
 
 
-<a id="org6d7847a"></a>
+<a id="orge6fcc93"></a>
 
 # Week 10 - October 21
 
@@ -420,7 +420,7 @@
 </table>
 
 
-<a id="org55767a6"></a>
+<a id="org1a6c739"></a>
 
 # Week 11 - October 26
 
@@ -481,7 +481,7 @@
 </table>
 
 
-<a id="orgd9d3291"></a>
+<a id="orgd7185f3"></a>
 
 # Week 11 - October 28
 
@@ -536,7 +536,7 @@
 </table>
 
 
-<a id="org47ce9aa"></a>
+<a id="org511c9b5"></a>
 
 # Week 12 - November 2
 
@@ -547,7 +547,7 @@
 -   Schoology assignment 2 - Create a BPMN diagram ([lecture](https://github.com/birkenkrahe/mod482/tree/main/10_bpmn#build-your-first-own-bpmn-diagram))
 
 
-<a id="org4ca01cd"></a>
+<a id="orgb14c595"></a>
 
 # Week 12 - November 4
 
@@ -627,7 +627,7 @@
 ![img](./img/joinme.gif)
 
 
-<a id="orgdef8cfb"></a>
+<a id="org8b928d8"></a>
 
 # Week 13 - November 9
 
@@ -649,17 +649,19 @@
 
 
 <tr>
-<td class="org-left">Lecture</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/tree/main/11_uml">Lecture</a></td>
 <td class="org-left">Unified Modeling Language (UML)</td>
 </tr>
 
 
 <tr>
-<td class="org-left">Homework</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/tree/main/presentations/3rd_sprint_review">Homework</a></td>
 <td class="org-left">3rd sprint review (presentation)</td>
 </tr>
 </tbody>
 </table>
+
+![img](./img/uml.png)
 
 
 ## 3rd sprint review - results focus (Fri 12 Nov 1pm)
@@ -673,7 +675,7 @@
 -   Make sure that the presentation can be understood (use text)
 
 
-<a id="orgf743fd1"></a>
+<a id="org40bd2b9"></a>
 
 # Week 13 - November 11
 
@@ -700,32 +702,32 @@
 </table>
 
 
-<a id="org319d3e8"></a>
+<a id="orgb105dca"></a>
 
 # Week 14 - November 16-18
 
 Entity-Relationship Modeling (relational databases)
 
 
-<a id="org47ee74a"></a>
+<a id="org26d6f9c"></a>
 
 # Week 15 - November 23
 
 Robotic Process Automation (RPA)
 
 
-<a id="orgc79d90b"></a>
+<a id="org7bb767a"></a>
 
 # Week 16 - November 30
 
 Process mining
 
 
-<a id="orga9890da"></a>
+<a id="org37ba5de"></a>
 
 # References
 
-<a id="org45f3646"></a> Birkenkrahe, M. (2008). System constellations as tool
+<a id="org04504ce"></a> Birkenkrahe, M. (2008). System constellations as tool
 supporting organisational learning and change processes. In:
 International Journal of Learning and Change 3(3),
 pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication/228635553_System_constellations_as_tool_supporting_organisational_learning_and_change_processes). ([GDrive copy](https://drive.google.com/file/d/16VWX55tpbJptqZOWkrPZB5v1t_5TT5xD/view?usp=sharing))
@@ -733,10 +735,10 @@ pp. 125-144. [Online: researchgate.net](https://www.researchgate.net/publication
 Lucidchart (Apr 28, 2020). Business Process Model and Notation
 (BPMN) 2.0 Tutorial [video]. [Online: youtube.com](https://youtu.be/BwkNceoybvA)
 
-<a id="orgcef79fd"></a> Shah P (May 16, 2019). User Story Mapping | Product Backlog
+<a id="org18d17fb"></a> Shah P (May 16, 2019). User Story Mapping | Product Backlog
 Creation [Blog]. Online: [medium.com](https://priyank-it.medium.com/user-story-mapping-product-backlog-creation-7ea9a54f7f0e). ([GDrive copy](https://drive.google.com/file/d/1CzL42NgoIiMHyOgWpPZTJVkzKczpWeLC/view?usp=sharing))
 
-<a id="org93c2050"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
+<a id="orgb1997bb"></a> The Artists of Data Science with Harpreet Sahota (31 Aug
 2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
 [theartistsofdatascience.fireside.fm](https://theartistsofdatascience.fireside.fm/scott-e-page).
 
