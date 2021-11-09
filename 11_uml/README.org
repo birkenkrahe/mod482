@@ -8,8 +8,10 @@
 
   [[./img/underconstruction.gif]]
 
-* Preamble - Learning a lot of stuff
+* Preamble - When learning a lot of stuff...
 
+  ...trust your intuition.
+  
   #+attr_html: :width 400px
   [[./img/feynman.jpg]]
 
