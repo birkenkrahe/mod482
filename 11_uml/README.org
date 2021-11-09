@@ -76,7 +76,6 @@
    #+attr_html: :width 400px
    [[./img/airport.png]]
 
-
    Three relevant models:
    1) Business system model (passenger services)
    2) IT systems model (enabling passenger services)
@@ -90,12 +89,33 @@
    #+attr_html: :width 400px
    [[./img/airport2.png]]
 
-*** Use case diagram
+*** Use case diagrams: issuing a boarding pass
 
-    Issuing a boarding pass
+    First draft of the use case:
+    
+    #+attr_html: :width 400px
+    [[./img/airport_usecase1.png]]
 
+    Extended use case diagram:
+    
     #+attr_html: :width 400px
     [[./img/airport_usecase.png]]
+
+*** Activity diagrams: checking in
+
+    "Passenger services" overview (low level of detail):
+
+    #+attr_html: :width 400px
+    [[./img/airport_activity1.png]]
+
+
+    More detail: "Passenter checks in":
+
+    #+attr_html: :width 400px
+    [[./img/airport_activity2.png]]
+
+*** Sequence diagrams:
+
 
 
 
