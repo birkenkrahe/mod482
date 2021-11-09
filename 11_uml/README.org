@@ -13,7 +13,8 @@
   * What is UML?
   * What are the main UML diagrams?
   * What are use case diagrams?
-  * UML Practice
+  * UML case study (airport systems)
+  * UML practice (use case only)
 
 * What is UML?
 
@@ -26,11 +27,44 @@
    | BPMN       | Model process with communication | IT support communication    | IT Service  |
    | UML        | Model systems and processes      | Infrastructure and services | Airport     |
 
+   UML also allows to distinguish between an external and an internal
+   view of the modeled system, and one can model static systems
+   (without flow).
+
+** How UML came about
+
+   | Time frame  | Paradigm                    | Problem           | Solution         |
+   |-------------+-----------------------------+-------------------+------------------|
+   | Until 1970s | Software creation is an art | Complexity crisis | Engineering      |
+   | Until 1980s | Split data and procedures   | Fragmentation     | ERD / Petri Nets |
+   | Until 1990s | Object orientation          | Reusability       | UML 0.9          |
+
+   #+begin_example
+   UML 0.9 =
+   + Booch Method (Grady Booch)
+   + Object Modeling Technique (James Rumbaugh)
+   + Object-Oriented Software Engineering (Ivar Jacobsen)
+   + Others
+   #+end_example
+   
 ** Case study: airport
+
+   Some services in an airport:
 
    #+attr_html: :width 400px
    [[./img/airport.png]]
+
    
+   Three relevant models:
+   1) Business system model (passenger services)
+   2) IT systems model (enabling passenger services)
+   3) System integration model (interacting IT systems)
+   
+   #+attr_html: :width 400px
+   [[./img/airport1.png]]
+   
+
+
    
 * References
 
