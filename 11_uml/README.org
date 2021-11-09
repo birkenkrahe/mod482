@@ -38,6 +38,37 @@
    | Until 1990s | Object orientation          | Reusability       | UML 0.9[fn:1]    |
    | Since 2005  | Integrated modeling         | Standardisation   | UML 2.0 (OMG)[fn:2]    |
 
+** UML diagram overview
+
+   * Video: [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course]] ([[video][freeCodeCamp.org, 2021]])
+
+   #+attr_html: :width 600px
+   [[./img/uml.png]]
+
+*** Structure diagrams
+
+    | STRUCTURE DIAGRAMS          | WHAT IS IT                                                                                                    | EXAMPLE                             |
+    |-----------------------------+---------------------------------------------------------------------------------------------------------------+-------------------------------------|
+    | Class diagram               | Classes, types, interfaces, and the relationships between them                                                | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/class.png][Order processing system]]             |
+    | Component diagram           | Structural relationship of software components                                                                | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/component.png][Automatic Teller Machine (ATM)]]      |
+    | Deployment diagram          | Hardware and software across multiple machines                                                                | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/deployment.png][Hospital management system]]          |
+    | Object (instance) diagram   | Object instances of the classes defined in class diagrams in configurations that are important to your system | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/object.jpg][Order processing system (with data)]] |
+    | Package diagram             | Dependencies between software packages                                                                        | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/package.jpg][Invoicing]]                           |
+    | Profile diagram             | Customize UML to your case using ~<<stereotype>>~                                                             | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/profile.png][Server classes]]                      |
+    | Composite structure diagram | Internal structure of classes                                                                                 | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/composite.jpg][School class]]                        |
+
+*** Behavior diagrams
+
+    | BEHAVIOR DIAGRAMS                     | WHAT IS IT                                                                                                                      | EXAMPLE         |
+    |---------------------------------------+---------------------------------------------------------------------------------------------------------------------------------+-----------------|
+    | Use case diagram                      | Interactions between your system and users or other external systems. Helpful to map requirements.                              | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/usecase.jpg][Travel agency]]   |
+    | Activity diagram                      | Sequential and parallel activities within your system (functions)                                                               | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/activity.jpg][Enter PIN]]       |
+    | State machine diagram                 | Object behavior states (events)                                                                                                 | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/state.png][Game states]]     |
+    | Sequence diagram                      | Interactions between objects where the order of the interactions is important                                                   | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/sequence.png][ATM scenario]]    |
+    | Communication (collaboration) diagram | The ways in which objects interact and the connections that are needed to support that interaction                              | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/communication.jpg][Contact manager]] |
+    | Timing diagram                        | Interactions between objects where timing is an important concern                                                               | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/timing.png][Car park]]        |
+    | Interaction overview diagram          | Used to collect sequence, communication, and timing diagrams to capture an important interaction that occurs within your system | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/interaction.png][Online shopping]] |
+
 ** Case study: airport
 
    Some services in an airport:
@@ -59,42 +90,19 @@
    #+attr_html: :width 400px
    [[./img/airport2.png]]
 
-** UML diagram overview
+*** Use case diagram
 
-   * Video: [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course]] ([[video][freeCodeCamp.org, 2021]])
+    Issuing a boarding pass
 
-   #+attr_html: :width 600px
-   [[./img/uml.png]]
-   
-*** Structure diagrams   
+    #+attr_html: :width 400px
+    [[./img/airport_usecase.png]]
 
-    | STRUCTURE DIAGRAMS          | WHAT IS IT                                        | EXAMPLE                             |
-    |-----------------------------+---------------------------------------------------+-------------------------------------|
-    | Class diagram               | Classes, attributes, methods, class relationships | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/class.png][Order processing system]]             |
-    | Component diagram           | Structural relationship of software components    | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/component.png][Automatic Teller Machine (ATM)]]      |
-    | Deployment diagram          | Hardware and software across multiple machines    | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/deployment.png][Hospital management system]]          |
-    | Object (instance) diagram   | Real-time class diagrams                          | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/object.jpg][Order processing system (with data)]] |
-    | Package diagram             | Dependencies between software packages            | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/package.jpg][Invoicing]]                           |
-    | Profile diagram             | Customize UML to your case using ~<<stereotype>>~ | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/profile.png][Server classes]]                      |
-    | Composite structure diagram | Internal structure of classes                     | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/composite.jpg][School class]]                        |
 
-*** Behavior diagrams
-    
-    | BEHAVIOR DIAGRAMS                     | WHAT IS IT                                       | EXAMPLE         |
-    |---------------------------------------+--------------------------------------------------+-----------------|
-    | Use case diagram                      | Actors, functions and function interactions      | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/usecase.jpg][Travel agency]]   |
-    | Activity diagram                      | Graphical representation of workflow (functions) | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/activity.jpg][Enter PIN]]       |
-    | State machine diagram                 | Object behavior states (events)                  | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/state.png][Game states]]     |
-    | Sequence diagram                      | Object interaction scenarios (state focus)       | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/sequence.png][ATM scenario]]    |
-    | Communication (collaboration) diagram | Object interaction scenario (message focus)      | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/communication.jpg][Contact manager]] |
-    | Interaction overview diagram          | Sequences of interaction diagrams                | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/interaction.png][Online shopping]] |
-    | Timing diagram                        | Sequences with timing                            | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/timing.png][Car park]]         |
-   
 
 * Use case diagrams
 
 * Practice
-  
+
 * References
 
   <<uml>> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
