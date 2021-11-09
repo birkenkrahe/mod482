@@ -8,9 +8,12 @@
 
   [[./img/underconstruction.gif]]
 
-
 * What will you learn?
 
+  * What is UML?
+  * What are the main UML diagrams?
+  * What are use case diagrams?
+  * 
 
   
 * References
