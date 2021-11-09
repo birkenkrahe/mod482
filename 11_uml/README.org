@@ -55,7 +55,7 @@
 ** How do you use UML?
 
    #+attr_html: :width 400px
-   [[./img/learn.gif]]
+   [[./img/use.gif]]
 
    | UML as a sketch               | Convey key points, then throw away                                                                                                                |
    | UML as a blueprint            | Detailed system specification. Use UML tool. Reverse and forward engineering to keep model in line with system. Turn portions of model into code. |
@@ -156,10 +156,13 @@
 *** Sequence diagrams:
 
 
-
+   #+attr_html: :width 400px
+   [[./img/learn.gif]]
 
 * Use case diagrams
 
+  [[./img/underconstruction.gif]]
+  
 * Practice
 
 * References
