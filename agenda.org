@@ -290,7 +290,7 @@
    
    * Create a presentation (PDF or PPT) that represents your progress
      (or lack thereof) using the usual sprint review questions.
-   * Upload the presentation in the ~presentation/3rd_sprint_review~
+   * Upload the presentation in the [[https://github.com/birkenkrahe/mod482/tree/main/presentations/3rd_sprint_review][~presentation/3rd_sprint_review~]]
      folder in GitHub no later than Friday, 12 November, 1 PM
    * Make sure that the presentation can be understood (use text)
 
