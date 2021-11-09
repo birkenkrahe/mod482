@@ -105,9 +105,7 @@
 
 ** Case study: airport
 
-   Airports are complicated ([[https://youtu.be/gWYTnc7m9mE][video]], [[dw][DW 2020]])
-
-   Some services in an airport:
+   Airports are complicated. Some services in an airport:
 
    #+attr_html: :width 400px
    [[./img/airport.png]]
@@ -212,6 +210,8 @@
   * What do you like best? EPC, BPMN, UML? Why?
   * If Germans are so fond of modeling, why can't they seem to build
     an international airport? ([[dw][DW, 2020]]).
+
+    Watch the [[https://youtu.be/gWYTnc7m9mE][video]] of a 21st century public project scandal. ([[dw][DW 2020]])
 
 * Use case diagrams
 
