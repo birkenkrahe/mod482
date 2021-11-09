@@ -56,7 +56,7 @@
    #+attr_html: :width 400px
    [[./img/airport1.png]]
 
-   8 diagram types used to model the whole airport (PDF):
+   8 diagram types used to model the whole airport ([[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/airport.pdf][PDF]]):
 
    #+attr_html: :width 400px
    [[./img/airport2.png]]
