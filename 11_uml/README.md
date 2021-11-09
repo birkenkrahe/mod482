@@ -1,30 +1,30 @@
 
 # Table of Contents
 
--   [Preamble - When learning a lot of stuff&#x2026;](#org5d60595)
--   [What will you learn?](#org2463fb3)
--   [What is UML?](#orgf74ea43)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#orgb246a0f)
-    -   [How UML came about](#orgaece39b)
-    -   [How do you use UML?](#org9f02f92)
-        -   [Software engineering views](#orgcc62524)
-    -   [UML diagram overview](#orgaab868f)
-        -   [Structure diagrams](#org87364a9)
-        -   [Behavior diagrams](#org4055b0b)
-    -   [Case study: airport](#org8b4a4a5)
-        -   [Use case diagrams: issuing a boarding pass](#org633dafb)
-        -   [Activity diagrams: checking in](#org71c0149)
-        -   [Sequence diagrams: check in and boarding](#org3e6051f)
-        -   [Package diagram: organisational units](#org4100283)
-        -   [Class diagram: Passenger services](#org59b577a)
--   [Discussion - whaddayathink?](#org5067ef1)
--   [Use case diagrams](#orgb900726)
--   [Practice](#orgb01d225)
--   [References](#org019074a)
+-   [Preamble - When learning a lot of stuff&#x2026;](#orgc739ae7)
+-   [What will you learn?](#org6e6bd55)
+-   [What is UML?](#orge04bbcf)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org9672f54)
+    -   [How UML came about](#org1704838)
+    -   [How do you use UML?](#org2f87e99)
+        -   [Software engineering views](#org380fb6c)
+    -   [UML diagram overview](#org88e936e)
+        -   [Structure diagrams](#org2ea9dcc)
+        -   [Behavior diagrams](#org145f002)
+    -   [Case study: airport](#org01629ca)
+        -   [Use case diagrams: issuing a boarding pass](#orgea0f535)
+        -   [Activity diagrams: checking in](#orgf098425)
+        -   [Sequence diagrams: check in and boarding](#org285d5b8)
+        -   [Package diagram: organisational units](#org89cd95d)
+        -   [Class diagram: Passenger services](#org83504f0)
+-   [Discussion - whaddayathink?](#orgc0d7458)
+-   [Use case diagrams](#orga823143)
+-   [Practice](#orgc7fc092)
+-   [References](#orgfa58472)
 
 
 
-<a id="org5d60595"></a>
+<a id="orgc739ae7"></a>
 
 # Preamble - When learning a lot of stuff&#x2026;
 
@@ -36,7 +36,7 @@
 > must leave the door to the unknown afar." -Richard Feynman
 
 
-<a id="org2463fb3"></a>
+<a id="org6e6bd55"></a>
 
 # What will you learn?
 
@@ -49,12 +49,12 @@
 -   UML practice (use case only)
 
 
-<a id="orgf74ea43"></a>
+<a id="orge04bbcf"></a>
 
 # What is UML?
 
 
-<a id="orgb246a0f"></a>
+<a id="org9672f54"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -116,7 +116,7 @@
 In UML, one can also model static systems (without flow).
 
 
-<a id="orgaece39b"></a>
+<a id="org1704838"></a>
 
 ## How UML came about
 
@@ -176,7 +176,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org9f02f92"></a>
+<a id="org2f87e99"></a>
 
 ## How do you use UML?
 
@@ -211,7 +211,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="orgcc62524"></a>
+<a id="org380fb6c"></a>
 
 ### Software engineering views
 
@@ -275,16 +275,16 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="orgaab868f"></a>
+<a id="org88e936e"></a>
 
 ## UML diagram overview
 
--   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#org24e629f))
+-   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#org946fa81))
 
 ![img](./img/uml.png)
 
 
-<a id="org87364a9"></a>
+<a id="org2ea9dcc"></a>
 
 ### Structure diagrams
 
@@ -358,7 +358,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org4055b0b"></a>
+<a id="org145f002"></a>
 
 ### Behavior diagrams
 
@@ -432,7 +432,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org8b4a4a5"></a>
+<a id="org01629ca"></a>
 
 ## Case study: airport
 
@@ -453,7 +453,7 @@ Three relevant models:
 ![img](./img/airport2.png)
 
 
-<a id="org633dafb"></a>
+<a id="orgea0f535"></a>
 
 ### Use case diagrams: issuing a boarding pass
 
@@ -466,7 +466,7 @@ Extended use case diagram:
 ![img](./img/airport_usecase.png)
 
 
-<a id="org71c0149"></a>
+<a id="orgf098425"></a>
 
 ### Activity diagrams: checking in
 
@@ -483,7 +483,7 @@ The same diagram but without explanations:
 ![img](./img/airport_activity3.png)
 
 
-<a id="org3e6051f"></a>
+<a id="org285d5b8"></a>
 
 ### Sequence diagrams: check in and boarding
 
@@ -497,7 +497,7 @@ The entire sequence spans the business use cases `check-in` and
 ![img](./img/airport_sequence2.png)
 
 
-<a id="org4100283"></a>
+<a id="org89cd95d"></a>
 
 ### Package diagram: organisational units
 
@@ -511,7 +511,7 @@ Package diagram for the organization unit `Passenger service`:
 ![img](./img/airport_package1.png)
 
 
-<a id="org59b577a"></a>
+<a id="org83504f0"></a>
 
 ### Class diagram: Passenger services
 
@@ -533,7 +533,7 @@ classes.
 ![img](./img/airport_class2.png)
 
 
-<a id="org5067ef1"></a>
+<a id="orgc0d7458"></a>
 
 # Discussion - whaddayathink?
 
@@ -541,55 +541,55 @@ classes.
 
 -   What do you like best? EPC, BPMN, UML? Why?
 -   If Germans are so fond of modeling, why can't they seem to build
-    an international airport? ([DW, 2020](#orgc6e05c5)).
+    an international airport? ([DW, 2020](#org3dd7feb)).
     
-    Watch the [video](https://youtu.be/gWYTnc7m9mE) of a 21st century public project scandal. ([DW 2020](#orgc6e05c5))
+    Watch the [video](https://youtu.be/gWYTnc7m9mE) of a 21st century public project scandal. ([DW 2020](#org3dd7feb))
 
 
-<a id="orgb900726"></a>
+<a id="orga823143"></a>
 
 # Use case diagrams
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="orgb01d225"></a>
+<a id="orgc7fc092"></a>
 
 # Practice
 
 ![img](./img/underconstruction.gif)
 
--   "Hello World" as UML ([Akehurst, 2014](#orga7299b7))
+-   "Hello World" as UML ([Akehurst, 2014](#org2f05608))
 -   Transfer EPC/BPMN into UML
 -   Simple system description
 
 
-<a id="org019074a"></a>
+<a id="orgfa58472"></a>
 
 # References
 
-<a id="org177e873"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="orgd1b28a7"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="org9fa94a8"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="org17449ab"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
-<a id="org53bac62"></a> Object Management Group: Unified Modeling Language
+<a id="org546e1b1"></a> Object Management Group: Unified Modeling Language
 Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
 
-<a id="org24e629f"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+<a id="org946fa81"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
 (Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
 
-<a id="orga7808dc"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+<a id="org2010229"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
 Learn about All Types of UML Diagrams with Examples [blog]. [URL:
 creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
 
-<a id="orga7299b7"></a> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
+<a id="org2f05608"></a> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
 World. [URL: dhakehurst.blogspot.com.](http://dhakehurst.blogspot.com/2014/08/examples-uml-hello-world-part-1.html)
 
-<a id="orgc6e05c5"></a> DW (31 Oct 2020). Berlin's new airport finally opens: A story
+<a id="org3dd7feb"></a> DW (31 Oct 2020). Berlin's new airport finally opens: A story
 of failure and embarrassment [blog]. URL: [URL: www.dw.com.](https://www.dw.com/en/berlins-new-airport-finally-opens-a-story-of-failure-and-embarrassment/a-55446329)
 
 
@@ -601,4 +601,4 @@ of failure and embarrassment [blog]. URL: [URL: www.dw.com.](https://www.dw.com/
     + Object-Oriented Software Engineering (Ivar Jacobsen)
     + Others
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org53bac62))
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org546e1b1))
