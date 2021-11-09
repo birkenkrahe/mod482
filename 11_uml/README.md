@@ -1,24 +1,24 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#org54436b0)
--   [What will you learn?](#orge017fb6)
--   [What is UML?](#org12b9221)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org069fac6)
-    -   [How UML came about](#org8d8ce9b)
-    -   [Case study: airport](#org9342d41)
--   [References](#org9c09fe2)
+-   [UNDER CONSTRUCTION](#org13fad8b)
+-   [What will you learn?](#orge1d114a)
+-   [What is UML?](#orgeb869e4)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org12484ca)
+    -   [How UML came about](#orgc923a70)
+    -   [Case study: airport](#org89eeb2e)
+-   [References](#orgc51641a)
 
 
 
-<a id="org54436b0"></a>
+<a id="org13fad8b"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="orge017fb6"></a>
+<a id="orge1d114a"></a>
 
 # What will you learn?
 
@@ -29,12 +29,12 @@
 -   UML practice (use case only)
 
 
-<a id="org12b9221"></a>
+<a id="orgeb869e4"></a>
 
 # What is UML?
 
 
-<a id="org069fac6"></a>
+<a id="org12484ca"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -98,7 +98,7 @@ view of the modeled system, and one can model static systems
 (without flow).
 
 
-<a id="org8d8ce9b"></a>
+<a id="orgc923a70"></a>
 
 ## How UML came about
 
@@ -144,19 +144,21 @@ view of the modeled system, and one can model static systems
 <td class="org-left">Until 1990s</td>
 <td class="org-left">Object orientation</td>
 <td class="org-left">Reusability</td>
-<td class="org-left">UML 0.9</td>
+<td class="org-left">UML 0.9<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Since 2005</td>
+<td class="org-left">Integrated modeling</td>
+<td class="org-left">Standardisation</td>
+<td class="org-left">UML 2.0 (OMG)<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup></td>
 </tr>
 </tbody>
 </table>
 
-    UML 0.9 =
-    + Booch Method (Grady Booch)
-    + Object Modeling Technique (James Rumbaugh)
-    + Object-Oriented Software Engineering (Ivar Jacobsen)
-    + Others
 
-
-<a id="org9342d41"></a>
+<a id="org89eeb2e"></a>
 
 ## Case study: airport
 
@@ -172,16 +174,33 @@ Three relevant models:
 
 ![img](./img/airport1.png)
 
+8 diagram types used to model the whole airport (PDF):
 
-<a id="org9c09fe2"></a>
+![img](./img/airport2.png)
+
+
+<a id="orgc51641a"></a>
 
 # References
 
-<a id="org08e7fc2"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="org0e4822d"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="orgb1d0c22"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="org518da42"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
+<a id="org1c3ef24"></a> Object Management Group: Unified Modeling Language
+Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> UML 0.9 =
+    + Booch Method (Grady Booch)
+    + Object Modeling Technique (James Rumbaugh)
+    + Object-Oriented Software Engineering (Ivar Jacobsen)
+    + Others
+
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org1c3ef24))
