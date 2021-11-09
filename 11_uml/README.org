@@ -81,15 +81,15 @@
 
 *** Behavior diagrams
     
-    | BEHAVIOR DIAGRAMS            | WHAT IS IT | EXAMPLE |
-    |------------------------------+------------+---------|
-    | Use case diagram             |            |         |
-    | Activity diagram             |            |         |
-    | State machine diagram        |            |         |
-    | Sequence diagram             |            |         |
-    | Communication diagram        |            |         |
-    | Interaction overview diagram |            |         |
-    | Timing diagram               |            |         |
+    | BEHAVIOR DIAGRAMS                     | WHAT IS IT                                       | EXAMPLE       |
+    |---------------------------------------+--------------------------------------------------+---------------|
+    | Use case diagram                      | Actors, functions and function interactions      | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/usecase.jpg][Travel agency]] |
+    | Activity diagram                      | Graphical representation of workflow (functions) | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/activity.jpg][Enter PIN]]     |
+    | State machine diagram                 | Object behavior states (events)                  | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/state.png][Game states]]   |
+    | Sequence diagram                      | Object interaction scenarios                     | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/sequence.svg][Webservice]]    |
+    | Communication (collaboration) diagram |                                                  |               |
+    | Interaction overview diagram          |                                                  |               |
+    | Timing diagram                        |                                                  |               |
    
 * References
 

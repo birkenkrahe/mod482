@@ -1,24 +1,27 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#org47d065e)
--   [What will you learn?](#orgec238a8)
--   [What is UML?](#org36cf275)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org8113d28)
-    -   [How UML came about](#org455b293)
-    -   [Case study: airport](#org023e9d3)
--   [References](#org1dbb525)
+-   [UNDER CONSTRUCTION](#org1e20fbe)
+-   [What will you learn?](#org8898d36)
+-   [What is UML?](#orgcd54f32)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#orgcdc6368)
+    -   [How UML came about](#org02be519)
+    -   [Case study: airport](#org10e0e12)
+    -   [UML introduction](#org6d0d16f)
+        -   [Structure diagrams](#org704b83d)
+        -   [Behavior diagrams](#org4ade2f9)
+-   [References](#orgfab25ec)
 
 
 
-<a id="org47d065e"></a>
+<a id="org1e20fbe"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="orgec238a8"></a>
+<a id="org8898d36"></a>
 
 # What will you learn?
 
@@ -29,12 +32,12 @@
 -   UML practice (use case only)
 
 
-<a id="org36cf275"></a>
+<a id="orgcd54f32"></a>
 
 # What is UML?
 
 
-<a id="org8113d28"></a>
+<a id="orgcdc6368"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -93,12 +96,10 @@
 </tbody>
 </table>
 
-UML also allows to distinguish between an external and an internal
-view of the modeled system, and one can model static systems
-(without flow).
+In UML, one can also model static systems (without flow).
 
 
-<a id="org455b293"></a>
+<a id="org02be519"></a>
 
 ## How UML came about
 
@@ -158,7 +159,7 @@ view of the modeled system, and one can model static systems
 </table>
 
 
-<a id="org023e9d3"></a>
+<a id="org10e0e12"></a>
 
 ## Case study: airport
 
@@ -179,20 +180,185 @@ Three relevant models:
 ![img](./img/airport2.png)
 
 
-<a id="org1dbb525"></a>
+<a id="org6d0d16f"></a>
+
+## UML introduction
+
+-   Video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org, 2021](#org1a95424))
+-   Image source: [Creately.com (2021)](#orgbe16e6b) - editable diagrams
+
+![img](./img/uml.png)
+
+
+<a id="org704b83d"></a>
+
+### Structure diagrams
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">STRUCTURE DIAGRAMS</th>
+<th scope="col" class="org-left">WHAT IS IT</th>
+<th scope="col" class="org-left">EXAMPLE</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Class diagram</td>
+<td class="org-left">Classes, attributes, methods, class relationships</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/class.png">Order processing system</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Component diagram</td>
+<td class="org-left">Structural relationship of software components</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/component.png">Automatic Teller Machine (ATM)</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Deployment diagram</td>
+<td class="org-left">Hardware and software across multiple machines</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/deployment.png">Hospital management system</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Object (instance) diagram</td>
+<td class="org-left">Real-time class diagrams</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/object.jpg">Order processing system (with data)</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Package diagram</td>
+<td class="org-left">Dependencies between software packages</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/package.jpg">Invoicing</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Profile diagram</td>
+<td class="org-left">Customize UML to your case using <code>&lt;&lt;stereotype&gt;&gt;</code></td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/profile.png">Server classes</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Composite structure diagram</td>
+<td class="org-left">Internal structure of classes</td>
+<td class="org-left"><a href="https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/composite.jpg">School class</a></td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org4ade2f9"></a>
+
+### Behavior diagrams
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">BEHAVIOR DIAGRAMS</th>
+<th scope="col" class="org-left">WHAT IS IT</th>
+<th scope="col" class="org-left">EXAMPLE</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Use case diagram</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Activity diagram</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">State machine diagram</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Sequence diagram</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Communication diagram</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Interaction overview diagram</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Timing diagram</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgfab25ec"></a>
 
 # References
 
-<a id="org05db61f"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="orgd54ad0b"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="org0456550"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="org2be8c3f"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
-<a id="orgbfef458"></a> Object Management Group: Unified Modeling Language
+<a id="orgdc68cab"></a> Object Management Group: Unified Modeling Language
 Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
+
+<a id="org1a95424"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+(Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
+
+<a id="orgbe16e6b"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+Learn about All Types of UML Diagrams with Examples [blog]. [URL:
+creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
 
 
 # Footnotes
@@ -203,4 +369,4 @@ Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/Abo
     + Object-Oriented Software Engineering (Ivar Jacobsen)
     + Others
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orgbfef458))
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orgdc68cab))
