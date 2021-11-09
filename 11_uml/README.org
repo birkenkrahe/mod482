@@ -4,10 +4,6 @@
 #+STARTUP: overview
 #+OPTIONS: toc:1 num:nil ^:nil
 #+INFOJS_OPT: :view:info
-* UNDER CONSTRUCTION
-
-  [[./img/underconstruction.gif]]
-
 * Preamble - When learning a lot of stuff...
 
   ...trust your intuition.
