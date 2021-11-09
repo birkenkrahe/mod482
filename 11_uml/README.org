@@ -61,22 +61,23 @@
 
 ** UML introduction
 
-   [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course - video]] ([[video][freeCodeCamp.org, 2021]])
+   * Video: [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course]] ([[video][freeCodeCamp.org, 2021]])
+   * Image source: [[creately][Creately.com (2021)]] - editable diagrams
 
    #+attr_html: :width 600px
    [[./img/uml.png]]
-
+   
 *** Structure diagrams   
 
-    | STRUCTURE DIAGRAMS          | WHAT IS IT                                        | EXAMPLE                 |
-    |-----------------------------+---------------------------------------------------+-------------------------|
-    | Class diagram               | Classes, attributes, methods, class relationships | Order processing system |
-    | Component diagram           |                                                   |                         |
-    | Deployment diagram          |                                                   |                         |
-    | Object diagram              |                                                   |                         |
-    | Package diagram             |                                                   |                         |
-    | Profile diagram             |                                                   |                         |
-    | Composite structure diagram |                                                   |                         |
+    | STRUCTURE DIAGRAMS          | WHAT IS IT                                        | EXAMPLE                             |
+    |-----------------------------+---------------------------------------------------+-------------------------------------|
+    | Class diagram               | Classes, attributes, methods, class relationships | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/class.png][Order processing system]]             |
+    | Component diagram           | Structural relationship of software components    | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/component.png][Automatic Teller Machine (ATM)]]      |
+    | Deployment diagram          | Hardware and software across multiple machines    | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/deployment.png][Hospital management system]]          |
+    | Object (instance) diagram   | Real-time class diagrams                          | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/object.jpg][Order processing system (with data)]] |
+    | Package diagram             | Dependencies between software packages            | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/package.jpg][Invoicing]]                           |
+    | Profile diagram             | Customize UML to your case using ~<<stereotype>>~ | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/profile.png][Server classes]]                      |
+    | Composite structure diagram | Internal structure of classes                     | [[https://github.com/birkenkrahe/mod482/blob/main/11_uml/img/composite.jpg][School class]]                        |
 
 *** Behavior diagrams
     
@@ -104,6 +105,10 @@
 
   <<video>> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
   (Unified Modeling Language) [video]. [[https://youtu.be/WnMQ8HlmeXc][URL: youtu.be/WnMQ8HlmeXc.]]
+
+  <<creately>> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+  Learn about All Types of UML Diagrams with Examples [blog]. [[https://creately.com/blog/diagrams/uml-diagram-types-examples][URL:
+  creately.com]].
 
 * Footnotes
 
