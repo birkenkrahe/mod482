@@ -13,8 +13,31 @@
   * What is UML?
   * What are the main UML diagrams?
   * What are use case diagrams?
-  * 
+  * UML Practice
 
-  
+* What is UML?
+
+** UML vs. Flowcharts vs. EPC vs. BPMN
+
+   | Diagram    | Purpose                          | Example                     | Where       |
+   |------------+----------------------------------+-----------------------------+-------------|
+   | Flowcharts | Model flow                       | Programming loop            | Programming |
+   | EPC        | Model transactions               | Credit card check           | Bank        |
+   | BPMN       | Model process with communication | IT support communication    | IT Service  |
+   | UML        | Model systems and processes      | Infrastructure and services | Airport     |
+
+** Case study: airport
+
+   #+attr_html: :width 400px
+   [[./img/airport.png]]
+   
+   
 * References
 
+  <<uml>> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+  9780596009823. URL: [[https://www.oreilly.com/library/view/learning-uml-20/0596009828/][URL: oreilly.com.]]
+
+  <<packt>> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+  Project-based Tutorial. Packt Publishing
+  (2005). ISBN: 9781904811558. URL: [[https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558][URL: packtpub.com]].
+		 
