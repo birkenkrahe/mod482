@@ -353,7 +353,6 @@
     #+attr_html: :width 400px
     [[./img/login1.png]]
 
-
 ** Car purchase process
 *** Problem
 
@@ -367,6 +366,11 @@
 
     /Tip: you don't need two pools for this process, because the
     dealer doesn't have much to do./
+
+*** Solution
+
+    #+attr_html: :width 600px
+    [[./img/car.png]]
 
 ** Practice session process
 *** Problem
@@ -382,6 +386,14 @@
     /Tip: model the professor first, then add the student as a second
     pool./
 
+*** Solution
+
+    #+attr_html: :width 600px
+    [[./img/practice1.png]]
+
+    #+attr_html: :width 600px
+    [[./img/practice2.png]]
+
 ** Supply chain process
 *** Problem
     Model the following supply chain process using BPMN 2.0:
@@ -396,6 +408,44 @@
     #+end_quote
 
     /Tip: think about the number of lanes or pools that you need./
+*** Solution
+    In this solution, the four departments involved in the process are
+    roles or lanes in BPMN terms. This is a so-called “happy path”,
+    which means that there are no gateways or decision points – only a
+    simple sequence flow. To make this model more realistic, one could
+    e.g. add gateways, to model situations like "requested item cannot
+    be purchased" or similar decision points.
+
+    Other solutions are possible, of course! Unlike Petri nets, BPMN
+    has no mathematical rigor. Another solution would be to model each
+    department as its own pool (not as four lanes of one pool), with
+    message flows between the departments. This is a more elaborate
+    solution which emphasizes the communication among the departments
+    over the sequence flow. I have attached this second solution as
+    well. A good follow up question for you to ponder would be: under
+    which circumstances would the second solution be a better one?
+
+    Solution 1: one pool with four different lanes (solution is from
+    Signavio). Screenshot taken from bpmn.io. One problem with this
+    solution is that an object (the receipt in the top lane) is
+    treated like a task. It would be better to model this as an
+    intermediate event.
+
+    #+attr_html: :width 600px
+    [[./img/solution1.jpg]]
+
+    Solution 2: with message flows between the different pools. Notice
+    the application of the rule: one complete process per each of the
+    four pools (in the solution 1 there is only one pool with four
+    lanes). This is still a "happy path" without decision points but
+    now messaging, or interdepartmental communication, is also
+    modeled. Since what is exchanged between the departments is not
+    actually goods but information, modeling with messages is a more
+    accurate picture of process reality.
+
+    #+attr_html: :width 600px
+    [[./img/solution2.jpg]]
+
 
 * Modeling a system
 

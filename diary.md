@@ -1,12 +1,13 @@
 
 # Table of Contents
 
-1.  [What is this?](#org640554d)
-2.  [Getting started (for real) - September 7, 2021](#org5554338)
+1.  [What is this?](#org73d5d17)
+2.  [Getting started (for real) - September 7, 2021](#orgf379937)
+3.  [When learning data science, trust your intuition - November 10, 2021](#orgc9ee58f)
 
 
 
-<a id="org640554d"></a>
+<a id="org73d5d17"></a>
 
 # What is this?
 
@@ -16,7 +17,7 @@ emails and to park content that I may want to develop later on time
 permitting.
 
 
-<a id="org5554338"></a>
+<a id="orgf379937"></a>
 
 # Getting started (for real) - September 7, 2021
 
@@ -60,6 +61,35 @@ good!
 
 *Image: Valhalla by Ubisoft. Stonehenge, Wiltshire, England (Source:
 dsogaming.com)*
+
+\*
+
+
+<a id="orgc9ee58f"></a>
+
+# When learning data science, trust your intuition - November 10, 2021
+
+![img](./img/feynman.jpg)
+
+> "If we want to solve a problem that we have never solved before, we
+> must leave the door to the unknown afar." -Richard Feynman
+
+Feynman's remark is relevant because learning a lot of new things is
+a problem you may have never solved before. My advice mirrors
+Feynman's: follow your instincts rather than clamp down on them and
+follow a structure that someone else may have recommended because it
+suits him or her. In new fields like data science, a particular
+type of blog post is very popular: "10 ways to get started with data
+science", or "The only way to become a good data scientist FAST", or
+"5 books that any data scientist must have read", etc. Most of these
+articles are worthless, but the meta message for you is: find your
+own way through the maze, and rely on what you already
+know. Otherwise you'll have very little chance to learn, retain and
+use what you read, study and see. The deeper reason is that data
+science, including modeling and everything we do, is quite
+fragmented and still in flux - unlike e.g. mathematics, which is a
+solid building. If you want to learn maths, the floor plan is well
+known and well laid out. Not so in data science.
 
 
 # Footnotes
