@@ -250,10 +250,10 @@
 
 *** Actors
 
-    | Actors are outside our system (CMS)    |
-    | Actors don't have to be actual people  |
-    | Actors must interact with the system   |
-    | Actors cannot be changed system design |
+    | Actors are outside our system (CMS)       |
+    | Actors don't have to be actual people     |
+    | Actors must interact with the system      |
+    | Actors cannot be changed by system design |
 
     #+attr_html: :width 400px
     [[./img/actor.png]]
@@ -326,9 +326,44 @@
     |--------------------------+----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------|
     | Extensions               | A description of any alternative steps from the ones described in the ~main flow~      | 4.1 AUthor Credentials Database does not verify the author's details        |
     |                          |                                                                                        | 4.2 The author's new blog account application is rejected                   |
-    
-*** Relationships
-*** Overview diagrams
+
+    Improved use case diagram after reviewing the description:
+
+    #+attr_html: :width 400px
+    [[./img/boundary2.png]]
+
+*** TODO Relationships
+
+    #+attr_html: :width 300px
+    [[./img/underconstruction.gif]]
+
+**** Reuse with ~<<include>>~
+**** Optional reuse with ~<<extend>>~
+
+
+**** Example: as-is and to-be use case diagrams
+
+     Remember "process optimization" in the context of process modeling?
+     It also applies to requirements analysis with use case diagrams.
+
+     As-is diagram:
+
+     #+attr_html: :width 400px
+     [[./img/asis.png]]
+
+     To-be diagram:
+
+     #+attr_html: :width 400px
+     [[./img/tobe.png]]
+
+     (Source: [[monteleone][Monteleone, 2021]]).
+
+
+*** TODO Overview diagrams
+
+    #+attr_html: :width 300px
+    [[./img/underconstruction.gif]]
+
 
 * Practice
 
@@ -338,7 +373,6 @@
   ([[https://xkcd.com/927][Image: xkcd]]).
 
   * Find mistakes in a use case diagram
-  * As-is and to-be use case diagrams
   * Create a use case from simple requirements
   * Create a use case for the term project
   * Transfer a EPC/BPMN into an UML use case diagram
@@ -346,24 +380,42 @@
 
 ** Find mistakes in a use case diagram
 
-** As-is and to-be use case diagrams
+*** Simple diagrams
 
-   Remember "process optimization" in the context of process modeling?
-   It also applies to requirements analysis with use case diagrams.
+    #+attr_html: :width 200px
+    [[./img/error5.png]]
 
-   As-is diagram:
+    #+attr_html: :width 200px
+    [[./img/error6.png]]
 
-   #+attr_html: :width 400px
-   [[./img/asis.png]]
 
-   To-be diagram:
+    #+attr_html: :width 400px
+    [[./img/error1.png]]
 
-   #+attr_html: :width 400px
-   [[./img/tobe.png]]
+    #+attr_html: :width 400px
+    [[./img/error2.png]]
 
-   (Source: [[monteleone][Monteleone, 2021]]).
+    #+attr_html: :width 400px
+    [[./img/error3.png]]
+
+    #+attr_html: :width 400px
+    [[./img/error4.png]]
+
+*** TODO Diagrams with relationships
+
+
 
 ** Create a use case from simple requirements
+
+   1) Fire up Signavio Process Manager
+   2) Go to your personal folder in ~Shared Documents~
+   3) Create a new ~UML use case diagram~
+   4) Sketch a use case description
+
+      #+begin_quote
+      A user logs into a computer.
+      #+end_quote
+
 ** Create a use case for the term project
 ** Transfer a EPC/BPMN into an UML use case diagram
 ** "Hello world" as use case diagram
