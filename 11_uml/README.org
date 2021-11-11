@@ -222,15 +222,19 @@
    The problem: "Chinese whispers"
 
   #+attr_html: :width 600px
-  [[./img/projects.png]]
+  [[./img/projects.png]]\
 
    The solution: Use case modeling
 
-   | Focus | System *requirements* strictly from the outside looking in |
-   | Task  | Specify the *value* that the system delivers to *users*.   |
-   | Tools | User stories, project canvas, agile workflow               |
+   | Focus    | System *requirements* strictly from the outside looking in |
+   | Task     | Specify the *value* that the system delivers to *users*.   |
+   | Tools    | User *stories*, project canvas, *agile* workflow (Scrum)   |
+   | Excluded | Nonfunctional requirements (e.g. performance targets)      |
    
 *** Actors
+
+    
+    
 *** Use cases
 *** Communication lines
 *** System boundaries
