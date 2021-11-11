@@ -1,46 +1,46 @@
 
 # Table of Contents
 
--   [What will you learn?](#orge6b4c65)
--   [What is UML?](#org5cad672)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org7baa4e4)
-    -   [How UML came about](#org8df0cad)
-    -   [How do you use UML?](#org7090a81)
-        -   [Software engineering views](#org55c0fc2)
-    -   [UML diagram overview](#orgafebdcb)
-        -   [Structure diagrams](#org6810b89)
-        -   [Behavior diagrams](#org9206d52)
-    -   [Case study: airport](#org936b5d2)
-        -   [Use case diagrams: issuing a boarding pass](#org79d70e2)
-        -   [Activity diagrams: checking in](#orgbbbe83d)
-        -   [Sequence diagrams: check in and boarding](#org414054d)
-        -   [Package diagram: organisational units](#org0a728a1)
-        -   [Class diagram: Passenger services](#org3281818)
--   [Discussion - whaddayathink?](#org0ce54c4)
--   [Use case diagrams](#orgbb094a0)
-    -   [Use case elements](#org8e464c4)
-        -   [Requirements](#orgc66bbff)
-        -   [System](#org31ca7e7)
-        -   [Actors](#org6e3f382)
-        -   [Use cases](#org3dea132)
-        -   [Communication lines](#org4f6c16a)
-        -   [System boundaries](#orgb14ce53)
-        -   [Descriptions](#orgade645e)
-        -   [Relationships](#org68e6583)
-        -   [Overview diagrams](#orgb7612c3)
--   [Practice](#org086e4ac)
-    -   [Find mistakes in a use case diagram](#org0c3949b)
-        -   [Simple diagrams](#orgb5d8a2b)
-        -   [Diagrams with relationships](#org402d6f6)
-    -   [Create a use case from simple requirements](#orga11c80a)
-    -   [Create a use case for the term project](#org9746a45)
-    -   [Transfer a EPC/BPMN into an UML use case diagram](#org6bd9f7e)
-    -   ["Hello world" as use case diagram](#org9c84555)
--   [References](#org36b3c03)
+-   [What will you learn?](#orgd58bb39)
+-   [What is UML?](#orgcb0033c)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#orgb16859a)
+    -   [How UML came about](#orgaf919d7)
+    -   [How do you use UML?](#org8266e13)
+        -   [Software engineering views](#org6886948)
+    -   [UML diagram overview](#orgc970632)
+        -   [Structure diagrams](#orgc8176c3)
+        -   [Behavior diagrams](#orgcaa941c)
+    -   [Case study: airport](#org0a1dcce)
+        -   [Use case diagrams: issuing a boarding pass](#org1c98eb0)
+        -   [Activity diagrams: checking in](#org0ea0d9a)
+        -   [Sequence diagrams: check in and boarding](#org2947029)
+        -   [Package diagram: organisational units](#orgc150479)
+        -   [Class diagram: Passenger services](#org3412986)
+-   [Discussion - whaddayathink?](#orgb639639)
+-   [Use case diagrams](#org1a61613)
+    -   [Use case elements](#org0ef534d)
+        -   [Requirements](#orgb988af8)
+        -   [System](#org531ed5c)
+        -   [Actors](#org5447e8f)
+        -   [Use cases](#org52cdf45)
+        -   [Communication lines](#org1e0df32)
+        -   [System boundaries](#orgf6a3ecb)
+        -   [Descriptions](#orga821565)
+        -   [Relationships](#org993576e)
+        -   [Overview diagrams](#orgc6b14a1)
+-   [Practice](#org56ba6df)
+    -   [Find mistakes in a use case diagram](#orge90c9d3)
+        -   [Simple diagrams](#org9ee68ee)
+        -   [Diagrams with relationships](#org4ade56f)
+    -   [Create a use case from simple requirements](#org17ddb54)
+    -   [Create a use case for the term project](#org5f8fedc)
+    -   [Transfer a EPC/BPMN into an UML use case diagram](#org9ba304e)
+    -   ["Hello world" as use case diagram](#orgc1085e1)
+-   [References](#org57c4e8c)
 
 
 
-<a id="orge6b4c65"></a>
+<a id="orgd58bb39"></a>
 
 # What will you learn?
 
@@ -53,12 +53,12 @@
 -   UML practice (use case only)
 
 
-<a id="org5cad672"></a>
+<a id="orgcb0033c"></a>
 
 # What is UML?
 
 
-<a id="org7baa4e4"></a>
+<a id="orgb16859a"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -120,7 +120,7 @@
 In UML, one can also model static systems (without flow).
 
 
-<a id="org8df0cad"></a>
+<a id="orgaf919d7"></a>
 
 ## How UML came about
 
@@ -180,7 +180,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org7090a81"></a>
+<a id="org8266e13"></a>
 
 ## How do you use UML?
 
@@ -215,7 +215,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org55c0fc2"></a>
+<a id="org6886948"></a>
 
 ### Software engineering views
 
@@ -279,17 +279,17 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="orgafebdcb"></a>
+<a id="orgc970632"></a>
 
 ## UML diagram overview
 
 -   Watch the video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org,
-    2021](#org845262e)) - especially the overview (first 10 minutes)
+    2021](#org4fe30ac)) - especially the overview (first 10 minutes)
 
 ![img](./img/uml.png)
 
 
-<a id="org6810b89"></a>
+<a id="orgc8176c3"></a>
 
 ### Structure diagrams
 
@@ -363,7 +363,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org9206d52"></a>
+<a id="orgcaa941c"></a>
 
 ### Behavior diagrams
 
@@ -437,12 +437,12 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org936b5d2"></a>
+<a id="org0a1dcce"></a>
 
 ## Case study: airport
 
 Airports are complicated. Though it does not always go like this:
-watch the [video](https://youtu.be/gWYTnc7m9mE) of a 21st century public project scandal. ([DW 2020](#org6829e6a))
+watch the [video](https://youtu.be/gWYTnc7m9mE) of a 21st century public project scandal. ([DW 2020](#org0b1673d))
 
 Some services in an airport:
 
@@ -461,7 +461,7 @@ Three relevant models:
 ![img](./img/airport2.png)
 
 
-<a id="org79d70e2"></a>
+<a id="org1c98eb0"></a>
 
 ### Use case diagrams: issuing a boarding pass
 
@@ -474,7 +474,7 @@ Extended use case diagram:
 ![img](./img/airport_usecase.png)
 
 
-<a id="orgbbbe83d"></a>
+<a id="org0ea0d9a"></a>
 
 ### Activity diagrams: checking in
 
@@ -491,7 +491,7 @@ The same diagram but without explanations:
 ![img](./img/airport_activity3.png)
 
 
-<a id="org414054d"></a>
+<a id="org2947029"></a>
 
 ### Sequence diagrams: check in and boarding
 
@@ -505,7 +505,7 @@ The entire sequence spans the business use cases `check-in` and
 ![img](./img/airport_sequence2.png)
 
 
-<a id="org0a728a1"></a>
+<a id="orgc150479"></a>
 
 ### Package diagram: organisational units
 
@@ -519,7 +519,7 @@ Package diagram for the organization unit `Passenger service`:
 ![img](./img/airport_package1.png)
 
 
-<a id="org3281818"></a>
+<a id="org3412986"></a>
 
 ### Class diagram: Passenger services
 
@@ -541,7 +541,7 @@ classes.
 ![img](./img/airport_class2.png)
 
 
-<a id="org0ce54c4"></a>
+<a id="orgb639639"></a>
 
 # Discussion - whaddayathink?
 
@@ -549,10 +549,10 @@ classes.
 
 -   What do you like best? EPC, BPMN, UML? Why?
 -   If Germans are so fond of modeling, why can't they seem to build
-    an international airport? ([DW, 2020](#org6829e6a)).
+    an international airport? ([DW, 2020](#org0b1673d)).
 
 
-<a id="orgbb094a0"></a>
+<a id="org1a61613"></a>
 
 # Use case diagrams
 
@@ -609,7 +609,7 @@ Overview: [freeCodeCamp.org](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=3427s
 </table>
 
 
-<a id="org8e464c4"></a>
+<a id="org0ef534d"></a>
 
 ## Use case elements
 
@@ -654,7 +654,7 @@ The solution: Use case modeling
 </table>
 
 
-<a id="orgc66bbff"></a>
+<a id="orgb988af8"></a>
 
 ### Requirements
 
@@ -665,7 +665,7 @@ Requirement A.1:
 > blogger are **verified** using the **author credentials database**.
 
 
-<a id="org31ca7e7"></a>
+<a id="org531ed5c"></a>
 
 ### System
 
@@ -685,7 +685,7 @@ Requirement A.1:
 ![img](./img/cms.png)
 
 
-<a id="org6e3f382"></a>
+<a id="org5447e8f"></a>
 
 ### Actors
 
@@ -732,7 +732,7 @@ Requirement A.1:
     ![img](./img/generalization.png)
 
 
-<a id="org3dea132"></a>
+<a id="org52cdf45"></a>
 
 ### Use cases
 
@@ -770,7 +770,7 @@ interaction that it represents. E.g. for requirement A.1:
 ![img](./img/blog.png)
 
 
-<a id="org4f6c16a"></a>
+<a id="org1e0df32"></a>
 
 ### Communication lines
 
@@ -797,14 +797,14 @@ interaction that it represents. E.g. for requirement A.1:
 ![img](./img/comm2.png)
 
 
-<a id="orgb14ce53"></a>
+<a id="orgf6a3ecb"></a>
 
 ### System boundaries
 
 ![img](./img/boundary.png)
 
 
-<a id="orgade645e"></a>
+<a id="orga821565"></a>
 
 ### Descriptions
 
@@ -970,7 +970,7 @@ Improved use case diagram after reviewing the description:
 ![img](./img/boundary2.png)
 
 
-<a id="org68e6583"></a>
+<a id="org993576e"></a>
 
 ### TODO Relationships
 
@@ -997,17 +997,17 @@ Improved use case diagram after reviewing the description:
     
     ![img](./img/tobe.png)
     
-    (Source: [Monteleone, 2021](#orgd5eba68)).
+    (Source: [Monteleone, 2021](#org98c2bd8)).
 
 
-<a id="orgb7612c3"></a>
+<a id="orgc6b14a1"></a>
 
 ### TODO Overview diagrams
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="org086e4ac"></a>
+<a id="org56ba6df"></a>
 
 # Practice
 
@@ -1019,15 +1019,15 @@ Improved use case diagram after reviewing the description:
 -   Create a use case from simple requirements
 -   Create a use case for the term project
 -   Transfer a EPC/BPMN into an UML use case diagram
--   "Hello World" as UML ([Akehurst, 2014](#org3af9a36))
+-   "Hello World" as UML ([Akehurst, 2014](#orgde86c41))
 
 
-<a id="org0c3949b"></a>
+<a id="orge90c9d3"></a>
 
 ## Find mistakes in a use case diagram
 
 
-<a id="orgb5d8a2b"></a>
+<a id="org9ee68ee"></a>
 
 ### Simple diagrams
 
@@ -1044,12 +1044,12 @@ Improved use case diagram after reviewing the description:
 ![img](./img/error4.png)
 
 
-<a id="org402d6f6"></a>
+<a id="org4ade56f"></a>
 
 ### TODO Diagrams with relationships
 
 
-<a id="orga11c80a"></a>
+<a id="org17ddb54"></a>
 
 ## Create a use case from simple requirements
 
@@ -1061,52 +1061,52 @@ Improved use case diagram after reviewing the description:
     > A user logs into a computer.
 
 
-<a id="org9746a45"></a>
+<a id="org5f8fedc"></a>
 
 ## Create a use case for the term project
 
 
-<a id="org6bd9f7e"></a>
+<a id="org9ba304e"></a>
 
 ## Transfer a EPC/BPMN into an UML use case diagram
 
 
-<a id="org9c84555"></a>
+<a id="orgc1085e1"></a>
 
 ## "Hello world" as use case diagram
 
--   It doesn't have to be this complicated: [Akehurst (2014](#org3af9a36))
+-   It doesn't have to be this complicated: [Akehurst (2014](#orgde86c41))
 
 
-<a id="org36b3c03"></a>
+<a id="org57c4e8c"></a>
 
 # References
 
-<a id="orge6e5418"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="orgecc1075"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="org0f325b3"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="org7ffcb66"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
-<a id="org0f8c19b"></a> Object Management Group: Unified Modeling Language
+<a id="org82bcd33"></a> Object Management Group: Unified Modeling Language
 Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
 
-<a id="org845262e"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+<a id="org4fe30ac"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
 (Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
 
-<a id="org1a7aea5"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+<a id="org123b900"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
 Learn about All Types of UML Diagrams with Examples [blog]. [URL:
 creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
 
-<a id="org3af9a36"></a> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
+<a id="orgde86c41"></a> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
 World. [URL: dhakehurst.blogspot.com.](http://dhakehurst.blogspot.com/2014/08/examples-uml-hello-world-part-1.html)
 
-<a id="org6829e6a"></a> DW (31 Oct 2020). Berlin's new airport finally opens: A story
+<a id="org0b1673d"></a> DW (31 Oct 2020). Berlin's new airport finally opens: A story
 of failure and embarrassment [blog]. URL: [URL: www.dw.com.](https://www.dw.com/en/berlins-new-airport-finally-opens-a-story-of-failure-and-embarrassment/a-55446329)
 
-<a id="orgd5eba68"></a> Monteleone (2021). Generalization/Specialization Use
+<a id="org98c2bd8"></a> Monteleone (2021). Generalization/Specialization Use
 Case Diagrams and Scenarios [blog]. URL: [URL: modernanalyst.com.](https://modernanalyst.com/Resources/Articles/tabid/115/ID/5465/Generalization-Specialization-Use-Case-Diagrams-and-Scenarios.aspx)
 
 
@@ -1118,4 +1118,4 @@ Case Diagrams and Scenarios [blog]. URL: [URL: modernanalyst.com.](https://moder
     + Object-Oriented Software Engineering (Ivar Jacobsen)
     + Others
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org0f8c19b))
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org82bcd33))
