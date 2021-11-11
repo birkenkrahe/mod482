@@ -303,7 +303,7 @@
   | Practice     | Create use case diagrams |
   | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]     | Molly Mellor             |
 
-  SPRINT REVIEW DUE ON FRIDAY, NOVEMBER 12
+  *SPRINT REVIEW DUE ON FRIDAY, NOVEMBER 12*
 
 * Week 14 - November 16
 
