@@ -306,18 +306,18 @@
     | A use case should be accompanied by description                 |
     | Writing/understanding the description requires domain knowledge |
 
-    | DESCRIPTION DETAIL       | MEANING | EXAMPLE |
-    |--------------------------+---------+---------|
-    | Related requirements     |         |         |
-    | Goal in context          |         |         |
-    | Preconditions            |         |         |
-    | Successful end condition |         |         |
-    | Failed end condition     |         |         |
-    | Primary actors           |         |         |
-    | Secondary actors         |         |         |
-    | Trigger                  |         |         |
-    | Main flow                |         |         |
-    | Extensions               |         |         |
+    | DESCRIPTION DETAIL       | MEANING                                                                                | EXAMPLE                                                                     |
+    |--------------------------+----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------|
+    | Related requirements     | Which requirements this use case fulfils                                               | Requirement A.1                                                             |
+    | Goal in context          | The use case's place within the system and why this use case is important              | New or existing author requests a new blog account from the ~Administrator~ |
+    | Preconditions            | What needs to happen before the use case can be executed                               | Author needs to have appropriate proof of identity                          |
+    | Successful end condition | What the system's condition should be if the use case executes successfully            | A new blog account is created for the author                                |
+    | Failed end condition     | What the system's condition should be if the use case fails to execute successfully    |                                                                             |
+    | Primary actors           | The main actors that participate in the use case (and triggering or benefiting actors) |                                                                             |
+    | Secondary actors         | Actors that participate but are not the main players in a use case's execution         |                                                                             |
+    | Trigger                  | The event triggered by an actor that causes the use case to execute                    |                                                                             |
+    | Main flow                | The place to describe each of the important steps in a use case's normal execution     |                                                                             |
+    | Extensions               | A description of any alternative steps from the ones described in the ~main flow~      |                                                                             |
     
 *** Relationships
 *** Overview diagrams
