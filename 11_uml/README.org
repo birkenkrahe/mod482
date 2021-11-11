@@ -338,6 +338,14 @@
     [[./img/underconstruction.gif]]
 
 **** Reuse with ~<<include>>~
+
+     #+attr_html: :width 400px
+     [[./img/include.png]]
+
+     #+attr_html: :width 400px
+     [[./img/include1.png]]
+
+
 **** Optional reuse with ~<<extend>>~
 
 
