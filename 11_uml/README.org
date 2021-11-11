@@ -221,8 +221,8 @@
 
    The problem: "Chinese whispers"
 
-  #+attr_html: :width 600px
-  [[./img/projects.png]]\
+   #+attr_html: :width 600px
+   [[./img/projects.png]]
 
    The solution: Use case modeling
 
@@ -230,24 +230,104 @@
    | Task     | Specify the *value* that the system delivers to *users*.   |
    | Tools    | User *stories*, project canvas, *agile* workflow (Scrum)   |
    | Excluded | Nonfunctional requirements (e.g. performance targets)      |
-   
+
+*** Requirements
+
+    Requirement A.1:
+
+    #+begin_quote
+    A content management system (CMS) shall allow an *administrator* to
+    *create a new blog account*, provided the personal details of the new
+    blogger are *verified* using the *author credentials database*.
+    #+end_quote
+
+*** System
+
+    | A system is defined by its boundaries. |
+
+    #+attr_html: :width 400px
+    [[./img/cms.png]]
+
 *** Actors
 
-    
-    
+    | Actors are outside our system (CMS)    |
+    | Actors don't have to be actual people  |
+    | Actors must interact with the system   |
+    | Actors cannot be changed system design |
+
+    #+attr_html: :width 400px
+    [[./img/actor.png]]
+
+**** Tricky actors
+     Some actors are tricky: is the ~system clock~ an actor?
+
+     Decision process:
+
+     #+attr_html: :width 400px
+     [[./img/actorprocess.png]]
+
+**** Generalization
+
+     #+attr_html: :width 400px
+     [[./img/generalization.png]]
+
 *** Use cases
+
+    | Use cases must have clear pass/fail criteria            |
+    | All actors must know if the system fulfils the use case |
+    | Complete use cases have system interaction and output   |
+    | Use cases provide measurable results to users           |
+
+    A use case is drawn as an oval with a name that describes the
+    interaction that it represents. E.g. for requirement A.1:
+
+    #+attr_html: :width 400px
+    [[./img/blog.png]]
+
 *** Communication lines
+
+    | Communication lines are not flow lines     |
+    | Communication means purposeful interaction |
+
+    #+attr_html: :width 400px
+    [[./img/comm1.png]]
+
+    #+attr_html: :width 400px
+    [[./img/comm2.png]]
+
 *** System boundaries
+
+    #+attr_html: :width 400px
+    [[./img/boundary.png]]
+
 *** Descriptions
+
+    | Use cases are too simple to be self-explanatory                 |
+    | A use case should be accompanied by description                 |
+    | Writing/understanding the description requires domain knowledge |
+
+    | DESCRIPTION DETAIL       | MEANING | EXAMPLE |
+    |--------------------------+---------+---------|
+    | Related requirements     |         |         |
+    | Goal in context          |         |         |
+    | Preconditions            |         |         |
+    | Successful end condition |         |         |
+    | Failed end condition     |         |         |
+    | Primary actors           |         |         |
+    | Secondary actors         |         |         |
+    | Trigger                  |         |         |
+    | Main flow                |         |         |
+    | Extensions               |         |         |
+    
 *** Relationships
 *** Overview diagrams
 
 * Practice
 
-     #+attr_html: :width 600px
-   [[./img/standards.png]]
+  #+attr_html: :width 600px
+  [[./img/standards.png]]
 
-   ([[https://xkcd.com/927][Image: xkcd]]).
+  ([[https://xkcd.com/927][Image: xkcd]]).
 
   * Find mistakes in a use case diagram
   * As-is and to-be use case diagrams
