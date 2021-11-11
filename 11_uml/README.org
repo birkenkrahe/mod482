@@ -312,12 +312,20 @@
     | Goal in context          | The use case's place within the system and why this use case is important              | New or existing author requests a new blog account from the ~Administrator~ |
     | Preconditions            | What needs to happen before the use case can be executed                               | Author needs to have appropriate proof of identity                          |
     | Successful end condition | What the system's condition should be if the use case executes successfully            | A new blog account is created for the author                                |
-    | Failed end condition     | What the system's condition should be if the use case fails to execute successfully    |                                                                             |
-    | Primary actors           | The main actors that participate in the use case (and triggering or benefiting actors) |                                                                             |
-    | Secondary actors         | Actors that participate but are not the main players in a use case's execution         |                                                                             |
-    | Trigger                  | The event triggered by an actor that causes the use case to execute                    |                                                                             |
-    | Main flow                | The place to describe each of the important steps in a use case's normal execution     |                                                                             |
-    | Extensions               | A description of any alternative steps from the ones described in the ~main flow~      |                                                                             |
+    | Failed end condition     | What the system's condition should be if the use case fails to execute successfully    | The application for a new blog account is rejected                          |
+    | Primary actors           | The main actors that participate in the use case (and triggering or benefiting actors) | ~Administrator~                                                             |
+    | Secondary actors         | Actors that participate but are not the main players in a use case's execution         | Author Credentials Database                                                 |
+    | Trigger                  | The event triggered by an actor that causes the use case to execute                    | ~Administrator~ asks CMS to ~create a new blog account~                     |
+    |--------------------------+----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------|
+    | Main flow                | The place to describe each of the important steps in a use case's normal execution     | 1. Admin asks CMS to create new account                                     |
+    |                          |                                                                                        | 2. Admin selects an account type                                            |
+    |                          |                                                                                        | 3. Admin enters author's details                                            |
+    |                          |                                                                                        | 4. Author's details are verified using the Author Credentials Database      |
+    |                          |                                                                                        | 5. The new blog account is created                                          |
+    |                          |                                                                                        | 6. A summary of the new blog account's details are emailed to the author    |
+    |--------------------------+----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------|
+    | Extensions               | A description of any alternative steps from the ones described in the ~main flow~      | 4.1 AUthor Credentials Database does not verify the author's details        |
+    |                          |                                                                                        | 4.2 The author's new blog account application is rejected                   |
     
 *** Relationships
 *** Overview diagrams
