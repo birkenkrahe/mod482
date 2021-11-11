@@ -3,7 +3,7 @@
 #+SUBTITLE: Data modeling seminar 482.02 Fall 2021
 #+STARTUP: overview
 #+OPTIONS: toc:1 num:nil ^:nil
-#+INFOJS_OPT: :view:info 
+#+INFOJS_OPT: :view:info
 * What will you learn?
 
   * What is UML?
@@ -62,7 +62,8 @@
 
 ** UML diagram overview
 
-   * Video: [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course]] ([[video][freeCodeCamp.org, 2021]])
+   * Watch the video: [[https://youtu.be/WnMQ8HlmeXc][UML Diagrams Full Course]] ([[video][freeCodeCamp.org,
+     2021]]) - especially the overview (first 10 minutes)
 
    #+attr_html: :width 600px
    [[./img/uml.png]]
@@ -204,15 +205,78 @@
 
 * Use case diagrams
 
-  [[./img/underconstruction.gif]]
+  #+attr_html: :width 400px
+  [[./img/food.png]]
+
+  Overview: [[https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=3427s][freeCodeCamp.org]] (video, 7 min)
+
+  | PURPOSE                                      | CASE EXAMPLE                               | VIEW        |
+  |----------------------------------------------+--------------------------------------------+-------------|
+  | Specify the context of a system              | Weblog CMS                                 | Logical     |
+  | Capture requirements of a system             | Create new blog account                    | Process     |
+  | Validate system architecture                 | Specify successful/failed end condition    | Development |
+  | Drive implementation and generate test cases | Program and debug use cases with test data | Physical    |
+
+** Use case elements
+
+   The problem: "Chinese whispers"
+
+  #+attr_html: :width 600px
+  [[./img/projects.png]]
+
+   The solution: Use case modeling
+
+   | Focus | System *requirements* strictly from the outside looking in |
+   | Task  | Specify the *value* that the system delivers to *users*.   |
+   | Tools | User stories, project canvas, agile workflow               |
+   
+*** Actors
+*** Use cases
+*** Communication lines
+*** System boundaries
+*** Descriptions
+*** Relationships
+*** Overview diagrams
 
 * Practice
 
-  [[./img/underconstruction.gif]]
+     #+attr_html: :width 600px
+   [[./img/standards.png]]
 
+   ([[https://xkcd.com/927][Image: xkcd]]).
+
+  * Find mistakes in a use case diagram
+  * As-is and to-be use case diagrams
+  * Create a use case from simple requirements
+  * Create a use case for the term project
+  * Transfer a EPC/BPMN into an UML use case diagram
   * "Hello World" as UML ([[hello][Akehurst, 2014]])
-  * Transfer EPC/BPMN into UML
-  * Simple system description
+
+** Find mistakes in a use case diagram
+
+** As-is and to-be use case diagrams
+
+   Remember "process optimization" in the context of process modeling?
+   It also applies to requirements analysis with use case diagrams.
+
+   As-is diagram:
+
+   #+attr_html: :width 400px
+   [[./img/asis.png]]
+
+   To-be diagram:
+
+   #+attr_html: :width 400px
+   [[./img/tobe.png]]
+
+   (Source: [[monteleone][Monteleone, 2021]]).
+
+** Create a use case from simple requirements
+** Create a use case for the term project
+** Transfer a EPC/BPMN into an UML use case diagram
+** "Hello world" as use case diagram
+
+   * It doesn't have to be this complicated: [[hello][Akehurst (2014]])
 
 * References
 
@@ -238,6 +302,9 @@
 
   <<dw>> DW (31 Oct 2020). Berlin's new airport finally opens: A story
   of failure and embarrassment [blog]. URL: [[https://www.dw.com/en/berlins-new-airport-finally-opens-a-story-of-failure-and-embarrassment/a-55446329][URL: www.dw.com.]]
+
+  <<monteleone>> Monteleone (2021). Generalization/Specialization Use
+  Case Diagrams and Scenarios [blog]. URL: [[https://modernanalyst.com/Resources/Articles/tabid/115/ID/5465/Generalization-Specialization-Use-Case-Diagrams-and-Scenarios.aspx][URL: modernanalyst.com.]]
 
 * Footnotes
 

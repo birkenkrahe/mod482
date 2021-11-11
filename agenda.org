@@ -288,7 +288,7 @@
 ** 3rd sprint review - results focus (Fri 12 Nov 1pm)
 
    [[./img/sprint.gif]]
-   
+
    * Create a presentation (PDF or PPT) that represents your progress
      (or lack thereof) using the usual sprint review questions.
    * Upload the presentation in the [[https://github.com/birkenkrahe/mod482/tree/main/presentations/3rd_sprint_review][~presentation/3rd_sprint_review~]]
@@ -297,40 +297,42 @@
 
 * Week 13 - November 11
 
+  [[./img/veterans.png]]
+
   | Lecture      | UML Use Case Diagrams    |
   | Practice     | Create use case diagrams |
   | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]     | Molly Mellor             |
 
   SPRINT REVIEW DUE ON FRIDAY, NOVEMBER 12
-  
+
 * Week 14 - November 16
 
-    | Feedback | 3rd Sprint Review            |
-    | Test 8   | UML                          |
-    | Lecture  | Entity Relationship diagrams |
-    | Practice | Create E-R diagrams          |
-    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Dane Roach                   |
+  | Feedback | 3rd Sprint Review            |
+  | Test 8   | UML                          |
+  | Lecture  | Entity Relationship diagrams |
+  | Practice | Create E-R diagrams          |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Dane Roach                   |
 
 * Week 14 - November 18
 
-    | Feedback | 3rd Sprint Review            |
-    | [[https://github.com/birkenkrahe/mod482/tree/main/12_erd][Lecture]]  | Entity Relationship diagrams |
-    | Practice | Create E-R diagrams          |
-    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Jacob Sampley                |
+  | Feedback | 3rd Sprint Review            |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/12_erd][Lecture]]  | Entity Relationship diagrams |
+  | Practice | Create E-R diagrams          |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Jacob Sampley                |
 
 * Week 15 - November 23
 
-    | Test 9   | Entity-Relationship diagrams     |
-    | [[https://github.com/birkenkrahe/mod482/tree/main/13_rpa][Lecture]]  | Robotic Process Automation (RPA) |
-    | Practice | RPA lab                          |
-    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | William Sonnier                  |
+  | Test 9   | Entity-Relationship diagrams     |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/13_rpa][Lecture]]  | Robotic Process Automation (RPA) |
+  | Practice | RPA lab                          |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | William Sonnier                  |
 
 * Week 16 - November 30
 
-    | [[https://github.com/birkenkrahe/mod482/tree/main/14_process_mining][Lecture]]  | Process Mining         |
-    | Practice | Process Mining lab     |
-    | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Nick Chaney            |
-    | Test 10  | RPA and Process Mining |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/14_process_mining][Lecture]]  | Process Mining         |
+  | Practice | Process Mining lab     |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Nick Chaney            |
+  | Test 10  | RPA and Process Mining |
 
 * References
 
