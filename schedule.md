@@ -218,15 +218,15 @@
 
 <tr>
 <td class="org-left">11-Nov</td>
-<td class="org-left">UML (lab)</td>
-<td class="org-left">Molly Mellor</td>
+<td class="org-left">UML Use Case Diagrams</td>
+<td class="org-left"><del>Molly Mellor</del></td>
 <td class="org-left">3RD SPRINT REVIEW (online)</td>
 </tr>
 
 
 <tr>
 <td class="org-left">16-Nov</td>
-<td class="org-left">Entity Relationship Diagrams (ERD)</td>
+<td class="org-left">UML practice</td>
 <td class="org-left">Dane Roach</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -234,7 +234,7 @@
 
 <tr>
 <td class="org-left">18-Nov</td>
-<td class="org-left">ERD (lab)</td>
+<td class="org-left">Robotic Process Automation (RPA)</td>
 <td class="org-left">Jacob Sampley</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -242,7 +242,7 @@
 
 <tr>
 <td class="org-left">23-Nov</td>
-<td class="org-left">Robotic Process Automation (RPA)</td>
+<td class="org-left">Process mining</td>
 <td class="org-left">William Sonnier</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -250,15 +250,15 @@
 
 <tr>
 <td class="org-left">30-Nov</td>
-<td class="org-left">Process mining</td>
-<td class="org-left">Nick Chaney</td>
+<td class="org-left">MAY BE CANCELLED (Details in class)</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-left">ESSAY DUE: NOV 29</td>
 </tr>
 
 
 <tr>
 <td class="org-left">2-Dec</td>
-<td class="org-left">Course summary</td>
+<td class="org-left">MAY BE CANCELLED (Details in class)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
