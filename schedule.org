@@ -27,10 +27,10 @@
    | 2-Nov    | CANCELLED                                                 |                     |                            |
    | 4-Nov    | BPMN (lab)                                                | Nick Norwood        |                            |
    | 9-Nov    | Unified Modeling Language (UML)                           | Dat O               |                            |
-   | 11-Nov   | UML (lab)                                                 | Molly Mellor        | 3RD SPRINT REVIEW (online) |
-   | 16-Nov   | Entity Relationship Diagrams (ERD)                        | Dane Roach          |                            |
-   | 18-Nov   | ERD (lab)                                                 | Jacob Sampley       |                            |
-   | 23-Nov   | Robotic Process Automation (RPA)                          | William Sonnier     |                            |
-   | 30-Nov   | Process mining                                            | Nick Chaney         |                            |
-   | 2-Dec    | Course summary                                            |                     |                            |
+   | 11-Nov   | UML Use Case Diagrams                                     | +Molly Mellor+      | 3RD SPRINT REVIEW (online) |
+   | 16-Nov   | UML practice                                              | Dane Roach          |                            |
+   | 18-Nov   | Robotic Process Automation (RPA)                          | Jacob Sampley       |                            |
+   | 23-Nov   | Process mining                                            | William Sonnier     |                            |
+   | 30-Nov   | MAY BE CANCELLED (Details in class)                       |                     | ESSAY DUE: NOV 29          |
+   | 2-Dec    | MAY BE CANCELLED (Details in class)                       |                     |                            |
    | Dec 6-10 | FINAL EXAM                                                |                     | FINAL EXAM                 |
