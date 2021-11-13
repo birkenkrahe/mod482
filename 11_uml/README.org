@@ -157,7 +157,7 @@
     ~boarding~:
 
     #+attr_html: :width 400px
->    [[./img/airport_sequence2.png]]
+    >    [[./img/airport_sequence2.png]]
 
 *** Package diagram: organisational units
 
@@ -220,17 +220,17 @@
 
 * Use case elements
 ** Situation
-  The problem: "Chinese whispers"
+   The problem: "Chinese whispers"
 
-  #+attr_html: :width 600px
-  [[./img/projects.png]]
+   #+attr_html: :width 600px
+   [[./img/projects.png]]
 
-  The solution: Use case modeling
+   The solution: Use case modeling
 
-  | Focus    | System *requirements* strictly from the outside looking in |
-  | Task     | Specify the *value* that the system delivers to *users*.   |
-  | Tools    | User *stories*, project canvas, *agile* workflow (Scrum)   |
-  | Excluded | Nonfunctional requirements (e.g. performance targets)      |
+   | Focus    | System *requirements* strictly from the outside looking in |
+   | Task     | Specify the *value* that the system delivers to *users*.   |
+   | Tools    | User *stories*, project canvas, *agile* workflow (Scrum)   |
+   | Excluded | Nonfunctional requirements (e.g. performance targets)      |
 
 ** Requirements
 
@@ -321,14 +321,12 @@
    | Primary actors           | ~Administrator~                                                             | The main actors that participate in the use case (and triggering or benefiting actors) |
    | Secondary actors         | Author Credentials Database                                                 | Actors that participate but are not the main players in a use case's execution         |
    | Trigger                  | ~Administrator~ asks CMS to ~create a new blog account~                     | The event triggered by an actor that causes the use case to execute                    |
-   |--------------------------+-----------------------------------------------------------------------------+----------------------------------------------------------------------------------------|
    | Main flow                | 1. Admin asks CMS to create new account                                     | The place to describe each of the important steps in a use case's normal execution     |
    |                          | 2. Admin selects an account type                                            |                                                                                        |
    |                          | 3. Admin enters author's details                                            |                                                                                        |
    |                          | 4. Author's details are verified using the Author Credentials Database      |                                                                                        |
    |                          | 5. The new blog account is created                                          |                                                                                        |
    |                          | 6. A summary of the new blog account's details are emailed to the author    |                                                                                        |
-   |--------------------------+-----------------------------------------------------------------------------+----------------------------------------------------------------------------------------|
    | Extensions               | 4.1 Author Credentials Database does not verify the author's details        | A description of any alternative steps from the ones described in the ~main flow~      |
    |                          | 4.2 The author's new blog account application is rejected                   |                                                                                        |
 
@@ -365,15 +363,15 @@
    ~Included cases~ category, and the ~main flow~ must contain
    ~include::Check Identity~:
 
-   | Main flow | ...                                 |
-   |           | 4. The author's details are checked |
-   |           | *include::Check Identity*           |
-   |           | ...                                 |
+   | Main flow                 | ...                                 |
+   | *include::Check Identity* | 4. The author's details are checked |
+   |                           | ...                                 |
 
    The use case itself get its own description:
 
    | DESCRIPTION DETAIL       | DESCRIPTION                                                            |
    |--------------------------+------------------------------------------------------------------------|
+   | Use case name            | Check Identity                                                         |
    | Related requirements     | Requirement A.1, Requirement A.2                                       |
    | Goal in context          | An author's details need to be checked and verified as accurate        |
    | Preconditions            | The author being checked has appopriate proof of identity              |
@@ -384,14 +382,10 @@
    | Main flow                | 1. The details are provided to the system                              |
    |                          | 2. The Author Credentials Database verifies the details                |
    |                          | 3. Details are returned as verified by the Author Credentials Database |
-   | Extensions               | 4.1 AUthor Credentials Database does not verify the author's details   |
-   |                          | 4.2 The author's new blog account application is rejected              |
+   | Extensions               | 2.1 The Author Credentials Database does not verify the details        |
+   |                          | 2.2 The details are returned as unverified                             |
 
-   The main flow can be shown as an activity diagram:
-
-   [[./img/check_identity.png]]
-
-** Special cases
+** Special cases: inheritance
 
    If there are different blog account types (e.g. with different
    rights), the use cases will differ little. Different types can be
@@ -401,11 +395,41 @@
    #+attr_html: :width 400px
    [[./img/general.png]]
 
-   The description gets a ~Base Use Case~ field:
+   The description gets a ~Base Use Case~ field. Here is one of the
+   special cases:
 
-   
-   
-** Optional reuse with ~<<extend>>~
+   | DESCRIPTION DETAIL        | EXAMPLE                                                                                                                       |
+   |---------------------------+-------------------------------------------------------------------------------------------------------------------------------|
+   | Use case name             | Create a new editorial blog account                                                                                           |
+   | Related requirements      | Requirement A.1                                                                                                               |
+   | Goal in context           | New or existing author requests a new *editorial* blog account from the ~Administrator~                                       |
+   | Preconditions             | Author needs to have appropriate proof of identity                                                                            |
+   | Successful end condition  | A new *editorial* blog account is created for the author                                                                      |
+   | Failed end condition      | The application for a new *editorial* blog account is rejected                                                                |
+   | Primary actors            | ~Administrator~                                                                                                               |
+   | Secondary actors          | *None*                                                                                                                        |
+   | Trigger                   | ~Administrator~ asks CMS to ~create a new editorial blog account~ that will allow an author to edit entries in a set of blogs |
+   | Base use cases            | *Create a new blog account*                                                                                                   |
+   | Main flow                 | 1. Admin asks CMS to create new blog account                                                                                  |
+   |                           | *2. Admin selects the editorial account type*                                                                                 |
+   |                           | 3. Admin enters author's details                                                                                              |
+   |                           | *4. The Admin selects the blogs that the account is to have editorial rights over*                                            |
+   | *include::Check Identity* | 5. Author's details are checked                                                                                               |
+   |                           | 6. The new *editorial* blog account is created                                                                                |
+   |                           | 6. A summary of the new *editorial* blog account's details are emailed to the author                                          |
+   | Extensions                | Branching action:                                                                                                             |
+   |                           | *5.1 Author is not allowed to edit the indicated blogs*                                                                       |
+   |                           | *5.2 The editorial blog account application is rejected*                                                                      |
+   |                           | *5.3 The application rejection is recorded as part of the author's history*                                                   |
+
+   Inheritance is absolute: every step in the general use case must
+   occur in the specialized use cases, and its relationships must also
+   make sense in the specialized use cases.
+
+   If you don't want this, create a subroutine and ~<<include>>~ it,
+   or use the upcoming ~<<extend>>~ relationship.
+
+** TODO Optional reuse with ~<<extend>>~
 
 
 ** Process optimization with use cases
@@ -430,7 +454,6 @@
 
    #+attr_html: :width 300px
    [[./img/underconstruction.gif]]
-
 
 ** Use case practice
 
