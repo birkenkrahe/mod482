@@ -429,8 +429,23 @@
    If you don't want this, create a subroutine and ~<<include>>~ it,
    or use the upcoming ~<<extend>>~ relationship.
 
-** TODO Optional reuse with ~<<extend>>~
+** Optional reuse with ~<<extend>>~
 
+   The branching action ~5.3~ in the last step shows a use case
+   (~Record application failure~) that extends the original use case,
+   ~Create new editorial blog account~.
+
+   #+attr_html: :width 600px
+   [[./img/extend.png]]
+
+
+   Very importantly, it is an
+   *optional extension*: you don't want to record application failure
+   if the application was successful. Like ~Check identity~, this
+   extension is shared by both account creation use cases.
+
+   #+attr_html: :width 600px
+   [[./img/extend1.png]]
 
 ** Process optimization with use cases
 

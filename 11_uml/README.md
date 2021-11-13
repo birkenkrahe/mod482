@@ -1,50 +1,50 @@
 
 # Table of Contents
 
--   [What will you learn?](#org5506e39)
--   [What is UML?](#org52cbac8)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org7e9ed89)
-    -   [How UML came about](#orgd830eb7)
-    -   [How do you use UML?](#org1637dce)
-        -   [Software engineering views](#orgef797a5)
-    -   [UML diagram overview](#org90e8911)
-        -   [Structure diagrams](#orgd6abb5e)
-        -   [Behavior diagrams](#org628758c)
-    -   [Case study: airport](#org01c7ebe)
-        -   [Use case diagrams: issuing a boarding pass](#orgdb4f523)
-        -   [Activity diagrams: checking in](#org3687385)
-        -   [Sequence diagrams: check in and boarding](#org6d2bce4)
-        -   [Package diagram: organisational units](#orga2d288d)
-        -   [Class diagram: Passenger services](#orgd5d6021)
--   [Discussion - whaddayathink?](#org3457054)
--   [Use case diagrams](#org7488f4e)
--   [Use case elements](#org9b838d0)
-    -   [Situation](#org50a8253)
-    -   [Requirements](#orgd3715f2)
-    -   [System](#org2c3f0de)
-    -   [Actors](#org47b7634)
-        -   [Tricky actors](#orgaa1e365)
-        -   [Generalization](#org786c0ef)
-    -   [Use cases](#org8ba087d)
-    -   [Communication lines](#org90d4d3c)
-    -   [System boundaries](#orga86782b)
-    -   [Descriptions](#org9c28019)
-    -   [Reusing use cases with `<<include>>`](#orga74286b)
-    -   [Special cases: inheritance](#org2966970)
-    -   [Optional reuse with `<<extend>>`](#org7657ba1)
-    -   [Process optimization with use cases](#orgdba6760)
-    -   [Overview diagrams](#orgdf24896)
-    -   [Use case practice](#orge226ea9)
-        -   [Find mistakes in a use case diagram](#orgc4931df)
-        -   [Create a use case from simple requirements](#orgc3228ad)
-        -   [Create a use case for the term project](#org6d3ff9e)
-        -   [Transfer a EPC/BPMN into an UML use case diagram](#orga0a724d)
-        -   ["Hello world" as use case diagram](#org114cc61)
--   [References](#orge8de32c)
+-   [What will you learn?](#org15134c6)
+-   [What is UML?](#org9f33bd4)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org838eb24)
+    -   [How UML came about](#org4aefe01)
+    -   [How do you use UML?](#org160a312)
+        -   [Software engineering views](#org155d4f6)
+    -   [UML diagram overview](#org0f2b64a)
+        -   [Structure diagrams](#org1e86b92)
+        -   [Behavior diagrams](#orgff61bfe)
+    -   [Case study: airport](#org5ab9925)
+        -   [Use case diagrams: issuing a boarding pass](#orgb1a5301)
+        -   [Activity diagrams: checking in](#org104d902)
+        -   [Sequence diagrams: check in and boarding](#orgc8bda8a)
+        -   [Package diagram: organisational units](#org0f51440)
+        -   [Class diagram: Passenger services](#org331bfc2)
+-   [Discussion - whaddayathink?](#org49f8f59)
+-   [Use case diagrams](#org4df57a3)
+-   [Use case elements](#orgc886449)
+    -   [Situation](#org6ade56a)
+    -   [Requirements](#org2e9b41a)
+    -   [System](#orga0e4248)
+    -   [Actors](#org343a106)
+        -   [Tricky actors](#orgabd8acc)
+        -   [Generalization](#orgbfe87a1)
+    -   [Use cases](#org48d09b0)
+    -   [Communication lines](#org6ac7a27)
+    -   [System boundaries](#orgc8912d8)
+    -   [Descriptions](#org8ec5880)
+    -   [Reusing use cases with `<<include>>`](#orgd635621)
+    -   [Special cases: inheritance](#org251e327)
+    -   [Optional reuse with `<<extend>>`](#org5e41bd5)
+    -   [Process optimization with use cases](#org47d6f44)
+    -   [Overview diagrams](#orgc78e802)
+    -   [Use case practice](#orgd458dd7)
+        -   [Find mistakes in a use case diagram](#org6008cbb)
+        -   [Create a use case from simple requirements](#orgb0cd040)
+        -   [Create a use case for the term project](#org510570e)
+        -   [Transfer a EPC/BPMN into an UML use case diagram](#orgdcaea50)
+        -   ["Hello world" as use case diagram](#org47b0fcf)
+-   [References](#orga7a751c)
 
 
 
-<a id="org5506e39"></a>
+<a id="org15134c6"></a>
 
 # What will you learn?
 
@@ -57,12 +57,12 @@
 -   UML practice (use case only)
 
 
-<a id="org52cbac8"></a>
+<a id="org9f33bd4"></a>
 
 # What is UML?
 
 
-<a id="org7e9ed89"></a>
+<a id="org838eb24"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -124,7 +124,7 @@
 In UML, one can also model static systems (without flow).
 
 
-<a id="orgd830eb7"></a>
+<a id="org4aefe01"></a>
 
 ## How UML came about
 
@@ -184,7 +184,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org1637dce"></a>
+<a id="org160a312"></a>
 
 ## How do you use UML?
 
@@ -219,7 +219,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="orgef797a5"></a>
+<a id="org155d4f6"></a>
 
 ### Software engineering views
 
@@ -283,17 +283,17 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org90e8911"></a>
+<a id="org0f2b64a"></a>
 
 ## UML diagram overview
 
 -   Watch the video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org,
-    2021](#org05092ae)) - especially the overview (first 10 minutes)
+    2021](#orgaea38aa)) - especially the overview (first 10 minutes)
 
 ![img](./img/uml.png)
 
 
-<a id="orgd6abb5e"></a>
+<a id="org1e86b92"></a>
 
 ### Structure diagrams
 
@@ -367,7 +367,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org628758c"></a>
+<a id="orgff61bfe"></a>
 
 ### Behavior diagrams
 
@@ -441,12 +441,12 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org01c7ebe"></a>
+<a id="org5ab9925"></a>
 
 ## Case study: airport
 
 Airports are complicated. Though it does not always go like this:
-watch the [video](https://youtu.be/gWYTnc7m9mE) of a 21st century public project scandal. ([DW 2020](#org7d121b9))
+watch the [video](https://youtu.be/gWYTnc7m9mE) of a 21st century public project scandal. ([DW 2020](#orgbc8eae0))
 
 Some services in an airport:
 
@@ -465,7 +465,7 @@ Three relevant models:
 ![img](./img/airport2.png)
 
 
-<a id="orgdb4f523"></a>
+<a id="orgb1a5301"></a>
 
 ### Use case diagrams: issuing a boarding pass
 
@@ -478,7 +478,7 @@ Extended use case diagram:
 ![img](./img/airport_usecase.png)
 
 
-<a id="org3687385"></a>
+<a id="org104d902"></a>
 
 ### Activity diagrams: checking in
 
@@ -495,7 +495,7 @@ The same diagram but without explanations:
 ![img](./img/airport_activity3.png)
 
 
-<a id="org6d2bce4"></a>
+<a id="orgc8bda8a"></a>
 
 ### Sequence diagrams: check in and boarding
 
@@ -509,7 +509,7 @@ The entire sequence spans the business use cases `check-in` and
 >    ![img](./img/airport_sequence2.png)
 
 
-<a id="orga2d288d"></a>
+<a id="org0f51440"></a>
 
 ### Package diagram: organisational units
 
@@ -523,7 +523,7 @@ Package diagram for the organization unit `Passenger service`:
 ![img](./img/airport_package1.png)
 
 
-<a id="orgd5d6021"></a>
+<a id="org331bfc2"></a>
 
 ### Class diagram: Passenger services
 
@@ -545,7 +545,7 @@ classes.
 ![img](./img/airport_class2.png)
 
 
-<a id="org3457054"></a>
+<a id="org49f8f59"></a>
 
 # Discussion - whaddayathink?
 
@@ -553,10 +553,10 @@ classes.
 
 -   What do you like best? EPC, BPMN, UML? Why?
 -   If Germans are so fond of modeling, why can't they seem to build
-    an international airport? ([DW, 2020](#org7d121b9)).
+    an international airport? ([DW, 2020](#orgbc8eae0)).
 
 
-<a id="org7488f4e"></a>
+<a id="org4df57a3"></a>
 
 # Use case diagrams
 
@@ -614,12 +614,12 @@ classes.
 </table>
 
 
-<a id="org9b838d0"></a>
+<a id="orgc886449"></a>
 
 # Use case elements
 
 
-<a id="org50a8253"></a>
+<a id="org6ade56a"></a>
 
 ## Situation
 
@@ -664,7 +664,7 @@ The solution: Use case modeling
 </table>
 
 
-<a id="orgd3715f2"></a>
+<a id="org2e9b41a"></a>
 
 ## Requirements
 
@@ -675,7 +675,7 @@ Requirement A.1:
 > blogger are **verified** using the **author credentials database**.
 
 
-<a id="org2c3f0de"></a>
+<a id="orga0e4248"></a>
 
 ## System
 
@@ -695,7 +695,7 @@ Requirement A.1:
 ![img](./img/cms.png)
 
 
-<a id="org47b7634"></a>
+<a id="org343a106"></a>
 
 ## Actors
 
@@ -730,7 +730,7 @@ Requirement A.1:
 ![img](./img/actor.png)
 
 
-<a id="orgaa1e365"></a>
+<a id="orgabd8acc"></a>
 
 ### Tricky actors
 
@@ -745,14 +745,14 @@ system's design (it's part of the given computing
 infrastructure), so it's not an `actor`.
 
 
-<a id="org786c0ef"></a>
+<a id="orgbfe87a1"></a>
 
 ### Generalization
 
 ![img](./img/generalization.png)
 
 
-<a id="org8ba087d"></a>
+<a id="org48d09b0"></a>
 
 ## Use cases
 
@@ -790,7 +790,7 @@ interaction that it represents. E.g. for requirement A.1:
 ![img](./img/blog.png)
 
 
-<a id="org90d4d3c"></a>
+<a id="org6ac7a27"></a>
 
 ## Communication lines
 
@@ -817,14 +817,14 @@ interaction that it represents. E.g. for requirement A.1:
 ![img](./img/comm2.png)
 
 
-<a id="orga86782b"></a>
+<a id="orgc8912d8"></a>
 
 ## System boundaries
 
 ![img](./img/boundary.png)
 
 
-<a id="org9c28019"></a>
+<a id="org8ec5880"></a>
 
 ## Descriptions
 
@@ -988,7 +988,7 @@ Improved use case diagram after reviewing the description:
 ![img](./img/boundary2.png)
 
 
-<a id="orga74286b"></a>
+<a id="orgd635621"></a>
 
 ## Reusing use cases with `<<include>>`
 
@@ -1140,7 +1140,7 @@ The use case itself get its own description:
 </table>
 
 
-<a id="org2966970"></a>
+<a id="org251e327"></a>
 
 ## Special cases: inheritance
 
@@ -1305,12 +1305,25 @@ If you don't want this, create a subroutine and `<<include>>` it,
 or use the upcoming `<<extend>>` relationship.
 
 
-<a id="org7657ba1"></a>
+<a id="org5e41bd5"></a>
 
-## TODO Optional reuse with `<<extend>>`
+## Optional reuse with `<<extend>>`
+
+The branching action `5.3` in the last step shows a use case
+(`Record application failure`) that extends the original use case,
+`Create new editorial blog account`.
+
+![img](./img/extend.png)
+
+Very importantly, it is an
+**optional extension**: you don't want to record application failure
+if the application was successful. Like `Check identity`, this
+extension is shared by both account creation use cases.
+
+![img](./img/extend1.png)
 
 
-<a id="orgdba6760"></a>
+<a id="org47d6f44"></a>
 
 ## Process optimization with use cases
 
@@ -1325,17 +1338,17 @@ To-be diagram:
 
 ![img](./img/tobe.png)
 
-(Source: [Monteleone, 2021](#orgc5c36d8)).
+(Source: [Monteleone, 2021](#orgbe11b3e)).
 
 
-<a id="orgdf24896"></a>
+<a id="orgc78e802"></a>
 
 ## TODO Overview diagrams
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="orge226ea9"></a>
+<a id="orgd458dd7"></a>
 
 ## Use case practice
 
@@ -1347,10 +1360,10 @@ To-be diagram:
 -   Create a use case from simple requirements
 -   Create a use case for the term project
 -   Transfer a EPC/BPMN into an UML use case diagram
--   "Hello World" as UML ([Akehurst, 2014](#orgff6e924))
+-   "Hello World" as UML ([Akehurst, 2014](#orgaf2b15d))
 
 
-<a id="orgc4931df"></a>
+<a id="org6008cbb"></a>
 
 ### Find mistakes in a use case diagram
 
@@ -1381,7 +1394,7 @@ and use cases.
 -   TODO Diagrams with relationships
 
 
-<a id="orgc3228ad"></a>
+<a id="orgb0cd040"></a>
 
 ### Create a use case from simple requirements
 
@@ -1393,17 +1406,17 @@ and use cases.
     > A user logs into a computer.
 
 
-<a id="org6d3ff9e"></a>
+<a id="org510570e"></a>
 
 ### Create a use case for the term project
 
 
-<a id="orga0a724d"></a>
+<a id="orgdcaea50"></a>
 
 ### Transfer a EPC/BPMN into an UML use case diagram
 
 
-<a id="org114cc61"></a>
+<a id="org47b0fcf"></a>
 
 ### "Hello world" as use case diagram
 
@@ -1422,7 +1435,7 @@ and use cases.
 
 -   Further reading
 
-    -   It doesn't have to be this complicated: [Akehurst, 2014](#orgff6e924)
+    -   It doesn't have to be this complicated: [Akehurst, 2014](#orgaf2b15d)
     -   UML for the C programming language:
         
         > "Unified Modeling Language (UML) has been highly successful in
@@ -1434,41 +1447,41 @@ and use cases.
         > embedded systems overall by far is the language C. On the other
         > hand, UML is used almost exclusively for object-oriented systems
         > development, and most realtime and embedded designs are
-        > functionally oriented."  ([Douglass, 2009](#org102f5fc))
+        > functionally oriented."  ([Douglass, 2009](#orgfc0e7fd))
 
 
-<a id="orge8de32c"></a>
+<a id="orga7a751c"></a>
 
 # References
 
-<a id="orge469838"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+<a id="org15ec160"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
 
 1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
 
-<a id="orgfa811c3"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+<a id="orgfee33a2"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
 Project-based Tutorial. Packt Publishing
 (2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
 
-<a id="org517fd40"></a> Object Management Group: Unified Modeling Language
+<a id="orga4b6adc"></a> Object Management Group: Unified Modeling Language
 Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
 
-<a id="org05092ae"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+<a id="orgaea38aa"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
 (Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
 
-<a id="orgae3225d"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+<a id="org6fb8c08"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
 Learn about All Types of UML Diagrams with Examples [blog]. [URL:
 creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
 
-<a id="orgff6e924"></a> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
+<a id="orgaf2b15d"></a> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
 World. [URL: dhakehurst.blogspot.com.](http://dhakehurst.blogspot.com/2014/08/examples-uml-hello-world-part-1.html)
 
-<a id="org7d121b9"></a> DW (31 Oct 2020). Berlin's new airport finally opens: A story
+<a id="orgbc8eae0"></a> DW (31 Oct 2020). Berlin's new airport finally opens: A story
 of failure and embarrassment [blog]. URL: [URL: www.dw.com.](https://www.dw.com/en/berlins-new-airport-finally-opens-a-story-of-failure-and-embarrassment/a-55446329)
 
-<a id="orgc5c36d8"></a> Monteleone (2021). Generalization/Specialization Use
+<a id="orgbe11b3e"></a> Monteleone (2021). Generalization/Specialization Use
 Case Diagrams and Scenarios [blog]. URL: [URL: modernanalyst.com.](https://modernanalyst.com/Resources/Articles/tabid/115/ID/5465/Generalization-Specialization-Use-Case-Diagrams-and-Scenarios.aspx)
 
-<a id="org102f5fc"></a> Douglass/IBM (2009). UML for the C programming language
+<a id="orgfc0e7fd"></a> Douglass/IBM (2009). UML for the C programming language
 [white paper]. URL: [URL: www.techonline.com.](https://www.techonline.com/tech-papers/uml-for-the-c-programming-language/)
 
 
@@ -1480,7 +1493,7 @@ Case Diagrams and Scenarios [blog]. URL: [URL: modernanalyst.com.](https://moder
     + Object-Oriented Software Engineering (Ivar Jacobsen)
     + Others
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org517fd40))
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orga4b6adc))
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> While the general UML overview is quite good, the Use Case
 diagram explanation is not great and even contains (in the last
