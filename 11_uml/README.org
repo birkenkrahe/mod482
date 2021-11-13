@@ -464,111 +464,122 @@
 
    (Source: [[monteleone][Monteleone, 2021]]).
 
+** Overview diagrams
 
-** TODO Overview diagrams
+   Use case overviews don't contain any use cases, but provide some
+   context by painting a broad picture of your system's context.
+
+   #+attr_html: :width 600px
+   [[./img/overview.png]]
+
+* Use case practice
+
+  #+attr_html: :width 600px
+  [[./img/standards.png]]
+
+  ([[https://xkcd.com/927][Image: xkcd]]).
+
+  * Find mistakes in a use case diagram
+  * Create a use case from simple requirements
+  * Create a use case for the term project
+  * Transfer a EPC/BPMN into an UML use case diagram
+  * "Hello World" as UML ([[hello][Akehurst, 2014]])
+
+** Find mistakes in a use case diagram
+
+   To solve these problems, return to the rules for actors, systems
+   and use cases. /Answers in the footnotes./
+
+** Simple diagrams (actors, systems, use cases)
+
+*** Is this a system?[fn:5]
+
+    #+attr_html: :width 200px
+    [[./img/error5.png]]
+
+    #+attr_html: :width 200px
+    [[./img/error6.png]]
+
+*** Are these ~actors~?[fn:6]
+
+    #+attr_html: :width 400px
+    [[./img/error1.png]]
+
+    #+attr_html: :width 400px
+    [[./img/error2.png]]
+
+*** What's wrong with this diagram?[fn:7]
+
+    #+attr_html: :width 400px
+    [[./img/error3.png]]
+
+*** Are these use cases?
+
+    #+attr_html: :width 400px
+    [[./img/error4.png]]
+
+*** TODO Diagrams with relationships
+
+
+
+**** Use case description
+
+     Write a use case description for ~Record Application Failure~
+     from the example discussed above under ~<<extend>>~.[fn:8]
+
+** Create a use case from simple requirements
+
+   1) Fire up Signavio Process Manager
+   2) Go to your personal folder in ~Shared Documents~
+   3) Create a new ~UML use case diagram~
+   4) Sketch a use case description
+
+      #+begin_quote
+      A user logs into a computer.
+      #+end_quote
+
+** Create a use case for the term project
 
    #+attr_html: :width 300px
    [[./img/underconstruction.gif]]
 
-** Use case practice
+** Transfer a EPC/BPMN into an UML use case diagram
+** "Hello world" as use case diagram
 
-   #+attr_html: :width 600px
-   [[./img/standards.png]]
+*** Problem
 
-   ([[https://xkcd.com/927][Image: xkcd]]).
+    * Turn the C program below into UML
+    * Consider more than one
 
-   * Find mistakes in a use case diagram
-   * Create a use case from simple requirements
-   * Create a use case for the term project
-   * Transfer a EPC/BPMN into an UML use case diagram
-   * "Hello World" as UML ([[hello][Akehurst, 2014]])
+    #+begin_src C
+      #include <stdio.h>
 
-*** Find mistakes in a use case diagram
+      int main (void)
+      {
+        printf("Hello, world!\n");
+        return 0;
+      }
+    #+end_src
 
-    To solve these problems, return to the rules for actors, systems
-    and use cases.
+    #+RESULTS:
+    | Hello | world! |
 
-**** Simple diagrams (actors, systems, use cases)
-***** Problem: Is this a system?
+*** Further reading
+    * It doesn't have to be this complicated: [[hello][Akehurst, 2014]]
+    * UML for the C programming language:
 
-      #+attr_html: :width 200px
-      [[./img/error5.png]]
-
-
-
-      #+attr_html: :width 200px
-      [[./img/error6.png]]
-
-***** Solution
-
-      * "Global Climate": no, because the system's boundaries are not
-        well-defined.
-
-      #+attr_html: :width 400px
-      [[./img/error1.png]]
-
-      #+attr_html: :width 400px
-      [[./img/error2.png]]
-
-      #+attr_html: :width 400px
-      [[./img/error3.png]]
-
-      #+attr_html: :width 400px
-      [[./img/error4.png]]
-
-**** TODO Diagrams with relationships
-
-
-
-*** Create a use case from simple requirements
-
-    1) Fire up Signavio Process Manager
-    2) Go to your personal folder in ~Shared Documents~
-    3) Create a new ~UML use case diagram~
-    4) Sketch a use case description
-
-       #+begin_quote
-       A user logs into a computer.
-       #+end_quote
-
-*** Create a use case for the term project
-*** Transfer a EPC/BPMN into an UML use case diagram
-*** "Hello world" as use case diagram
-
-**** Problem
-
-     * Turn the C program below into UML
-     * Consider more than one
-
-     #+begin_src C
-       #include <stdio.h>
-
-       int main (void)
-       {
-         printf("Hello, world!\n");
-         return 0;
-       }
-     #+end_src
-
-     #+RESULTS:
-     | Hello | world! |
-
-**** Further reading
-     * It doesn't have to be this complicated: [[hello][Akehurst, 2014]]
-     * UML for the C programming language:
-
-       #+begin_quote
-       "Unified Modeling Language (UML) has been highly successful in
-       the modeling of software-intensive systems, including
-       systems-oriented models and realtime and embedded designs. The
-       most common implementation for these models has been C++, with
-       the C language in second place. On one hand, this is surprising
-       because the most common implementation language for realtime and
-       embedded systems overall by far is the language C. On the other
-       hand, UML is used almost exclusively for object-oriented systems
-       development, and most realtime and embedded designs are
-       functionally oriented."  ([[cc][Douglass, 2009]])
-       #+end_quote
+      #+begin_quote
+      "Unified Modeling Language (UML) has been highly successful in
+      the modeling of software-intensive systems, including
+      systems-oriented models and realtime and embedded designs. The
+      most common implementation for these models has been C++, with
+      the C language in second place. On one hand, this is surprising
+      because the most common implementation language for realtime and
+      embedded systems overall by far is the language C. On the other
+      hand, UML is used almost exclusively for object-oriented systems
+      development, and most realtime and embedded designs are
+      functionally oriented."  ([[cc][Douglass, 2009]])
+      #+end_quote
 
 * References
 
@@ -602,6 +613,40 @@
   [white paper]. URL: [[https://www.techonline.com/tech-papers/uml-for-the-c-programming-language/][URL: www.techonline.com.]]
 
 * Footnotes
+
+[fn:8]Sample solution:
+| DESCRIPTION DETAIL       | EXAMPLE                                                                                              |
+|--------------------------+------------------------------------------------------------------------------------------------------|
+| Use case name            | Record application failure                                                                           |
+| Related requirements     | Requirement A.1, Requirement A.2                                                                     |
+| Goal in context          | Record author's details if an application for an editorial account has failed                        |
+| Preconditions            | Author's application has failed                                                                      |
+| Successful end condition | Author's details have been recorded                                                                  |
+| Failed end condition     | Author's details were not recorded                                                                   |
+| Primary actors           | Administrator                                                                                        |
+| Secondary actors         | *None*                                                                                               |
+| Trigger                  | ~Administrator~ asks CMS to ~record failed application~ that will allow building an author's history |
+| Main flow                | 1. Admin asks CMS to record failed application author's details                                      |
+|                          | 2. Admin selects the account type (editorial or regular)                                             |
+|                          | 3. Admin enters author's details                                                                     |
+| Extensions               | Branching action:                                                                                    |
+|                          | 2.1 Admin selects editorial blog account                                                             |
+|                          | 2.2 Admin selects regular blog account                                                               |
+
+[fn:7]A ~database~ is not a special case of the ~employee database~,
+but the other way around.
+
+[fn:6](1) The ~student~ is an actor but the communication line to the
+use case ~create assignment~ is wrong, because that's not what
+students do. (2) The R language is not outside of the system that
+plots the histogram.
+
+[fn:5] (1) "Global climate" as a system needs to have clear
+boundaries. While the globe does, the climate of the globe does not
+(the weather on Earth is subject to influences outside the atmosphere,
+e.g. sun spots). (2) "God" is not a system at all, but a supernatural
+entity that cannot be designed (as a system must be) because He is the
+designer.
 
 [fn:4]I had to smile at this comment.
 [[./img/youtube.png]]
