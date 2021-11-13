@@ -157,7 +157,7 @@
     ~boarding~:
 
     #+attr_html: :width 400px
-    [[./img/airport_sequence2.png]]
+>    [[./img/airport_sequence2.png]]
 
 *** Package diagram: organisational units
 
@@ -218,208 +218,218 @@
   | Validate system architecture                 | Specify successful/failed end condition    | Development |
   | Drive implementation and generate test cases | Program and debug use cases with test data | Physical    |
 
-** Use case elements
+* Use case elements
+** Situation
+  The problem: "Chinese whispers"
 
-   The problem: "Chinese whispers"
+  #+attr_html: :width 600px
+  [[./img/projects.png]]
+
+  The solution: Use case modeling
+
+  | Focus    | System *requirements* strictly from the outside looking in |
+  | Task     | Specify the *value* that the system delivers to *users*.   |
+  | Tools    | User *stories*, project canvas, *agile* workflow (Scrum)   |
+  | Excluded | Nonfunctional requirements (e.g. performance targets)      |
+
+** Requirements
+
+   Requirement A.1:
+
+   #+begin_quote
+   A content management system (CMS) shall allow an *administrator* to
+   *create a new blog account*, provided the personal details of the new
+   blogger are *verified* using the *author credentials database*.
+   #+end_quote
+
+** System
+
+   | A system is defined by its boundaries. |
+
+   #+attr_html: :width 400px
+   [[./img/cms.png]]
+
+** Actors
+
+   | Actors are outside our system (CMS)       |
+   | Actors don't have to be actual people     |
+   | Actors must interact with the system      |
+   | Actors cannot be changed by system design |
+
+   #+attr_html: :width 400px
+   [[./img/actor.png]]
+
+*** Tricky actors
+    Some actors are tricky: is the ~system clock~ an actor?
+
+    Decision process:
+
+    #+attr_html: :width 400px
+    [[./img/actorprocess.png]]
+
+    The ~system clock~ is not a person and it cannot change with the
+    system's design (it's part of the given computing
+    infrastructure), so it's not an ~actor~.
+
+*** Generalization
+
+    #+attr_html: :width 400px
+    [[./img/generalization.png]]
+
+** Use cases
+
+   | Use cases must have clear pass/fail criteria            |
+   | All actors must know if the system fulfils the use case |
+   | Complete use cases have system interaction and output   |
+   | Use cases provide measurable results to users           |
+
+   A use case is drawn as an oval with a name that describes the
+   interaction that it represents. E.g. for requirement A.1:
+
+   #+attr_html: :width 400px
+   [[./img/blog.png]]
+
+** Communication lines
+
+   | Communication lines are not flow lines     |
+   | Communication means purposeful interaction |
+
+   #+attr_html: :width 400px
+   [[./img/comm1.png]]
+
+   #+attr_html: :width 400px
+   [[./img/comm2.png]]
+
+** System boundaries
+
+   #+attr_html: :width 400px
+   [[./img/boundary.png]]
+
+** Descriptions
+
+   | Use cases are too simple to be self-explanatory                 |
+   | A use case should be accompanied by description                 |
+   | Writing/understanding the description requires domain knowledge |
+
+   | DESCRIPTION DETAIL       | EXAMPLE                                                                     | MEANING                                                                                |
+   |--------------------------+-----------------------------------------------------------------------------+----------------------------------------------------------------------------------------|
+   | Related requirements     | Requirement A.1                                                             | Which requirements this use case fulfils                                               |
+   | Goal in context          | New or existing author requests a new blog account from the ~Administrator~ | The use case's place within the system and why this use case is important              |
+   | Preconditions            | Author needs to have appropriate proof of identity                          | What needs to happen before the use case can be executed                               |
+   | Successful end condition | A new blog account is created for the author                                | What the system's condition should be if the use case executes successfully            |
+   | Failed end condition     | The application for a new blog account is rejected                          | What the system's condition should be if the use case fails to execute successfully    |
+   | Primary actors           | ~Administrator~                                                             | The main actors that participate in the use case (and triggering or benefiting actors) |
+   | Secondary actors         | Author Credentials Database                                                 | Actors that participate but are not the main players in a use case's execution         |
+   | Trigger                  | ~Administrator~ asks CMS to ~create a new blog account~                     | The event triggered by an actor that causes the use case to execute                    |
+   |--------------------------+-----------------------------------------------------------------------------+----------------------------------------------------------------------------------------|
+   | Main flow                | 1. Admin asks CMS to create new account                                     | The place to describe each of the important steps in a use case's normal execution     |
+   |                          | 2. Admin selects an account type                                            |                                                                                        |
+   |                          | 3. Admin enters author's details                                            |                                                                                        |
+   |                          | 4. Author's details are verified using the Author Credentials Database      |                                                                                        |
+   |                          | 5. The new blog account is created                                          |                                                                                        |
+   |                          | 6. A summary of the new blog account's details are emailed to the author    |                                                                                        |
+   |--------------------------+-----------------------------------------------------------------------------+----------------------------------------------------------------------------------------|
+   | Extensions               | 4.1 Author Credentials Database does not verify the author's details        | A description of any alternative steps from the ones described in the ~main flow~      |
+   |                          | 4.2 The author's new blog account application is rejected                   |                                                                                        |
+
+   Improved use case diagram after reviewing the description:
+
+   #+attr_html: :width 400px
+   [[./img/boundary2.png]]
+
+** Reusing use cases with ~<<include>>~
+
+   What if we add another similar requirement Requirement A.2:
+
+   #+begin_quote
+   The content management system shall allow an *administrator* to
+   create a *new personal wiki*, provided the personal details of
+   the applying *author* are verified using the *Author Credentials
+   Database*.
+   #+end_quote
+
+   The requirement is easily added as a new use case:
 
    #+attr_html: :width 600px
-   [[./img/projects.png]]
+   [[./img/include.png]]
 
-   The solution: Use case modeling
+   To indicate that the step ~check identity~ can be reused (without
+   changes to the code) it is added as a separate use case with an
+   ~<<include>>~ relationship. The ~administrator~ has no part in
+   this.
 
-   | Focus    | System *requirements* strictly from the outside looking in |
-   | Task     | Specify the *value* that the system delivers to *users*.   |
-   | Tools    | User *stories*, project canvas, *agile* workflow (Scrum)   |
-   | Excluded | Nonfunctional requirements (e.g. performance targets)      |
+   #+attr_html: :width 600px
+   [[./img/include1.png]]
 
-*** Requirements
+   All use case descriptions need to be updated to include a
+   ~Included cases~ category, and the ~main flow~ must contain
+   ~include::Check Identity~:
 
-    Requirement A.1:
+   | Main flow | ...                                 |
+   |           | 4. The author's details are checked |
+   |           | *include::Check Identity*           |
+   |           | ...                                 |
 
-    #+begin_quote
-    A content management system (CMS) shall allow an *administrator* to
-    *create a new blog account*, provided the personal details of the new
-    blogger are *verified* using the *author credentials database*.
-    #+end_quote
+   The use case itself get its own description:
 
-*** System
+   | DESCRIPTION DETAIL       | DESCRIPTION                                                            |
+   |--------------------------+------------------------------------------------------------------------|
+   | Related requirements     | Requirement A.1, Requirement A.2                                       |
+   | Goal in context          | An author's details need to be checked and verified as accurate        |
+   | Preconditions            | The author being checked has appopriate proof of identity              |
+   | Successful end condition | The details are verified                                               |
+   | Failed end condition     | The details are not verified                                           |
+   | Primary actors           | Authors Credentials Database                                           |
+   | Trigger                  | Author's credentials are provided to the system for verification       |
+   | Main flow                | 1. The details are provided to the system                              |
+   |                          | 2. The Author Credentials Database verifies the details                |
+   |                          | 3. Details are returned as verified by the Author Credentials Database |
+   | Extensions               | 4.1 AUthor Credentials Database does not verify the author's details   |
+   |                          | 4.2 The author's new blog account application is rejected              |
 
-    | A system is defined by its boundaries. |
+   The main flow can be shown as an activity diagram:
 
-    #+attr_html: :width 400px
-    [[./img/cms.png]]
+   [[./img/check_identity.png]]
 
-*** Actors
+** Special cases
 
-    | Actors are outside our system (CMS)       |
-    | Actors don't have to be actual people     |
-    | Actors must interact with the system      |
-    | Actors cannot be changed by system design |
+   If there are different blog account types (e.g. with different
+   rights), the use cases will differ little. Different types can be
+   implemented as special cases, with the original use case as their
+   generalization:
 
-    #+attr_html: :width 400px
-    [[./img/actor.png]]
+   #+attr_html: :width 400px
+   [[./img/general.png]]
 
-**** Tricky actors
-     Some actors are tricky: is the ~system clock~ an actor?
+   The description gets a ~Base Use Case~ field:
 
-     Decision process: 
-     
-     #+attr_html: :width 400px
-     [[./img/actorprocess.png]]
-
-     The ~system clock~ is not a person and it cannot change with the
-     system's design (it's part of the given computing
-     infrastructure), so it's not an ~actor~. 
-     
-**** Generalization
-
-     #+attr_html: :width 400px
-     [[./img/generalization.png]]
-
-*** Use cases
-
-    | Use cases must have clear pass/fail criteria            |
-    | All actors must know if the system fulfils the use case |
-    | Complete use cases have system interaction and output   |
-    | Use cases provide measurable results to users           |
-
-    A use case is drawn as an oval with a name that describes the
-    interaction that it represents. E.g. for requirement A.1:
-
-    #+attr_html: :width 400px
-    [[./img/blog.png]]
-
-*** Communication lines
-
-    | Communication lines are not flow lines     |
-    | Communication means purposeful interaction |
-
-    #+attr_html: :width 400px
-    [[./img/comm1.png]]
-
-    #+attr_html: :width 400px
-    [[./img/comm2.png]]
-
-*** System boundaries
-
-    #+attr_html: :width 400px
-    [[./img/boundary.png]]
-
-*** Descriptions
-
-    | Use cases are too simple to be self-explanatory                 |
-    | A use case should be accompanied by description                 |
-    | Writing/understanding the description requires domain knowledge |
-
-    | DESCRIPTION DETAIL       | EXAMPLE                                                                     | MEANING                                                                                |
-    |--------------------------+-----------------------------------------------------------------------------+----------------------------------------------------------------------------------------|
-    | Related requirements     | Requirement A.1                                                             | Which requirements this use case fulfils                                               |
-    | Goal in context          | New or existing author requests a new blog account from the ~Administrator~ | The use case's place within the system and why this use case is important              |
-    | Preconditions            | Author needs to have appropriate proof of identity                          | What needs to happen before the use case can be executed                               |
-    | Successful end condition | A new blog account is created for the author                                | What the system's condition should be if the use case executes successfully            |
-    | Failed end condition     | The application for a new blog account is rejected                          | What the system's condition should be if the use case fails to execute successfully    |
-    | Primary actors           | ~Administrator~                                                             | The main actors that participate in the use case (and triggering or benefiting actors) |
-    | Secondary actors         | Author Credentials Database                                                 | Actors that participate but are not the main players in a use case's execution         |
-    | Trigger                  | ~Administrator~ asks CMS to ~create a new blog account~                     | The event triggered by an actor that causes the use case to execute                    |
-    |--------------------------+-----------------------------------------------------------------------------+----------------------------------------------------------------------------------------|
-    | Main flow                | 1. Admin asks CMS to create new account                                     | The place to describe each of the important steps in a use case's normal execution     |
-    |                          | 2. Admin selects an account type                                            |                                                                                        |
-    |                          | 3. Admin enters author's details                                            |                                                                                        |
-    |                          | 4. Author's details are verified using the Author Credentials Database      |                                                                                        |
-    |                          | 5. The new blog account is created                                          |                                                                                        |
-    |                          | 6. A summary of the new blog account's details are emailed to the author    |                                                                                        |
-    |--------------------------+-----------------------------------------------------------------------------+----------------------------------------------------------------------------------------|
-    | Extensions               | 4.1 Author Credentials Database does not verify the author's details        | A description of any alternative steps from the ones described in the ~main flow~      |
-    |                          | 4.2 The author's new blog account application is rejected                   |                                                                                        |
-
-    Improved use case diagram after reviewing the description:
-
-    #+attr_html: :width 400px
-    [[./img/boundary2.png]]
-
-*** IN PROGRESS Relationships
-
-**** Reuse with ~<<include>>~
-
-     What if we add another similar requirement Requirement A.2:
-
-     #+begin_quote
-     The content management system shall allow an *administrator* to
-     create a *new personal wiki*, provided the personal details of
-     the applying *author* are verified using the *Author Credentials
-     Database*.
-     #+end_quote
-
-     The requirement is easily added as a new use case:
-     
-     #+attr_html: :width 400px
-     [[./img/include.png]]
-
-     To indicate that the step ~check identity~ can be reused (without
-     changes to the code) it is added as a separate use case with an
-     ~<<include>>~ relationship. The ~administrator~ has no part in
-     this.
-
-     #+attr_html: :width 400px
-     [[./img/include1.png]]
-
-     All use case descriptions need to be updated to include a
-     ~Included cases~ category, and the ~main flow~ must contain
-     ~include::Check Identity~:
-
-     | Main flow | ...                                 |
-     |           | 4. The author's details are checked |
-     |           | *include::Check Identity*           |
-     |           | ...                                 |
-
-     The use case itself get its own description:
-
-    | DESCRIPTION DETAIL       | DESCRIPTION                                                            |
-    |--------------------------+------------------------------------------------------------------------|
-    | Related requirements     | Requirement A.1, Requirement A.2                                       |
-    | Goal in context          | An author's details need to be checked and verified as accurate        |
-    | Preconditions            | The author being checked has appopriate proof of identity              |
-    | Successful end condition | The details are verified                                               |
-    | Failed end condition     | The details are not verified                                           |
-    | Primary actors           | Authors Credentials Database                                           |
-    | Trigger                  | Author's credentials are provided to the system for verification       |
-    |--------------------------+------------------------------------------------------------------------|
-    | Main flow                | 1.    The details are provided to the system                           |
-    |                          | 2. The Author Credentials Database verifies the details                |
-    |                          | 3. Details are returned as verified by the Author Credentials Database |
-    |--------------------------+------------------------------------------------------------------------|
-    | Extensions               | 4.1 AUthor Credentials Database does not verify the author's details   |
-    |                          | 4.2 The author's new blog account application is rejected              |
-
-    The main flow can be shown as an activity diagram:
-    
-    [[./img/check_identity.png]]
-    
-**** Optional reuse with ~<<extend>>~
+   
+   
+** Optional reuse with ~<<extend>>~
 
 
-**** Example: as-is and to-be use case diagrams
+** Process optimization with use cases
 
-     Remember "process optimization" in the context of process modeling?
-     It also applies to requirements analysis with use case diagrams.
+   Remember "process optimization" in the context of process modeling?
+   It also applies to requirements analysis with use case diagrams.
 
-     As-is diagram:
+   As-is diagram:
 
-     #+attr_html: :width 400px
-     [[./img/asis.png]]
+   #+attr_html: :width 400px
+   [[./img/asis.png]]
 
-     To-be diagram:
+   To-be diagram:
 
-     #+attr_html: :width 400px
-     [[./img/tobe.png]]
+   #+attr_html: :width 400px
+   [[./img/tobe.png]]
 
-     (Source: [[monteleone][Monteleone, 2021]]).
+   (Source: [[monteleone][Monteleone, 2021]]).
 
 
-*** TODO Overview diagrams
+** TODO Overview diagrams
 
-    #+attr_html: :width 300px
-    [[./img/underconstruction.gif]]
+   #+attr_html: :width 300px
+   [[./img/underconstruction.gif]]
 
 
 ** Use case practice

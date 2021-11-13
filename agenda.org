@@ -310,12 +310,14 @@
   #+attr_html: :width 400px
   [[./img/lucidchart.png]]
   
-  | [[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Schedule]] | ERD: Spring '22                |     |
-  |          | Week 29 Nov-Dec 3              |     |
-  |          | Essay deadline: Monday, Nov 29 |     |
-  | [[https://youtu.be/zid-MVo7M-E][Video]]    | UML Use Case Diagram Tool      | 15' |
-  | Practice | Create UML diagrams            | 60' |
-  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | Dane Roach                     |     |
+  | [[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Schedule]]  | ERD postponed to Spring '22 |     |
+  | Cancelled | Week 29 Nov-Dec 3           |     |
+  | Essay     | Deadline Monday, Nov 29     |     |
+  |-----------+-----------------------------+-----|
+  | Lecture   | UML use case relationships  | 15' |
+  | [[https://youtu.be/zid-MVo7M-E][Video]]     | UML Use Case Diagram Tool   | 15' |
+  | Practice  | Create UML diagrams         | 45' |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]  | Dane Roach                  |     |
 
 * Week 14 - November 18
 
