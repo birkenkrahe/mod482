@@ -518,17 +518,17 @@
 *** Generalization
 
     #+attr_html: :width 400px
-    [[./img/error5.png]]
+    [[./img/underconstruction.gif]]
 
 *** ~<<include>>~
 
     #+attr_html: :width 400px
-    [[./img/error6.png]]
+    [[./img/underconstruction.gif]]
 
 *** ~<<extend>>~
 
     #+attr_html: :width 400px
-    [[./img/error7.png]]
+    [[./img/underconstruction.gif]]
 
 ** Write a use case description
 
@@ -567,50 +567,58 @@
 *** Diagram
 
     #+attr_html: :width 400px
-    [[./img/error8.png]]
+    [[./img/underconstruction.gif]]
 
 *** Description
 
-| DESCRIPTION DETAIL       | DESCRIPTION
-|--------------------------+------------------------------------------------------------------------------------------------------|
-| Use case name            | User login
-| Related requirements     | *None*
-| Goal in context          |
-| Preconditions            |
-| Successful end condition |
-| Failed end condition     |
-| Primary actors           |
-| Secondary actors         |
-| Trigger                  |
-| Main flow                |1.
-|                          |2.
-|                          |3.
-| Extensions               | Branching action:                                                                                    |
-|                          |                                                                                                      |
-    
+    | DESCRIPTION DETAIL       | DESCRIPTION
+    |--------------------------+------------------------------------------------------------------------------------------------------|
+    | Use case name            | User login
+    | Related requirements     | *None*
+    | Goal in context          |
+    | Preconditions            |
+    | Successful end condition |
+    | Failed end condition     |
+    | Primary actors           |
+    | Secondary actors         |
+    | Trigger                  |
+    | Main flow                |1.
+    |                          |2.
+    |                          |3.
+    | Extensions               | Branching action:                                                                                    |
+    |                          |                                                                                                      |
+
 *** Modified diagram
 
     #+attr_html: :width 400px
-    [[./img/error8.png]]
+    [[./img/underconstruction.gif]]
 
 ** Create a use case for the term project
 
    Projects can be seen as systems to be designed. In fact, there is a
    whole (agile) methodology, "design thinking", that rests upon this
    fact. Modeling with diagrams is common when using "design thinking"
-   
+
    Create a use case for the term project:
    * What is a suitable system?
-   
+   * Who are the actors?
+   * What are the use cases?
+   * Are any use cases specialized/reusable/extending?
+
+     #+attr_html: :width 400px
+     [[./img/underconstruction.gif]]
+
+
 ** Transfer a EPC/BPMN into an UML use case diagram
 
-   
-   
+   #+attr_html: :width 400px
+   [[./img/underconstruction.gif]]
+
 ** Bonus: "Hello world" as use case diagram
 
    This bonus problem challenges you to know/remember what the
    different UML diagram types were about.
-   
+
 *** Problem
 
     * List UML diagram types that you could use to model the ~hello,
