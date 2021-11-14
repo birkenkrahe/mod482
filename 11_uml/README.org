@@ -489,9 +489,6 @@
 
    To solve these problems, return to the rules for actors, systems
    and use cases. /Answers in the footnotes./
-
-** Simple diagrams (actors, systems, use cases)
-
 *** Is this a system?[fn:5]
 
     #+attr_html: :width 200px
@@ -513,43 +510,111 @@
     #+attr_html: :width 400px
     [[./img/error3.png]]
 
-*** Are these use cases?
+*** Are these use cases?[fn:9]
 
     #+attr_html: :width 400px
     [[./img/error4.png]]
 
-*** TODO Diagrams with relationships
+*** Generalization
 
+    #+attr_html: :width 400px
+    [[./img/error5.png]]
 
+*** ~<<include>>~
 
-**** Use case description
+    #+attr_html: :width 400px
+    [[./img/error6.png]]
 
-     Write a use case description for ~Record Application Failure~
-     from the example discussed above under ~<<extend>>~.[fn:8]
+*** ~<<extend>>~
+
+    #+attr_html: :width 400px
+    [[./img/error7.png]]
+
+** Write a use case description
+
+   Write a use case description for ~Record Application Failure~
+   from the example discussed above under ~<<extend>>~.[fn:8]
+
+   | DESCRIPTION DETAIL       |       DESCRIPTION |
+   |--------------------------+-------------------|
+   | Use case name            |                   |
+   | Related requirements     |                   |
+   | Goal in context          |                   |
+   | Preconditions            |                   |
+   | Successful end condition |                   |
+   | Failed end condition     |                   |
+   | Primary actors           |                   |
+   | Secondary actors         |                   |
+   | Trigger                  |                   |
+   | Main flow                |                1. |
+   |                          |                2. |
+   |                          |                3. |
+   | Extensions               | Branching action: |
+   |                          |                   |
 
 ** Create a use case from simple requirements
 
    1) Fire up Signavio Process Manager
    2) Go to your personal folder in ~Shared Documents~
    3) Create a new ~UML use case diagram~
-   4) Sketch a use case description
+   4) Write a use case description
+   5) Modify the diagram if necessary, using relationships
 
       #+begin_quote
       A user logs into a computer.
       #+end_quote
 
+*** Diagram
+
+    #+attr_html: :width 400px
+    [[./img/error8.png]]
+
+*** Description
+
+| DESCRIPTION DETAIL       | DESCRIPTION
+|--------------------------+------------------------------------------------------------------------------------------------------|
+| Use case name            | User login
+| Related requirements     | *None*
+| Goal in context          |
+| Preconditions            |
+| Successful end condition |
+| Failed end condition     |
+| Primary actors           |
+| Secondary actors         |
+| Trigger                  |
+| Main flow                |1.
+|                          |2.
+|                          |3.
+| Extensions               | Branching action:                                                                                    |
+|                          |                                                                                                      |
+    
+*** Modified diagram
+
+    #+attr_html: :width 400px
+    [[./img/error8.png]]
+
 ** Create a use case for the term project
 
-   #+attr_html: :width 300px
-   [[./img/underconstruction.gif]]
-
+   Projects can be seen as systems to be designed. In fact, there is a
+   whole (agile) methodology, "design thinking", that rests upon this
+   fact. Modeling with diagrams is common when using "design thinking"
+   
+   Create a use case for the term project:
+   * What is a suitable system?
+   
 ** Transfer a EPC/BPMN into an UML use case diagram
-** "Hello world" as use case diagram
 
+   
+   
+** Bonus: "Hello world" as use case diagram
+
+   This bonus problem challenges you to know/remember what the
+   different UML diagram types were about.
+   
 *** Problem
 
-    * Turn the C program below into UML
-    * Consider more than one
+    * List UML diagram types that you could use to model the ~hello,
+      world~ C program below.
 
     #+begin_src C
       #include <stdio.h>
@@ -564,9 +629,33 @@
     #+RESULTS:
     | Hello | world! |
 
+*** Solution
+
+    | STRUCTURE DIAGRAMS          | RELEVANT (Y/N) |
+    |-----------------------------+----------------|
+    | Class diagram               |                |
+    | Component diagram           |                |
+    | Deployment diagram          |                |
+    | Object (instance) diagram   |                |
+    | Package diagram             |                |
+    | Profile diagram             |                |
+    | Composite structure diagram |                |
+
+*** Behavior diagrams
+
+    | BEHAVIOR DIAGRAMS                     | RELEVANT (Y/N) |
+    |---------------------------------------+----------------|
+    | Use case diagram                      |                |
+    | Activity diagram                      |                |
+    | State machine diagram                 |                |
+    | Sequence diagram                      |                |
+    | Communication (collaboration) diagram |                |
+    | Timing diagram                        |                |
+    | Interaction overview diagram          |                |
+
 *** Further reading
-    * It doesn't have to be this complicated: [[hello][Akehurst, 2014]]
-    * UML for the C programming language:
+    * A solution for Java, C++ and C#: [[hello][Akehurst, 2014]]
+    * Interesting is also UML for the C programming language[fn:10]:
 
       #+begin_quote
       "Unified Modeling Language (UML) has been highly successful in
@@ -580,6 +669,7 @@
       development, and most realtime and embedded designs are
       functionally oriented."  ([[cc][Douglass, 2009]])
       #+end_quote
+
 
 * References
 
@@ -613,6 +703,14 @@
   [white paper]. URL: [[https://www.techonline.com/tech-papers/uml-for-the-c-programming-language/][URL: www.techonline.com.]]
 
 * Footnotes
+
+[fn:10]We will use UML in the introduction to programming course for
+C/C++ (from spring 2022).
+
+[fn:9](1) ~Live long and prosper~ is subjective - outcome is not
+measurable. (2) ~Use case~ - there is no specific action involved. (3)
+~Blog account created~ is an outcome of a use case (successful end
+event), not a use case.
 
 [fn:8]Sample solution:
 | DESCRIPTION DETAIL       | EXAMPLE                                                                                              |
