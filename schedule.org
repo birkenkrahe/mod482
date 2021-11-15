@@ -33,4 +33,4 @@
    | 23-Nov   | Process mining                                            | William Sonnier     |                            |
    | 30-Nov   | MAY BE CANCELLED (Details in class)                       |                     | ESSAY DUE: NOV 29          |
    | 2-Dec    | MAY BE CANCELLED (Details in class)                       |                     |                            |
-   | Dec 6-10 | FINAL EXAM                                                |                     | FINAL EXAM                 |
+   | Dec 6-10 | FINAL EXAM (Open book exam - Schoology)                   |                     | FINAL EXAM                 |

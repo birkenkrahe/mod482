@@ -266,7 +266,7 @@
 
 <tr>
 <td class="org-left">Dec 6-10</td>
-<td class="org-left">FINAL EXAM</td>
+<td class="org-left">FINAL EXAM (Open book exam - Schoology)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">FINAL EXAM</td>
 </tr>
