@@ -505,11 +505,6 @@
     #+attr_html: :width 400px
     [[./img/error2.png]]
 
-*** What's wrong with this diagram?[fn:7]
-
-    #+attr_html: :width 400px
-    [[./img/error3.png]]
-
 *** Are these use cases?[fn:9]
 
     #+attr_html: :width 400px
@@ -517,8 +512,10 @@
 
 *** Generalization
 
+    What's wrong with this diagram?[fn:7]
+
     #+attr_html: :width 400px
-    [[./img/underconstruction.gif]]
+    [[./img/error3.png]]
 
 *** ~<<include>>~
 
@@ -567,7 +564,7 @@
 *** Diagram
 
     #+attr_html: :width 400px
-    [[./img/underconstruction.gif]]
+    [[./img/login.png]]
 
 *** Description
 
@@ -606,8 +603,8 @@
    * Are any use cases specialized/reusable/extending?
 
      #+attr_html: :width 400px
-     [[./img/underconstruction.gif]]
 
+     [[./img/underconstruction.gif]]
 
 ** Transfer a EPC/BPMN into an UML use case diagram
 
