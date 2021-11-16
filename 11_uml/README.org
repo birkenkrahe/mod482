@@ -558,8 +558,9 @@
    1) Fire up Signavio Process Manager
    2) Go to your personal folder in ~Shared Documents~
    3) Create a new ~UML use case diagram~
-   4) Write a use case description
+   4) Write a use case description for a login process
    5) Modify the diagram if necessary, using relationships
+   6) 
 
       #+begin_quote
       A user logs into a computer.
@@ -586,16 +587,11 @@
     | Primary actors           |
     | Secondary actors         |
     | Trigger                  |
-    | Main flow                |1.
-    |                          |2.
+    | Main flow                |1. 
+    |                          |2. 
     |                          |3.
     | Extensions               | Branching action:                                                                                    |
     |                          |                                                                                                      |
-
-*** Modified diagram
-
-    #+attr_html: :width 400px
-    [[./img/underconstruction.gif]]
 
 ** Create a use case for the term project
 
@@ -603,29 +599,27 @@
    whole (agile) methodology, "design thinking", that rests upon this
    fact. Modeling with diagrams is common when using "design thinking"
 
-   Create a use case for the term project:
-   * What is a suitable system?
-   * Who are the actors?
-   * What are the use cases?
-   * Are any use cases specialized/reusable/extending?
-
-     #+attr_html: :width 400px
-
-     [[./img/underconstruction.gif]]
+   * Create a use case for the term project
+   * Begin by answering the following questions:
+   
+   | What is a suitable system?                        |   |
+   | Who are the actors?                               |   |
+   | What are the use cases?                           |   |
+   | Are any use cases specialized/reusable/extending? |   |
 
 ** Transfer a EPC/BPMN into an UML use case diagram
 
    Transfer the [[https://github.com/birkenkrahe/mod482/blob/main/10_bpmn/README.md#orgadb1ab2][BPMN practice diagram]] that you created (car purchase,
-   practice session, or supply chain process) into an UML diagram.
+   practice session, or supply chain process) into an UML diagram:
 
    #+attr_html: :width 400px
    [[./img/car.png]]
 
    #+attr_html: :width 400px
-   [[./img/car.png]]
+   [[./img/practice1.png]]
 
    #+attr_html: :width 400px
-   [[./img/car.png]]
+   [[./img/solution1.jpg]]
 
 ** Bonus: "Hello world" as use case diagram
 
