@@ -618,6 +618,15 @@
    Transfer the [[https://github.com/birkenkrahe/mod482/blob/main/10_bpmn/README.md#orgadb1ab2][BPMN practice diagram]] that you created (car purchase,
    practice session, or supply chain process) into an UML diagram.
 
+   #+attr_html: :width 400px
+   [[./img/car.png]]
+
+   #+attr_html: :width 400px
+   [[./img/car.png]]
+
+   #+attr_html: :width 400px
+   [[./img/car.png]]
+
 ** Bonus: "Hello world" as use case diagram
 
    This bonus problem challenges you to know/remember what the
