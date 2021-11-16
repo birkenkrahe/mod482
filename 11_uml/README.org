@@ -517,17 +517,24 @@
     #+attr_html: :width 400px
     [[./img/error3.png]]
 
-*** ~<<include>>~
+*** ~<<include>>~ and ~<<extend>>~
 
-    
-    
-*** ~<<extend>>~
+    A relational database management system (RDBMS) is queried using
+    Structured Query Language (SQL). During the design of an RDBMS, a
+    UML diagram was created. Somehow, the relationships were screwed
+    up. You have to fix them!
 
+    * Copy the [[https://academic.signavio.com/p/editor?id=91f9fbb02c2c44df9738399d100182ea][diagram in Signavio]] into your personal (shared) folder)
+    * Fix the diagram by fixing the relationships only
+    * Save your diagram and share it with the class
+
+    #+attr_html: :width 400px
+    [[./img/error7.png]]    
     
 ** Write a use case description
 
-   Write a use case description for ~Record Application Failure~
-   from the example discussed above under ~<<extend>>~.[fn:8]
+   Write a use case description for ~Record Application Failure~ from
+   the CMS example discussed above under ~<<extend>>~.[fn:8]
 
    | DESCRIPTION DETAIL       |       DESCRIPTION |
    |--------------------------+-------------------|
@@ -559,6 +566,9 @@
       #+end_quote
 
 *** Diagram
+
+    * Create the sketch below in your personal (shared) folder
+    * Fill in the use case description
 
     #+attr_html: :width 400px
     [[./img/login.png]]
@@ -605,8 +615,8 @@
 
 ** Transfer a EPC/BPMN into an UML use case diagram
 
-   #+attr_html: :width 400px
-   [[./img/underconstruction.gif]]
+   Transfer the [[https://github.com/birkenkrahe/mod482/blob/main/10_bpmn/README.md#orgadb1ab2][BPMN practice diagram]] that you created (car purchase,
+   practice session, or supply chain process) into an UML diagram.
 
 ** Bonus: "Hello world" as use case diagram
 
