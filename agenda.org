@@ -310,18 +310,18 @@
   #+attr_html: :width 400px
   [[./img/lucidchart.png]]
   
-  | [[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Schedule]]              | ERD postponed to Spring '22 |     |
-  | Cancellation possible | Week 29 Nov-Dec 3           |     |
-  | Essay                 | *Deadline Friday, Dec 3*    |     |
-  |-----------------------+-----------------------------+-----|
-  | Lecture               | UML use case relationships  | 15' |
-  | [[https://youtu.be/zid-MVo7M-E][Video]]                 | UML Use Case Diagram Tool   | 15' |
-  | Practice              | Create UML diagrams         | 45' |
-  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]              | Dane Roach                  |     |
+  | [[https://github.com/birkenkrahe/mod482/blob/main/schedule.md][Schedule]]     | ERD postponed to Spring '22 |     |
+  | Cancellation | Week 29 Nov-Dec 3           |     |
+  | Essay        | *Deadline Friday, Dec 3*    |     |
+  |--------------+-----------------------------+-----|
+  | Lecture      | UML use case relationships  | 15' |
+  | [[https://youtu.be/zid-MVo7M-E][Video]]        | UML Use Case Diagram Tool   | 15' |
+  | Practice     | Create UML diagrams         | 45' |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]     | Dane Roach                  |     |
 
-  ** Data science guest speaker, November 18, 11:45 Maxwell Room
+** Data science guest speaker, November 18, 11:45 Maxwell Room
 
-   From Dr. Wesley Beal (Lyon):
+   From Dr. Wesley Beal (Lyon/English):
 
    #+begin_quote
    I'm hosting a speaker for the HFP on Thursday, and if you or any of
@@ -385,7 +385,7 @@
   <<scott>> The Artists of Data Science with Harpreet Sahota (31 Aug
   2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
   [[https://theartistsofdatascience.fireside.fm/scott-e-page][theartistsofdatascience.fireside.fm]].
-
+  
 * Footnotes
 
 [fn:3]Check your own performance and understanding using this

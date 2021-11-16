@@ -519,14 +519,11 @@
 
 *** ~<<include>>~
 
-    #+attr_html: :width 400px
-    [[./img/underconstruction.gif]]
-
+    
+    
 *** ~<<extend>>~
 
-    #+attr_html: :width 400px
-    [[./img/underconstruction.gif]]
-
+    
 ** Write a use case description
 
    Write a use case description for ~Record Application Failure~
