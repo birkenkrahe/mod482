@@ -529,8 +529,8 @@
     * Save your diagram and share it with the class
 
     #+attr_html: :width 400px
-    [[./img/error7.png]]    
-    
+    [[./img/error7.png]]
+
 ** Write a use case description
 
    Write a use case description for ~Record Application Failure~ from
@@ -560,7 +560,7 @@
    3) Create a new ~UML use case diagram~
    4) Write a use case description for a login process
    5) Modify the diagram if necessary, using relationships
-   6) 
+   6)
 
       #+begin_quote
       A user logs into a computer.
@@ -587,8 +587,8 @@
     | Primary actors           |
     | Secondary actors         |
     | Trigger                  |
-    | Main flow                |1. 
-    |                          |2. 
+    | Main flow                |1.
+    |                          |2.
     |                          |3.
     | Extensions               | Branching action:                                                                                    |
     |                          |                                                                                                      |
@@ -601,7 +601,7 @@
 
    * Create a use case for the term project
    * Begin by answering the following questions:
-   
+
    | What is a suitable system?                        |   |
    | Who are the actors?                               |   |
    | What are the use cases?                           |   |
@@ -633,18 +633,7 @@
     * List UML diagram types that you could use to model the ~hello,
       world~ C program below.
 
-    #+begin_src C
-      #include <stdio.h>
-
-      int main (void)
-      {
-        printf("Hello, world!\n");
-        return 0;
-      }
-    #+end_src
-
-    #+RESULTS:
-    | Hello | world! |
+    [[./img/hello.png]]
 
 *** Solution
 
