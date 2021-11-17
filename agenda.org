@@ -348,22 +348,33 @@
 
 * Week 14 - November 18
 
-  #+attr_html: :width 400px
-  [[./img/rpa.jpg]]
-  
-  | Test 8 (online) | UML                              |   |
-  | [[https://github.com/birkenkrahe/mod482/tree/main/13_rpa][Lecture]]         | Robotic Process Automation (RPA) |   |
-  | Practice        | RPA lab                          |   |
-  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]        | Jacob Sampley                    |   |
+  TEST REVIEW SESSION
+  * Complete the already available tests in Schoology
+  * Save and submit your attempt
+  * Your results will help me create a fair final exam!
+
+  PREPARATION - WATCH VIDEOS
+  * "[[https://youtu.be/aZDaNVh3l0k][What is Robotic process automation?]]" 7 min (IBM, 2021)
+  * [[https://youtu.be/-u5y2dST7ng]["What is process mining?"]] 7 minutes (Sifters, 2017). 
+
+  [[./img/noclass.gif]]
 
 * Week 15 - November 23
 
   #+attr_html: :width 400px
+  [[./img/rpa.jpg]]
+  
+  | [[https://github.com/birkenkrahe/mod482/tree/main/13_rpa][Lecture]]         | Robotic Process Automation (RPA) | 30' |
+  | Practice        | RPA lab                          | 45' |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]        | Jacob Sampley                    |   |
+
+
+  #+attr_html: :width 400px
   [[./img/pm.png]] 
   
-  | [[https://github.com/birkenkrahe/mod482/tree/main/14_process_mining][Lecture]]  | Process Mining     |
-  | Practice | Process Mining lab |
-  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | William Sonnier    |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/14_process_mining][Lecture]]  | Process Mining     | 30' |
+  | Practice | Process Mining lab | 45' |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | William Sonnier    |     |
 
 * Week 16 - November 30
 
