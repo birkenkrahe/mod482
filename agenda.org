@@ -364,17 +364,14 @@
   #+attr_html: :width 400px
   [[./img/rpa.jpg]]
   
-  | [[https://github.com/birkenkrahe/mod482/tree/main/13_rpa][Lecture]]         | Robotic Process Automation (RPA) | 30' |
-  | Practice        | RPA lab                          | 45' |
-  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]        | Jacob Sampley                    |   |
-
+  | [[https://github.com/birkenkrahe/mod482/tree/main/13_rpa][Lecture/Practice]] | Robotic Process Automation (RPA) | 35' |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]         | Jacob Sampley                    |     |
 
   #+attr_html: :width 400px
   [[./img/pm.png]] 
   
-  | [[https://github.com/birkenkrahe/mod482/tree/main/14_process_mining][Lecture]]  | Process Mining     | 30' |
-  | Practice | Process Mining lab | 45' |
-  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]] | William Sonnier    |     |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/14_process_mining][Lecture/Practice]] | Process Mining  | 35' |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/protocols][Protocol]]         | William Sonnier |     |
 
 * Week 16 - November 30
 
