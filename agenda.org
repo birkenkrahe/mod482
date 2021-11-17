@@ -396,7 +396,13 @@
   <<scott>> The Artists of Data Science with Harpreet Sahota (31 Aug
   2020). The Many Models Mindset | Scott E. Page [Podcast]. Online:
   [[https://theartistsofdatascience.fireside.fm/scott-e-page][theartistsofdatascience.fireside.fm]].
-  
+
+  IBM Technology (Mar 19, 2021). What is RPA (Robotic Process
+  Automation)? [video] [[https://youtu.be/aZDaNVh3l0k][URL: youtu.be/aZDaNVh3l0k]]
+
+  Sifters Process Performance (Aug 21, 2017). What is Process
+  Mining? | Sifters [video]. [[https://youtu.be/-u5y2dST7ng][URL: youtu.be/-u5y2dST7ng]]
+
 * Footnotes
 
 [fn:3]Check your own performance and understanding using this
