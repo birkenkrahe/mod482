@@ -252,7 +252,7 @@
 ** Actors
 
    | Actors are outside our system (CMS)       |
-   | Actors don't have to be actual people     |
+   | Actors should be abstract and general     |
    | Actors must interact with the system      |
    | Actors cannot be changed by system design |
 
@@ -519,79 +519,150 @@
 
 *** ~<<include>>~ and ~<<extend>>~
 
-    A relational database management system (RDBMS) is queried using
-    Structured Query Language (SQL). During the design of an RDBMS, a
-    UML diagram was created. Somehow, the relationships were screwed
-    up. You have to fix them!
+**** Problem
+     A relational database management system (RDBMS) is queried using
+     Structured Query Language (SQL). During the design of an RDBMS, a
+     UML diagram was created. Somehow, the relationships were screwed
+     up. You have to fix them!
 
-    * Copy the [[https://academic.signavio.com/p/editor?id=91f9fbb02c2c44df9738399d100182ea][diagram in Signavio]] into your personal (shared) folder)
-    * Fix the diagram by fixing the relationships only
-    * Save your diagram and share it with the class
+     * Copy the [[https://academic.signavio.com/p/editor?id=91f9fbb02c2c44df9738399d100182ea][diagram in Signavio]] into your personal (shared) folder)
+     * Fix the diagram by fixing the relationships only
+     * Save your diagram and share it with the class
 
-    #+attr_html: :width 400px
-    [[./img/error7.png]]
+     #+attr_html: :width 400px
+     [[./img/error7.png]]
+
+**** Solution
+
+     #+attr_html: :width 400px
+     [[./img/solution7.png]]
 
 ** Write a use case description
 
-   Write a use case description for ~Record Application Failure~ from
-   the CMS example discussed above under ~<<extend>>~.[fn:8]
+*** Problem
 
-   | DESCRIPTION DETAIL       |       DESCRIPTION |
-   |--------------------------+-------------------|
-   | Use case name            |                   |
-   | Related requirements     |                   |
-   | Goal in context          |                   |
-   | Preconditions            |                   |
-   | Successful end condition |                   |
-   | Failed end condition     |                   |
-   | Primary actors           |                   |
-   | Secondary actors         |                   |
-   | Trigger                  |                   |
-   | Main flow                |                1. |
-   |                          |                2. |
-   |                          |                3. |
-   | Extensions               | Branching action: |
-   |                          |                   |
+    Write a use case description for ~Record Application Failure~ from
+    the CMS example discussed above under ~<<extend>>~.
+
+    | DESCRIPTION DETAIL       |       DESCRIPTION |
+    |--------------------------+-------------------|
+    | Use case name            |                   |
+    | Related requirements     |                   |
+    | Goal in context          |                   |
+    | Preconditions            |                   |
+    | Successful end condition |                   |
+    | Failed end condition     |                   |
+    | Primary actors           |                   |
+    | Secondary actors         |                   |
+    | Trigger                  |                   |
+    | Main flow                |                1. |
+    |                          |                2. |
+    |                          |                3. |
+    | Extensions               | Branching action: |
+    |                          |                   |
+
+*** Solution
+
+    | DESCRIPTION DETAIL       | EXAMPLE                                                                                              |
+    |--------------------------+------------------------------------------------------------------------------------------------------|
+    | Use case name            | Record application failure                                                                           |
+    | Related requirements     | Requirement A.1, Requirement A.2                                                                     |
+    | Goal in context          | Record author's details if an application for an editorial account has failed                        |
+    | Preconditions            | Author's application has failed                                                                      |
+    | Successful end condition | Author's details have been recorded                                                                  |
+    | Failed end condition     | Author's details were not recorded                                                                   |
+    | Primary actors           | Administrator                                                                                        |
+    | Secondary actors         | *None*                                                                                               |
+    | Trigger                  | ~Administrator~ asks CMS to ~record failed application~ that will allow building an author's history |
+    | Main flow                | 1. Admin asks CMS to record failed application author's details                                      |
+    |                          | 2. Admin selects the account type (editorial or regular)                                             |
+    |                          | 3. Admin enters author's details                                                                     |
+    | Extensions               | Branching action:                                                                                    |
+    |                          | 2.1 Admin selects editorial blog account                                                             |
+    |                          | 2.2 Admin selects regular blog account                                                               |
 
 ** Create a use case from simple requirements
 
-   1) Fire up Signavio Process Manager
-   2) Go to your personal folder in ~Shared Documents~
-   3) Create a new ~UML use case diagram~
-   4) Write a use case description for a login process
-   5) Modify the diagram if necessary, using relationships
-   6)
+*** Problem
 
-      #+begin_quote
-      A user logs into a computer.
-      #+end_quote
+    1) Fire up Signavio Process Manager
+    2) Go to your personal folder in ~Shared Documents~
+    3) Create a new ~UML use case diagram~
+    4) Write a use case description for a login process
+    5) Modify the diagram if necessary, using relationships
+    6)
 
-*** Diagram
+       #+begin_quote
+       A user logs into a computer.
+       #+end_quote
 
-    * Create the sketch below in your personal (shared) folder
-    * Fill in the use case description
+**** Diagram
 
-    #+attr_html: :width 400px
-    [[./img/login.png]]
+     * Create the sketch below in your personal (shared) folder
+     * Fill in the use case description
 
-*** Description
+     #+attr_html: :width 400px
+     [[./img/login.png]]
 
-    | DESCRIPTION DETAIL       | DESCRIPTION
-    |--------------------------+------------------------------------------------------------------------------------------------------|
-    | Use case name            | User login
-    | Related requirements     | *None*
-    | Goal in context          |
-    | Preconditions            |
-    | Successful end condition |
-    | Failed end condition     |
-    | Primary actors           |
-    | Secondary actors         |
-    | Trigger                  |
-    | Main flow                |1.
-    |                          |2.
-    |                          |3.
-    | Extensions               | Branching action:                                                                                    |
-    |                          |                                                                                                      |
+**** Description
+
+     | DESCRIPTION DETAIL       | DESCRIPTION
+     |--------------------------+------------------------------------------------------------------------------------------------------|
+     | Use case name            | User login
+     | Related requirements     | *None*
+     | Goal in context          |
+     | Preconditions            |
+     | Successful end condition |
+     | Failed end condition     |
+     | Primary actors           |
+     | Secondary actors         |
+     | Trigger                  |
+     | Main flow                |1.
+     |                          |2.
+     |                          |3.
+     | Extensions               | Branching action:                                                                                    |
+     |                          |                                                                                                      |
+
+*** Solution
+
+**** Diagram
+
+     Here are two possible solutions. The problem with the exercise,
+     as I realized too late, is that the "computer" system, as far as
+     the user is concerned, from the outside, is identical with the
+     operating system. Hence it would be better to rename the system
+     to "Operating System" and dispense with the secondary actor
+     altogether. All the other relationships still hold.
+
+     #+attr_html: :width 400px
+     [[./img/login1.png]]
+
+     #+attr_html: :width 400px
+     [[./img/login2.png]]
+
+**** Description
+
+
+     | DESCRIPTION DETAIL       | DESCRIPTION                                 |
+     |--------------------------+---------------------------------------------|
+     | Use case name            | User login                                  |
+     | Related requirements     | *None*                                      |
+     | Goal in context          | Log into user account                       |
+     | Preconditions            | Account exists on computer                  |
+     | Successful end condition | User logged in                              |
+     | Failed end condition     | User not logged in                          |
+     | Primary actors           | User                                        |
+     | Secondary actors         | Operating System (OS)                       |
+     | Trigger                  | User enters username and password to log in |
+     | Main flow                | 1. User enters username and password        |
+     |                          | 2. OS checks if account exists              |
+     |                          | 3. OS checks if username OK                 |
+     |                          | 4. OS checks if password OK                 |
+     |                          | 5. Login screen is disabled                 |
+     | Extensions               | Branching action:                           |
+     |                          | 2.1 no account exists                       |
+     |                          | 3.1 username not OK                         |
+     |                          | 4.1 password not OK                         |
 
 ** Create a use case for the term project
 
@@ -601,27 +672,37 @@
 
    * Create a use case for the term project
    * Begin by answering the following questions:
-
-   | What is a suitable system?                        |   |
-   | Who are the actors?                               |   |
-   | What are the use cases?                           |   |
-   | Are any use cases specialized/reusable/extending? |   |
+     - What is a suitable system?
+     - Who are the actors?
+     - What are the use cases?
+     - What are the relationships between them?
 
    /Tip: remember that the project is an agile Scrum project./
+
+*** Solution
+
+     #+attr_html: :width 400px
+     [[./img/scrum.png]]   
 
 ** Transfer a EPC/BPMN into an UML use case diagram
 
    Transfer the [[https://github.com/birkenkrahe/mod482/blob/main/10_bpmn/README.md#orgadb1ab2][BPMN practice diagram]] that you created (car purchase,
    practice session, or supply chain process) into an UML diagram:
 
-   #+attr_html: :width 400px
-   [[./img/car.png]]
+*** Car purchase (BPMN)
+    
+    #+attr_html: :width 400px
+    [[./img/car.png]]
 
-   #+attr_html: :width 400px
-   [[./img/practice1.png]]
+*** Practice session (BPMN)
 
-   #+attr_html: :width 400px
-   [[./img/solution1.jpg]]
+    #+attr_html: :width 400px
+    [[./img/practice1.png]]
+
+*** Supply Chain Process (BPMN)    
+
+    #+attr_html: :width 400px
+    [[./img/solution1.jpg]]
 
 ** Bonus: "Hello world" as use case diagram
 
@@ -717,25 +798,6 @@ C/C++ (from spring 2022).
 measurable. (2) ~Use case~ - there is no specific action involved. (3)
 ~Blog account created~ is an outcome of a use case (successful end
 event), not a use case.
-
-[fn:8]Sample solution:
-| DESCRIPTION DETAIL       | EXAMPLE                                                                                              |
-|--------------------------+------------------------------------------------------------------------------------------------------|
-| Use case name            | Record application failure                                                                           |
-| Related requirements     | Requirement A.1, Requirement A.2                                                                     |
-| Goal in context          | Record author's details if an application for an editorial account has failed                        |
-| Preconditions            | Author's application has failed                                                                      |
-| Successful end condition | Author's details have been recorded                                                                  |
-| Failed end condition     | Author's details were not recorded                                                                   |
-| Primary actors           | Administrator                                                                                        |
-| Secondary actors         | *None*                                                                                               |
-| Trigger                  | ~Administrator~ asks CMS to ~record failed application~ that will allow building an author's history |
-| Main flow                | 1. Admin asks CMS to record failed application author's details                                      |
-|                          | 2. Admin selects the account type (editorial or regular)                                             |
-|                          | 3. Admin enters author's details                                                                     |
-| Extensions               | Branching action:                                                                                    |
-|                          | 2.1 Admin selects editorial blog account                                                             |
-|                          | 2.2 Admin selects regular blog account                                                               |
 
 [fn:7]A ~database~ is not a special case of the ~employee database~,
 but the other way around.

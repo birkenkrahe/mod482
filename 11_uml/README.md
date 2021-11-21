@@ -1,62 +1,68 @@
 
 # Table of Contents
 
--   [What will you learn?](#orga2539a5)
--   [What is UML?](#orgf943e29)
-    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org274b813)
-    -   [How UML came about](#org53d099e)
-    -   [How do you use UML?](#org52afe4c)
-        -   [Software engineering views](#org1377a08)
-    -   [UML diagram overview](#orgba5dbcc)
-        -   [Structure diagrams](#org5872d69)
-        -   [Behavior diagrams](#org481a743)
-    -   [Case study: airport](#org7b7bc1b)
-        -   [Use case diagrams: issuing a boarding pass](#org71d1db3)
-        -   [Activity diagrams: checking in](#org497ee6d)
-        -   [Sequence diagrams: check in and boarding](#orge68d4ec)
-        -   [Package diagram: organisational units](#orgc13d55b)
-        -   [Class diagram: Passenger services](#org5580e93)
--   [Discussion - whaddayathink?](#org65619e8)
--   [Use case diagrams](#org053411b)
--   [Use case elements](#org9cd2b9e)
-    -   [Situation](#org6eee06b)
-    -   [Requirements](#org0927cc9)
-    -   [System](#orgb814642)
-    -   [Actors](#org0d9a91a)
-        -   [Tricky actors](#org8ea2773)
-        -   [Generalization](#org4bcaa4a)
-    -   [Use cases](#org2bc1a93)
-    -   [Communication lines](#org5ab5e34)
-    -   [System boundaries](#orgb6d8146)
-    -   [Descriptions](#org3cc6639)
-    -   [Reusing use cases with `<<include>>`](#org821935c)
-    -   [Special cases: inheritance](#org4db4d09)
-    -   [Optional reuse with `<<extend>>`](#orgf871916)
-    -   [Process optimization with use cases](#org56b83b1)
-    -   [Overview diagrams](#org7b4224a)
--   [Use case practice](#org90297f9)
-    -   [Find mistakes in a use case diagram](#orga5af6c9)
-        -   [Is this a system?](#org58f4522)
-        -   [Are these `actors`?](#orgb4d3b02)
-        -   [Are these use cases?](#org7776893)
-        -   [Generalization](#orga785ce2)
-        -   [`<<include>>` and `<<extend>>`](#org5e8d282)
-    -   [Write a use case description](#org6948322)
-    -   [Create a use case from simple requirements](#org06c618d)
-        -   [Diagram](#orgb7a51cd)
-        -   [Description](#org5922134)
-    -   [Create a use case for the term project](#org4d93f83)
-    -   [Transfer a EPC/BPMN into an UML use case diagram](#org40a66b3)
-    -   [Bonus: "Hello world" as use case diagram](#orgcf82a85)
-        -   [Problem](#orgf1a848e)
-        -   [Solution](#org04ae262)
-        -   [Behavior diagrams](#org6115d2a)
-        -   [Further reading](#orgb6df924)
--   [References](#org836f0aa)
+-   [What will you learn?](#org4789fad)
+-   [What is UML?](#orgdb1a6ba)
+    -   [UML vs. Flowcharts vs. EPC vs. BPMN](#org2d6cfb0)
+    -   [How UML came about](#org5874ab4)
+    -   [How do you use UML?](#orge527b22)
+        -   [Software engineering views](#org6d12c86)
+    -   [UML diagram overview](#org740717e)
+        -   [Structure diagrams](#org411c74e)
+        -   [Behavior diagrams](#orge618bfb)
+    -   [Case study: airport](#orgf7346bd)
+        -   [Use case diagrams: issuing a boarding pass](#org92d2ac4)
+        -   [Activity diagrams: checking in](#orgdec81fc)
+        -   [Sequence diagrams: check in and boarding](#org357a17c)
+        -   [Package diagram: organisational units](#orga5218e6)
+        -   [Class diagram: Passenger services](#orgd182c41)
+-   [Discussion - whaddayathink?](#orgc0de0a5)
+-   [Use case diagrams](#orgcd46645)
+-   [Use case elements](#orgdccd0e8)
+    -   [Situation](#orgc811f96)
+    -   [Requirements](#org28c8b07)
+    -   [System](#org29c543f)
+    -   [Actors](#orgadae421)
+        -   [Tricky actors](#org1e0b540)
+        -   [Generalization](#orgf6326c4)
+    -   [Use cases](#orge3c68fc)
+    -   [Communication lines](#org3ddad63)
+    -   [System boundaries](#orgdc20764)
+    -   [Descriptions](#orgc14f43e)
+    -   [Reusing use cases with `<<include>>`](#org44b8a77)
+    -   [Special cases: inheritance](#org8299e51)
+    -   [Optional reuse with `<<extend>>`](#org2d81431)
+    -   [Process optimization with use cases](#org61e8f63)
+    -   [Overview diagrams](#orgb0b53d3)
+-   [Use case practice](#org6c7d7d7)
+    -   [Find mistakes in a use case diagram](#orgc5a433d)
+        -   [Is this a system?](#orgd33bccc)
+        -   [Are these `actors`?](#orgd0deac2)
+        -   [Are these use cases?](#orgd9739e2)
+        -   [Generalization](#orgeab3765)
+        -   [`<<include>>` and `<<extend>>`](#org166b771)
+    -   [Write a use case description](#orgcb7b1e0)
+        -   [Problem](#orgda0ed80)
+        -   [Solution](#org2dc366e)
+    -   [Create a use case from simple requirements](#orgc33d988)
+        -   [Problem](#org7a636bf)
+        -   [Solution](#org741a3d2)
+    -   [Create a use case for the term project](#org3333fae)
+        -   [Solution](#org93821ba)
+    -   [Transfer a EPC/BPMN into an UML use case diagram](#orge6df0be)
+        -   [Car purchase (BPMN)](#orgedc05bf)
+        -   [Practice session (BPMN)](#orgc5d99d1)
+        -   [Supply Chain Process (BPMN)](#orgf91d5dc)
+    -   [Bonus: "Hello world" as use case diagram](#org7e5419e)
+        -   [Problem](#org7dc443b)
+        -   [Solution](#orgcd7d42f)
+        -   [Behavior diagrams](#org4c0b6cd)
+        -   [Further reading](#org8337996)
+-   [References](#orge4cdc95)
 
 
 
-<a id="orga2539a5"></a>
+<a id="org4789fad"></a>
 
 # What will you learn?
 
@@ -69,12 +75,12 @@
 -   UML practice (use case only)
 
 
-<a id="orgf943e29"></a>
+<a id="orgdb1a6ba"></a>
 
 # What is UML?
 
 
-<a id="org274b813"></a>
+<a id="org2d6cfb0"></a>
 
 ## UML vs. Flowcharts vs. EPC vs. BPMN
 
@@ -136,7 +142,7 @@
 In UML, one can also model static systems (without flow).
 
 
-<a id="org53d099e"></a>
+<a id="org5874ab4"></a>
 
 ## How UML came about
 
@@ -196,7 +202,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org52afe4c"></a>
+<a id="orge527b22"></a>
 
 ## How do you use UML?
 
@@ -231,7 +237,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org1377a08"></a>
+<a id="org6d12c86"></a>
 
 ### Software engineering views
 
@@ -295,17 +301,17 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="orgba5dbcc"></a>
+<a id="org740717e"></a>
 
 ## UML diagram overview
 
 -   Watch the video: [UML Diagrams Full Course](https://youtu.be/WnMQ8HlmeXc) ([freeCodeCamp.org,
-    2021](#org5275a06)) - especially the overview (first 10 minutes)
+    2021](#org89bbf55)) - especially the overview (first 10 minutes)
 
 ![img](./img/uml.png)
 
 
-<a id="org5872d69"></a>
+<a id="org411c74e"></a>
 
 ### Structure diagrams
 
@@ -379,7 +385,7 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org481a743"></a>
+<a id="orge618bfb"></a>
 
 ### Behavior diagrams
 
@@ -453,12 +459,12 @@ In UML, one can also model static systems (without flow).
 </table>
 
 
-<a id="org7b7bc1b"></a>
+<a id="orgf7346bd"></a>
 
 ## Case study: airport
 
 Airports are complicated. Though it does not always go like this:
-watch the [video](https://youtu.be/gWYTnc7m9mE) of a 21st century public project scandal. ([DW 2020](#org40b4982))
+watch the [video](https://youtu.be/gWYTnc7m9mE) of a 21st century public project scandal. ([DW 2020](#orgaa734da))
 
 Some services in an airport:
 
@@ -477,7 +483,7 @@ Three relevant models:
 ![img](./img/airport2.png)
 
 
-<a id="org71d1db3"></a>
+<a id="org92d2ac4"></a>
 
 ### Use case diagrams: issuing a boarding pass
 
@@ -490,7 +496,7 @@ Extended use case diagram:
 ![img](./img/airport_usecase.png)
 
 
-<a id="org497ee6d"></a>
+<a id="orgdec81fc"></a>
 
 ### Activity diagrams: checking in
 
@@ -507,7 +513,7 @@ The same diagram but without explanations:
 ![img](./img/airport_activity3.png)
 
 
-<a id="orge68d4ec"></a>
+<a id="org357a17c"></a>
 
 ### Sequence diagrams: check in and boarding
 
@@ -521,7 +527,7 @@ The entire sequence spans the business use cases `check-in` and
 >    ![img](./img/airport_sequence2.png)
 
 
-<a id="orgc13d55b"></a>
+<a id="orga5218e6"></a>
 
 ### Package diagram: organisational units
 
@@ -535,7 +541,7 @@ Package diagram for the organization unit `Passenger service`:
 ![img](./img/airport_package1.png)
 
 
-<a id="org5580e93"></a>
+<a id="orgd182c41"></a>
 
 ### Class diagram: Passenger services
 
@@ -557,7 +563,7 @@ classes.
 ![img](./img/airport_class2.png)
 
 
-<a id="org65619e8"></a>
+<a id="orgc0de0a5"></a>
 
 # Discussion - whaddayathink?
 
@@ -565,10 +571,10 @@ classes.
 
 -   What do you like best? EPC, BPMN, UML? Why?
 -   If Germans are so fond of modeling, why can't they seem to build
-    an international airport? ([DW, 2020](#org40b4982)).
+    an international airport? ([DW, 2020](#orgaa734da)).
 
 
-<a id="org053411b"></a>
+<a id="orgcd46645"></a>
 
 # Use case diagrams
 
@@ -626,12 +632,12 @@ classes.
 </table>
 
 
-<a id="org9cd2b9e"></a>
+<a id="orgdccd0e8"></a>
 
 # Use case elements
 
 
-<a id="org6eee06b"></a>
+<a id="orgc811f96"></a>
 
 ## Situation
 
@@ -676,7 +682,7 @@ The solution: Use case modeling
 </table>
 
 
-<a id="org0927cc9"></a>
+<a id="org28c8b07"></a>
 
 ## Requirements
 
@@ -687,7 +693,7 @@ Requirement A.1:
 > blogger are **verified** using the **author credentials database**.
 
 
-<a id="orgb814642"></a>
+<a id="org29c543f"></a>
 
 ## System
 
@@ -707,7 +713,7 @@ Requirement A.1:
 ![img](./img/cms.png)
 
 
-<a id="org0d9a91a"></a>
+<a id="orgadae421"></a>
 
 ## Actors
 
@@ -724,7 +730,7 @@ Requirement A.1:
 
 
 <tr>
-<td class="org-left">Actors don't have to be actual people</td>
+<td class="org-left">Actors should be abstract and general</td>
 </tr>
 
 
@@ -742,7 +748,7 @@ Requirement A.1:
 ![img](./img/actor.png)
 
 
-<a id="org8ea2773"></a>
+<a id="org1e0b540"></a>
 
 ### Tricky actors
 
@@ -757,14 +763,14 @@ system's design (it's part of the given computing
 infrastructure), so it's not an `actor`.
 
 
-<a id="org4bcaa4a"></a>
+<a id="orgf6326c4"></a>
 
 ### Generalization
 
 ![img](./img/generalization.png)
 
 
-<a id="org2bc1a93"></a>
+<a id="orge3c68fc"></a>
 
 ## Use cases
 
@@ -802,7 +808,7 @@ interaction that it represents. E.g. for requirement A.1:
 ![img](./img/blog.png)
 
 
-<a id="org5ab5e34"></a>
+<a id="org3ddad63"></a>
 
 ## Communication lines
 
@@ -829,14 +835,14 @@ interaction that it represents. E.g. for requirement A.1:
 ![img](./img/comm2.png)
 
 
-<a id="orgb6d8146"></a>
+<a id="orgdc20764"></a>
 
 ## System boundaries
 
 ![img](./img/boundary.png)
 
 
-<a id="org3cc6639"></a>
+<a id="orgc14f43e"></a>
 
 ## Descriptions
 
@@ -1000,7 +1006,7 @@ Improved use case diagram after reviewing the description:
 ![img](./img/boundary2.png)
 
 
-<a id="org821935c"></a>
+<a id="org44b8a77"></a>
 
 ## Reusing use cases with `<<include>>`
 
@@ -1152,7 +1158,7 @@ The use case itself get its own description:
 </table>
 
 
-<a id="org4db4d09"></a>
+<a id="org8299e51"></a>
 
 ## Special cases: inheritance
 
@@ -1317,7 +1323,7 @@ If you don't want this, create a subroutine and `<<include>>` it,
 or use the upcoming `<<extend>>` relationship.
 
 
-<a id="orgf871916"></a>
+<a id="org2d81431"></a>
 
 ## Optional reuse with `<<extend>>`
 
@@ -1335,7 +1341,7 @@ extension is shared by both account creation use cases.
 ![img](./img/extend1.png)
 
 
-<a id="org56b83b1"></a>
+<a id="org61e8f63"></a>
 
 ## Process optimization with use cases
 
@@ -1350,10 +1356,10 @@ To-be diagram:
 
 ![img](./img/tobe.png)
 
-(Source: [Monteleone, 2021](#orga97b449)).
+(Source: [Monteleone, 2021](#orge592ceb)).
 
 
-<a id="org7b4224a"></a>
+<a id="orgb0b53d3"></a>
 
 ## Overview diagrams
 
@@ -1363,7 +1369,7 @@ context by painting a broad picture of your system's context.
 ![img](./img/overview.png)
 
 
-<a id="org90297f9"></a>
+<a id="org6c7d7d7"></a>
 
 # Use case practice
 
@@ -1375,10 +1381,10 @@ context by painting a broad picture of your system's context.
 -   Create a use case from simple requirements
 -   Create a use case for the term project
 -   Transfer a EPC/BPMN into an UML use case diagram
--   "Hello World" as UML ([Akehurst, 2014](#org2c657e3))
+-   "Hello World" as UML ([Akehurst, 2014](#org92f525b))
 
 
-<a id="orga5af6c9"></a>
+<a id="orgc5a433d"></a>
 
 ## Find mistakes in a use case diagram
 
@@ -1386,7 +1392,7 @@ To solve these problems, return to the rules for actors, systems
 and use cases. *Answers in the footnotes.*
 
 
-<a id="org58f4522"></a>
+<a id="orgd33bccc"></a>
 
 ### Is this a system?<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>
 
@@ -1395,7 +1401,7 @@ and use cases. *Answers in the footnotes.*
 ![img](./img/error6.png)
 
 
-<a id="orgb4d3b02"></a>
+<a id="orgd0deac2"></a>
 
 ### Are these `actors`?<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>
 
@@ -1404,14 +1410,14 @@ and use cases. *Answers in the footnotes.*
 ![img](./img/error2.png)
 
 
-<a id="org7776893"></a>
+<a id="orgd9739e2"></a>
 
 ### Are these use cases?<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup>
 
 ![img](./img/error4.png)
 
 
-<a id="orga785ce2"></a>
+<a id="orgeab3765"></a>
 
 ### Generalization
 
@@ -1420,552 +1426,145 @@ What's wrong with this diagram?<sup><a id="fnr.8" class="footref" href="#fn.8">8
 ![img](./img/error3.png)
 
 
-<a id="org5e8d282"></a>
+<a id="org166b771"></a>
 
 ### `<<include>>` and `<<extend>>`
 
-A relational database management system (RDBMS) is queried using
-Structured Query Language (SQL). During the design of an RDBMS, a
-UML diagram was created. Somehow, the relationships were screwed
-up. You have to fix them!
+-   Problem
 
--   Copy the [diagram in Signavio](https://academic.signavio.com/p/editor?id=91f9fbb02c2c44df9738399d100182ea) into your personal (shared) folder)
--   Fix the diagram by fixing the relationships only
--   Save your diagram and share it with the class
+    A relational database management system (RDBMS) is queried using
+    Structured Query Language (SQL). During the design of an RDBMS, a
+    UML diagram was created. Somehow, the relationships were screwed
+    up. You have to fix them!
+    
+    -   Copy the [diagram in Signavio](https://academic.signavio.com/p/editor?id=91f9fbb02c2c44df9738399d100182ea) into your personal (shared) folder)
+    -   Fix the diagram by fixing the relationships only
+    -   Save your diagram and share it with the class
+    
+    ![img](./img/error7.png)
 
-![img](./img/error7.png)
+-   Solution
+
+    ![img](./img/solution7.png)
 
 
-<a id="org6948322"></a>
+<a id="orgcb7b1e0"></a>
 
 ## Write a use case description
 
-Write a use case description for `Record Application Failure` from
-the CMS example discussed above under `<<extend>>`.<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">DESCRIPTION DETAIL</th>
-<th scope="col" class="org-left">DESCRIPTION</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Use case name</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Related requirements</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Goal in context</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Preconditions</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Successful end condition</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Failed end condition</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Primary actors</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Secondary actors</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Trigger</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Main flow</td>
-<td class="org-left">1.</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">2.</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">3.</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Extensions</td>
-<td class="org-left">Branching action:</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-
-<a id="org06c618d"></a>
-
-## Create a use case from simple requirements
-
-1.  Fire up Signavio Process Manager
-2.  Go to your personal folder in `Shared Documents`
-3.  Create a new `UML use case diagram`
-4.  Write a use case description for a login process
-5.  Modify the diagram if necessary, using relationships
-6.  > A user logs into a computer.
-
-
-<a id="orgb7a51cd"></a>
-
-### Diagram
-
--   Create the sketch below in your personal (shared) folder
--   Fill in the use case description
-
-![img](./img/login.png)
-
-
-<a id="org5922134"></a>
-
-### Description
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">DESCRIPTION DETAIL</th>
-<th scope="col" class="org-left">DESCRIPTION</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Use case name</td>
-<td class="org-left">User login</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Related requirements</td>
-<td class="org-left"><b>None</b></td>
-</tr>
-
-
-<tr>
-<td class="org-left">Goal in context</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Preconditions</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Successful end condition</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Failed end condition</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Primary actors</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Secondary actors</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Trigger</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Main flow</td>
-<td class="org-left">1.</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">2.</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">3.</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Extensions</td>
-<td class="org-left">Branching action:</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-
-<a id="org4d93f83"></a>
-
-## Create a use case for the term project
-
-Projects can be seen as systems to be designed. In fact, there is a
-whole (agile) methodology, "design thinking", that rests upon this
-fact. Modeling with diagrams is common when using "design thinking"
-
--   Create a use case for the term project
--   Begin by answering the following questions:
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">What is a suitable system?</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Who are the actors?</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">What are the use cases?</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Are any use cases specialized/reusable/extending?</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-*Tip: remember that the project is an agile Scrum project.*
-
-
-<a id="org40a66b3"></a>
-
-## Transfer a EPC/BPMN into an UML use case diagram
-
-Transfer the [BPMN practice diagram](https://github.com/birkenkrahe/mod482/blob/main/10_bpmn/README.md#orgadb1ab2) that you created (car purchase,
-practice session, or supply chain process) into an UML diagram:
-
-![img](./img/car.png)
-
-![img](./img/practice1.png)
-
-![img](./img/solution1.jpg)
-
-
-<a id="orgcf82a85"></a>
-
-## Bonus: "Hello world" as use case diagram
-
-This bonus problem challenges you to know/remember what the
-different UML diagram types were about.
-
-
-<a id="orgf1a848e"></a>
+<a id="orgda0ed80"></a>
 
 ### Problem
 
--   List UML diagram types that you could use to model the `hello,
-          world` C program below.
+Write a use case description for `Record Application Failure` from
+the CMS example discussed above under `<<extend>>`.
 
-![img](./img/hello.png)
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="org04ae262"></a>
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">DESCRIPTION DETAIL</th>
+<th scope="col" class="org-left">DESCRIPTION</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Use case name</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Related requirements</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Goal in context</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Preconditions</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Successful end condition</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Failed end condition</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Primary actors</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Secondary actors</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Trigger</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Main flow</td>
+<td class="org-left">1.</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">2.</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">3.</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Extensions</td>
+<td class="org-left">Branching action:</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org2dc366e"></a>
 
 ### Solution
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">STRUCTURE DIAGRAMS</th>
-<th scope="col" class="org-left">RELEVANT (Y/N)</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Class diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Component diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Deployment diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Object (instance) diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Package diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Profile diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Composite structure diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-
-<a id="org6115d2a"></a>
-
-### Behavior diagrams
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">BEHAVIOR DIAGRAMS</th>
-<th scope="col" class="org-left">RELEVANT (Y/N)</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Use case diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Activity diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">State machine diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Sequence diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Communication (collaboration) diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Timing diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Interaction overview diagram</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-
-<a id="orgb6df924"></a>
-
-### Further reading
-
--   A solution for Java, C++ and C#: [Akehurst, 2014](#org2c657e3)
--   Interesting is also UML for the C programming language<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup>:
-    
-    > "Unified Modeling Language (UML) has been highly successful in
-    > the modeling of software-intensive systems, including
-    > systems-oriented models and realtime and embedded designs. The
-    > most common implementation for these models has been C++, with
-    > the C language in second place. On one hand, this is surprising
-    > because the most common implementation language for realtime and
-    > embedded systems overall by far is the language C. On the other
-    > hand, UML is used almost exclusively for object-oriented systems
-    > development, and most realtime and embedded designs are
-    > functionally oriented."  ([Douglass, 2009](#orgf0ae22d))
-
-
-<a id="org836f0aa"></a>
-
-# References
-
-<a id="org6877b9a"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
-
-1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
-
-<a id="org9bc2812"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
-Project-based Tutorial. Packt Publishing
-(2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
-
-<a id="org0c0fd25"></a> Object Management Group: Unified Modeling Language
-Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
-
-<a id="org5275a06"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
-(Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
-
-<a id="orga2d6a5f"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
-Learn about All Types of UML Diagrams with Examples [blog]. [URL:
-creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
-
-<a id="org2c657e3"></a> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
-World. [URL: dhakehurst.blogspot.com.](http://dhakehurst.blogspot.com/2014/08/examples-uml-hello-world-part-1.html)
-
-<a id="org40b4982"></a> DW (31 Oct 2020). Berlin's new airport finally opens: A story
-of failure and embarrassment [blog]. URL: [URL: www.dw.com.](https://www.dw.com/en/berlins-new-airport-finally-opens-a-story-of-failure-and-embarrassment/a-55446329)
-
-<a id="orga97b449"></a> Monteleone (2021). Generalization/Specialization Use
-Case Diagrams and Scenarios [blog]. URL: [URL: modernanalyst.com.](https://modernanalyst.com/Resources/Articles/tabid/115/ID/5465/Generalization-Specialization-Use-Case-Diagrams-and-Scenarios.aspx)
-
-<a id="orgf0ae22d"></a> Douglass/IBM (2009). UML for the C programming language
-[white paper]. URL: [URL: www.techonline.com.](https://www.techonline.com/tech-papers/uml-for-the-c-programming-language/)
-
-
-# Footnotes
-
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> UML 0.9 =
-    + Booch Method (Grady Booch)
-    + Object Modeling Technique (James Rumbaugh)
-    + Object-Oriented Software Engineering (Ivar Jacobsen)
-    + Others
-
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#org0c0fd25))
-
-<sup><a id="fn.3" href="#fnr.3">3</a></sup> While the general UML overview is quite good, the Use Case
-diagram explanation is not great and even contains (in the last
-diagram) a few mistakes. The Lucidchart video is way better.
-
-<sup><a id="fn.4" href="#fnr.4">4</a></sup> I had to smile at this comment.
-![img](./img/youtube.png)
-
-<sup><a id="fn.5" href="#fnr.5">5</a></sup> (1) "Global climate" as a system needs to have clear
-boundaries. While the globe does, the climate of the globe does not
-(the weather on Earth is subject to influences outside the atmosphere,
-e.g. sun spots). (2) "God" is not a system at all, but a supernatural
-entity that cannot be designed (as a system must be) because He is the
-designer.
-
-<sup><a id="fn.6" href="#fnr.6">6</a></sup> (1) The `student` is an actor but the communication line to the
-use case `create assignment` is wrong, because that's not what
-students do. (2) The R language is not outside of the system that
-plots the histogram.
-
-<sup><a id="fn.7" href="#fnr.7">7</a></sup> (1) `Live long and prosper` is subjective - outcome is not
-measurable. (2) `Use case` - there is no specific action involved. (3)
-`Blog account created` is an outcome of a use case (successful end
-event), not a use case.
-
-<sup><a id="fn.8" href="#fnr.8">8</a></sup> A `database` is not a special case of the `employee database`,
-but the other way around.
-
-<sup><a id="fn.9" href="#fnr.9">9</a></sup> Sample solution:
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -2074,5 +1673,562 @@ but the other way around.
 </tbody>
 </table>
 
-<sup><a id="fn.10" href="#fnr.10">10</a></sup> We will use UML in the introduction to programming course for
+
+<a id="orgc33d988"></a>
+
+## Create a use case from simple requirements
+
+
+<a id="org7a636bf"></a>
+
+### Problem
+
+1.  Fire up Signavio Process Manager
+2.  Go to your personal folder in `Shared Documents`
+3.  Create a new `UML use case diagram`
+4.  Write a use case description for a login process
+5.  Modify the diagram if necessary, using relationships
+6.  > A user logs into a computer.
+
+-   Diagram
+
+    -   Create the sketch below in your personal (shared) folder
+    -   Fill in the use case description
+    
+    ![img](./img/login.png)
+
+-   Description
+
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">DESCRIPTION DETAIL</th>
+    <th scope="col" class="org-left">DESCRIPTION</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Use case name</td>
+    <td class="org-left">User login</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Related requirements</td>
+    <td class="org-left"><b>None</b></td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Goal in context</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Preconditions</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Successful end condition</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Failed end condition</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Primary actors</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Secondary actors</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Trigger</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Main flow</td>
+    <td class="org-left">1.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">2.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">3.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Extensions</td>
+    <td class="org-left">Branching action:</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">&#xa0;</td>
+    </tr>
+    </tbody>
+    </table>
+
+
+<a id="org741a3d2"></a>
+
+### Solution
+
+-   Diagram
+
+    Here are two possible solutions. The problem with the exercise,
+    as I realized too late, is that the "computer" system, as far as
+    the user is concerned, from the outside, is identical with the
+    operating system. Hence it would be better to rename the system
+    to "Operating System" and dispense with the secondary actor
+    altogether. All the other relationships still hold.
+    
+    ![img](./img/login1.png)
+    
+    ![img](./img/login2.png)
+
+-   Description
+
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">DESCRIPTION DETAIL</th>
+    <th scope="col" class="org-left">DESCRIPTION</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Use case name</td>
+    <td class="org-left">User login</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Related requirements</td>
+    <td class="org-left"><b>None</b></td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Goal in context</td>
+    <td class="org-left">Log into user account</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Preconditions</td>
+    <td class="org-left">Account exists on computer</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Successful end condition</td>
+    <td class="org-left">User logged in</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Failed end condition</td>
+    <td class="org-left">User not logged in</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Primary actors</td>
+    <td class="org-left">User</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Secondary actors</td>
+    <td class="org-left">Operating System (OS)</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Trigger</td>
+    <td class="org-left">User enters username and password to log in</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Main flow</td>
+    <td class="org-left">1. User enters username and password</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">2. OS checks if account exists</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">3. OS checks if username OK</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">4. OS checks if password OK</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">5. Login screen is disabled</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Extensions</td>
+    <td class="org-left">Branching action:</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">2.1 no account exists</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">3.1 username not OK</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">&#xa0;</td>
+    <td class="org-left">4.1 password not OK</td>
+    </tr>
+    </tbody>
+    </table>
+
+
+<a id="org3333fae"></a>
+
+## Create a use case for the term project
+
+Projects can be seen as systems to be designed. In fact, there is a
+whole (agile) methodology, "design thinking", that rests upon this
+fact. Modeling with diagrams is common when using "design thinking"
+
+-   Create a use case for the term project
+-   Begin by answering the following questions:
+    -   What is a suitable system?
+    -   Who are the actors?
+    -   What are the use cases?
+    -   What are the relationships between them?
+
+*Tip: remember that the project is an agile Scrum project.*
+
+
+<a id="org93821ba"></a>
+
+### Solution
+
+![img](./img/scrum.png)   
+
+
+<a id="orge6df0be"></a>
+
+## Transfer a EPC/BPMN into an UML use case diagram
+
+Transfer the [BPMN practice diagram](https://github.com/birkenkrahe/mod482/blob/main/10_bpmn/README.md#orgadb1ab2) that you created (car purchase,
+practice session, or supply chain process) into an UML diagram:
+
+
+<a id="orgedc05bf"></a>
+
+### Car purchase (BPMN)
+
+![img](./img/car.png)
+
+
+<a id="orgc5d99d1"></a>
+
+### Practice session (BPMN)
+
+![img](./img/practice1.png)
+
+
+<a id="orgf91d5dc"></a>
+
+### Supply Chain Process (BPMN)
+
+![img](./img/solution1.jpg)
+
+
+<a id="org7e5419e"></a>
+
+## Bonus: "Hello world" as use case diagram
+
+This bonus problem challenges you to know/remember what the
+different UML diagram types were about.
+
+
+<a id="org7dc443b"></a>
+
+### Problem
+
+-   List UML diagram types that you could use to model the `hello,
+          world` C program below.
+
+![img](./img/hello.png)
+
+
+<a id="orgcd7d42f"></a>
+
+### Solution
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">STRUCTURE DIAGRAMS</th>
+<th scope="col" class="org-left">RELEVANT (Y/N)</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Class diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Component diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Deployment diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Object (instance) diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Package diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Profile diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Composite structure diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org4c0b6cd"></a>
+
+### Behavior diagrams
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">BEHAVIOR DIAGRAMS</th>
+<th scope="col" class="org-left">RELEVANT (Y/N)</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Use case diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Activity diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">State machine diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Sequence diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Communication (collaboration) diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Timing diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Interaction overview diagram</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org8337996"></a>
+
+### Further reading
+
+-   A solution for Java, C++ and C#: [Akehurst, 2014](#org92f525b)
+-   Interesting is also UML for the C programming language<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>:
+    
+    > "Unified Modeling Language (UML) has been highly successful in
+    > the modeling of software-intensive systems, including
+    > systems-oriented models and realtime and embedded designs. The
+    > most common implementation for these models has been C++, with
+    > the C language in second place. On one hand, this is surprising
+    > because the most common implementation language for realtime and
+    > embedded systems overall by far is the language C. On the other
+    > hand, UML is used almost exclusively for object-oriented systems
+    > development, and most realtime and embedded designs are
+    > functionally oriented."  ([Douglass, 2009](#org9d9a366))
+
+
+<a id="orge4cdc95"></a>
+
+# References
+
+<a id="orgeb82616"></a> Miles/Hamilton: Learning UML 2.0. O'Reilly (2006). ISBN:
+
+1.  URL: [URL: oreilly.com.](https://www.oreilly.com/library/view/learning-uml-20/0596009828/)
+
+<a id="org464c8a5"></a> Graessle/Baumann/Baumann: UML 2.0 in Action - a
+Project-based Tutorial. Packt Publishing
+(2005). ISBN: 9781904811558. URL: [URL: packtpub.com](https://www.packtpub.com/product/uml-2-0-in-action-a-project-based-tutorial/9781904811558).
+
+<a id="orgfc2d599"></a> Object Management Group: Unified Modeling Language
+Specifications [website]. [URL: omg.org.](https://www.omg.org/spec/UML/2.5.1/About-UML/)
+
+<a id="org89bbf55"></a> freeCodeCamp.org (21 Apr 2021). UML Diagrams Full Course
+(Unified Modeling Language) [video]. [URL: youtu.be/WnMQ8HlmeXc.](https://youtu.be/WnMQ8HlmeXc)
+
+<a id="orgaba1a50"></a> Creately.com (10 Sept 2021). UML Diagram Types Guide:
+Learn about All Types of UML Diagrams with Examples [blog]. [URL:
+creately.com](https://creately.com/blog/diagrams/uml-diagram-types-examples).
+
+<a id="org92f525b"></a> Akehurst (17 Aug 2014). Examples: UML: Simple Hello
+World. [URL: dhakehurst.blogspot.com.](http://dhakehurst.blogspot.com/2014/08/examples-uml-hello-world-part-1.html)
+
+<a id="orgaa734da"></a> DW (31 Oct 2020). Berlin's new airport finally opens: A story
+of failure and embarrassment [blog]. URL: [URL: www.dw.com.](https://www.dw.com/en/berlins-new-airport-finally-opens-a-story-of-failure-and-embarrassment/a-55446329)
+
+<a id="orge592ceb"></a> Monteleone (2021). Generalization/Specialization Use
+Case Diagrams and Scenarios [blog]. URL: [URL: modernanalyst.com.](https://modernanalyst.com/Resources/Articles/tabid/115/ID/5465/Generalization-Specialization-Use-Case-Diagrams-and-Scenarios.aspx)
+
+<a id="org9d9a366"></a> Douglass/IBM (2009). UML for the C programming language
+[white paper]. URL: [URL: www.techonline.com.](https://www.techonline.com/tech-papers/uml-for-the-c-programming-language/)
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> UML 0.9 =
+    + Booch Method (Grady Booch)
+    + Object Modeling Technique (James Rumbaugh)
+    + Object-Oriented Software Engineering (Ivar Jacobsen)
+    + Others
+
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> Since 2017: UML 2.5.1 ([OMG](#orgfc2d599))
+
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> While the general UML overview is quite good, the Use Case
+diagram explanation is not great and even contains (in the last
+diagram) a few mistakes. The Lucidchart video is way better.
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> I had to smile at this comment.
+![img](./img/youtube.png)
+
+<sup><a id="fn.5" href="#fnr.5">5</a></sup> (1) "Global climate" as a system needs to have clear
+boundaries. While the globe does, the climate of the globe does not
+(the weather on Earth is subject to influences outside the atmosphere,
+e.g. sun spots). (2) "God" is not a system at all, but a supernatural
+entity that cannot be designed (as a system must be) because He is the
+designer.
+
+<sup><a id="fn.6" href="#fnr.6">6</a></sup> (1) The `student` is an actor but the communication line to the
+use case `create assignment` is wrong, because that's not what
+students do. (2) The R language is not outside of the system that
+plots the histogram.
+
+<sup><a id="fn.7" href="#fnr.7">7</a></sup> (1) `Live long and prosper` is subjective - outcome is not
+measurable. (2) `Use case` - there is no specific action involved. (3)
+`Blog account created` is an outcome of a use case (successful end
+event), not a use case.
+
+<sup><a id="fn.8" href="#fnr.8">8</a></sup> A `database` is not a special case of the `employee database`,
+but the other way around.
+
+<sup><a id="fn.9" href="#fnr.9">9</a></sup> We will use UML in the introduction to programming course for
 C/C++ (from spring 2022).
