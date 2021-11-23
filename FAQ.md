@@ -1,19 +1,20 @@
 
 # Table of Contents
 
-1.  [What is this?](#org7b6784d)
-2.  [How do you report on and plan a research "method"?](#org410c950)
-3.  [Who is your audience, and how should you address them?](#orgfa8d81e)
-4.  [How can you find a topic for your scientific essay?](#org9a4778d)
-    1.  [Using a chapter from THE MODEL THINKER](#org0d1046a)
-    2.  [Research a topic based on a scientific article](#org9f1061c)
-    3.  [Researching practical modeling methods](#org2f3b1db)
-    4.  [An Introduction to Mathematical Modeling](#orgb5bde97)
-5.  [How can you generate questions on something you've only just learnt?](#orgb9b8f94)
-6.  [References](#orgdcf9a30)
+1.  [What is this?](#orgb12e595)
+2.  [How do you report on and plan a research "method"?](#org0af63f5)
+3.  [Who is your audience, and how should you address them?](#org8acdc45)
+4.  [How can you find a topic for your scientific essay?](#org177778c)
+    1.  [Using a chapter from THE MODEL THINKER](#org1f3e0bf)
+    2.  [Research a topic based on a scientific article](#org0e0c26e)
+    3.  [Researching practical modeling methods](#org1a1b864)
+    4.  [An Introduction to Mathematical Modeling](#org5df2def)
+5.  [How can you generate questions on something you've only just learnt?](#orgd8f3796)
+6.  [How should we submit the final essay?](#org8b4502f)
+7.  [References](#org341dc20)
 
 
-<a id="org7b6784d"></a>
+<a id="orgb12e595"></a>
 
 # What is this?
 
@@ -22,7 +23,7 @@ seminar on "Data modeling" (CSC 482.02). For the FAQs across
 courses, see the [org repo](https://github.com/birkenkrahe/org).
 
 
-<a id="org410c950"></a>
+<a id="org0af63f5"></a>
 
 # How do you report on and plan a research "method"?
 
@@ -67,7 +68,7 @@ Hopefully, this structural breakdown will help you think about your
 modeling paper.
 
 
-<a id="orgfa8d81e"></a>
+<a id="org8acdc45"></a>
 
 # Who is your audience, and how should you address them?
 
@@ -86,12 +87,12 @@ current literature. This means that every essay must have a
 literature review section, no matter how short.
 
 
-<a id="org9a4778d"></a>
+<a id="org177778c"></a>
 
 # How can you find a topic for your scientific essay?
 
 
-<a id="org0d1046a"></a>
+<a id="org1f3e0bf"></a>
 
 ## Using a chapter from THE MODEL THINKER
 
@@ -130,7 +131,7 @@ this issue already - you will have to check it out and chart your
 own learning course.
 
 Markov models are also highly relevant in cybersecurity and
-network analysis ([Abraham and Nair, 2014](#orgceab56a)). If that's something
+network analysis ([Abraham and Nair, 2014](#org80150b1)). If that's something
 that interests you, this could be your example, or one of your
 examples to illustrate the use of these models.
 
@@ -146,7 +147,7 @@ and show off what you already know - stats, algorithms, design,
 whatever.
 
 
-<a id="org9f1061c"></a>
+<a id="org0e0c26e"></a>
 
 ## Research a topic based on a scientific article
 
@@ -305,7 +306,7 @@ evaluation**. In: Comm. of the ACM
 > potentially diverging views."
 
 
-<a id="org2f3b1db"></a>
+<a id="org1a1b864"></a>
 
 ## Researching practical modeling methods
 
@@ -321,11 +322,11 @@ some theory.
 Online: [GDrive.](https://drive.google.com/file/d/144NOnTyv913QeN3QDGyxIoKMeoTECqJN/view?usp=sharing)
 
 
-<a id="orgb5bde97"></a>
+<a id="org5df2def"></a>
 
 ## An Introduction to Mathematical Modeling
 
-"Introduction to Mathematical Modeling" ([Bender, 2000](#org0880f56)) is a
+"Introduction to Mathematical Modeling" ([Bender, 2000](#org1e34aeb)) is a
 classic first published in 1978. Written for engineering
 students, it covers a lot of examples of modeling with
 mathematical methods, especially probability theory and
@@ -376,7 +377,7 @@ connect them with more current examples, and write some code of
 the type shown above.
 
 
-<a id="orgb9b8f94"></a>
+<a id="orgd8f3796"></a>
 
 # How can you generate questions on something you've only just learnt?
 
@@ -393,15 +394,50 @@ trivial, either. There are a few tricks though:
     20-year old person<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>.
 
 
-<a id="orgdcf9a30"></a>
+<a id="org8b4502f"></a>
+
+# How should we submit the final essay?
+
+These are the instructions<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup> for handing in the final essay
+material. Please read them carefully, follow them to the letter and
+contact me immediately if you notice any issues or
+mistakes<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>. Submit earlier, not in the last minute, to be on the
+safe side!
+
+The deadline for submitting the presentation is **Friday, December 3,
+12AM CST** (midnight in Batesville).
+
+1.  **Fill in and sign** [this honor sheet (PDF)](https://github.com/birkenkrahe/org/blob/master/Honor_pledge.pdf) and write
+    **"pledged"** next to your name in the column "Honor Pledge".
+
+2.  Upload your **essay document** and the **scan of the
+    signed honor sheet** [to this GitHub folder](https://github.com/birkenkrahe/mod482/tree/main/presentations/4th_sprint_review) - please add your
+    name(s) to the title of the file.
+
+3.  When you're done, **send me an email** (birkenkrahe@lyon.edu)
+    confirming that you've done all of this, including which
+    course you're in (**482.02 data modeling**).
+
+4.  Await my formative (comments) and summative (grade) feedback (via
+    email) based on section D of [this rubric](https://github.com/birkenkrahe/org/blob/master/Essay_Assessment_Rubric.pdf) (PDF).
+
+Cheers, and have a good Thanksgiving break & a successful exam period!
+Marcus Birkenkrahe
+
+PS. remember that the essay should have consistent and complete
+references, and that **[it must be at least 2,500 words long (per
+author, not counting references)](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#final-essay-40)**.
+
+
+<a id="org341dc20"></a>
 
 # References
 
-<a id="orgceab56a"></a> Abraham S, Nair S (2014). Cyber Security Analytics: A
+<a id="org80150b1"></a> Abraham S, Nair S (2014). Cyber Security Analytics: A
 Stochastic Model for Security Quantification Using Absorbing Markov
 Chains. In: J. of Communications 9(12):899-907. [Online: jocm.us.](http://www.jocm.us/uploadfile/2014/1231/20141231022619157.pdf)
 
-<a id="org0880f56"></a> Bender EA (2000). An Introduction to Mathematical
+<a id="org1e34aeb"></a> Bender EA (2000). An Introduction to Mathematical
 Modeling. Reprint: Dover Books on Computer Science. Online:
 [archive.org.](https://archive.org/details/introductiontoma00bend_0)
 
@@ -411,11 +447,11 @@ Papers And Theses. In: Proceedings of the 13th IEEE Int. Conf. on
 Cognitive Informatics & Cognitive Computing, London, August
 18-20, 2014.
 
-<a id="orgfad9c24"></a> Hauser et al (2014). The mystery of language
+<a id="orge310e85"></a> Hauser et al (2014). The mystery of language
 evolution. In:
 Front. Pschol. <https://doi.org/10.3389/fpsyg.2014.00401>
 
-<a id="orge852a50"></a> WIRED (25 June 2018). Quantum Computing Expert
+<a id="orga3c9f8f"></a> WIRED (25 June 2018). Quantum Computing Expert
 Explains One Concept in 5 Levels of Difficulty | WIRED
 [Video]. [Online: youtube.com.](https://youtu.be/OWJCfOvochA)
 
@@ -429,7 +465,7 @@ easily. This formalization of language has since turned out to be a
 complete dead-end street. A few years ago, Chomsky and other prominent
 linguists admitted that there were today, more than 50 years later,
 still had no clue what language really is or where it came from
-([Hauser et al, 2014](#orgfad9c24)).
+([Hauser et al, 2014](#orge310e85)).
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> This way of updating the code is not, of course, in the spirit
 of version control. It would be better if every collaborator created a
@@ -443,7 +479,14 @@ enlightening because you may never have thought about it for that
 person, who might be a cop, a plummer, an actor or a librarian.
 
 <sup><a id="fn.4" href="#fnr.4">4</a></sup> This is a format that WIRED magazine developed, check out this
-video ([WIRED, 2018](#orge852a50)). I once (as a 22-year-old) spent an entire 8-hour
+video ([WIRED, 2018](#orga3c9f8f)). I once (as a 22-year-old) spent an entire 8-hour
 train ride from Hamburg to Munich in Germany explaining particle
 physics to an elderly lady. It really showed me what I did, and what I
 did not know (yet).
+
+<sup><a id="fn.5" href="#fnr.5">5</a></sup> This text is available as: Update in Schoology, Email to
+participants, course FAQ in GitHub.
+
+<sup><a id="fn.6" href="#fnr.6">6</a></sup> Please be advised that I'm traveling in Europe between November
+29 and December 15 (communication of final grades), and will not be
+easily reachable.

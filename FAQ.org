@@ -370,6 +370,38 @@
   * Imagine having to explain the topic to a 5, a 10, a 15 and a
     20-year old person[fn:4].
 
+* How should we submit the final essay?
+
+  These are the instructions[fn:5] for handing in the final essay
+  material. Please read them carefully, follow them to the letter and
+  contact me immediately if you notice any issues or
+  mistakes[fn:6]. Submit earlier, not in the last minute, to be on the
+  safe side!
+
+  The deadline for submitting the presentation is *Friday, December 3,
+  12AM CST* (midnight in Batesville).
+
+  1) *Fill in and sign* [[https://github.com/birkenkrahe/org/blob/master/Honor_pledge.pdf][this honor sheet (PDF)]] and write
+     *"pledged"* next to your name in the column "Honor Pledge".
+
+  2) Upload your *essay document* and the *scan of the
+     signed honor sheet* [[https://github.com/birkenkrahe/mod482/tree/main/presentations/4th_sprint_review][to this GitHub folder]] - please add your
+     name(s) to the title of the file.
+
+  3) When you're done, *send me an email* (birkenkrahe@lyon.edu)
+     confirming that you've done all of this, including which
+     course you're in (*482.02 data modeling*).
+
+  4) Await my formative (comments) and summative (grade) feedback (via
+     email) based on section D of [[https://github.com/birkenkrahe/org/blob/master/Essay_Assessment_Rubric.pdf][this rubric]] (PDF).
+
+  Cheers, and have a good Thanksgiving break & a successful exam period!
+  Marcus Birkenkrahe
+
+  PS. remember that the essay should have consistent and complete
+  references, and that *[[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#final-essay-40][it must be at least 2,500 words long (per
+  author, not counting references)]]*.
+
 * References
 
   <<markov14>> Abraham S, Nair S (2014). Cyber Security Analytics: A
@@ -395,6 +427,13 @@
   [Video]. [[https://youtu.be/OWJCfOvochA][Online: youtube.com.]]
 
 * Footnotes
+
+[fn:5] This text is available as: Update in Schoology, Email to
+participants, course FAQ in GitHub.
+
+[fn:6]Please be advised that I'm traveling in Europe between November
+29 and December 15 (communication of final grades), and will not be
+easily reachable.
 
 [fn:3]Since everybody is an expert on something else, you'll be
 surprised about the questions that you get. They can be quite
