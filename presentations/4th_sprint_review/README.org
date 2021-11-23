@@ -5,8 +5,9 @@
 
   These are the instructions[fn:1] for handing in the final essay
   material. Please read them carefully, follow them to the letter and
-  contact me immediately if there are issues or mistakes[fn:2]. Submit
-  earlier, not in the last minute, to be on the safe side!
+  contact me immediately if you notice any issues or
+  mistakes[fn:2]. Submit earlier, not in the last minute, to be on the
+  safe side!
 
   The deadline for submitting the presentation is *Friday, December 3,
   12AM CST* (midnight in Batesville).
@@ -15,14 +16,14 @@
      *"pledged"* next to your name in the column "Honor Pledge".
 
   2) Upload your *essay document* and the *scan of the
-     signed honor sheet* [[https://github.com/birkenkrahe/ai482/tree/main/presentations/4th_sprint_review][to this GitHub folder]] - please add your
+     signed honor sheet* [[https://github.com/birkenkrahe/mod482/tree/main/presentations/4th_sprint_review][to this GitHub folder]] - please add your
      name(s) to the title of the file.
 
-  4) When you're done, *send me an email* (birkenkrahe@lyon.edu)
+  3) When you're done, *send me an email* (birkenkrahe@lyon.edu)
      confirming that you've done all of this, including which
      course you're in (482.02 data modeling).
 
-  5) Await my formative (comments) and summative (grade) feedback (via
+  4) Await my formative (comments) and summative (grade) feedback (via
      email) based on section D of [[https://github.com/birkenkrahe/org/blob/master/Essay_Assessment_Rubric.pdf][this rubric]] (PDF).
 
   Cheers, and have a good Thanksgiving break & a successful exam period!
