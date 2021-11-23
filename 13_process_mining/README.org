@@ -42,6 +42,8 @@
    * SQL integration visible (query language)
    * Do it yourself in editor.signavio.com ([[https://github.com/birkenkrahe/mod482/tree/main/13_process_mining/data][data here]])
 
+     [[https://media.hwr-berlin.de/search/title/signavio+pi/description/signavio+pi/tags/signavio+pi/type/all/search/basic/categoriesopt/0][Video playlist]]
+
 ** Celonis Execution Management System
 
    * Dashboard not intuitive (overloaded)
