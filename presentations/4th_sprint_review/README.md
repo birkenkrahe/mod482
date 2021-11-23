@@ -22,7 +22,7 @@ The deadline for submitting the presentation is **Friday, December 3,
 
 3.  When you're done, **send me an email** (birkenkrahe@lyon.edu)
     confirming that you've done all of this, including which
-    course you're in (482.02 data modeling).
+    course you're in (**482.02 data modeling**).
 
 4.  Await my formative (comments) and summative (grade) feedback (via
     email) based on section D of [this rubric](https://github.com/birkenkrahe/org/blob/master/Essay_Assessment_Rubric.pdf) (PDF).
