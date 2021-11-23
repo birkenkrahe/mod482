@@ -366,7 +366,7 @@
 
   | Evaluate the course, please! | Online form |
   | UML test is live             | [[https://lyon.schoology.com/assignment/5459301289][Schoology]]   |
-  | Final essay instructions     | Schoology/Email/FAQ |
+  | [[https://github.com/birkenkrahe/mod482/tree/main/presentations/4th_sprint_review][Final essay instructions]]     | Schoology/Email/FAQ |
 
   #+attr_html: :width 400px
   [[./img/rpa.jpg]]
