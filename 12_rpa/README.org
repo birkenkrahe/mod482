@@ -13,11 +13,39 @@
 
   * "[[https://youtu.be/aZDaNVh3l0k][What is Robotic process automation?]]" 7 min (IBM, 2021)
 
+** Summary
+
+   1) Automate repeated, tedious tasks
+   2) E.g. Optical Character Recognition (OCR) for data extraction
+   3) "Intelligent" tools / machine learning (model building)
+   4) Low code / no code
+   5) Concurrency
+   6) RPA as a Service (plug-and-play)
+   7) Collaboration potential
+   
+** There is (much) more
+
+   * Dependencies are crucial
+   * More common: workflow integration
+   * Create agents through app combination
+   * Combine with process modeling (BPMN)
+   * Vendors: SAP Signavio, Integromat/Celonis, [[https://www.uipath.com/][UIPath]], [[https://ifttt.com/][IFTTT]]
+
 * How is it done in practice?
 
   * Signavio demonstration ([[rpa][Signavio, 2021]])
   * Integromat example ([[int][Integromat, 2016]])
-  
+
+** Signavio Workflow Accelerator
+
+   * Works in concert with BPMN process modeling
+   * Do it yourself in editor.signavio.com (enterprise license)
+
+** Integromat
+
+   * Automated workflow with defined APIs
+   * Do it yourself (free) at integromat.com
+
 * References
 
   IBM Technology (Mar 19, 2021). What is RPA (Robotic Process
