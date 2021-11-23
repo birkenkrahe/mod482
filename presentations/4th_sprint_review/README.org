@@ -16,20 +16,21 @@
 
   2) Upload your *essay document* and the *scan of the
      signed honor sheet* [[https://github.com/birkenkrahe/ai482/tree/main/presentations/4th_sprint_review][to this GitHub folder]] - please add your
-     name(s) to the title of the file. Remember 
-
-  3) Post the *link* to your video presentation [[https://github.com/birkenkrahe/ai482/discussions][to the discussion
-     forum]] in GitHub[fn:3]. Test the link before posting it!
+     name(s) to the title of the file.
 
   4) When you're done, *send me an email* (birkenkrahe@lyon.edu)
      confirming that you've done all of this, including which
-     course you're in.
+     course you're in (482.02 data modeling).
 
-  5) Await my formative (comments) and summative (grade) feedback
-     (via email) based on [[https://github.com/birkenkrahe/org/blob/master/Presentation_Assessment_Form.pdf][this presentation assessment form]] (PDF).
+  5) Await my formative (comments) and summative (grade) feedback (via
+     email) based on section D of [[https://github.com/birkenkrahe/org/blob/master/Essay_Assessment_Rubric.pdf][this rubric]] (PDF).
 
-     Cheers, and have a good Thanksgiving break & a successful exam period!
+  Cheers, and have a good Thanksgiving break & a successful exam period!
   Marcus Birkenkrahe
+
+  PS. remember that the essay should have consistent and complete
+  references, and that *[[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#final-essay-40][it must be at least 2,500 words long (not
+  counting references)]]*.
 
 * Footnotes
 
