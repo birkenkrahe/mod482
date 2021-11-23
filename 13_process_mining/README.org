@@ -4,11 +4,28 @@
 #+STARTUP: overview
 #+OPTIONS: toc:1 num:nil ^:nil
 #+INFOJS_OPT: :view:info
-* UNDER CONSTRUCTION
-
-  [[./img/underconstruction.gif]]
-
 * What will you learn?
 
+  * What is process mining?
+  * How is it done in practice?
+
+* What is process mining?
+
+    * [[https://youtu.be/-u5y2dST7ng]["What is process mining?"]] 7 minutes ([[sif][Sifters, 2017]]). 
+
+* How is it done in practice?
+
+  * Signavio Process Intelligence demo ([[sig][Signavio, 2021]])
+  * Celonis example ([[cel][Celonis, 2021]]).
+      
 * References
 
+  <<cel>> Celonis (Feb 14, 2021). What is Process Mining? [video] [[https://youtu.be/hsdHZ5MJBNM][URL:
+  youtu.be/hsdHZ5MJBNM]]
+  
+  <<sif>> Sifters Process Performance (Aug 21, 2017). What is Process
+  Mining? | Sifters [video]. [[https://youtu.be/-u5y2dST7ng][URL: youtu.be/-u5y2dST7ng]]
+
+  <<sig>> SAP Signavio Process Intelligence (2021). [Website] [[https://www.signavio.com/products/process-intelligence/][URL:
+  signavio.com/products/process-intelligence/]]
+  
