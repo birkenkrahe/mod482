@@ -11,26 +11,50 @@
 
 * What is process mining?
 
-    * [[https://youtu.be/-u5y2dST7ng]["What is process mining?"]] 7 minutes ([[sif][Sifters, 2017]]).
+  * [[https://youtu.be/-u5y2dST7ng]["What is process mining?"]] 7 minutes ([[sif][Sifters, 2017]]).
 
 ** Summary
 
-   * Compare process models (ideal) with process reality
-   * 
+   1) Compare process models (ideal) with process reality
+   2) Issues: design disconnect, exceptions, "game trails"
+   3) Nobody has a complete picture of the whole process chain
+   4) IT processes are usually intangible
+   5) Key = event logs (big data) - (see video playlist)
+   6) Algorithms mine the data automatically
+   7) Process mining = objective, complete, and fast
+
+** There is more
+
+   * Interpretation of process mining maps non-trivial
+   * Domain knowledge is important
+   * Event logs need to be validated
 
 * How is it done in practice?
 
   * Signavio Process Intelligence demo ([[sig][Signavio, 2021]])
   * Celonis example ([[cel][Celonis, 2021]]).
-      
+
+** Signavio Process Intelligence
+
+   * "Data stories" are not automatically unlocked
+   * Tried and tested with (graduate) students
+   * Integration with BPMN process manager useful
+   * SQL integration visible (query language)
+   * Do it yourself in editor.signavio.com (files)
+
+** Celonis Execution Management System
+
+   * Dashboard not intuitive (overloaded)
+   * Excellent demo videos (esp. finance)
+   * Free 1 hour process mining practice kickstarter course
+
 * References
 
   <<cel>> Celonis (Feb 14, 2021). What is Process Mining? [video] [[https://youtu.be/hsdHZ5MJBNM][URL:
   youtu.be/hsdHZ5MJBNM]]
-  
+
   <<sif>> Sifters Process Performance (Aug 21, 2017). What is Process
   Mining? | Sifters [video]. [[https://youtu.be/-u5y2dST7ng][URL: youtu.be/-u5y2dST7ng]]
 
   <<sig>> SAP Signavio Process Intelligence (2021). [Website] [[https://www.signavio.com/products/process-intelligence/][URL:
   signavio.com/products/process-intelligence/]]
-  
