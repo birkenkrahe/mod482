@@ -30,8 +30,8 @@
   Marcus Birkenkrahe
 
   PS. remember that the essay should have consistent and complete
-  references, and that *[[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#final-essay-40][it must be at least 2,500 words long (not
-  counting references)]]*.
+  references, and that *[[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#final-essay-40][it must be at least 2,500 words long (per
+  author, not counting references)]]*.
 
 * Footnotes
 

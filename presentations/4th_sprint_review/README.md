@@ -31,8 +31,8 @@ Cheers, and have a good Thanksgiving break & a successful exam period!
 Marcus Birkenkrahe
 
 PS. remember that the essay should have consistent and complete
-references, and that **[it must be at least 2,500 words long (not
-counting references)](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#final-essay-40)**.
+references, and that **[it must be at least 2,500 words long (per
+author, not counting references)](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#final-essay-40)**.
 
 
 # Footnotes
