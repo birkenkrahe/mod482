@@ -11,7 +11,12 @@
 
 * What is process mining?
 
-    * [[https://youtu.be/-u5y2dST7ng]["What is process mining?"]] 7 minutes ([[sif][Sifters, 2017]]). 
+    * [[https://youtu.be/-u5y2dST7ng]["What is process mining?"]] 7 minutes ([[sif][Sifters, 2017]]).
+
+** Summary
+
+   * Compare process models (ideal) with process reality
+   * 
 
 * How is it done in practice?
 
