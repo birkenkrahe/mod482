@@ -4,11 +4,27 @@
 #+STARTUP: overview
 #+OPTIONS: toc:1 num:nil ^:nil
 #+INFOJS_OPT: :view:info
-* UNDER CONSTRUCTION
-
-  [[./img/underconstruction.gif]]
-
 * What will you learn?
 
+  * What is Robotic Process Automation?
+  * How is it done in practice?
+
+* What is RPA
+
+  * "[[https://youtu.be/aZDaNVh3l0k][What is Robotic process automation?]]" 7 min (IBM, 2021)
+
+* How is it done in practice?
+
+  * Signavio demonstration ([[rpa][Signavio, 2021]])
+  * Integromat example ([[int][Integromat, 2016]])
+  
 * References
 
+  IBM Technology (Mar 19, 2021). What is RPA (Robotic Process
+  Automation)? [video] [[https://youtu.be/aZDaNVh3l0k][URL: youtu.be/aZDaNVh3l0k]]
+
+  <<rpa>> SAP Signavio Process Governance (2021) [website]. URL:
+  [[https://www.signavio.com/products/process-governance/][signavio.com/products/process-governance/]]
+
+  <<int>> Integromat (Aug 11, 2016). What is Integromat? [video]. [[https://youtu.be/61HQ_DWoFr8][URL:
+  youtu.be/61HQ_DWoFr8]]
