@@ -19,7 +19,7 @@
    2) Issues: design disconnect, exceptions, "game trails"
    3) Nobody has a complete picture of the whole process chain
    4) IT processes are usually intangible
-   5) Key = event logs (big data) - (see video playlist)
+   5) Key = event logs (big data) - ([[https://media.hwr-berlin.de/video/Signavio-PI-2-from-event-log-to-process-discovery/150853d4b70cc7a8144c4ab48e9f6b0f][video]])
    6) Algorithms mine the data automatically
    7) Process mining = objective, complete, and fast
 
