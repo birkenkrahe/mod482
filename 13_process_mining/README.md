@@ -1,18 +1,18 @@
 
 # Table of Contents
 
--   [What will you learn?](#orga8f8ba7)
--   [What is process mining?](#orgcaefc27)
-    -   [Summary](#orgf661704)
-    -   [There is more](#org2911da1)
--   [How is it done in practice?](#org5a38529)
-    -   [Signavio Process Intelligence](#orgb645d46)
-    -   [Celonis Execution Management System](#orge1f7801)
--   [References](#org0f050f4)
+-   [What will you learn?](#org5312fd1)
+-   [What is process mining?](#org5e59db5)
+    -   [Summary](#orgc47ce59)
+    -   [There is more](#orge9dfb95)
+-   [How is it done in practice?](#orgc90875a)
+    -   [Signavio Process Intelligence](#org40fda56)
+    -   [Celonis Execution Management System](#org7524d15)
+-   [References](#org2ffb2d3)
 
 
 
-<a id="orga8f8ba7"></a>
+<a id="org5312fd1"></a>
 
 # What will you learn?
 
@@ -20,14 +20,14 @@
 -   How is it done in practice?
 
 
-<a id="orgcaefc27"></a>
+<a id="org5e59db5"></a>
 
 # What is process mining?
 
--   ["What is process mining?"](https://youtu.be/-u5y2dST7ng) 7 minutes ([Sifters, 2017](#org98667ea)).
+-   ["What is process mining?"](https://youtu.be/-u5y2dST7ng) 7 minutes ([Sifters, 2017](#orgd7a64fb)).
 
 
-<a id="orgf661704"></a>
+<a id="orgc47ce59"></a>
 
 ## Summary
 
@@ -40,7 +40,7 @@
 7.  Process mining = objective, complete, and fast
 
 
-<a id="org2911da1"></a>
+<a id="orge9dfb95"></a>
 
 ## There is more
 
@@ -49,15 +49,15 @@
 -   Event logs need to be validated
 
 
-<a id="org5a38529"></a>
+<a id="orgc90875a"></a>
 
 # How is it done in practice?
 
--   Signavio Process Intelligence demo ([Signavio, 2021](#org8b02f84))
--   Celonis example ([Celonis, 2021](#org1f8e553)).
+-   Signavio Process Intelligence demo ([Signavio, 2021](#org9f1538e))
+-   Celonis example ([Celonis, 2021](#org27512c7)).
 
 
-<a id="orgb645d46"></a>
+<a id="org40fda56"></a>
 
 ## Signavio Process Intelligence
 
@@ -65,12 +65,12 @@
 -   Tried and tested with (graduate) students
 -   Integration with BPMN process manager useful
 -   SQL integration visible (query language)
--   Do it yourself in editor.signavio.com ([data here](https://github.com/birkenkrahe/mod482/tree/main/13_process_mining/data))
-    
-    [Video playlist](https://media.hwr-berlin.de/search/title/signavio+pi/description/signavio+pi/tags/signavio+pi/type/all/search/basic/categoriesopt/0)
+-   Do it yourself in editor.signavio.com
+
+See also: [Video playlist](https://media.hwr-berlin.de/search/title/signavio+pi/description/signavio+pi/tags/signavio+pi/type/all/search/basic/categoriesopt/0) for the practice sheet ([data here](https://github.com/birkenkrahe/mod482/tree/main/13_process_mining/data)).
 
 
-<a id="orge1f7801"></a>
+<a id="org7524d15"></a>
 
 ## Celonis Execution Management System
 
@@ -79,16 +79,16 @@
 -   Free 1 hour process mining practice kickstarter course
 
 
-<a id="org0f050f4"></a>
+<a id="org2ffb2d3"></a>
 
 # References
 
-<a id="org1f8e553"></a> Celonis (Feb 14, 2021). What is Process Mining? [video] [URL:
+<a id="org27512c7"></a> Celonis (Feb 14, 2021). What is Process Mining? [video] [URL:
 youtu.be/hsdHZ5MJBNM](https://youtu.be/hsdHZ5MJBNM)
 
-<a id="org98667ea"></a> Sifters Process Performance (Aug 21, 2017). What is Process
+<a id="orgd7a64fb"></a> Sifters Process Performance (Aug 21, 2017). What is Process
 Mining? | Sifters [video]. [URL: youtu.be/-u5y2dST7ng](https://youtu.be/-u5y2dST7ng)
 
-<a id="org8b02f84"></a> SAP Signavio Process Intelligence (2021). [Website] [URL:
+<a id="org9f1538e"></a> SAP Signavio Process Intelligence (2021). [Website] [URL:
 signavio.com/products/process-intelligence/](https://www.signavio.com/products/process-intelligence/)
 
