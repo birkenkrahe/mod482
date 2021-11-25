@@ -6,12 +6,12 @@
 
   * find complete instructions in the practice sheet
   * get an overview of the entire session (powerpoint presentation)
-  * upload event log and data files (~.csv~) to ~editor.signavio.com~
+  * upload event log and data files (~.csv~) to [[https://editor.signavio.com][editor.signavio.com]][fn:1]
   * BPMN model of a T-shirt printing and sales process
 
   The whole practice session is also on [[https://media.hwr-berlin.de/search/title/signavio+pi/description/signavio+pi/tags/signavio+pi/type/all/search/basic/categoriesopt/0][video.]]
-    
 
+* Footnotes
 
-
-  
+[fn:1]You need an account and an enterprise license - you can get the
+access from me until 31 December 2021 only. 

@@ -40,7 +40,7 @@
    * Tried and tested with (graduate) students
    * Integration with BPMN process manager useful
    * SQL integration visible (query language)
-   * Do it yourself in editor.signavio.com
+   * Do it yourself in [[https://editor.signavio.com][editor.signavio.com]]
 
    See also: [[https://media.hwr-berlin.de/search/title/signavio+pi/description/signavio+pi/tags/signavio+pi/type/all/search/basic/categoriesopt/0][Video playlist]] for the practice sheet ([[https://github.com/birkenkrahe/mod482/tree/main/13_process_mining/data][all data here]]).
 
