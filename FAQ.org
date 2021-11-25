@@ -378,8 +378,8 @@
   mistakes[fn:6]. Submit earlier, not in the last minute, to be on the
   safe side!
 
-  The deadline for submitting the presentation is *Friday, December 3,
-  12AM CST* (midnight in Batesville).
+  The deadline for submitting the essay is *Friday, December 3, 12AM
+  CST* (midnight in Batesville).
 
   1) *Fill in and sign* [[https://github.com/birkenkrahe/org/blob/master/Honor_pledge.pdf][this honor sheet (PDF)]] and write
      *"pledged"* next to your name in the column "Honor Pledge".
@@ -394,9 +394,6 @@
 
   4) Await my formative (comments) and summative (grade) feedback (via
      email) based on section D of [[https://github.com/birkenkrahe/org/blob/master/Essay_Assessment_Rubric.pdf][this rubric]] (PDF).
-
-  Cheers, and have a good Thanksgiving break & a successful exam period!
-  Marcus Birkenkrahe
 
   PS. remember that the essay should have consistent and complete
   references, and that *[[https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#final-essay-40][it must be at least 2,500 words long (per
