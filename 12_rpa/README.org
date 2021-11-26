@@ -30,6 +30,7 @@
    * Create agents through app combination
    * Combine with process modeling (BPMN)
    * Vendors: SAP Signavio, Integromat/Celonis, [[https://www.uipath.com/][UIPath]], [[https://ifttt.com/][IFTTT]]
+   * No-code focus: bubble, SAP AppGyver
 
 * How is it done in practice?
 
@@ -46,6 +47,22 @@
    * Automated workflow with defined APIs
    * Do it yourself (free) at integromat.com
 
+** Bubble / AppGyver
+
+   I'm not a friend of low code/no code approaches - for a bunch of
+   reasons. However, many developers (of web apps) seem to think
+   differently, or perhaps it's just clever marketing. No matter:
+   ~bubble.io~ seems like a good place to look at some use cases.
+
+   Here is a [[https://bubble.io/showcase][gallery of no-code apps built with Bubble]].
+
+   AppGyver was recently acquired by SAP (like Signavio) - the
+   Composer Pro platform is free. [[https://docs.appgyver.com/appgyver-academy][Here is some onboarding help.]]
+
+   I have no used either of these platforms yet but I'd like to
+   contrast coding and no-coding programs and projects for a future
+   research and/or teaching project.
+   
 * References
 
   IBM Technology (Mar 19, 2021). What is RPA (Robotic Process
