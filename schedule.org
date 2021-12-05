@@ -22,13 +22,13 @@
    | 14-Oct   | Minto Pyramid Principle & SCQA method (with practice)     | +Nick Czerwinski+                                      |                            |
    | 19-Oct   | Process modeling & Event-driven Process Chains (EPC)      | +Wyatt Frerichs+                                       |                            |
    | 21-Oct   | EPC (lab)                                                 | +Owen Hardin+                                          |                            |
-   | 26-Oct   | EPC (lab) / Business Process Model and Notation (BPMN)    | Fortunato Hernandez                                    |                            |
+   | 26-Oct   | EPC (lab) / Business Process Model and Notation (BPMN)    | +Fortunato Hernandez+                                  |                            |
    | 28-Oct   | BPMN (lab)                                                | +Malcolm Howard+                                       |                            |
    | 2-Nov    | CANCELLED                                                 |                                                        |                            |
-   | 4-Nov    | BPMN (lab)                                                | Nick Norwood                                           |                            |
-   | 9-Nov    | Unified Modeling Language (UML)                           | Dat O                                                  |                            |
+   | 4-Nov    | BPMN (lab)                                                | +Nick Norwood+                                         |                            |
+   | 9-Nov    | Unified Modeling Language (UML)                           | +Dat O+                                                |                            |
    | 11-Nov   | UML Use Case Diagrams                                     | +Molly Mellor+                                         | 3RD SPRINT REVIEW (online) |
-   | 16-Nov   | UML practice                                              | Dane Roach                                             |                            |
+   | 16-Nov   | UML practice                                              | Dane Roach                                   |                            |
    | 18-Nov   | -- CANCELLED --                                           |                                                        |                            |
    | 23-Nov   | Robotic Process Automation (RPA) and Process mining       | Jacob Sampley (RPA) & William Sonnier (Process Mining) |                            |
    | 30-Nov   | MAY BE CANCELLED (Details in class)                       |                                                        | ESSAY DUE: NOV 29          |
