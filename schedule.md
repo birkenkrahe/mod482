@@ -179,7 +179,7 @@
 <tr>
 <td class="org-left">26-Oct</td>
 <td class="org-left">EPC (lab) / Business Process Model and Notation (BPMN)</td>
-<td class="org-left">Fortunato Hernandez</td>
+<td class="org-left"><del>Fortunato Hernandez</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -203,7 +203,7 @@
 <tr>
 <td class="org-left">4-Nov</td>
 <td class="org-left">BPMN (lab)</td>
-<td class="org-left">Nick Norwood</td>
+<td class="org-left"><del>Nick Norwood</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -211,7 +211,7 @@
 <tr>
 <td class="org-left">9-Nov</td>
 <td class="org-left">Unified Modeling Language (UML)</td>
-<td class="org-left">Dat O</td>
+<td class="org-left"><del>Dat O</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -234,16 +234,16 @@
 
 <tr>
 <td class="org-left">18-Nov</td>
-<td class="org-left">Robotic Process Automation (RPA)</td>
-<td class="org-left">Jacob Sampley</td>
+<td class="org-left">&#x2013; CANCELLED --</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">23-Nov</td>
-<td class="org-left">Process mining</td>
-<td class="org-left">William Sonnier</td>
+<td class="org-left">Robotic Process Automation (RPA) and Process mining</td>
+<td class="org-left">Jacob Sampley (RPA) &amp; William Sonnier (Process Mining)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
