@@ -382,6 +382,12 @@
 
   [[./img/noclass.gif]]
 
+* TODO Week 17 - Goodbye video
+
+  * What were the main messages and lessons?
+  * What next?
+  * [[https://simulation.science/][Simulation science initiative]]
+
 * References
 
   <<birk>> Birkenkrahe, M. (2008). System constellations as tool
