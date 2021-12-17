@@ -382,15 +382,20 @@
 
   [[./img/noclass.gif]]
 
-* Week 17 - Goodbye video
+* Week 17 - Final exams
 
-  
+  [[./img/finals.gif]]
+
+* Week 18 - Goodbye video
+
+  [[./img/bye.gif]]
 
   [[https://youtu.be/IxyqEW9-12s][See good-bye video.]]
 
   * What does it all mean?
   * What about the course?
   * What next? Follow-up courses.
+  * Final words.
 
 * References
 

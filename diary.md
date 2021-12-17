@@ -1,14 +1,14 @@
 
 # Table of Contents
 
-1.  [What is this?](#org22c1d30)
-2.  [Getting started (for real) - September 7, 2021](#org2b2046a)
-3.  [When learning data science, trust your intuition - November 10, 2021](#org6cf6a2d)
-4.  [Good-bye notes - December 16, 2021](#org5eb3551)
+1.  [What is this?](#org2cdfb31)
+2.  [Getting started (for real) - September 7, 2021](#org99667a7)
+3.  [When learning data science, trust your intuition - November 10, 2021](#orgdb3f746)
+4.  [Good-bye notes - December 16, 2021](#org08b4f90)
 
 
 
-<a id="org22c1d30"></a>
+<a id="org2cdfb31"></a>
 
 # What is this?
 
@@ -18,7 +18,7 @@ emails and to park content that I may want to develop later on time
 permitting.
 
 
-<a id="org2b2046a"></a>
+<a id="org99667a7"></a>
 
 # Getting started (for real) - September 7, 2021
 
@@ -66,7 +66,7 @@ dsogaming.com)*
 \*
 
 
-<a id="org6cf6a2d"></a>
+<a id="orgdb3f746"></a>
 
 # When learning data science, trust your intuition - November 10, 2021
 
@@ -93,11 +93,11 @@ solid building. If you want to learn maths, the floor plan is well
 known and well laid out. Not so in data science.
 
 
-<a id="org5eb3551"></a>
+<a id="org08b4f90"></a>
 
 # Good-bye notes - December 16, 2021
 
-I've just recorded a short good-bye video. Here are few parting
+I've just recorded a [short good-bye video](https://youtu.be/IxyqEW9-12s). Here are few parting
 notes for this course.
 
 
@@ -218,10 +218,11 @@ themes:
 
 ## Final words
 
-Again, thank you from the bottom of my heart for welcoming me to
-Lyon by working with me during this last term. I wish you a Merry
-Christmas, a restful break, and I'm looking forward to seeing some
-of you again next term!
+Again, thank you for welcoming me to Lyon by working with me during
+this last term. I wish you a Merry Christmas, a restful break, and
+I'm looking forward to seeing some of you again next term!
+
+![img](./img/ty.gif)
 
 
 # Footnotes
