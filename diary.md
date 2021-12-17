@@ -1,14 +1,14 @@
 
 # Table of Contents
 
-1.  [What is this?](#org7b50e5c)
-2.  [Getting started (for real) - September 7, 2021](#org0a624d0)
-3.  [When learning data science, trust your intuition - November 10, 2021](#orgf8e33ce)
-4.  [Good-bye notes - December 16, 2021](#orgc2d7b52)
+1.  [What is this?](#org054fd69)
+2.  [Getting started (for real) - September 7, 2021](#org4a38bd2)
+3.  [When learning data science, trust your intuition - November 10, 2021](#orgd790bf0)
+4.  [Good-bye notes - December 16, 2021](#orgbd9c6d2)
 
 
 
-<a id="org7b50e5c"></a>
+<a id="org054fd69"></a>
 
 # What is this?
 
@@ -18,7 +18,7 @@ emails and to park content that I may want to develop later on time
 permitting.
 
 
-<a id="org0a624d0"></a>
+<a id="org4a38bd2"></a>
 
 # Getting started (for real) - September 7, 2021
 
@@ -66,7 +66,7 @@ dsogaming.com)*
 \*
 
 
-<a id="orgf8e33ce"></a>
+<a id="orgd790bf0"></a>
 
 # When learning data science, trust your intuition - November 10, 2021
 
@@ -93,7 +93,7 @@ solid building. If you want to learn maths, the floor plan is well
 known and well laid out. Not so in data science.
 
 
-<a id="orgc2d7b52"></a>
+<a id="orgbd9c6d2"></a>
 
 # Good-bye notes - December 16, 2021
 
