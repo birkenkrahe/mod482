@@ -86,6 +86,9 @@
   I've just recorded a [[https://youtu.be/IxyqEW9-12s][short good-bye video]]. Here are few parting
   notes for this course.
 
+    #+attr_html: :width 500px
+  [[./img/awesome.png]]
+
 ** What does it all mean?
 
    I don't know - isn't that why we model? Joking aside, there is some
