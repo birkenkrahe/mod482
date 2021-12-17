@@ -83,7 +83,7 @@
 
 * Good-bye notes - December 16, 2021
 
-  I've just recorded a short good-bye video. Here are few parting
+  I've just recorded a [[https://youtu.be/IxyqEW9-12s][short good-bye video]]. Here are few parting
   notes for this course.
 
 ** What does it all mean?
@@ -200,11 +200,12 @@
 
 ** Final words
 
-   Again, thank you from the bottom of my heart for welcoming me to
-   Lyon by working with me during this last term. I wish you a Merry
-   Christmas, a restful break, and I'm looking forward to seeing some
-   of you again next term!
+   Again, thank you for welcoming me to Lyon by working with me during
+   this last term. I wish you a Merry Christmas, a restful break, and
+   I'm looking forward to seeing some of you again next term!
 
+   [[./img/ty.gif]]
+   
 * Footnotes
 
 [fn:1]Instead, I spent time outside (loving Batesville more and more -
