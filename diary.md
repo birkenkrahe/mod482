@@ -1,14 +1,14 @@
 
 # Table of Contents
 
-1.  [What is this?](#org2cdfb31)
-2.  [Getting started (for real) - September 7, 2021](#org99667a7)
-3.  [When learning data science, trust your intuition - November 10, 2021](#orgdb3f746)
-4.  [Good-bye notes - December 16, 2021](#org08b4f90)
+1.  [What is this?](#orgdf839a2)
+2.  [Getting started (for real) - September 7, 2021](#orgcf551ea)
+3.  [When learning data science, trust your intuition - November 10, 2021](#org00a42ca)
+4.  [Good-bye notes - December 16, 2021](#org947416c)
 
 
 
-<a id="org2cdfb31"></a>
+<a id="orgdf839a2"></a>
 
 # What is this?
 
@@ -18,7 +18,7 @@ emails and to park content that I may want to develop later on time
 permitting.
 
 
-<a id="org99667a7"></a>
+<a id="orgcf551ea"></a>
 
 # Getting started (for real) - September 7, 2021
 
@@ -66,7 +66,7 @@ dsogaming.com)*
 \*
 
 
-<a id="orgdb3f746"></a>
+<a id="org00a42ca"></a>
 
 # When learning data science, trust your intuition - November 10, 2021
 
@@ -93,7 +93,7 @@ solid building. If you want to learn maths, the floor plan is well
 known and well laid out. Not so in data science.
 
 
-<a id="org08b4f90"></a>
+<a id="org947416c"></a>
 
 # Good-bye notes - December 16, 2021
 
@@ -222,7 +222,7 @@ Again, thank you for welcoming me to Lyon by working with me during
 this last term. I wish you a Merry Christmas, a restful break, and
 I'm looking forward to seeing some of you again next term!
 
-![img](./img/ty.gif)
+![img](./img/finals.gif)
 
 
 # Footnotes
