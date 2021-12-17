@@ -81,6 +81,127 @@
   solid building. If you want to learn maths, the floor plan is well
   known and well laid out. Not so in data science.
 
+* Good-bye notes - December 16, 2021
+
+  I've just recorded a short good-bye video. Here are few parting
+  notes for this course.
+
+** What does it all mean?
+
+   I don't know - isn't that why we model? Joking aside, there is some
+   truth to it. The main theme of the course was dealing with
+   complexity. Not just to solve problems, but sometimes also to just
+   understand things better, or to plan ahead, see the forest behind
+   the trees, and so on.
+
+   We've covered a lot of ground in this course, though not as much as
+   I had planned originally. I'm especially sad about spending too
+   little time on RPA and Process Mining. However, both of these are
+   relatively advanced techniques, developing rapidly, and perhaps
+   you're motivated to follow up on your own. Also, they may recur in
+   other courses as applications.
+
+   Though there were many methods, there was an overarching theme - it
+   was best explained in my short presentation on "decision
+   intelligence". Most models are concerned with data and processes -
+   these two are the core concepts to understand and describe:
+
+   1. transactions (big data - lots of it, different, and fast)
+   2. human behavior (non-obvious patterns)
+   3. anomalies (things out of the ordinary)
+
+   Models are the thinking man's best friend when it comes to sorting
+   through facts and fakes. In this course, I've tried to take the
+   path of many models and many methods - you need it, because not all
+   models are good, true, or relevant.
+
+   Though model-building is much older than even modern science, it is
+   highly important even now, if not more important (because 1-3 are
+   growing rapidly). As a recent example, take the [[https://simulation.science/][Simulation science
+   initiative]]. 
+
+** What about the course?
+
+   This course grew out of several graduate course that I've taught
+   over the past few years. I was aware from the start that I was
+   asking a lot from you - and I am very happy to see that you were up
+   to the task.
+
+   Though there was much room for improvement, I was very impressed
+   with your ability to carry out research on mostly difficult,
+   worthwhile questions - without much previous practice or
+   experience.
+
+   Thank you especially for the rich evaluations - and a response rate
+   of 92% (I don't think I've ever encountered such a high response
+   rate)!
+
+   Your comments are very insightful and all to the point: yes, the
+   material was complex - not just the concepts but also the different
+   tools and the continuous topic switching - but you stayed the
+   course!
+
+   Someone didn't think an essay was appropriate as a final
+   assignment. I may have to rethink this. However, being able to
+   write a research paper is an important professional skill, and you
+   need(ed) to train it not just in liberal arts topics, but
+   especially in your very own technical discipline. As professors
+   like to say: "You'll thank me later!" (I hope).
+
+   There's something else. The more you study, the more you move away
+   from ignorance, the more you'll be in danger to lose touch with the
+   ground, and develop a dangerous intellectual arrogance. Failing
+   (without too much angst), falling down and getting up again, is a
+   good way of staying humble. At least that's what I've always
+   found. Of course, this is another (mental, highly biased) model!
+
+   This is why the most important part of your essay, and of anything
+   you'll ever write is the section on the "limitations" of your
+   research, your approach, your thinking or your solution.
+
+   There you have it, another lecture. I just can't let go!
+
+** What next? Follow-up courses.
+
+   With so many topics, from storytelling over Scrum and Minto to
+   process mining...I am reluctant to tell you to "read more", which
+   is what I will tell the participants of the other courses. But
+   modeling is too fragmented a field. So instead, what I'm
+   recommending is: use all, or any of the techniques we used in this
+   course in your future work - in my or (even better) in other
+   professors' classes:
+
+   * replace (or expand) a bullet point list by a BPMN model
+   * draw a use case diagram to illustrate a systemic point
+   * check if what you wrote or presented has a "story"
+   * check if your lists or chapters or slides have (Minto) logic
+   * make your next project more agile and apply some Scrum rules
+   * when coding, turn requirements into user stories
+   * discover models in other people's writing or presentations
+   * be aware of the bias implicit in all model building
+   * learn more modeling languages
+
+   This list could go on, but I need to get back to preparing next
+   term's classes!
+
+   This particular course will probably not be repeated (except
+   perhaps when I do another special seminar), but the following
+   classes may be seen as expansions of this course's topics and
+   themes:
+
+   * C/C++ (CSC 100): BPMN and UML diagrams before/during/after
+     coding - Spring 2022
+   * Databases (CSC 330): Entity Relationship Diagrams - Spring 2022
+   * Operating systems (CSC 420): use of UML - Spring 2022
+   * Introduction to data science (DSC 105): Use of BPMN - Fall 2022
+
+** Final words
+
+   Again, thank you from the bottom of my heart for welcoming me to
+   Lyon by working with me during this last term. I wish you a Merry
+   Christmas, a restful break, and I'm looking forward to seeing some
+   of you again next term!
+
 * Footnotes
 
 [fn:1]Instead, I spent time outside (loving Batesville more and more -
