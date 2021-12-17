@@ -1,14 +1,14 @@
 
 # Table of Contents
 
-1.  [What is this?](#org6887343)
-2.  [Getting started (for real) - September 7, 2021](#org88b7d9a)
-3.  [When learning data science, trust your intuition - November 10, 2021](#orgd1faa4c)
-4.  [Good-bye notes - December 16, 2021](#org4911141)
+1.  [What is this?](#org22c1d30)
+2.  [Getting started (for real) - September 7, 2021](#org2b2046a)
+3.  [When learning data science, trust your intuition - November 10, 2021](#org6cf6a2d)
+4.  [Good-bye notes - December 16, 2021](#org5eb3551)
 
 
 
-<a id="org6887343"></a>
+<a id="org22c1d30"></a>
 
 # What is this?
 
@@ -18,7 +18,7 @@ emails and to park content that I may want to develop later on time
 permitting.
 
 
-<a id="org88b7d9a"></a>
+<a id="org2b2046a"></a>
 
 # Getting started (for real) - September 7, 2021
 
@@ -66,7 +66,7 @@ dsogaming.com)*
 \*
 
 
-<a id="orgd1faa4c"></a>
+<a id="org6cf6a2d"></a>
 
 # When learning data science, trust your intuition - November 10, 2021
 
@@ -93,7 +93,7 @@ solid building. If you want to learn maths, the floor plan is well
 known and well laid out. Not so in data science.
 
 
-<a id="org4911141"></a>
+<a id="org5eb3551"></a>
 
 # Good-bye notes - December 16, 2021
 
@@ -156,6 +156,9 @@ Your comments are very insightful and all to the point: yes, the
 material was complex - not just the concepts but also the different
 tools and the continuous topic switching - but you stayed the
 course!
+
+I'll learn to use the Schoology gradebook (unless Schoology
+disappears, but then something else will follow)!
 
 Someone didn't think an essay was appropriate as a final
 assignment. I may have to rethink this. However, being able to
